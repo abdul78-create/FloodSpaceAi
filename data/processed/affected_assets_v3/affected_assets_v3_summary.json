@@ -1,0 +1,11 @@
+{
+  "analysis_version": "V3",
+  "flood_raster": "data\\processed\\final_flood_candidate_v3.tif",
+  "flood_polygons": 84,
+  "potentially_affected_buildings": 195,
+  "potentially_affected_roads": 115,
+  "potentially_affected_bridges": 13,
+  "road_buffer_m": 20,
+  "bridge_buffer_m": 30,
+  "interpretation": "Potentially affected assets; not confirmed physical damage."
+}

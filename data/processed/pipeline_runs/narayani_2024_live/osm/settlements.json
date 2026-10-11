@@ -1,0 +1,278 @@
+{
+  "elements": [
+    {
+      "type": "node",
+      "id": 567090203,
+      "lat": 27.6806167,
+      "lon": 84.4308773,
+      "tags": {
+        "population": "143836",
+        "source:population": "French Wikipedia",
+        "wikipedia": "en:Bharatpur, Nepal",
+        "wikidata": "Q250220",
+        "place": "city",
+        "name:te": "\u0c2d\u0c30\u0c24\u0c4d\u0c2a\u0c42\u0c30\u0c4d",
+        "capital": "5",
+        "int_name": "Bharatpur",
+        "name": "\u092d\u0930\u0924\u092a\u0941\u0930",
+        "name:bn": "\u09ad\u09b0\u09a4\u09aa\u09c1\u09b0",
+        "name:en": "Bharatpur",
+        "name:fr": "Bh\u00e2ratpur",
+        "name:hi": "\u092d\u0930\u0924\u092a\u0941\u0930",
+        "name:ja": "\u30d0\u30e9\u30c8\u30d7\u30eb",
+        "name:ml": "\u0d2d\u0d30\u0d24\u0d4d\u0d2a\u0d42\u0d7c",
+        "name:ne": "\u092d\u0930\u0924\u092a\u0941\u0930",
+        "name:pl": "Bharatpur",
+        "name:ru": "\u0411\u0445\u0430\u0440\u0430\u0442\u043f\u0443\u0440",
+        "name:ta": "\u0baa\u0bb0\u0ba4\u0bcd\u0baa\u0bc2\u0bb0\u0bcd"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1036991588,
+      "lat": 27.553782,
+      "lon": 84.4161979,
+      "tags": {
+        "name": "Park Rangers",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1037361450,
+      "lat": 27.5796954,
+      "lon": 84.4715642,
+      "tags": {
+        "name": "Tharu Village",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1038273066,
+      "lat": 27.5706322,
+      "lon": 84.3607023,
+      "tags": {
+        "name": "Ghatgain",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1038273173,
+      "lat": 27.5790451,
+      "lon": 84.3602857,
+      "tags": {
+        "name": "Bankatta",
+        "place": "hamlet",
+        "note": "name varified"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1038273234,
+      "lat": 27.5552919,
+      "lon": 84.3608111,
+      "tags": {
+        "name": "Park Rangers Camp",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1657886070,
+      "lat": 27.5854554,
+      "lon": 84.3637598,
+      "tags": {
+        "place": "hamlet",
+        "name": "Dhanauji Chowk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1657886104,
+      "lat": 27.5673075,
+      "lon": 84.3278263,
+      "tags": {
+        "name": "Jagatpur",
+        "place": "town"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2541352423,
+      "lat": 27.5807221,
+      "lon": 84.3694029,
+      "tags": {
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2541472551,
+      "lat": 27.598704,
+      "lon": 84.359562,
+      "tags": {
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2541569465,
+      "lat": 27.6024426,
+      "lon": 84.3698259,
+      "tags": {
+        "place": "hamlet",
+        "name": "Barauji chowk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392281232,
+      "lat": 27.6549962,
+      "lon": 84.4298728,
+      "tags": {
+        "name": "SOS Children's Village Bharatpur",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3453007353,
+      "lat": 27.6919525,
+      "lon": 84.3046264,
+      "tags": {
+        "name": "Bhedabari",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3455121272,
+      "lat": 27.6829859,
+      "lon": 84.4860899,
+      "tags": {
+        "name": "\u092a\u094d\u0930\u0917\u0924\u0940 \u091f\u094b\u0932",
+        "name:en": "Pragati Tol",
+        "name:ne": "\u092a\u094d\u0930\u0917\u0924\u0940 \u091f\u094b\u0932",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3480075072,
+      "lat": 27.7038241,
+      "lon": 84.4161619,
+      "tags": {
+        "gns:ufi": "-1022332",
+        "name": "Gaindakot",
+        "place": "town",
+        "source": "GNS"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3481174162,
+      "lat": 27.5979565,
+      "lon": 84.3674398,
+      "tags": {
+        "name": "Milijuli chowk",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3501149554,
+      "lat": 27.5957705,
+      "lon": 84.3661095,
+      "tags": {
+        "place": "hamlet",
+        "name": "Namaste chowk"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3800056167,
+      "lat": 27.6506212,
+      "lon": 84.3443916,
+      "tags": {
+        "name": "Rampur",
+        "place": "town"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3800175805,
+      "lat": 27.6040024,
+      "lon": 84.3299285,
+      "tags": {
+        "name": "Parbatipur",
+        "wikipedia": "en:Parbatipur",
+        "wikidata": "Q7136341",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4542527094,
+      "lat": 27.6263694,
+      "lon": 84.4914655,
+      "tags": {
+        "name:en": "Pragati Tol",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4675724414,
+      "lat": 27.6441644,
+      "lon": 84.4287602,
+      "tags": {
+        "name": "Gauriganj",
+        "alt_name": "Gaurigunj",
+        "place": "town"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5252165737,
+      "lat": 27.5501114,
+      "lon": 84.3315888,
+      "tags": {
+        "name": "Kasara",
+        "place": "village"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5783081954,
+      "lat": 27.6296278,
+      "lon": 84.4957682,
+      "tags": {
+        "name": "Bhanu Chok",
+        "name:en": "Bhanu Chok",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11072229240,
+      "lat": 27.6041209,
+      "lon": 84.3718469,
+      "tags": {
+        "name": "Gitanagar",
+        "place": "town"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11112310226,
+      "lat": 27.6373561,
+      "lon": 84.4259677,
+      "tags": {
+        "name": "Tharu Village",
+        "place": "hamlet"
+      }
+    }
+  ]
+}

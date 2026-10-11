@@ -1,0 +1,177 @@
+{
+  "project": "FloodSpaceAI",
+  "track": "Track B — Mapping Flood Damage from Space",
+  "case_study": {
+    "event": "August 2026 Trishuli flood",
+    "analysis_area": "Trishuli valley AOI",
+    "osm_snapshot": "2026-07-27T00:00:00Z"
+  },
+  "flood_mapping": {
+    "method": "Potential inundation candidate derived from Sentinel-1 SAR change, Sentinel-2 NDWI change, post-event water condition, pre-event non-water condition, and connected-component filtering.",
+    "candidate_version": "V3",
+    "flood_pixels": 1286,
+    "flood_polygons": 84
+  },
+  "potentially_affected_assets": {
+    "buildings": 195,
+    "roads": 115,
+    "bridges": 13
+  },
+  "road_connectivity": {
+    "settlements_available": 600,
+    "settlements_analysed": 589,
+    "town_city_hubs": 3,
+    "potentially_cut_off_settlements": 18,
+    "pre_event_components": 181,
+    "post_event_components": 252
+  },
+  "cut_off_settlements": [
+    {
+      "name": "बेत्रावती",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "भैंसे",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "सिम्ले",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "OSM-3476388711",
+      "place": "village",
+      "nearest_town_or_city": "गल्छी",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "OSM-3484404878",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "देवीघाट",
+      "place": "hamlet",
+      "nearest_town_or_city": "बेलकोटगढी",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "धइबुङ",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "सालिम भित्ता",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "ढुङ्गे",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "नौविसे फाँट",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "खालचेत",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "सरसिउ",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "बडहरे",
+      "place": "hamlet",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "उत्तरगया",
+      "place": "village",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "कालिका",
+      "place": "village",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "लिखु",
+      "place": "village",
+      "nearest_town_or_city": "बिदुर",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "OSM-340415956",
+      "place": "village",
+      "nearest_town_or_city": "बेलकोटगढी",
+      "connected_before": true,
+      "connected_after": false
+    },
+    {
+      "name": "OSM-340415958",
+      "place": "village",
+      "nearest_town_or_city": "गल्छी",
+      "connected_before": true,
+      "connected_after": false
+    }
+  ],
+  "road_impact": {
+    "v1_reference_only": {
+      "potentially_affected_features": 2463,
+      "potentially_affected_length_km": 1495.74
+    },
+    "note": "The road-impact summary above was generated from the earlier V1 flood candidate and must not be presented as the final V3 result."
+  },
+  "limitations": [
+    "The flood output is a modelled potential inundation candidate, not confirmed physical damage.",
+    "Post-event Sentinel-2 optical imagery is cloud contaminated in parts of the AOI.",
+    "Potentially affected assets are not confirmed destroyed or damaged.",
+    "Potentially cut-off settlements are modelled road-network disconnections, not confirmed real-world isolation.",
+    "Hospital connectivity was not included because the historical hospital query was unavailable; town/city hubs were used."
+  ],
+  "data_provenance": {
+    "sentinel": "Copernicus Sentinel-1 / Sentinel-2",
+    "dem": "Copernicus DEM",
+    "osm": "© OpenStreetMap contributors",
+    "osm_snapshot": "2026-07-27",
+    "analysis_status": "prototype / educational"
+  }
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EMSR927_AOI03_GRA_PRODUCT_transportationA_v1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "213-Airfield", "name": "Unknown", "info": "21312-Helipad", "simplified": "Helipad", "damage_gra": "Destroyed", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 85.1331563, 27.8870978 ], [ 85.1331885, 27.8871027 ], [ 85.1332179, 27.8870967 ], [ 85.1332427, 27.8870815 ], [ 85.1332592, 27.8870592 ], [ 85.1332652, 27.8870331 ], [ 85.1332597, 27.8870069 ], [ 85.1332438, 27.8869846 ], [ 85.1332198, 27.886969 ], [ 85.1331909, 27.8869624 ], [ 85.1331613, 27.8869656 ], [ 85.1331351, 27.8869783 ], [ 85.1331147, 27.8870009 ], [ 85.1331063, 27.8870288 ], [ 85.1331114, 27.8870574 ], [ 85.133129, 27.8870818 ], [ 85.1331563, 27.8870978 ] ] ] } },
+{ "type": "Feature", "properties": { "obj_type": "213-Airfield", "name": "Unknown", "info": "21312-Helipad", "simplified": "Helipad", "damage_gra": "Destroyed", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 85.1717114, 27.9640273 ], [ 85.171743, 27.9640346 ], [ 85.1717735, 27.9640241 ], [ 85.1717911, 27.9639998 ], [ 85.1717907, 27.9639929 ], [ 85.1717892, 27.963971 ], [ 85.1717686, 27.9639487 ], [ 85.171737, 27.9639414 ], [ 85.1717065, 27.9639518 ], [ 85.1716889, 27.9639761 ], [ 85.1716897, 27.9639891 ], [ 85.1716907, 27.9640049 ], [ 85.1717114, 27.9640273 ] ] ] } }
+]
+}

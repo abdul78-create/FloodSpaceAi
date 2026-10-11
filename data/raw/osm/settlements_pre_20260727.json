@@ -1,0 +1,12283 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-01T08:52:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 267678780,
+  "lat": 28.0204744,
+  "lon": 84.9277833,
+  "tags": {
+    "name": "बगुवा बेसी",
+    "name:en": "Baguwabesi",
+    "name:fa": "بگووا بِسی",
+    "name:ne": "बगुवा बेसी",
+    "name:ur": "بگووا بیسی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 267679554,
+  "lat": 28.0311934,
+  "lon": 84.9667138,
+  "tags": {
+    "amenity": "telephone",
+    "name": "Kintang Phedi",
+    "place": "village",
+    "shop": "convenience"
+  }
+},
+{
+  "type": "node",
+  "id": 268864226,
+  "lat": 27.9731085,
+  "lon": 85.1859528,
+  "tags": {
+    "alt_name": "Betrāwati",
+    "name": "बेत्रावती",
+    "name:en": "Betrawati",
+    "name:fa": "بِتراوَتی",
+    "name:ne": "बेत्रावती",
+    "name:ur": "بیتراوتی",
+    "place": "hamlet",
+    "source:alt_name": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 269103223,
+  "lat": 28.0166123,
+  "lon": 84.9165930,
+  "tags": {
+    "name": "छापथोक",
+    "name:en": "Chhapthok",
+    "name:fa": "چاپتوک",
+    "name:ne": "छापथोक",
+    "name:ur": "چھاپتھوک",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 269560821,
+  "lat": 28.0228189,
+  "lon": 84.9033508,
+  "tags": {
+    "name": "कोरथोक",
+    "name:en": "Korthok",
+    "name:fa": "کوراتوک",
+    "name:ne": "कोरथोक",
+    "name:ur": "کورتھوک",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 279339372,
+  "lat": 27.8325156,
+  "lon": 85.2388622,
+  "tags": {
+    "name": "रानीपौवा",
+    "name:en": "Ranipauwa",
+    "name:fa": "رانی‌پووا",
+    "name:ne": "रानीपौवा",
+    "name:ur": "رانی پووا",
+    "place": "hamlet",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 279339374,
+  "lat": 27.8116875,
+  "lon": 84.9617538,
+  "tags": {
+    "name": "मासटार",
+    "name:en": "Mastar",
+    "name:fa": "ماستار",
+    "name:ne": "मासटार",
+    "name:ur": "ماسٹار",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 279374585,
+  "lat": 27.8069683,
+  "lon": 84.9429470,
+  "tags": {
+    "name": "आदमघाट",
+    "name:en": "Adamghat",
+    "name:fa": "آدم‌گات",
+    "name:ne": "आदमघाट",
+    "name:ur": "آدم گھاٹ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 279374588,
+  "lat": 27.7957177,
+  "lon": 84.9963728,
+  "tags": {
+    "name": "Gardo Khola",
+    "place": "neighbourhood"
+  }
+},
+{
+  "type": "node",
+  "id": 279374592,
+  "lat": 27.7973963,
+  "lon": 85.0004606,
+  "tags": {
+    "name": "गल्छी",
+    "name:en": "Galchhi",
+    "name:fa": "گَلچی",
+    "name:ne": "गल्छी",
+    "name:ur": "گلچھی",
+    "place": "town"
+  }
+},
+{
+  "type": "node",
+  "id": 1659470421,
+  "lat": 27.8156544,
+  "lon": 85.2469602,
+  "tags": {
+    "name": "ककनी",
+    "name:en": "Kakani",
+    "name:fa": "ککنی",
+    "name:ne": "ककनी",
+    "name:ur": "ککنی",
+    "place": "hamlet",
+    "wikidata": "Q3418337",
+    "wikipedia": "en:Kakani"
+  }
+},
+{
+  "type": "node",
+  "id": 1851053694,
+  "lat": 27.8291945,
+  "lon": 85.2094347,
+  "tags": {
+    "name": "जुरेथूम",
+    "name:en": "Jurethum",
+    "name:fa": "جورِتوم",
+    "name:ne": "जुरेथूम",
+    "name:ur": "جوریتھم",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1851061582,
+  "lat": 27.8664405,
+  "lon": 85.1944530,
+  "tags": {
+    "name": "दाङमाई",
+    "name:en": "Dangmai",
+    "name:fa": "دانگمائی",
+    "name:ne": "दाङमाई",
+    "name:ur": "دانگمائی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1851062149,
+  "lat": 27.8452758,
+  "lon": 85.1932646,
+  "tags": {
+    "name": "लौके बाराहितान",
+    "name:en": "Lauke Barahitan",
+    "name:fa": "لوکه باراهیتان",
+    "name:ne": "लौके बाराहितान",
+    "name:ur": "لوکے باراہتان",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1869598515,
+  "lat": 27.8652027,
+  "lon": 85.1739678,
+  "tags": {
+    "name": "मदानपुर",
+    "name:en": "Madanpur",
+    "name:fa": "مدان‌پور",
+    "name:ne": "मदानपुर",
+    "name:ur": "مدان پور",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 1869598518,
+  "lat": 27.8625873,
+  "lon": 85.1805290,
+  "tags": {
+    "name": "काजिन डाँडा",
+    "name:en": "Kajindada",
+    "name:fa": "کاجین‌داندا",
+    "name:ne": "काजिन डाँडा",
+    "name:ur": "کاجن ڈانڈا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1875033817,
+  "lat": 27.8491700,
+  "lon": 85.1918430,
+  "tags": {
+    "name": "लौके कोटघाडेरी",
+    "name:en": "Lauke Kotghaderi",
+    "name:fa": "لوکه کوت‌گادِری",
+    "name:ne": "लौके कोटघाडेरी",
+    "name:ur": "لوکے کوٹ گھاڈیری",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1875049159,
+  "lat": 27.8419128,
+  "lon": 85.1905153,
+  "tags": {
+    "name": "लौके",
+    "name:en": "Lauke",
+    "name:fa": "لوکه",
+    "name:ne": "लौके",
+    "name:ur": "لوکے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 1875573901,
+  "lat": 27.8516359,
+  "lon": 85.1783169,
+  "tags": {
+    "name": "पल्लो दाङमाई",
+    "name:en": "Pallo Dangmai",
+    "name:fa": "پلّو دانگمائی",
+    "name:ne": "पल्लो दाङमाई",
+    "name:ur": "پلّو دانگمائی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2140333103,
+  "lat": 27.7549450,
+  "lon": 85.0451271,
+  "tags": {
+    "name": "सिम्ले बजार",
+    "name:en": "Simle Bazzar",
+    "name:fa": "سیمله‌بازار",
+    "name:ne": "सिम्ले बजार",
+    "name:ur": "سملے بازار",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2192585842,
+  "lat": 27.8670852,
+  "lon": 85.0073204,
+  "tags": {
+    "name": "तारुका",
+    "name:en": "Taruka",
+    "name:fa": "تاروکا",
+    "name:ne": "तारुका",
+    "name:ur": "تاروکا",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 2857852085,
+  "lat": 27.9603671,
+  "lon": 85.1703311,
+  "tags": {
+    "name": "भैंसे",
+    "name:en": "Bhainse",
+    "name:fa": "باینسه",
+    "name:ne": "भैंसे",
+    "name:ur": "بھینسے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 2862517103,
+  "lat": 27.8044981,
+  "lon": 84.9052684,
+  "tags": {
+    "name": "घाटबेंसी",
+    "name:en": "Ghatbesi",
+    "name:fa": "گات‌بِنسی",
+    "name:ne": "घाटबेंसी",
+    "name:ur": "گھاٹ بینسی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3415524998,
+  "lat": 28.0170397,
+  "lon": 85.1765028,
+  "tags": {
+    "name": "अर्चले",
+    "name:en": "Archale",
+    "name:fa": "ارچله",
+    "name:ne": "अर्चले",
+    "name:ur": "ارچلے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3415524999,
+  "lat": 28.0172009,
+  "lon": 85.1814642,
+  "tags": {
+    "name": "शान्ति बजार",
+    "name:en": "Shanti Bazar",
+    "name:fa": "شانتی‌بازار",
+    "name:ne": "शान्ति बजार",
+    "name:ur": "شانتی بازار",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3415525225,
+  "lat": 28.0292002,
+  "lon": 85.1911972,
+  "tags": {
+    "name": "सिम्ले",
+    "name:en": "Simle",
+    "name:fa": "سیمله",
+    "name:ne": "सिम्ले",
+    "name:ur": "سملے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3415532807,
+  "lat": 28.0368762,
+  "lon": 85.1867224,
+  "tags": {
+    "name": "डाँडागाउँ",
+    "name:en": "Dandagaun",
+    "name:fa": "دانداگاون",
+    "name:ne": "डाँडागाउँ",
+    "name:ur": "ڈانڈاگاؤں",
+    "place": "suburb",
+    "source:alt_name": "2015-05-04 reco mission report",
+    "wikidata": "Q5215650"
+  }
+},
+{
+  "type": "node",
+  "id": 3415550686,
+  "lat": 28.0325574,
+  "lon": 85.2192256,
+  "tags": {
+    "name": "राम्चे",
+    "name:en": "Ramche",
+    "name:fa": "رامچه",
+    "name:ne": "राम्चे",
+    "name:ur": "رامچے",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3476388711,
+  "lat": 27.8506951,
+  "lon": 85.0385050,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3478149112,
+  "lat": 27.9925490,
+  "lon": 84.9098921,
+  "tags": {
+    "name": "Charange Phedi, Katunje-9",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161243,
+  "lat": 27.8790733,
+  "lon": 85.0655772,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161244,
+  "lat": 27.8800654,
+  "lon": 85.0738771,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161245,
+  "lat": 27.8824223,
+  "lon": 85.0488554,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161246,
+  "lat": 27.8852325,
+  "lon": 85.0757420,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161247,
+  "lat": 27.8909959,
+  "lon": 85.0602277,
+  "tags": {
+    "name": "भञ्ज्याङथोक",
+    "name:en": "Bhanjyangthok",
+    "name:fa": "بانجیانگ‌توک",
+    "name:ne": "भञ्ज्याङथोक",
+    "name:ur": "بھنجیانگ تھوک",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161248,
+  "lat": 27.8919588,
+  "lon": 85.0704697,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161249,
+  "lat": 27.8938671,
+  "lon": 85.0486434,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161250,
+  "lat": 27.8942265,
+  "lon": 85.0616983,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161251,
+  "lat": 27.8945574,
+  "lon": 85.0429456,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161252,
+  "lat": 27.8955048,
+  "lon": 85.0653839,
+  "tags": {
+    "name": "तारकेश्वर",
+    "name:en": "Tarkeshwar",
+    "name:fa": "تارکشوار",
+    "name:ne": "तारकेश्वर",
+    "name:ur": "تارکیشور",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161253,
+  "lat": 27.8964814,
+  "lon": 85.0401372,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161254,
+  "lat": 27.8982585,
+  "lon": 85.0383092,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161255,
+  "lat": 27.8982735,
+  "lon": 85.0559346,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161256,
+  "lat": 27.8983246,
+  "lon": 85.0619127,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161258,
+  "lat": 27.9008506,
+  "lon": 85.0655936,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161259,
+  "lat": 27.9013940,
+  "lon": 85.0381264,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161260,
+  "lat": 27.9027745,
+  "lon": 85.0434358,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478161264,
+  "lat": 27.9109542,
+  "lon": 85.0399060,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478242461,
+  "lat": 27.9051748,
+  "lon": 85.0757011,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478243596,
+  "lat": 27.9089830,
+  "lon": 85.0752352,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478243857,
+  "lat": 27.9153251,
+  "lon": 85.0688956,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478243897,
+  "lat": 27.9165908,
+  "lon": 85.0749806,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478249110,
+  "lat": 27.9109300,
+  "lon": 85.0361715,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478285246,
+  "lat": 27.8899787,
+  "lon": 85.1078951,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478285249,
+  "lat": 27.8911218,
+  "lon": 85.1033111,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478285260,
+  "lat": 27.8966788,
+  "lon": 85.1122410,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478326622,
+  "lat": 28.0348993,
+  "lon": 84.9699938,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478326670,
+  "lat": 28.0363484,
+  "lon": 84.9797148,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478326677,
+  "lat": 28.0370431,
+  "lon": 84.9741662,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478326685,
+  "lat": 28.0374505,
+  "lon": 84.9855744,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478328758,
+  "lat": 28.0419437,
+  "lon": 84.9739004,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478328772,
+  "lat": 28.0431039,
+  "lon": 84.9796000,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478328773,
+  "lat": 28.0431219,
+  "lon": 84.9772552,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478328811,
+  "lat": 28.0463840,
+  "lon": 84.9810180,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478343684,
+  "lat": 28.0490663,
+  "lon": 84.9736222,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478460439,
+  "lat": 27.8701354,
+  "lon": 85.0594493,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478470822,
+  "lat": 27.8601051,
+  "lon": 85.0775152,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478520882,
+  "lat": 27.8396581,
+  "lon": 85.0848663,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478520883,
+  "lat": 27.8399696,
+  "lon": 85.0992342,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478520884,
+  "lat": 27.8405698,
+  "lon": 85.0950947,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478520885,
+  "lat": 27.8409843,
+  "lon": 85.0788089,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521308,
+  "lat": 27.8442626,
+  "lon": 85.0771418,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521311,
+  "lat": 27.8443901,
+  "lon": 85.0925171,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521321,
+  "lat": 27.8478341,
+  "lon": 85.0983759,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521322,
+  "lat": 27.8479064,
+  "lon": 85.0885240,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521327,
+  "lat": 27.8485431,
+  "lon": 85.0915107,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521328,
+  "lat": 27.8485609,
+  "lon": 85.0793711,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521329,
+  "lat": 27.8505689,
+  "lon": 85.0863883,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521330,
+  "lat": 27.8506597,
+  "lon": 85.0962925,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521331,
+  "lat": 27.8522184,
+  "lon": 85.0903569,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521332,
+  "lat": 27.8528229,
+  "lon": 85.0980518,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521337,
+  "lat": 27.8542441,
+  "lon": 85.0809059,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521338,
+  "lat": 27.8545303,
+  "lon": 85.0972662,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521339,
+  "lat": 27.8579257,
+  "lon": 85.0849600,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3478521340,
+  "lat": 27.8581113,
+  "lon": 85.0947694,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3484404878,
+  "lat": 27.9874570,
+  "lon": 85.2447622,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3484453634,
+  "lat": 27.8994037,
+  "lon": 85.1671039,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3484453635,
+  "lat": 27.9027345,
+  "lon": 85.1677864,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3484453636,
+  "lat": 27.9109717,
+  "lon": 85.1698489,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3484453637,
+  "lat": 27.9146656,
+  "lon": 85.1761161,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3486490932,
+  "lat": 27.9488811,
+  "lon": 85.0469330,
+  "tags": {
+    "name": "सामरी",
+    "name:en": "Samari",
+    "name:fa": "سامَری",
+    "name:ne": "सामरी",
+    "name:ur": "سامری",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3486910168,
+  "lat": 27.8974199,
+  "lon": 85.0662964,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3487891611,
+  "lat": 27.8995686,
+  "lon": 85.0423901,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3487899016,
+  "lat": 27.9001375,
+  "lon": 85.0357034,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3488022929,
+  "lat": 27.8982535,
+  "lon": 85.1463477,
+  "tags": {
+    "alt_name_1": "Batter",
+    "alt_name_2": "Battar",
+    "name": "बटार बजार",
+    "name:en": "Batār Bāzār",
+    "name:fa": "بتار بازار",
+    "name:ne": "बटार बजार",
+    "name:ur": "بٹار بازار",
+    "place": "neighbourhood",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 3488022930,
+  "lat": 27.9151007,
+  "lon": 85.1647073,
+  "tags": {
+    "name": "नुवाकोट",
+    "name:en": "Nawākot",
+    "name:fa": "نواکوت",
+    "name:ne": "नुवाकोट",
+    "name:ur": "نواکوٹ",
+    "place": "suburb",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 3488022931,
+  "lat": 27.8359287,
+  "lon": 85.1600139,
+  "tags": {
+    "name": "खर्क",
+    "name:en": "Kharka",
+    "name:fa": "کارکه",
+    "name:ne": "खर्क",
+    "name:ur": "کھرکہ",
+    "place": "hamlet",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 3488023633,
+  "lat": 27.7883997,
+  "lon": 85.2245076,
+  "tags": {
+    "name": "कालिमाटे",
+    "name:en": "Kālimāte",
+    "name:fa": "کالیماته",
+    "name:ne": "कालिमाटे",
+    "name:ur": "کالماٹے",
+    "place": "hamlet",
+    "source": "GNS"
+  }
+},
+{
+  "type": "node",
+  "id": 3488550901,
+  "lat": 27.8997535,
+  "lon": 85.0576397,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3488550974,
+  "lat": 27.9004578,
+  "lon": 85.0597156,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3488620377,
+  "lat": 27.9131181,
+  "lon": 84.9949665,
+  "tags": {
+    "name": "काउले भञ्ज्याङ",
+    "name:en": "Kaulebhanjyang",
+    "name:fa": "کاوله‌بانجیانگ",
+    "name:ne": "काउले भञ्ज्याङ",
+    "name:ur": "کاولے بھنجیانگ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3488620383,
+  "lat": 27.9215957,
+  "lon": 85.0262530,
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3489923918,
+  "lat": 27.9820602,
+  "lon": 85.0221285,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3489935223,
+  "lat": 27.9776833,
+  "lon": 85.0316638,
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 3499801960,
+  "lat": 27.8952600,
+  "lon": 85.1464460,
+  "tags": {
+    "capital": "5",
+    "name": "बिदुर",
+    "name:en": "Bidur",
+    "name:fa": "بیدور",
+    "name:ja": "ビドゥール",
+    "name:ne": "बिदुर",
+    "name:ur": "بیدور",
+    "place": "town",
+    "population": "26750",
+    "wikidata": "Q1844478",
+    "wikipedia": "en:Bidur"
+  }
+},
+{
+  "type": "node",
+  "id": 3504477175,
+  "lat": 28.0280757,
+  "lon": 85.1714444,
+  "tags": {
+    "check_date": "11-SEP-12 15:22",
+    "name": "झर्कलेरी",
+    "name:en": "Jharkaleri",
+    "name:fa": "جارکالِری",
+    "name:ne": "झर्कलेरी",
+    "name:ur": "جھرکلیری",
+    "place": "hamlet",
+    "source": "helicopter pilot gpx"
+  }
+},
+{
+  "type": "node",
+  "id": 3504477176,
+  "lat": 28.0260800,
+  "lon": 85.1713500,
+  "tags": {
+    "name": "ठूलोगाउँ",
+    "name:en": "Thulogaun",
+    "name:fa": "تولوگاون",
+    "name:ne": "ठूलोगाउँ",
+    "name:ur": "تھولوگاؤں",
+    "place": "suburb",
+    "source": "2015-05-04 reco mission report",
+    "wikidata": "Q589566"
+  }
+},
+{
+  "type": "node",
+  "id": 3616597852,
+  "lat": 28.0469279,
+  "lon": 84.9139150,
+  "tags": {
+    "name": "बस्नेत टोल",
+    "name:en": "Basnet Tol",
+    "name:fa": "بسنِت‌تول",
+    "name:ne": "बस्नेत टोल",
+    "name:ur": "بسنیت ٹول",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3616597855,
+  "lat": 28.0490767,
+  "lon": 84.9124307,
+  "tags": {
+    "name": "कात्तिके",
+    "name:en": "Kattike",
+    "name:fa": "کاتیکه",
+    "name:ne": "कात्तिके",
+    "name:ur": "کاتیکے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3616597856,
+  "lat": 28.0389915,
+  "lon": 84.9050419,
+  "tags": {
+    "name": "महा भिर",
+    "name:en": "Maha Bhir",
+    "name:fa": "مها بیر",
+    "name:ne": "महा भिर",
+    "name:ur": "مہا بھیر",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3616597861,
+  "lat": 28.0479300,
+  "lon": 84.9043606,
+  "tags": {
+    "name": "टाल्लो कालेरी",
+    "name:en": "Tallo Kalleri",
+    "name:fa": "تالو کالِری",
+    "name:ne": "टाल्लो कालेरी",
+    "name:ur": "ٹالو کالیری",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3691065952,
+  "lat": 28.0036486,
+  "lon": 85.1638055,
+  "tags": {
+    "name": "सातदोबाटो",
+    "name:en": "Satdobato",
+    "name:fa": "ساتدوباتو",
+    "name:ne": "सातदोबाटो",
+    "name:ur": "ساتدوباٹو",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3691071165,
+  "lat": 28.0039377,
+  "lon": 85.1339967,
+  "tags": {
+    "alt_name": "Nujet Gaon",
+    "name": "नुचेत गाउँ",
+    "name:en": "Nyuchet Gaon",
+    "name:fa": "نوچِت‌گاون",
+    "name:ne": "नुचेत गाउँ",
+    "name:ur": "نوچیت گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3691071166,
+  "lat": 28.0425203,
+  "lon": 85.1089248,
+  "tags": {
+    "name": "Rupchet Kharka",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3691071167,
+  "lat": 28.0266442,
+  "lon": 85.1115011,
+  "tags": {
+    "name": "भाल्चे",
+    "name:en": "Bhalche",
+    "name:fa": "بالچه",
+    "name:ne": "भाल्चे",
+    "name:ur": "بھالچے",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 3726315646,
+  "lat": 27.9357005,
+  "lon": 84.9034571,
+  "tags": {
+    "name": "पञ्चगढ",
+    "name:en": "Pachagare",
+    "name:fa": "پنچ‌گَد",
+    "name:ne": "पञ्चगढ",
+    "name:ur": "پنچ گڑھ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3726315834,
+  "lat": 27.9462738,
+  "lon": 84.9069796,
+  "tags": {
+    "name": "स्याउले डाँडा",
+    "name:en": "Syauli Dada",
+    "name:fa": "سیاوله‌داندا",
+    "name:ne": "स्याउले डाँडा",
+    "name:ur": "سیاولے ڈانڈا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3726315835,
+  "lat": 27.9621096,
+  "lon": 84.9141777,
+  "tags": {
+    "name": "Jumre Dada",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3726315836,
+  "lat": 27.9668477,
+  "lon": 84.9153566,
+  "tags": {
+    "name": "केरुङगाउँ",
+    "name:en": "Kerung Gau",
+    "name:fa": "کِرونگ‌‌گاون",
+    "name:ne": "केरुङगाउँ",
+    "name:ur": "کیرونگ گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3728573211,
+  "lat": 27.9076251,
+  "lon": 84.9088575,
+  "tags": {
+    "name": "इजारा",
+    "name:en": "Ijara",
+    "name:fa": "اجارا",
+    "name:ne": "इजारा",
+    "name:ur": "اجارا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3728573212,
+  "lat": 27.9144104,
+  "lon": 84.9236143,
+  "tags": {
+    "name": "पान्धरे",
+    "name:en": "Paandhare",
+    "name:fa": "پانداره",
+    "name:ne": "पान्धरे",
+    "name:ur": "پاندھرے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3728573213,
+  "lat": 27.9178088,
+  "lon": 84.9325901,
+  "tags": {
+    "name": "सोरघर",
+    "name:en": "Shoraghara",
+    "name:fa": "سورگار",
+    "name:ne": "सोरघर",
+    "name:ur": "سورگھر",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3728573273,
+  "lat": 27.9115586,
+  "lon": 84.9156681,
+  "tags": {
+    "name": "रिजल गाँउ",
+    "name:en": "Rijal Gau",
+    "name:fa": "ریجال‌گاون",
+    "name:ne": "रिजल गाँउ",
+    "name:ur": "رجال گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3743635332,
+  "lat": 27.9241714,
+  "lon": 84.9977523,
+  "tags": {
+    "name": "पाल्ते",
+    "name:en": "Paatle",
+    "name:fa": "پالته",
+    "name:ne": "पाल्ते",
+    "name:ur": "پالتے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3743635333,
+  "lat": 27.9316319,
+  "lon": 84.9890650,
+  "tags": {
+    "name": "gahate",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 3743636790,
+  "lat": 27.9102664,
+  "lon": 84.9231500,
+  "tags": {
+    "name": "भण्डारी गाउँ",
+    "name:en": "Bhandari Gau",
+    "name:fa": "بانداری‌گاون",
+    "name:ne": "भण्डारी गाउँ",
+    "name:ur": "بھنڈاری گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3743636791,
+  "lat": 27.9111306,
+  "lon": 84.9311610,
+  "tags": {
+    "name": "दोधेली",
+    "name:en": "Dodheli",
+    "name:fa": "دودیلی",
+    "name:ne": "दोधेली",
+    "name:ur": "دودھیلی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 3853808644,
+  "lat": 27.7879426,
+  "lon": 85.2401043,
+  "tags": {
+    "name": "छत्रे देउराली",
+    "name:en": "Chatredeurali",
+    "name:fa": "چاتره دیورالی",
+    "name:ne": "छत्रे देउराली",
+    "name:ur": "چھترے دیورالی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4044344045,
+  "lat": 27.8366189,
+  "lon": 85.0611359,
+  "tags": {
+    "name": "दुईपिपल",
+    "name:en": "Duipipal",
+    "name:fa": "دؤیپیپل",
+    "name:ur": "دؤیپیپل",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4079614654,
+  "lat": 27.9727289,
+  "lon": 84.9222806,
+  "tags": {
+    "alt_name": "Katunje-8",
+    "name": "गैरीगाउँ",
+    "name:en": "Gairigau",
+    "name:fa": "گایری‌گاون",
+    "name:ne": "गैरीगाउँ",
+    "name:ur": "گیریگاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4079614931,
+  "lat": 27.9801497,
+  "lon": 84.9257975,
+  "tags": {
+    "name": "चारुङ्गे",
+    "name:en": "Charunge",
+    "name:fa": "چاررنگه",
+    "name:ne": "चारुङ्गे",
+    "name:ur": "چارنگے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4156044161,
+  "lat": 27.8600323,
+  "lon": 85.1100635,
+  "tags": {
+    "name": "देवीघाट",
+    "name:en": "Devighat",
+    "name:fa": "دیوی‌گات",
+    "name:ne": "देवीघाट",
+    "name:ur": "دیوی گھاٹ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4158627691,
+  "lat": 27.9915622,
+  "lon": 85.1010327,
+  "tags": {
+    "name": "बुङताङ",
+    "name:en": "Bungtang",
+    "name:fa": "بونگتانگ",
+    "name:ne": "बुङताङ",
+    "name:ur": "بنگتانگ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 4226430340,
+  "lat": 28.0191647,
+  "lon": 85.0878315,
+  "tags": {
+    "id": "26",
+    "name": "चिपुट",
+    "name:en": "Chiput",
+    "name:fa": "چیپوت",
+    "name:ne": "चिपुट",
+    "name:ur": "چپوٹ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4226430341,
+  "lat": 28.0284567,
+  "lon": 85.0868336,
+  "tags": {
+    "name": "घले गाउँ",
+    "name:en": "Ghale Gau",
+    "name:fa": "گاله‌گاون",
+    "name:ne": "घले गाउँ",
+    "name:ur": "گھلے گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4226430342,
+  "lat": 28.0195724,
+  "lon": 85.0841951,
+  "tags": {
+    "name": "गुम्सा",
+    "name:en": "Gumsa",
+    "name:fa": "گومسا",
+    "name:ne": "गुम्सा",
+    "name:ur": "گمسا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4226430344,
+  "lat": 28.0001697,
+  "lon": 85.1726939,
+  "tags": {
+    "name": "कार्की गाउँ",
+    "name:en": "Karki Gaun",
+    "name:fa": "کارکی گاون",
+    "name:ne": "कार्की गाउँ",
+    "name:ur": "کارکی گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4226430345,
+  "lat": 28.0051298,
+  "lon": 85.1387902,
+  "tags": {
+    "name": "काउले",
+    "name:en": "Kaule Village",
+    "name:fa": "کاوله",
+    "name:ne": "काउले",
+    "name:ur": "کاؤلے",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4226430347,
+  "lat": 28.0295705,
+  "lon": 85.0880604,
+  "tags": {
+    "name": "थुलो गाउँ",
+    "name:en": "Thulo gaun",
+    "name:fa": "تولو گاون",
+    "name:ne": "थुलो गाउँ",
+    "name:ur": "تھلو گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4457870639,
+  "lat": 27.8314415,
+  "lon": 84.9618764,
+  "tags": {
+    "name": "White Soil Pocket Area",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732024,
+  "lat": 28.0175192,
+  "lon": 85.0816999,
+  "tags": {
+    "id": "34",
+    "name": "अम्बुचेट",
+    "name:en": "Ambuchet",
+    "name:fa": "امبوچِت",
+    "name:ne": "अम्बुचेट",
+    "name:ur": "امبوچیٹ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732025,
+  "lat": 28.0283415,
+  "lon": 85.0868010,
+  "tags": {
+    "id": "22",
+    "name": "Bagale",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732026,
+  "lat": 28.0292658,
+  "lon": 85.0898205,
+  "tags": {
+    "id": "19",
+    "name": "Bisang",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732028,
+  "lat": 28.0324954,
+  "lon": 85.0937547,
+  "tags": {
+    "id": "10",
+    "name": "बोल्डोगाङ",
+    "name:en": "Boldogang",
+    "name:fa": "بولدوگانگ",
+    "name:ne": "बोल्डोगाङ",
+    "name:ur": "بولڈوگانگ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732029,
+  "lat": 28.0359468,
+  "lon": 85.0920629,
+  "tags": {
+    "id": "9",
+    "name": "बुग्युङ",
+    "name:en": "Bugyung",
+    "name:fa": "بوگیونگ",
+    "name:ne": "बुग्युङ",
+    "name:ur": "بگیونگ",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732030,
+  "lat": 28.0201521,
+  "lon": 85.0846880,
+  "tags": {
+    "id": "27",
+    "name": "छेक्गु",
+    "name:en": "Chhekgu",
+    "name:fa": "چیکگو",
+    "name:ne": "छेक्गु",
+    "name:ur": "چھیکگو",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732031,
+  "lat": 28.0286600,
+  "lon": 85.0881727,
+  "tags": {
+    "id": "18",
+    "name": "चोखोर",
+    "name:en": "Chokhor",
+    "name:fa": "چوکور",
+    "name:ne": "चोखोर",
+    "name:ur": "چوکھور",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732032,
+  "lat": 28.0295299,
+  "lon": 85.0882884,
+  "tags": {
+    "id": "17",
+    "name": "Dimdungkhor",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732033,
+  "lat": 28.0291601,
+  "lon": 85.0863772,
+  "tags": {
+    "id": "20",
+    "name": "गाम्बेटोल",
+    "name:en": "Gambetol",
+    "name:fa": "گامبه‌تول",
+    "name:ne": "गाम्बेटोल",
+    "name:ur": "گامبے ٹول",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732034,
+  "lat": 28.0293010,
+  "lon": 85.0875901,
+  "tags": {
+    "id": "16",
+    "name": "Gumbocho",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732036,
+  "lat": 28.0197469,
+  "lon": 85.0837802,
+  "tags": {
+    "id": "30",
+    "name": "ग्याप",
+    "name:en": "Gyap",
+    "name:fa": "گیاپ",
+    "name:ne": "ग्याप",
+    "name:ur": "گیاپ",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732037,
+  "lat": 28.0189671,
+  "lon": 85.0902380,
+  "tags": {
+    "id": "26",
+    "name": "होप",
+    "name:en": "Hop",
+    "name:fa": "هوپ",
+    "name:ne": "होप",
+    "name:ur": "ہوپ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732038,
+  "lat": 28.0276462,
+  "lon": 85.0868370,
+  "tags": {
+    "id": "24",
+    "name": "जेस्नी",
+    "name:en": "Jesni",
+    "name:fa": "جِسنی",
+    "name:ne": "जेस्नी",
+    "name:ur": "جیسینی",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732039,
+  "lat": 28.0372428,
+  "lon": 85.0934355,
+  "tags": {
+    "id": "8",
+    "name": "जोङ्सा",
+    "name:en": "Jongsa",
+    "name:fa": "جونگسا",
+    "name:ne": "जोङ्सा",
+    "name:ur": "جونگسا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732040,
+  "lat": 28.0378486,
+  "lon": 85.1000429,
+  "tags": {
+    "id": "5",
+    "name": "ज्यारकुसेप्पा",
+    "name:en": "Jyarkuseppa",
+    "name:fa": "جیارکوسِپا",
+    "name:ne": "ज्यारकुसेप्पा",
+    "name:ur": "جیارکوسیپا",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732041,
+  "lat": 28.0140426,
+  "lon": 85.0838954,
+  "tags": {
+    "id": "37",
+    "name": "कालङडोङ",
+    "name:en": "Kalangdong",
+    "name:fa": "کالنگدونگ",
+    "name:ne": "कालङडोङ",
+    "name:ur": "کالنگڈونگ",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732042,
+  "lat": 28.0387642,
+  "lon": 85.0930684,
+  "tags": {
+    "id": "6",
+    "name": "कार्शेपा",
+    "name:en": "Karshepa",
+    "name:fa": "کارشِپا",
+    "name:ne": "कार्शेपा",
+    "name:ur": "کارشیپا",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732043,
+  "lat": 28.0389051,
+  "lon": 85.0907063,
+  "tags": {
+    "id": "7",
+    "name": "काश्योङ",
+    "name:en": "Kashyong",
+    "name:fa": "کاشیونگ",
+    "name:ne": "काश्योङ",
+    "name:ur": "کاشیونگ",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732044,
+  "lat": 28.0410603,
+  "lon": 85.0955582,
+  "tags": {
+    "id": "4",
+    "name": "खत्रे",
+    "name:en": "Khatre",
+    "name:fa": "کاتره",
+    "name:ne": "खत्रे",
+    "name:ur": "کھترے",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732046,
+  "lat": 28.0184316,
+  "lon": 85.0832011,
+  "tags": {
+    "id": "33",
+    "name": "कोलगाङ",
+    "name:en": "Kolgang",
+    "name:fa": "کولگانگ",
+    "name:ne": "कोलगाङ",
+    "name:ur": "کولگانگ",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732048,
+  "lat": 28.0427608,
+  "lon": 85.0979822,
+  "tags": {
+    "name": "मार्मुवा",
+    "name:en": "Marmuwa",
+    "name:fa": "مارمووا",
+    "name:ne": "मार्मुवा",
+    "name:ur": "مارمووا",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732049,
+  "lat": 28.0402312,
+  "lon": 85.0972789,
+  "tags": {
+    "id": "3",
+    "name": "पङ्गलिङ्ग",
+    "name:en": "Pangling",
+    "name:fa": "پانگلینگ",
+    "name:ne": "पङ्गलिङ्ग",
+    "name:ur": "پنگلنگ",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732050,
+  "lat": 28.0195997,
+  "lon": 85.0833574,
+  "tags": {
+    "id": "31",
+    "name": "पोचो",
+    "name:en": "Pocho",
+    "name:fa": "پوچو",
+    "name:ne": "पोचो",
+    "name:ur": "پوچو",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732051,
+  "lat": 28.0192765,
+  "lon": 85.0841257,
+  "tags": {
+    "id": "29",
+    "name": "उबले",
+    "name:en": "Uble",
+    "name:fa": "اوبله",
+    "name:ne": "उबले",
+    "name:ur": "اوبلے",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732053,
+  "lat": 28.0281867,
+  "lon": 85.0859735,
+  "tags": {
+    "id": "23",
+    "name": "वाटिब्लेटोल",
+    "name:en": "Watibletol",
+    "name:fa": "واتیبله‌تول",
+    "name:ne": "वाटिब्लेटोल",
+    "name:ur": "واٹبلے ٹول",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732054,
+  "lat": 28.0302203,
+  "lon": 85.0874984,
+  "tags": {
+    "id": "13",
+    "name": "यार्सा",
+    "name:en": "Yarsa",
+    "name:fa": "یارسا",
+    "name:ne": "यार्सा",
+    "name:ur": "یارسا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732056,
+  "lat": 28.0442016,
+  "lon": 85.0991970,
+  "tags": {
+    "name": "खोसा",
+    "name:en": "khosa",
+    "name:fa": "کوسا",
+    "name:ne": "खोसा",
+    "name:ur": "کھوسہ",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4714732057,
+  "lat": 28.0288009,
+  "lon": 85.0865687,
+  "tags": {
+    "id": "21",
+    "name": "गुथेन",
+    "name:en": "Guthen",
+    "name:fa": "گوتِن",
+    "name:ne": "गुथेन",
+    "name:ur": "گتھین",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 4727563924,
+  "lat": 27.9546866,
+  "lon": 85.1417166,
+  "tags": {
+    "name": "भैरमकोट",
+    "name:en": "Bhairamkot",
+    "name:fa": "بایرم‌کوت",
+    "name:ne": "भैरमकोट",
+    "name:ur": "بھیرم کوٹ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4727563926,
+  "lat": 27.9516886,
+  "lon": 85.1437891,
+  "tags": {
+    "name": "भ्यागुते",
+    "name:en": "Bhyagute",
+    "name:fa": "بیاگوته",
+    "name:ne": "भ्यागुते",
+    "name:ur": "بھیاگتے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4727563927,
+  "lat": 27.9545859,
+  "lon": 85.1464511,
+  "tags": {
+    "name": "गगते",
+    "name:en": "Gagate",
+    "name:fa": "گگته",
+    "name:ne": "गगते",
+    "name:ur": "گگتے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4727563929,
+  "lat": 27.9580289,
+  "lon": 85.1309735,
+  "tags": {
+    "name": "गैराथोक",
+    "name:en": "Gairathok",
+    "name:fa": "گیراتوک",
+    "name:ne": "गैराथोक",
+    "name:ur": "گیاراتھوک",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 4727563930,
+  "lat": 27.9560376,
+  "lon": 85.1495330,
+  "tags": {
+    "name": "जफाती",
+    "name:en": "Jafati",
+    "name:fa": "جپاتی",
+    "name:ne": "जफाती",
+    "name:ur": "جپھاتی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4733336167,
+  "lat": 27.7514015,
+  "lon": 85.0672979,
+  "tags": {
+    "name": "महादेव बेसी",
+    "name:en": "Mahadev Besi",
+    "name:fa": "مهادیو بِسی",
+    "name:ne": "महादेव बेसी",
+    "name:ur": "مہادیو بیسی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4928260843,
+  "lat": 27.9890191,
+  "lon": 84.9854708,
+  "tags": {
+    "name": "सेमजोंङ",
+    "name:en": "Semjong",
+    "name:fa": "سِمجونگه",
+    "name:ne": "सेमजोंङ",
+    "name:ur": "سیمجونگہ",
+    "place": "suburb",
+    "wikidata": "Q3417789",
+    "wikipedia": "en:Semjong"
+  }
+},
+{
+  "type": "node",
+  "id": 4935116639,
+  "lat": 27.7592329,
+  "lon": 85.1598465,
+  "tags": {
+    "name": "जिवनपुर",
+    "name:en": "Jiwanpur",
+    "name:fa": "جیوَن‌پور",
+    "name:ne": "जिवनपुर",
+    "name:ur": "جیون پور",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4935120590,
+  "lat": 27.7596469,
+  "lon": 85.1037019,
+  "tags": {
+    "name": "केवलपुर",
+    "name:en": "Kewalpur",
+    "name:fa": "کِوال‌پور",
+    "name:ne": "केवलपुर",
+    "name:ur": "کیول پور",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4935193787,
+  "lat": 27.7672397,
+  "lon": 85.0851322,
+  "tags": {
+    "name": "गोगनपानी",
+    "name:en": "Goganpani",
+    "name:fa": "گوگنپانی",
+    "name:ne": "गोगनपानी",
+    "name:ur": "گوگنپانی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4935223349,
+  "lat": 27.8795429,
+  "lon": 84.9540420,
+  "tags": {
+    "name": "खाल्टे",
+    "name:en": "Khalte",
+    "name:fa": "کالته",
+    "name:ne": "खाल्टे",
+    "name:ur": "کھالٹے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4936553806,
+  "lat": 27.9308766,
+  "lon": 84.9887511,
+  "tags": {
+    "name": "धुवाकोट",
+    "name:en": "Dhuwakot",
+    "name:fa": "دوواکوت",
+    "name:ne": "धुवाकोट",
+    "name:ur": "دھواکوٹ",
+    "place": "hamlet",
+    "wikidata": "Q3410200",
+    "wikipedia": "en:Dhuwakot"
+  }
+},
+{
+  "type": "node",
+  "id": 4936562028,
+  "lat": 27.9793488,
+  "lon": 84.9053894,
+  "tags": {
+    "name": "ज्यामरुङ",
+    "name:en": "Jyamrung",
+    "name:fa": "جیامرونگ",
+    "name:ne": "ज्यामरुङ",
+    "name:ur": "جیامرنگ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4936602231,
+  "lat": 27.8188655,
+  "lon": 85.0055310,
+  "tags": {
+    "name": "कल्लेरी",
+    "name:en": "Kalleri",
+    "name:fa": "کلِّری",
+    "name:ne": "कल्लेरी",
+    "name:ur": "کلّیری",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4939963943,
+  "lat": 27.7588416,
+  "lon": 84.9403042,
+  "tags": {
+    "name": "किरनचोक",
+    "name:en": "Kiranchok",
+    "name:fa": "کیران‌چوک",
+    "name:ne": "किरनचोक",
+    "name:ur": "کران چوک",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4940185656,
+  "lat": 27.8054758,
+  "lon": 84.9451706,
+  "tags": {
+    "name": "पिडा",
+    "name:en": "Pida",
+    "name:fa": "پِدا",
+    "name:ne": "पिडा",
+    "name:ur": "پڈا",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 4967937739,
+  "lat": 28.0021505,
+  "lon": 85.2112403,
+  "tags": {
+    "name": "धइबुङ",
+    "name:en": "Dhaibung",
+    "name:fa": "دَئی‌بونگ",
+    "name:ne": "धइबुङ",
+    "name:ur": "دھے بنگ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 4967967500,
+  "lat": 28.0134669,
+  "lon": 85.1971528,
+  "tags": {
+    "name": "लहरेपउवा",
+    "name:en": "Laharepauwa",
+    "name:fa": "لهرِپاوا",
+    "name:ne": "लहरेपउवा",
+    "name:ur": "لہریپوا",
+    "place": "suburb",
+    "wikidata": "Q7238382"
+  }
+},
+{
+  "type": "node",
+  "id": 5045958153,
+  "lat": 27.7884036,
+  "lon": 85.2357902,
+  "tags": {
+    "name": "ओखरपौवा",
+    "name:en": "Okharpauwa",
+    "name:fa": "اوکارپووا",
+    "name:ne": "ओखरपौवा",
+    "name:ur": "اوکھرپووا",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5047291810,
+  "lat": 27.8688503,
+  "lon": 85.2149982,
+  "tags": {
+    "name": "चतुराले",
+    "name:en": "Chaturale",
+    "name:fa": "چتراله",
+    "name:ne": "चतुराले",
+    "name:ur": "چترالے",
+    "place": "suburb",
+    "wikidata": "Q3411983",
+    "wikipedia": "en:Chaturale"
+  }
+},
+{
+  "type": "node",
+  "id": 5047306168,
+  "lat": 27.8326792,
+  "lon": 85.2493381,
+  "tags": {
+    "name": "डाँडागाउँ",
+    "name:en": "Dandagaun",
+    "name:fa": "دانداگاون",
+    "name:ne": "डाँडागाउँ",
+    "name:ur": "ڈانڈاگاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 5052696006,
+  "lat": 27.9314627,
+  "lon": 85.2355171,
+  "tags": {
+    "name": "हल्देकालीका",
+    "name:en": "Haldekalika",
+    "name:fa": "هلده کالیکا",
+    "name:ne": "हल्देकालीका",
+    "name:ur": "ہلدے کالیکا",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5052958023,
+  "lat": 27.9169995,
+  "lon": 85.2402156,
+  "tags": {
+    "name": "गणेशस्थान",
+    "name:en": "Ganeshthan",
+    "name:fa": "گنِشستان",
+    "name:ne": "गणेस्थान",
+    "name:ur": "گنیشستھان",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 5052970038,
+  "lat": 27.9003284,
+  "lon": 85.2046888,
+  "tags": {
+    "name": "सुर्यमती",
+    "name:en": "Suryamati",
+    "name:fa": "سوریه‌متی",
+    "name:ne": "सुर्यमती",
+    "name:ur": "سوریہ متی",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5053279576,
+  "lat": 27.8817374,
+  "lon": 85.0942370,
+  "tags": {
+    "name": "खड्ग भञ्ज्याङ",
+    "name:en": "Khadag Bhanjyang",
+    "name:fa": "کادگه‌بانجیانگ",
+    "name:ne": "खड्ग भञ्ज्याङ",
+    "name:ur": "کھڈگہ بھنجیانگ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5053286319,
+  "lat": 27.8979278,
+  "lon": 85.1150773,
+  "tags": {
+    "name": "चारघरे",
+    "name:en": "Charghare",
+    "name:fa": "چارگاره",
+    "name:ne": "चारघरे",
+    "name:ur": "چارگھرے",
+    "place": "suburb",
+    "wikidata": "Q965414",
+    "wikipedia": "en:Charghare"
+  }
+},
+{
+  "type": "node",
+  "id": 5053326415,
+  "lat": 27.8992856,
+  "lon": 85.0573203,
+  "tags": {
+    "name": "गोरस्याङ",
+    "name:en": "Gorsyang",
+    "name:fa": "گورسیانگ",
+    "name:ne": "गोरस्याङ",
+    "name:ur": "گورسیانگ",
+    "place": "suburb",
+    "wikidata": "Q3422239",
+    "wikipedia": "en:Gorsyang"
+  }
+},
+{
+  "type": "node",
+  "id": 5055210667,
+  "lat": 27.8342832,
+  "lon": 85.1266646,
+  "tags": {
+    "name": "जिलीङ",
+    "name:en": "Jiling",
+    "name:fa": "جلینگ",
+    "name:ne": "जिलीङ",
+    "name:ur": "جلینگ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5055621837,
+  "lat": 27.8530224,
+  "lon": 85.0613809,
+  "tags": {
+    "name": "रातमाटे",
+    "name:en": "Ratmate",
+    "name:fa": "راتماته",
+    "name:ne": "रातमाटे",
+    "name:ur": "راتماٹے",
+    "place": "suburb",
+    "wikidata": "Q3416006",
+    "wikipedia": "en:Ratmate"
+  }
+},
+{
+  "type": "node",
+  "id": 5055848770,
+  "lat": 27.8135471,
+  "lon": 85.1761374,
+  "tags": {
+    "name": "बेलकोट",
+    "name:en": "Belkot",
+    "name:fa": "بِل‌کوت‌",
+    "name:ne": "बेलकोट",
+    "name:ur": "بیل کوٹ",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5056008594,
+  "lat": 27.7945826,
+  "lon": 85.2023450,
+  "tags": {
+    "name": "चौठे",
+    "name:en": "Chauthe",
+    "name:fa": "چاوته",
+    "name:ne": "चौठे",
+    "name:ur": "چوٹھے",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5057875061,
+  "lat": 27.9340322,
+  "lon": 85.0897543,
+  "tags": {
+    "name": "कल्याणपुर",
+    "name:en": "Kalyanpur",
+    "name:fa": "کلیان‌پور",
+    "name:ne": "कल्याणपुर",
+    "name:ur": "کلیان پور",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5063346880,
+  "lat": 27.7748642,
+  "lon": 85.1387654,
+  "tags": {
+    "name": "कुमारी",
+    "name:en": "Kumari",
+    "name:fa": "کماری",
+    "name:ne": "कुमारी",
+    "name:ur": "کماری",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5063441751,
+  "lat": 27.9733619,
+  "lon": 85.1522679,
+  "tags": {
+    "name": "टुपचे",
+    "name:en": "Tupche",
+    "name:fa": "توپچه",
+    "name:ne": "टुपचे",
+    "name:ur": "ٹوپچے",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5063608299,
+  "lat": 28.0286988,
+  "lon": 85.0874271,
+  "tags": {
+    "name": "साल्मे",
+    "name:en": "Salme",
+    "name:fa": "سالمه",
+    "name:ne": "साल्मे",
+    "name:ur": "سالمے",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5063615453,
+  "lat": 27.9521025,
+  "lon": 85.1861334,
+  "tags": {
+    "name": "गेरखू",
+    "name:en": "Gerkhu",
+    "name:fa": "گِرکو",
+    "name:ne": "गेरखू",
+    "name:ur": "گیرکھو",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 5181284528,
+  "lat": 27.9083525,
+  "lon": 84.9017456,
+  "tags": {
+    "name": "Siran Bazzar Chowk",
+    "name:ne": "सिरान बजार चोक",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 5181440718,
+  "lat": 27.8826516,
+  "lon": 84.9472408,
+  "tags": {
+    "name": "पाल्ते",
+    "name:en": "Patle",
+    "name:fa": "پالته",
+    "name:ne": "पाल्ते",
+    "name:ur": "پالتے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 5190630980,
+  "lat": 27.8615796,
+  "lon": 84.9129264,
+  "tags": {
+    "name": "कुसुन्डे गाउँ",
+    "name:en": "Kusunde Gau",
+    "name:fa": "کوسونده‌گاون",
+    "name:ne": "कुसुन्डे गाउँ",
+    "name:ur": "کسنڈے گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 5215871034,
+  "lat": 27.9531702,
+  "lon": 84.9052211,
+  "tags": {
+    "name": "भोर्लेमणी डाँडा",
+    "name:en": "Bhorlemani Danda",
+    "name:fa": "بورلِمنی داندا",
+    "name:ne": "भोर्लेमणी डाँडा",
+    "name:ur": "بھورلیمنی ڈانڈا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 5235619896,
+  "lat": 27.8655756,
+  "lon": 85.1281211,
+  "tags": {
+    "name": "पिपलटार",
+    "name:en": "Pipaltar",
+    "name:fa": "پیپلتار",
+    "name:ne": "पिपलटार",
+    "name:ur": "پیپلٹار",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 5250155204,
+  "lat": 27.9084545,
+  "lon": 84.9027206,
+  "tags": {
+    "name": "Shanti Tol",
+    "name:ne": "शान्ति टोल",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 5474823173,
+  "lat": 27.8760786,
+  "lon": 84.9005480,
+  "tags": {
+    "name": "Daadagaun",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 5477186870,
+  "lat": 27.8793617,
+  "lon": 84.9053272,
+  "tags": {
+    "name": "Handikhola Gaun",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 5477186874,
+  "lat": 27.8724269,
+  "lon": 84.9067686,
+  "tags": {
+    "name": "Kafachaap Gaun",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 5477186875,
+  "lat": 27.8784997,
+  "lon": 84.9006856,
+  "tags": {
+    "name": "PEEPALCHAAP",
+    "note": "Households : 219 Population : 800 Female : 55% Male : 45% Earthquake Damage: 100% Complete damage : 95% Vulnerabilities : Kitandu, Kira,Wild animal attack (Badar, Jackel,Dumsi- Makkai ), Soil Erosion,Huribatas, Forest Fire Caste:Dalit, Janajati, Brahm",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 7255075260,
+  "lat": 27.8547500,
+  "lon": 84.9250004,
+  "tags": {
+    "name": "Deurali",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 8435208930,
+  "lat": 27.8493976,
+  "lon": 84.9107069,
+  "tags": {
+    "name": "नवलपुर",
+    "name:en": "Nawalpur",
+    "name:ne": "नवलपुर",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 8952787381,
+  "lat": 27.8385013,
+  "lon": 85.2014435,
+  "tags": {
+    "name": "केउरेनी",
+    "name:en": "Keureni",
+    "name:fa": "کیورِنی",
+    "name:ne": "केउरेनी",
+    "name:ur": "کیورینی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 9963623204,
+  "lat": 27.7814361,
+  "lon": 85.2492607,
+  "tags": {
+    "name": "सिसडोल",
+    "name:en": "Sisdole",
+    "name:fa": "سیسدول",
+    "name:ne": "सिसडोल",
+    "name:ur": "سسڈول",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 9963623205,
+  "lat": 27.7778884,
+  "lon": 85.2292111,
+  "tags": {
+    "name": "बन्चरे डाँडा",
+    "name:en": "Banchare Danda",
+    "name:fa": "بنچره داندا",
+    "name:ne": "बन्चरे डाँडा",
+    "name:ur": "بنچرے ڈانڈا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10162040560,
+  "lat": 27.8127782,
+  "lon": 85.2153160,
+  "tags": {
+    "name": "सिस्नेरी",
+    "name:en": "Sisneri",
+    "name:fa": "سیسنری",
+    "name:ne": "सिस्नेरी",
+    "name:ur": "سسنیری",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10162298906,
+  "lat": 27.8093726,
+  "lon": 85.2094594,
+  "tags": {
+    "name": "जागरी",
+    "name:en": "Jagari",
+    "name:fa": "جاگری",
+    "name:ne": "जागरी",
+    "name:ur": "جاگری",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10169139602,
+  "lat": 27.8182950,
+  "lon": 85.2260274,
+  "tags": {
+    "name": "निङ्गले",
+    "name:en": "Ningale",
+    "name:fa": "ننگله",
+    "name:ne": "निङ्गले",
+    "name:ur": "ننگلے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10554354307,
+  "lat": 27.8184041,
+  "lon": 85.2440196,
+  "tags": {
+    "name": "Organic Kiwi Farm, Kakani",
+    "place": "farm"
+  }
+},
+{
+  "type": "node",
+  "id": 10555670530,
+  "lat": 27.8107771,
+  "lon": 85.2388242,
+  "tags": {
+    "name": "Strawberry Farm",
+    "place": "farm"
+  }
+},
+{
+  "type": "node",
+  "id": 10555692906,
+  "lat": 27.8106870,
+  "lon": 85.2432713,
+  "tags": {
+    "name": "हिले भिट्टा",
+    "name:en": "Hile Bhitta",
+    "name:fa": "هیله بیتا",
+    "name:ne": "हिले भिट्टा",
+    "name:ur": "ہلے بھٹہ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10564074389,
+  "lat": 27.8079942,
+  "lon": 85.2493438,
+  "tags": {
+    "name": "Strawberry farm",
+    "place": "farm"
+  }
+},
+{
+  "type": "node",
+  "id": 10603458426,
+  "lat": 28.0235604,
+  "lon": 85.1817260,
+  "tags": {
+    "name": "सालिम भित्ता",
+    "name:en": "Salim Bhitta",
+    "name:fa": "سالم بِتّا",
+    "name:ne": "सालिम भित्ता",
+    "name:ur": "سالم بھتا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10603466952,
+  "lat": 28.0142354,
+  "lon": 85.2030983,
+  "tags": {
+    "name": "ढुङ्गे",
+    "name:en": "Dhunge",
+    "name:fa": "دونگه",
+    "name:ne": "ढुङ्गे",
+    "name:ur": "ڈھونگے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10603537479,
+  "lat": 27.9846910,
+  "lon": 85.1825623,
+  "tags": {
+    "name": "नौविसे फाँट",
+    "name:en": "Naubisephat",
+    "name:fa": "ناوییسه‌پانت",
+    "name:ne": "नौविसे फाँट",
+    "name:ur": "نوویسے پھانٹ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10603591893,
+  "lat": 27.9995788,
+  "lon": 85.2377440,
+  "tags": {
+    "name": "खालचेत",
+    "name:en": "Khalchet",
+    "name:fa": "کالچِت",
+    "name:ne": "खालचेत",
+    "name:ur": "کھالچیت",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10603591972,
+  "lat": 28.0042411,
+  "lon": 85.2481629,
+  "tags": {
+    "name": "सरसिउ",
+    "name:en": "Sarsyu",
+    "name:fa": "سرسیو",
+    "name:ne": "सरसिउ",
+    "name:ur": "سرسیو",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10885725496,
+  "lat": 27.8324302,
+  "lon": 85.2359676,
+  "tags": {
+    "name": "छहारे",
+    "name:en": "Chhahare",
+    "name:fa": "چاهاره",
+    "name:ne": "छहारे",
+    "name:ur": "چھہارے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 10923411849,
+  "lat": 27.9847648,
+  "lon": 85.2369942,
+  "tags": {
+    "name": "बडहरे",
+    "name:en": "Badare",
+    "name:fa": "بداهاره",
+    "name:ne": "बडहरे",
+    "name:ur": "بڈہرے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833286,
+  "lat": 27.9026975,
+  "lon": 84.9196831,
+  "tags": {
+    "name": "भुलभुले",
+    "name:en": "Bhulbhuli",
+    "name:fa": "بولبولی",
+    "name:ne": "भुलभुले",
+    "name:ur": "بھولبھلے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833287,
+  "lat": 27.8935743,
+  "lon": 84.9078542,
+  "tags": {
+    "name": "पौवा",
+    "name:en": "Pauwa",
+    "name:fa": "پاووا",
+    "name:ne": "पौवा",
+    "name:ur": "پووا",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833288,
+  "lat": 27.8967493,
+  "lon": 84.9174025,
+  "tags": {
+    "name": "Bimarechhap",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833289,
+  "lat": 27.8893272,
+  "lon": 84.9208510,
+  "tags": {
+    "name": "Dhadkharka",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833290,
+  "lat": 27.8856288,
+  "lon": 84.9162912,
+  "tags": {
+    "name": "Riyalthok",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833291,
+  "lat": 27.8965405,
+  "lon": 84.9357227,
+  "tags": {
+    "name": "केराबारी",
+    "name:en": "Kerabari",
+    "name:fa": "کِراباری",
+    "name:ne": "केराबारी",
+    "name:ur": "کیراباری",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833292,
+  "lat": 27.8901474,
+  "lon": 84.9324006,
+  "tags": {
+    "name": "हिले खार्का",
+    "name:en": "Hilekharka",
+    "name:fa": "هله‌کارکا",
+    "name:ne": "हिले खार्का",
+    "name:ur": "ہلے کھارکا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833293,
+  "lat": 27.8738902,
+  "lon": 84.9734456,
+  "tags": {
+    "name": "राम्चे",
+    "name:en": "Ramche",
+    "name:fa": "رامچه",
+    "name:ne": "राम्चे",
+    "name:ur": "رامچے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833294,
+  "lat": 27.8746357,
+  "lon": 84.9857647,
+  "tags": {
+    "name": "देउराली",
+    "name:en": "Deurali",
+    "name:fa": "دیورالی",
+    "name:ne": "देउराली",
+    "name:ur": "دیورالی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833295,
+  "lat": 27.8724580,
+  "lon": 84.9577811,
+  "tags": {
+    "name": "फ्याक्से",
+    "name:en": "Phyakse",
+    "name:fa": "پیاکسه",
+    "name:ne": "फ्याक्से",
+    "name:ur": "پھیاکسے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833296,
+  "lat": 27.8532679,
+  "lon": 84.9379742,
+  "tags": {
+    "name": "जल्किनी",
+    "name:en": "Jalkini",
+    "name:fa": "جلکینی",
+    "name:ne": "जल्किनी",
+    "name:ur": "جلکینی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833297,
+  "lat": 27.8546528,
+  "lon": 84.9500871,
+  "tags": {
+    "name": "भोर्ले",
+    "name:en": "Bhorle",
+    "name:fa": "بورله",
+    "name:ne": "भोर्ले",
+    "name:ur": "بھورلے",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833298,
+  "lat": 27.8670239,
+  "lon": 84.9639347,
+  "tags": {
+    "name": "स्यालडाँडा गाउँ",
+    "name:en": "Syaldadagau",
+    "name:fa": "سیال‌داندا گاون",
+    "name:ne": "स्यालडाँडा गाउँ",
+    "name:ur": "سیال ڈانڈا گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833299,
+  "lat": 27.8639241,
+  "lon": 84.9593058,
+  "tags": {
+    "name": "खाल्टे",
+    "name:en": "Khalte",
+    "name:fa": "کالته",
+    "name:ne": "खाल्टे",
+    "name:ur": "کھالٹے",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833300,
+  "lat": 27.8644386,
+  "lon": 84.9776833,
+  "tags": {
+    "name": "पहारेछाप",
+    "name:en": "Paharechhap",
+    "name:fa": "پهاری‌چاپ",
+    "name:ne": "पहारेछाप",
+    "name:ur": "پہاڑی چھپ",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833301,
+  "lat": 27.8618333,
+  "lon": 84.9805570,
+  "tags": {
+    "name": "देविथान",
+    "name:en": "Devithan",
+    "name:fa": "دیویتان",
+    "name:ne": "देविथान",
+    "name:ur": "دیویتھان",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833302,
+  "lat": 27.8596131,
+  "lon": 84.9864209,
+  "tags": {
+    "name": "गैरीगाउँ",
+    "name:en": "Gairigau",
+    "name:fa": "گایری‌گاون",
+    "name:ne": "गैरीगाउँ",
+    "name:ur": "گیری گاؤں",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470833366,
+  "lat": 27.8823571,
+  "lon": 84.9562347,
+  "tags": {
+    "name": "पतेनी",
+    "name:en": "Pateni",
+    "name:fa": "پتِنی",
+    "name:ne": "पतेनी",
+    "name:ur": "پتینی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470888785,
+  "lat": 27.8838994,
+  "lon": 84.9850943,
+  "tags": {
+    "name": "जामुने",
+    "name:en": "Jamune",
+    "name:fa": "جامونه",
+    "name:ne": "जामुने",
+    "name:ur": "جامونے",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470888962,
+  "lat": 27.9019131,
+  "lon": 84.9838264,
+  "tags": {
+    "name": "कफलेश्वरी",
+    "name:en": "Kaphalswari",
+    "name:fa": "کپالِشواری",
+    "name:ne": "कफलेश्वरी",
+    "name:ur": "کپھلیشوری",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470888963,
+  "lat": 27.8948740,
+  "lon": 84.9860736,
+  "tags": {
+    "alt_name": "Dhuseni",
+    "name": "ढुसणी",
+    "name:en": "Dhusani",
+    "name:fa": "دوسَنی",
+    "name:ne": "ढुसणी",
+    "name:ur": "ڈھوسنی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470888964,
+  "lat": 27.8956953,
+  "lon": 84.9748775,
+  "tags": {
+    "name": "सौनेपानी",
+    "name:en": "Saunepani",
+    "name:fa": "ساونِپانی",
+    "name:ne": "सौनेपानी",
+    "name:ur": "سونیپانی",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470888965,
+  "lat": 27.8908254,
+  "lon": 84.9707079,
+  "tags": {
+    "name": "गैरी बासा",
+    "name:en": "Gairibasa",
+    "name:fa": "گایری‌باسا",
+    "name:ne": "गैरी बासा",
+    "name:ur": "گیری باسا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11470888966,
+  "lat": 27.8892039,
+  "lon": 84.9789476,
+  "tags": {
+    "alt_name": "Danda Basaha",
+    "name": "डाँडा बासा",
+    "name:en": "Dadabasa",
+    "name:fa": "دانداباسا",
+    "name:ne": "डाँडा बासा",
+    "name:ur": "ڈانڈا باسا",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11765507564,
+  "lat": 27.8010451,
+  "lon": 84.9800420,
+  "tags": {
+    "name": "महेश-दोभान",
+    "name:en": "MaheshDovan",
+    "name:fa": "مهِش‌دوبان",
+    "name:ne": "महेश-दोभान",
+    "name:ur": "مہیش دوبھان",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "node",
+  "id": 11772918255,
+  "lat": 27.8004709,
+  "lon": 84.9899098,
+  "tags": {
+    "name": "बैरेनी",
+    "name:en": "Baireni",
+    "name:fa": "بایرِنی",
+    "name:ne": "बैरेनी",
+    "name:ur": "بیرینی",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 13235260360,
+  "lat": 28.0429052,
+  "lon": 85.0044800,
+  "tags": {
+    "name": "खनियाबास",
+    "name:en": "Khaniyabash",
+    "name:fa": "کانیاباس",
+    "name:ne": "खनियाबास",
+    "name:ur": "کھنیاباس",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13235260361,
+  "lat": 28.0380018,
+  "lon": 85.0177514,
+  "tags": {
+    "name": "सत्यदेवी",
+    "name:en": "Satyadevi",
+    "name:fa": "ستیه‌دیوی",
+    "name:ne": "सत्यदेवी",
+    "name:ur": "ستیہ دیوی",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 13235260362,
+  "lat": 27.9807701,
+  "lon": 84.9961417,
+  "tags": {
+    "name": "नेत्रावती डबजोङ",
+    "name:en": "Netrawati Dabjong",
+    "name:fa": "نِتراواتی داباجونگ",
+    "name:ne": "नेत्रावती डबजोङ",
+    "name:ur": "نیتراوتی ڈبجونگ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13235260366,
+  "lat": 27.7501345,
+  "lon": 85.0686768,
+  "tags": {
+    "name": "थाक्रे",
+    "name:en": "Thakre",
+    "name:fa": "تاکره",
+    "name:ne": "थाक्रे",
+    "name:ur": "تھاکرے",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13242877440,
+  "lat": 28.0116144,
+  "lon": 85.1951685,
+  "tags": {
+    "name": "उत्तरगया",
+    "name:en": "Uttargaya",
+    "name:fa": "اوتارگیا",
+    "name:ne": "उत्तरगया",
+    "name:ur": "اترگیا",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13242877441,
+  "lat": 28.0059409,
+  "lon": 85.2134318,
+  "tags": {
+    "name": "कालिका",
+    "name:en": "Kalika",
+    "name:fa": "کالیکا",
+    "name:ne": "कालिका",
+    "name:ur": "کالِکا",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13369073585,
+  "lat": 28.0042453,
+  "lon": 85.1377747,
+  "tags": {
+    "name": "किस्पाङ",
+    "name:en": "Kispang",
+    "name:fa": "کیسپانگ",
+    "name:ne": "किस्पाङ",
+    "name:ur": "کسپانگ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13369073587,
+  "lat": 27.9966519,
+  "lon": 85.1749948,
+  "tags": {
+    "name": "मनकामना",
+    "name:en": "Manakamana",
+    "name:fa": "منکامنا",
+    "name:ne": "मनकामना",
+    "name:ur": "منکامنا",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 13369073589,
+  "lat": 27.9859191,
+  "lon": 85.0645826,
+  "tags": {
+    "name": "म्यागङ",
+    "name:en": "Myagang",
+    "name:fa": "دهدا میاگنگ",
+    "name:ne": "म्यागङ",
+    "name:ur": "میاگنگ",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13370197377,
+  "lat": 27.9505776,
+  "lon": 85.2289043,
+  "tags": {
+    "name": "सूर्यगढी",
+    "name:en": "Suryagadhi",
+    "name:fa": "سوریه‌گَدی",
+    "name:ne": "सूर्यगढी",
+    "name:ur": "سوریہ گڑھی",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13370197378,
+  "lat": 27.9536710,
+  "lon": 85.2277599,
+  "tags": {
+    "name": "बागेश्वरी चोकदे",
+    "name:en": "Bageshwari Chokade",
+    "name:fa": "باگِشواری چوکده",
+    "name:ne": "बागेश्वरी चोकदे",
+    "name:ur": "باگیشوری چوکدے",
+    "place": "suburb"
+  }
+},
+{
+  "type": "node",
+  "id": 13370197379,
+  "lat": 27.8883235,
+  "lon": 85.2425148,
+  "tags": {
+    "name": "लिखु",
+    "name:en": "Likhu",
+    "name:fa": "لیکو",
+    "name:ur": "لکھو",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13370197381,
+  "lat": 27.8324632,
+  "lon": 85.2397859,
+  "tags": {
+    "name": "ककनी",
+    "name:en": "Kakani",
+    "name:fa": "ککنی",
+    "name:ne": "ककनी",
+    "name:ur": "ککنی",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13370197382,
+  "lat": 27.8391652,
+  "lon": 85.1325401,
+  "tags": {
+    "name": "बेलकोटगढी",
+    "name:en": "Belkotgadhi",
+    "name:fa": "بِل‌کوت‌گَدی",
+    "name:ne": "बेलकोटगढी",
+    "name:ur": "بیل کوٹ گڑھی",
+    "place": "town"
+  }
+},
+{
+  "type": "way",
+  "id": 311549069,
+  "center": {
+    "lat": 27.8067544,
+    "lon": 84.9429212
+  },
+  "nodes": [
+    3172242921,
+    3172242905,
+    3172242882,
+    3172242872,
+    3172242868,
+    3172242865,
+    3172242863,
+    3172242853,
+    3172242849,
+    3172242845,
+    13673583345,
+    3172242836,
+    13673583346,
+    7345580762,
+    13673583347,
+    3172242857,
+    7345580690,
+    3172242867,
+    3172242885,
+    3172242919,
+    3172242921
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Adamghat",
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 340415956,
+  "center": {
+    "lat": 27.8594614,
+    "lon": 85.0538536
+  },
+  "nodes": [
+    3476388750,
+    3476388749,
+    3476388751,
+    3478712633,
+    3476388754,
+    3476388756,
+    3476388759,
+    3476388758,
+    3476388760,
+    3476388757,
+    3476388755,
+    3476388753,
+    3476388752,
+    3476388750
+  ],
+  "tags": {
+    "landuse": "residential",
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 340415958,
+  "center": {
+    "lat": 27.8575428,
+    "lon": 85.0471109
+  },
+  "nodes": [
+    3476388746,
+    3476388742,
+    3476388744,
+    8286317234,
+    3479006215,
+    3479006218,
+    3476388743,
+    3476388745,
+    3476388747,
+    3476388748,
+    3476388746
+  ],
+  "tags": {
+    "landuse": "residential",
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 340489102,
+  "center": {
+    "lat": 27.8181003,
+    "lon": 84.9648598
+  },
+  "nodes": [
+    3477235228,
+    3477235224,
+    3477235222,
+    3477235216,
+    3477235210,
+    3477235208,
+    3477235203,
+    3477235202,
+    3477235205,
+    3477235204,
+    3477235209,
+    3477235207,
+    3477235213,
+    3477235218,
+    3477235221,
+    3477235226,
+    3477235228
+  ],
+  "tags": {
+    "name": "Keurintar Village Area",
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 340541400,
+  "center": {
+    "lat": 27.8179667,
+    "lon": 84.9647283
+  },
+  "nodes": [
+    3477788841,
+    3477788848,
+    3477788840,
+    3477788830,
+    3477788841
+  ],
+  "tags": {
+    "name": "Keurintar Village",
+    "place": "village",
+    "source": "Bing"
+  }
+},
+{
+  "type": "way",
+  "id": 340771369,
+  "center": {
+    "lat": 27.7599222,
+    "lon": 84.9147641
+  },
+  "nodes": [
+    3480304042,
+    3480304040,
+    3480304039,
+    3480304041,
+    3480304042
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 340771370,
+  "center": {
+    "lat": 27.7593336,
+    "lon": 84.9170383
+  },
+  "nodes": [
+    3480304037,
+    3480304035,
+    3480304036,
+    3480304038,
+    3480304037
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 341051142,
+  "center": {
+    "lat": 27.7556818,
+    "lon": 84.9081513
+  },
+  "nodes": [
+    3482773466,
+    3482773467,
+    3482773468,
+    3482773469,
+    3482773470,
+    3482773471,
+    3482773472,
+    3482773466
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 341051143,
+  "center": {
+    "lat": 27.7563274,
+    "lon": 84.9136391
+  },
+  "nodes": [
+    3482773473,
+    3482773474,
+    3482773475,
+    3482773476,
+    3482773477,
+    3482773478,
+    3482773479,
+    3482773480,
+    3482773481,
+    3482773482,
+    3482773483,
+    3482773484,
+    3482773485,
+    3482773486,
+    3482773487,
+    3482773488,
+    3482773489,
+    3482773490,
+    3482773491,
+    3482773492,
+    3482773473
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 341051151,
+  "center": {
+    "lat": 27.7607783,
+    "lon": 84.9047422
+  },
+  "nodes": [
+    3482785255,
+    3482785256,
+    3482785257,
+    3482785258,
+    3482785259,
+    3482785260,
+    3482785261,
+    3482785262,
+    3482785263,
+    3482785264,
+    3482785265,
+    3482785255
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 341051967,
+  "center": {
+    "lat": 27.7559172,
+    "lon": 84.9096989
+  },
+  "nodes": [
+    3482795052,
+    3482795053,
+    3482795054,
+    3482795055,
+    3482795056,
+    3482795057,
+    3482795058,
+    3482795059,
+    3482795060,
+    3482795052
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 341373832,
+  "center": {
+    "lat": 27.7770556,
+    "lon": 84.9251113
+  },
+  "nodes": [
+    3485703559,
+    3485703560,
+    3485703561,
+    3485703562,
+    3485703563,
+    3485703564,
+    3485703565,
+    3485703566,
+    3485703567,
+    3485703568,
+    3485703569,
+    3486133170,
+    3486133167,
+    3486133166,
+    3485703570,
+    3486133168,
+    3486133169,
+    3486133171,
+    3485703571,
+    3485703572,
+    3485703573,
+    3485703574,
+    3485703575,
+    3485703576,
+    3485703559
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 341502745,
+  "center": {
+    "lat": 27.7654189,
+    "lon": 85.1364322
+  },
+  "nodes": [
+    3486797323,
+    3486797325,
+    3486797327,
+    4527737984,
+    8283622421,
+    3486797329,
+    3486797328,
+    8283622424,
+    8283622423,
+    3486797326,
+    8283622422,
+    3486797323
+  ],
+  "tags": {
+    "landuse": "farmland",
+    "place": "hamlet"
+  }
+},
+{
+  "type": "way",
+  "id": 341502746,
+  "center": {
+    "lat": 27.7663560,
+    "lon": 85.1400221
+  },
+  "nodes": [
+    3486797330,
+    3486797332,
+    3486797335,
+    3486797339,
+    3486797336,
+    3486797338,
+    3486797342,
+    3486797341,
+    3486797340,
+    3486797337,
+    3486797334,
+    3486797333,
+    3486797331,
+    3478001840,
+    3486797330
+  ],
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "way",
+  "id": 341525593,
+  "center": {
+    "lat": 27.8157918,
+    "lon": 85.0707752
+  },
+  "nodes": [
+    3486948965,
+    3486948963,
+    3486948947,
+    3486948929,
+    3486948926,
+    3486948933,
+    3486948930,
+    3486948932,
+    3486948927,
+    3486948931,
+    3486948941,
+    3486948965
+  ],
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "way",
+  "id": 341525963,
+  "center": {
+    "lat": 27.8067477,
+    "lon": 85.0384629
+  },
+  "nodes": [
+    3486948717,
+    3486948730,
+    3486948728,
+    3486948722,
+    3486948718,
+    3486948710,
+    3486948707,
+    3486948709,
+    3486948717
+  ],
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "way",
+  "id": 341525970,
+  "center": {
+    "lat": 27.8072666,
+    "lon": 85.0757648
+  },
+  "nodes": [
+    3486948732,
+    3486948735,
+    3486948736,
+    3486948738,
+    3486948739,
+    3486948742,
+    3486948748,
+    3486948747,
+    3486948737,
+    3486948732
+  ],
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "way",
+  "id": 341712861,
+  "center": {
+    "lat": 27.7511903,
+    "lon": 85.0402025
+  },
+  "nodes": [
+    3488283280,
+    3488283281,
+    3488283282,
+    3488283283,
+    3488283284,
+    3488283285,
+    3488283286,
+    3488283287,
+    3488283288,
+    3488283289,
+    3488283290,
+    3488283291,
+    3488283292,
+    3488283293,
+    3488283294,
+    3488283295,
+    3488283280
+  ],
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "way",
+  "id": 341765623,
+  "center": {
+    "lat": 27.7532022,
+    "lon": 85.0636719
+  },
+  "nodes": [
+    3488639746,
+    3488639747,
+    3488639748,
+    3488639749,
+    3488639750,
+    3488639751,
+    3488639752,
+    3488639753,
+    3488639754,
+    3488639746
+  ],
+  "tags": {
+    "place": "hamlet"
+  }
+},
+{
+  "type": "way",
+  "id": 342549045,
+  "center": {
+    "lat": 27.7822811,
+    "lon": 84.9125695
+  },
+  "nodes": [
+    3495254713,
+    3495254714,
+    3495254715,
+    3495254716,
+    3495254717,
+    3495254718,
+    3495254713
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 343001074,
+  "center": {
+    "lat": 28.0450719,
+    "lon": 85.0963564
+  },
+  "nodes": [
+    3499299870,
+    3499299867,
+    3499299866,
+    8273340388,
+    3499299855,
+    3499299853,
+    3499299851,
+    8273340378,
+    3499299854,
+    3499299856,
+    3499299865,
+    3499299868,
+    3499299871,
+    3499299870
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 344177821,
+  "center": {
+    "lat": 27.8368604,
+    "lon": 84.9621357
+  },
+  "nodes": [
+    3509365500,
+    3509365501,
+    3509365502,
+    3509365503,
+    3509365504,
+    3509365505,
+    3509365506,
+    3509365507,
+    3509365508,
+    3509365509,
+    3509365510,
+    3509365511,
+    3509365512,
+    13171830561,
+    3509365500
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Gaindanda Village",
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 344178226,
+  "center": {
+    "lat": 27.8342897,
+    "lon": 84.9611136
+  },
+  "nodes": [
+    3509368414,
+    3509368415,
+    3509368416,
+    3509368417,
+    3509368418,
+    13171830570,
+    3509368419,
+    4457854786,
+    3509368420,
+    3509368421,
+    3509368422,
+    3509368423,
+    3509368424,
+    3509368425,
+    3509368426,
+    3509368427,
+    3509368428,
+    3509368429,
+    3509368430,
+    3509368431,
+    3509368432,
+    3509368433,
+    3509368434,
+    3509368435,
+    3509368436,
+    3509368437,
+    3509368438,
+    13171830569,
+    3509368439,
+    3509368414
+  ],
+  "tags": {
+    "landuse": "residential",
+    "name": "Archale Village",
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 344578959,
+  "center": {
+    "lat": 27.8375242,
+    "lon": 84.9564817
+  },
+  "nodes": [
+    3513255781,
+    3513255782,
+    3513255935,
+    3513255963,
+    3513256214,
+    3513256232,
+    3513256243,
+    3513256238,
+    3513256195,
+    3513255950,
+    3513255898,
+    3513255781
+  ],
+  "tags": {
+    "name": "Kalleri Village",
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 448808888,
+  "center": {
+    "lat": 27.8369505,
+    "lon": 84.9625626
+  },
+  "nodes": [
+    4457843677,
+    4457843678,
+    4457843679,
+    13171844362,
+    4457843677
+  ],
+  "tags": {
+    "name": "Poultry Farm",
+    "place": "farm"
+  }
+},
+{
+  "type": "way",
+  "id": 448813538,
+  "center": {
+    "lat": 27.8128161,
+    "lon": 84.9659293
+  },
+  "nodes": [
+    4457882752,
+    4457882761,
+    4457882753,
+    4457882754,
+    4457882755,
+    4457882756,
+    4457882757,
+    4457882758,
+    4457882759,
+    4457882760,
+    4457882742,
+    4457882743,
+    4457882744,
+    4457882748,
+    4457882749,
+    4457882750,
+    4457882751,
+    4457882745,
+    4457882746,
+    4457882747,
+    4457882752
+  ],
+  "tags": {
+    "name": "Keurintar Farm Land",
+    "place": "farm"
+  }
+},
+{
+  "type": "way",
+  "id": 569571063,
+  "center": {
+    "lat": 27.8751595,
+    "lon": 84.9073992
+  },
+  "nodes": [
+    5477413750,
+    5477413749,
+    5477413748,
+    5477413747,
+    5477413746,
+    5477413745,
+    5477413750
+  ],
+  "tags": {
+    "amenity": "animal_boarding",
+    "animal_boarding": "mammal",
+    "name": "Ishwori Baakhra Form",
+    "place": "farm"
+  }
+},
+{
+  "type": "way",
+  "id": 593727215,
+  "center": {
+    "lat": 27.7607853,
+    "lon": 84.9008948
+  },
+  "nodes": [
+    5663367602,
+    5663367603,
+    5663367604,
+    5663367605,
+    5663367606,
+    5663367607,
+    5663367608,
+    5663367602
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727216,
+  "center": {
+    "lat": 27.7615087,
+    "lon": 84.9008747
+  },
+  "nodes": [
+    5663367609,
+    5663367610,
+    5663367611,
+    5663367612,
+    5663367613,
+    5663367614,
+    5663367609
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727217,
+  "center": {
+    "lat": 27.7624732,
+    "lon": 84.9024904
+  },
+  "nodes": [
+    5663367615,
+    5663367616,
+    5663367617,
+    5663367618,
+    5663367619,
+    5663367620,
+    5663367721,
+    5663367615
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727218,
+  "center": {
+    "lat": 27.7621397,
+    "lon": 84.9047396
+  },
+  "nodes": [
+    5663367722,
+    5663367723,
+    5663367724,
+    5663367725,
+    5663367726,
+    5663367727,
+    5663367728,
+    5663367729,
+    5663367730,
+    5663367731,
+    5663367722
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727219,
+  "center": {
+    "lat": 27.7619040,
+    "lon": 84.9051298
+  },
+  "nodes": [
+    5663367732,
+    5663367733,
+    5663367734,
+    5663367735,
+    5663367736,
+    5663367737,
+    5663367732
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727220,
+  "center": {
+    "lat": 27.7611786,
+    "lon": 84.9082635
+  },
+  "nodes": [
+    5663367738,
+    5663367739,
+    5663367740,
+    5663367741,
+    5663367742,
+    5663367743,
+    5663367744,
+    5663367738
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727221,
+  "center": {
+    "lat": 27.7622974,
+    "lon": 84.9094216
+  },
+  "nodes": [
+    5663367745,
+    5663367746,
+    5663367747,
+    5663367748,
+    5663367749,
+    5663367750,
+    5663367751,
+    5663367745
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727222,
+  "center": {
+    "lat": 27.7588244,
+    "lon": 84.9109505
+  },
+  "nodes": [
+    5663367752,
+    5663367753,
+    5663367754,
+    5663367755,
+    5663367756,
+    5663367757,
+    5663367758,
+    5663367759,
+    5663367760,
+    5663367761,
+    5663367762,
+    5663367752
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727223,
+  "center": {
+    "lat": 27.7584767,
+    "lon": 84.9095526
+  },
+  "nodes": [
+    5663367763,
+    5663367764,
+    5663367765,
+    5663367766,
+    5663367767,
+    5663367768,
+    5663367769,
+    5663367770,
+    5663367763
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727224,
+  "center": {
+    "lat": 27.7582811,
+    "lon": 84.9089633
+  },
+  "nodes": [
+    5663367771,
+    5663367772,
+    5663367773,
+    5663367774,
+    5663367775,
+    5663367776,
+    5663367777,
+    5663367771
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727225,
+  "center": {
+    "lat": 27.7573233,
+    "lon": 84.9092822
+  },
+  "nodes": [
+    5663367778,
+    5663367779,
+    5663367780,
+    5663367781,
+    5663367782,
+    5663367783,
+    5663367784,
+    5663367785,
+    5663367778
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727226,
+  "center": {
+    "lat": 27.7569902,
+    "lon": 84.9101898
+  },
+  "nodes": [
+    5663367786,
+    5663367787,
+    5663367788,
+    5663367789,
+    5663367790,
+    5663367791,
+    5663367792,
+    5663367793,
+    5663367794,
+    5663367795,
+    5663367796,
+    5663367786
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727227,
+  "center": {
+    "lat": 27.7555390,
+    "lon": 84.9070155
+  },
+  "nodes": [
+    5663367797,
+    5663367798,
+    5663367799,
+    5663367800,
+    5663367801,
+    5663367802,
+    5663367803,
+    5663367804,
+    5663367797
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727228,
+  "center": {
+    "lat": 27.7558876,
+    "lon": 84.9041729
+  },
+  "nodes": [
+    5663367805,
+    5663367806,
+    5663367807,
+    5663367808,
+    5663367809,
+    5663367810,
+    5663367811,
+    5663367812,
+    5663367813,
+    5663367814,
+    5663367815,
+    5663367805
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727229,
+  "center": {
+    "lat": 27.7637332,
+    "lon": 84.9043396
+  },
+  "nodes": [
+    5663367816,
+    5663367817,
+    5663367818,
+    5663367819,
+    5663367820,
+    5663367921,
+    5663367922,
+    5663367816
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727230,
+  "center": {
+    "lat": 27.7606112,
+    "lon": 84.9121866
+  },
+  "nodes": [
+    5663367923,
+    5663367924,
+    5663367925,
+    5663367926,
+    5663367927,
+    5663367928,
+    5663367923
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727231,
+  "center": {
+    "lat": 27.7568026,
+    "lon": 84.9152226
+  },
+  "nodes": [
+    5663367929,
+    5663367930,
+    5663367931,
+    5663367932,
+    5663367933,
+    5663367934,
+    5663367935,
+    5663367936,
+    5663367929
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727232,
+  "center": {
+    "lat": 27.7659277,
+    "lon": 84.9028352
+  },
+  "nodes": [
+    5663367937,
+    5663367938,
+    5663367939,
+    5414065059,
+    5663367940,
+    5663367941,
+    5663367942,
+    5663367937
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727233,
+  "center": {
+    "lat": 27.7665596,
+    "lon": 84.9005341
+  },
+  "nodes": [
+    5663367943,
+    5663367944,
+    5663367945,
+    5663367946,
+    5663367947,
+    5663367948,
+    5663367949,
+    5663367950,
+    5663367943
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727234,
+  "center": {
+    "lat": 27.7677175,
+    "lon": 84.8999183
+  },
+  "nodes": [
+    5663367951,
+    5663367952,
+    5663367953,
+    5663367954,
+    5663367955,
+    5663367956,
+    5663367951
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593727235,
+  "center": {
+    "lat": 27.7672054,
+    "lon": 84.9008697
+  },
+  "nodes": [
+    5663367957,
+    5663367958,
+    5663367959,
+    5663367960,
+    5663367961,
+    5663367962,
+    5663367963,
+    5663367964,
+    5663367957
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731272,
+  "center": {
+    "lat": 27.7754442,
+    "lon": 84.8995908
+  },
+  "nodes": [
+    5663411999,
+    5663412000,
+    5663412001,
+    5663412002,
+    5663412003,
+    5663412004,
+    5663412005,
+    5663412006,
+    5663412007,
+    5663412008,
+    5663412009,
+    5663412010,
+    5663412011,
+    5663412012,
+    5663412013,
+    5663412014,
+    5663412015,
+    5663412016,
+    5663412017,
+    5663412018,
+    5663411999
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731274,
+  "center": {
+    "lat": 27.7727043,
+    "lon": 84.9007194
+  },
+  "nodes": [
+    5663412027,
+    5663412028,
+    5663412029,
+    5663412030,
+    5663412031,
+    5663412032,
+    5414090604,
+    5663412033,
+    5663412034,
+    5663412035,
+    5663412036,
+    5663412037,
+    5663412038,
+    5663412039,
+    5663412040,
+    5663412041,
+    5663412042,
+    5663412027
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731275,
+  "center": {
+    "lat": 27.7736869,
+    "lon": 84.9026989
+  },
+  "nodes": [
+    5663412043,
+    5663412044,
+    5663412045,
+    5663412046,
+    5663412047,
+    5663412048,
+    5663412043
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731276,
+  "center": {
+    "lat": 27.7722344,
+    "lon": 84.9027176
+  },
+  "nodes": [
+    5663412049,
+    5663412050,
+    5663412051,
+    5663412052,
+    5663412053,
+    5663412054,
+    5663412055,
+    5663412056,
+    5663412057,
+    5663412058,
+    5663412049
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731277,
+  "center": {
+    "lat": 27.7703774,
+    "lon": 84.9026060
+  },
+  "nodes": [
+    5663412059,
+    5663412060,
+    5663412061,
+    5663412062,
+    5663412063,
+    5663412064,
+    5663412065,
+    5663412059
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731278,
+  "center": {
+    "lat": 27.7711779,
+    "lon": 84.9057447
+  },
+  "nodes": [
+    5663412066,
+    5663412067,
+    5663412068,
+    5663412069,
+    5663412070,
+    5663412071,
+    5663412072,
+    5663412073,
+    5663412074,
+    5663412066
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731279,
+  "center": {
+    "lat": 27.7684201,
+    "lon": 84.9035621
+  },
+  "nodes": [
+    5663412075,
+    5663412076,
+    5663412077,
+    5663412078,
+    5663412079,
+    5663412080,
+    5663412081,
+    5663412075
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731280,
+  "center": {
+    "lat": 27.7688913,
+    "lon": 84.9051646
+  },
+  "nodes": [
+    5663412082,
+    5663412083,
+    5663412084,
+    5663412085,
+    5663412086,
+    5663412087,
+    5663412088,
+    5663412089,
+    5663412082
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731281,
+  "center": {
+    "lat": 27.7677320,
+    "lon": 84.9044072
+  },
+  "nodes": [
+    5663412090,
+    5663412091,
+    5663412092,
+    5663412093,
+    5663412094,
+    5663412095,
+    5663412096,
+    5663412097,
+    5663412090
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731282,
+  "center": {
+    "lat": 27.7693499,
+    "lon": 84.9059484
+  },
+  "nodes": [
+    5663412098,
+    5663412099,
+    5663412100,
+    5663412101,
+    5663412102,
+    5663412103,
+    5663412104,
+    5663412105,
+    5663412106,
+    5663412098
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731283,
+  "center": {
+    "lat": 27.7698154,
+    "lon": 84.9076956
+  },
+  "nodes": [
+    5663412107,
+    5663412108,
+    5663412109,
+    5663412110,
+    5663412111,
+    5663412112,
+    5663412113,
+    5663412114,
+    5663412107
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731284,
+  "center": {
+    "lat": 27.7696596,
+    "lon": 84.9052650
+  },
+  "nodes": [
+    5663412115,
+    5663412116,
+    5663412117,
+    5663412118,
+    5663412119,
+    5663412120,
+    5663412115
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731285,
+  "center": {
+    "lat": 27.7701784,
+    "lon": 84.9042400
+  },
+  "nodes": [
+    5663412321,
+    5663412322,
+    5663412323,
+    5663412324,
+    5663412325,
+    5663412321
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731286,
+  "center": {
+    "lat": 27.7676450,
+    "lon": 84.9087297
+  },
+  "nodes": [
+    5663412326,
+    5663412327,
+    5663412328,
+    5663412329,
+    5663412330,
+    5663412331,
+    5663412332,
+    5663412333,
+    5663412334,
+    5663412335,
+    5663412326
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731287,
+  "center": {
+    "lat": 27.7666845,
+    "lon": 84.9091043
+  },
+  "nodes": [
+    5663412336,
+    5663412337,
+    5663412338,
+    5663412339,
+    5663412340,
+    5663412341,
+    5663412336
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731288,
+  "center": {
+    "lat": 27.7668736,
+    "lon": 84.9113967
+  },
+  "nodes": [
+    5663412342,
+    5663412343,
+    5663412344,
+    5663412345,
+    5663412346,
+    5663412347,
+    5663412348,
+    5663412342
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731290,
+  "center": {
+    "lat": 27.7673568,
+    "lon": 84.9117014
+  },
+  "nodes": [
+    5663412349,
+    5663412350,
+    5663412351,
+    5663412352,
+    5663412353,
+    5663412349
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731291,
+  "center": {
+    "lat": 27.7679054,
+    "lon": 84.9117786
+  },
+  "nodes": [
+    5663412354,
+    5663412355,
+    5663412356,
+    5663412357,
+    5663412358,
+    5663412359,
+    5663412354
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731293,
+  "center": {
+    "lat": 27.7673411,
+    "lon": 84.9104093
+  },
+  "nodes": [
+    5663412360,
+    5663412361,
+    5663412362,
+    5663412363,
+    5663412364,
+    5663412365,
+    5663412360
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731295,
+  "center": {
+    "lat": 27.7676286,
+    "lon": 84.9108034
+  },
+  "nodes": [
+    5663412366,
+    5663412367,
+    5663412368,
+    5663412369,
+    5663412370,
+    5663412371,
+    5663412372,
+    5663412366
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731297,
+  "center": {
+    "lat": 27.7683497,
+    "lon": 84.9094993
+  },
+  "nodes": [
+    5663412373,
+    5663412374,
+    5663412375,
+    5663412376,
+    5663412377,
+    5663412378,
+    5663412373
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731299,
+  "center": {
+    "lat": 27.7719204,
+    "lon": 84.9050874
+  },
+  "nodes": [
+    5663412379,
+    5663412380,
+    5663412381,
+    5663412382,
+    5663412383,
+    5663412384,
+    5663412379
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731301,
+  "center": {
+    "lat": 27.7741587,
+    "lon": 84.9011089
+  },
+  "nodes": [
+    5663412385,
+    5663412386,
+    5663412387,
+    5663412388,
+    5663412389,
+    5663412390,
+    5663412391,
+    5663412385
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731303,
+  "center": {
+    "lat": 27.7745485,
+    "lon": 84.9005511
+  },
+  "nodes": [
+    5663412392,
+    5663412393,
+    5663412394,
+    5663412395,
+    5663412396,
+    5663412392
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731305,
+  "center": {
+    "lat": 27.7770721,
+    "lon": 84.9059870
+  },
+  "nodes": [
+    5663412397,
+    5663412398,
+    5663412399,
+    5663412400,
+    5663412401,
+    5663412397
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731308,
+  "center": {
+    "lat": 27.7766650,
+    "lon": 84.9051328
+  },
+  "nodes": [
+    5663412403,
+    5663412404,
+    5663412405,
+    5663412406,
+    5663412403
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731855,
+  "center": {
+    "lat": 27.7794190,
+    "lon": 84.9083204
+  },
+  "nodes": [
+    5663415415,
+    5663415416,
+    5663415417,
+    5663415418,
+    5663415419,
+    5663415420,
+    5663415415
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731856,
+  "center": {
+    "lat": 27.7793819,
+    "lon": 84.9097441
+  },
+  "nodes": [
+    5663416121,
+    5663416122,
+    5663416123,
+    5663416124,
+    5663416125,
+    5663416126,
+    5663416127,
+    5663416128,
+    5663416129,
+    5663416130,
+    5663416121
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731857,
+  "center": {
+    "lat": 27.7801321,
+    "lon": 84.9122701
+  },
+  "nodes": [
+    5663416132,
+    5663416133,
+    5663416134,
+    5663416135,
+    5663416136,
+    5663416137,
+    5663416138,
+    5663416139,
+    5663416140,
+    5663416141,
+    5663416132
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731858,
+  "center": {
+    "lat": 27.7828987,
+    "lon": 84.9097036
+  },
+  "nodes": [
+    5663416142,
+    5663416143,
+    5663416144,
+    5663416145,
+    5663416146,
+    5663416147,
+    5663416148,
+    5663416149,
+    5663416150,
+    5663416151,
+    5663416142
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731859,
+  "center": {
+    "lat": 27.7825372,
+    "lon": 84.9105776
+  },
+  "nodes": [
+    5663416152,
+    5663416153,
+    5663416154,
+    5663416155,
+    5663416156,
+    5663416157,
+    5663416158,
+    5663416152
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731860,
+  "center": {
+    "lat": 27.7837440,
+    "lon": 84.9113624
+  },
+  "nodes": [
+    5663416159,
+    5663416160,
+    5663416161,
+    5663416162,
+    5663416163,
+    5663416164,
+    5663416165,
+    5663416166,
+    5663416167,
+    5663416168,
+    5663416169,
+    5663416170,
+    5663416171,
+    5663416159
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731861,
+  "center": {
+    "lat": 27.7810501,
+    "lon": 84.9045637
+  },
+  "nodes": [
+    5663416172,
+    5663416173,
+    5663416174,
+    5663416175,
+    5663416176,
+    5663416177,
+    5663416178,
+    5663416172
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593731862,
+  "center": {
+    "lat": 27.7802692,
+    "lon": 84.9034561
+  },
+  "nodes": [
+    5663416179,
+    5663416180,
+    5663416181,
+    5663416182,
+    5663416183,
+    5663416184,
+    5663416185,
+    5663416179
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735433,
+  "center": {
+    "lat": 27.7797554,
+    "lon": 84.9047086
+  },
+  "nodes": [
+    5663438222,
+    5663438223,
+    5663438224,
+    5663438225,
+    5663438226,
+    5663438227,
+    5663438222
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735434,
+  "center": {
+    "lat": 27.7801916,
+    "lon": 84.9058103
+  },
+  "nodes": [
+    5663438228,
+    5663438229,
+    5663438230,
+    5663438231,
+    5663438232,
+    5663438233,
+    5663438228
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735435,
+  "center": {
+    "lat": 27.7804369,
+    "lon": 84.9085731
+  },
+  "nodes": [
+    5663438234,
+    5663438235,
+    5663438236,
+    5663438237,
+    5663438238,
+    5663438239,
+    5663438234
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735436,
+  "center": {
+    "lat": 27.7803189,
+    "lon": 84.9094980
+  },
+  "nodes": [
+    5663438240,
+    5663438241,
+    5663438242,
+    5663438243,
+    5663438244,
+    5663438245,
+    5663438246,
+    5663438247,
+    5663438240
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735437,
+  "center": {
+    "lat": 27.7776717,
+    "lon": 84.9089103
+  },
+  "nodes": [
+    5663438248,
+    5663438249,
+    5663438250,
+    5663438251,
+    5663438252,
+    5663438253,
+    5663438254,
+    5663438248
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735438,
+  "center": {
+    "lat": 27.7768444,
+    "lon": 84.9096686
+  },
+  "nodes": [
+    5663438255,
+    5663438256,
+    5663438257,
+    5663438258,
+    5663438259,
+    5663438255
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735439,
+  "center": {
+    "lat": 27.7755621,
+    "lon": 84.9093798
+  },
+  "nodes": [
+    5663438260,
+    5663438261,
+    5663438262,
+    5663438263,
+    5663438264,
+    5663438265,
+    5663438266,
+    5663438260
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735440,
+  "center": {
+    "lat": 27.7738541,
+    "lon": 84.9124433
+  },
+  "nodes": [
+    5663438267,
+    5663438268,
+    5663438269,
+    5663438270,
+    5663438271,
+    5663438272,
+    5663438273,
+    5663438274,
+    5663438275,
+    5663438276,
+    5663438277,
+    5663438278,
+    5663438267
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735441,
+  "center": {
+    "lat": 27.7743561,
+    "lon": 84.9137159
+  },
+  "nodes": [
+    5663438279,
+    5663438280,
+    5663438281,
+    5663438282,
+    5663438283,
+    5663438279
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735442,
+  "center": {
+    "lat": 27.7746900,
+    "lon": 84.9126502
+  },
+  "nodes": [
+    5663438284,
+    5663438285,
+    5663438286,
+    5663438287,
+    5663438288,
+    5663438289,
+    5663438290,
+    5663438284
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735443,
+  "center": {
+    "lat": 27.7753886,
+    "lon": 84.9124133
+  },
+  "nodes": [
+    5663438291,
+    5663438292,
+    5663438293,
+    5663438294,
+    5663438295,
+    5663438296,
+    5663438297,
+    5663438298,
+    5663438291
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735446,
+  "center": {
+    "lat": 27.7795352,
+    "lon": 84.9004021
+  },
+  "nodes": [
+    5663438318,
+    5663438319,
+    5663438320,
+    5663438621,
+    5663438622,
+    5663438623,
+    5663438318
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735447,
+  "center": {
+    "lat": 27.7803432,
+    "lon": 84.9005445
+  },
+  "nodes": [
+    5663438624,
+    5663438625,
+    5663438626,
+    5663438627,
+    5663438628,
+    5663438629,
+    5663438624
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735448,
+  "center": {
+    "lat": 27.7808597,
+    "lon": 84.9004674
+  },
+  "nodes": [
+    5663438631,
+    5663438632,
+    5663438633,
+    5663438634,
+    5663438635,
+    5663438636,
+    5663438631
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735449,
+  "center": {
+    "lat": 27.7819504,
+    "lon": 84.9000658
+  },
+  "nodes": [
+    5663438637,
+    5663438638,
+    5663438639,
+    5663438640,
+    5663438641,
+    5663438642,
+    5663438643,
+    5663438644,
+    5663438645,
+    5663438637
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735463,
+  "center": {
+    "lat": 27.7988791,
+    "lon": 84.9020692
+  },
+  "nodes": [
+    5663438775,
+    5663438776,
+    5663438777,
+    5663438778,
+    5663438779,
+    5663438780,
+    5663438781,
+    5663438782,
+    5663438783,
+    5663438784,
+    5663438785,
+    5663438775
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735464,
+  "center": {
+    "lat": 27.8002217,
+    "lon": 84.9020412
+  },
+  "nodes": [
+    5663438786,
+    5663438787,
+    5663438788,
+    5663438789,
+    5663438790,
+    5663438791,
+    5663438792,
+    5663438793,
+    5663438794,
+    5663438786
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735465,
+  "center": {
+    "lat": 27.8002711,
+    "lon": 84.9009873
+  },
+  "nodes": [
+    5663438795,
+    5663438796,
+    5663438797,
+    5663438798,
+    5663438799,
+    5663438800,
+    5663438795
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735466,
+  "center": {
+    "lat": 27.8007895,
+    "lon": 84.9011926
+  },
+  "nodes": [
+    5663438801,
+    5533149789,
+    5663438802,
+    5663438803,
+    5663438804,
+    5663438805,
+    5663438801
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735467,
+  "center": {
+    "lat": 27.8013316,
+    "lon": 84.9019344
+  },
+  "nodes": [
+    5663438806,
+    5663438807,
+    5663438808,
+    5663438809,
+    5663438810,
+    5663438811,
+    5663438812,
+    5663438813,
+    5663438814,
+    5663438815,
+    5663438816,
+    5663438817,
+    5663438818,
+    5663438819,
+    5663438806
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735468,
+  "center": {
+    "lat": 27.8018633,
+    "lon": 84.9006780
+  },
+  "nodes": [
+    5663438820,
+    5663438821,
+    5663438822,
+    5663438823,
+    5663438824,
+    5663438825,
+    5663438826,
+    5663438827,
+    5663438828,
+    5663438820
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735469,
+  "center": {
+    "lat": 27.8032783,
+    "lon": 84.9009524
+  },
+  "nodes": [
+    5663438829,
+    5663438830,
+    5663438831,
+    5663438832,
+    5663438833,
+    5663438834,
+    5663438835,
+    5663438829
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735474,
+  "center": {
+    "lat": 27.7948093,
+    "lon": 84.9137140
+  },
+  "nodes": [
+    5663438874,
+    5663438875,
+    5663438876,
+    5663438877,
+    5663438878,
+    5663438879,
+    5663438874
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735475,
+  "center": {
+    "lat": 27.7877321,
+    "lon": 84.9161250
+  },
+  "nodes": [
+    5663438880,
+    5663438881,
+    5663438882,
+    5663438883,
+    5663438884,
+    5663438885,
+    5663438886,
+    5663438887,
+    5663438888,
+    5663438889,
+    5663438890,
+    5663438891,
+    5663438892,
+    5663438893,
+    5663438894,
+    5663438895,
+    5663438896,
+    5663438897,
+    5663438898,
+    5663438880
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735476,
+  "center": {
+    "lat": 27.7879133,
+    "lon": 84.9135258
+  },
+  "nodes": [
+    5663438899,
+    5663438900,
+    5663438901,
+    5663438902,
+    5663438903,
+    5663438904,
+    5663438899
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735477,
+  "center": {
+    "lat": 27.7873504,
+    "lon": 84.9135089
+  },
+  "nodes": [
+    5663438905,
+    5663438906,
+    5663438907,
+    5663438908,
+    5663438909,
+    5663438905
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735478,
+  "center": {
+    "lat": 27.7889744,
+    "lon": 84.9170098
+  },
+  "nodes": [
+    5663438910,
+    5663438911,
+    5663438912,
+    5663438913,
+    5663438914,
+    5663438915,
+    5663438910
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735479,
+  "center": {
+    "lat": 27.7889053,
+    "lon": 84.9185154
+  },
+  "nodes": [
+    5663438916,
+    5663438917,
+    5663438918,
+    5663438919,
+    5663438920,
+    5663438921,
+    5663438922,
+    5663438923,
+    5663438924,
+    5663438925,
+    5663438916
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735480,
+  "center": {
+    "lat": 27.7892107,
+    "lon": 84.9210746
+  },
+  "nodes": [
+    5663438926,
+    5663438927,
+    5663438928,
+    5663438929,
+    5663438930,
+    5663438931,
+    5663438932,
+    5663438933,
+    5663438934,
+    5663438935,
+    5663438936,
+    5663438937,
+    5663438938,
+    5663438939,
+    5663438940,
+    5663438941,
+    5663438942,
+    5663438926
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735481,
+  "center": {
+    "lat": 27.7891793,
+    "lon": 84.9197590
+  },
+  "nodes": [
+    5663438943,
+    5663438944,
+    5663438945,
+    5663438946,
+    5663438947,
+    5663438948,
+    5663438949,
+    5663438950,
+    5663438951,
+    5663438952,
+    5663438953,
+    5663438954,
+    5663438955,
+    5663438956,
+    5663438957,
+    5663438943
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735482,
+  "center": {
+    "lat": 27.7909847,
+    "lon": 84.9240044
+  },
+  "nodes": [
+    5663438958,
+    5663438959,
+    5663438960,
+    5663438961,
+    5663438962,
+    5663438963,
+    5663438964,
+    5663438965,
+    5663438966,
+    5663438967,
+    5663438968,
+    3506026377,
+    5663438969,
+    5663438970,
+    5663438971,
+    5663438972,
+    5663438973,
+    5663438974,
+    5663438975,
+    5663438958
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735483,
+  "center": {
+    "lat": 27.7905960,
+    "lon": 84.9231582
+  },
+  "nodes": [
+    5663438976,
+    5663438977,
+    5663438978,
+    5663438979,
+    5663438980,
+    5663438976
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735484,
+  "center": {
+    "lat": 27.7919165,
+    "lon": 84.9234010
+  },
+  "nodes": [
+    5663438981,
+    5663438982,
+    5663438983,
+    5663438984,
+    5663438985,
+    5663438986,
+    5663438981
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735485,
+  "center": {
+    "lat": 27.7860386,
+    "lon": 84.9160081
+  },
+  "nodes": [
+    5663438987,
+    5663438988,
+    5663438989,
+    5663438990,
+    5663438991,
+    5663438992,
+    5663438993,
+    5663438994,
+    5663438995,
+    5663438996,
+    5663438997,
+    5663438987
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735486,
+  "center": {
+    "lat": 27.7852488,
+    "lon": 84.9113880
+  },
+  "nodes": [
+    5663438998,
+    5663438999,
+    5663439000,
+    5663439001,
+    5663439002,
+    5663439003,
+    5663439004,
+    5663439005,
+    5663439006,
+    5663439007,
+    5663439008,
+    5663438998
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735487,
+  "center": {
+    "lat": 27.7859314,
+    "lon": 84.9135734
+  },
+  "nodes": [
+    5663439009,
+    5663439010,
+    5663439011,
+    5663439012,
+    5663439013,
+    5663439014,
+    5663439009
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735488,
+  "center": {
+    "lat": 27.7859152,
+    "lon": 84.9091156
+  },
+  "nodes": [
+    5663439015,
+    5663439016,
+    5663439017,
+    5663439018,
+    5663439019,
+    5663439020,
+    5663439021,
+    5663439022,
+    5663439023,
+    5663439024,
+    5663439025,
+    5663439026,
+    5663439027,
+    5663439015
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735489,
+  "center": {
+    "lat": 27.7861913,
+    "lon": 84.9106661
+  },
+  "nodes": [
+    5663439028,
+    5663439029,
+    5663439030,
+    5663439031,
+    5663439032,
+    5663439033,
+    5663439034,
+    5663439035,
+    5663439028
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735490,
+  "center": {
+    "lat": 27.7872870,
+    "lon": 84.9069628
+  },
+  "nodes": [
+    5663439036,
+    5663439037,
+    5663439038,
+    5663439039,
+    5663439040,
+    5663439041,
+    5663439042,
+    5663439043,
+    5663439044,
+    5663439045,
+    5663439046,
+    5663439036
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735491,
+  "center": {
+    "lat": 27.7878463,
+    "lon": 84.9057725
+  },
+  "nodes": [
+    5663439047,
+    5663439048,
+    5663439049,
+    5663439050,
+    5663439051,
+    5663439052,
+    5663439053,
+    5663439054,
+    5663439055,
+    5663439056,
+    5663439057,
+    5663439058,
+    5663439059,
+    5663439060,
+    5663439061,
+    5663439062,
+    5663439047
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735492,
+  "center": {
+    "lat": 27.7846372,
+    "lon": 84.9056131
+  },
+  "nodes": [
+    5663439063,
+    5663439064,
+    5663439065,
+    5663439066,
+    5663439067,
+    5663439068,
+    5663439069,
+    5663439070,
+    5663439063
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735494,
+  "center": {
+    "lat": 27.7899725,
+    "lon": 84.9105215
+  },
+  "nodes": [
+    5663439077,
+    5663439078,
+    5663439079,
+    5663439080,
+    5663439081,
+    5663439077
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735495,
+  "center": {
+    "lat": 27.7905461,
+    "lon": 84.9088242
+  },
+  "nodes": [
+    5663439082,
+    5663439083,
+    5663439084,
+    5663439085,
+    5663439086,
+    5663439087,
+    5663439082
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735496,
+  "center": {
+    "lat": 27.7911000,
+    "lon": 84.9088486
+  },
+  "nodes": [
+    5663439088,
+    5663439089,
+    5663439090,
+    5663439091,
+    5663439092,
+    5663439093,
+    5663439088
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735497,
+  "center": {
+    "lat": 27.7901464,
+    "lon": 84.9081236
+  },
+  "nodes": [
+    5663439094,
+    5663439095,
+    5663439096,
+    5663439097,
+    5663439098,
+    5663439099,
+    5663439100,
+    5663439094
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735499,
+  "center": {
+    "lat": 27.7919309,
+    "lon": 84.9090529
+  },
+  "nodes": [
+    5663439101,
+    5663439102,
+    5663439103,
+    5663439104,
+    5663439105,
+    5663439106,
+    5663439107,
+    5663439101
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735501,
+  "center": {
+    "lat": 27.7916537,
+    "lon": 84.9119133
+  },
+  "nodes": [
+    5663439108,
+    5663439109,
+    5663439110,
+    5663439111,
+    5663439112,
+    5663439113,
+    5663439114,
+    5663439115,
+    5663439108
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735502,
+  "center": {
+    "lat": 27.7902427,
+    "lon": 84.9107777
+  },
+  "nodes": [
+    5663439116,
+    5663439117,
+    5663439118,
+    5663439119,
+    5663439120,
+    5663439116
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593735503,
+  "center": {
+    "lat": 27.7901525,
+    "lon": 84.9095425
+  },
+  "nodes": [
+    5663439121,
+    5663439122,
+    5663439123,
+    5663439124,
+    5663439125,
+    5663439121
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739177,
+  "center": {
+    "lat": 27.7900243,
+    "lon": 84.9161492
+  },
+  "nodes": [
+    5663468274,
+    5663468275,
+    5663468276,
+    5663468277,
+    5663468278,
+    5663468279,
+    5663468280,
+    5663468281,
+    5663468274
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739178,
+  "center": {
+    "lat": 27.7888976,
+    "lon": 84.9145223
+  },
+  "nodes": [
+    5663468282,
+    5663468283,
+    5663468284,
+    5663468285,
+    5663468286,
+    5663468287,
+    5663468282
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739179,
+  "center": {
+    "lat": 27.7787421,
+    "lon": 84.9050731
+  },
+  "nodes": [
+    5663468288,
+    5663468289,
+    5663468290,
+    5663468291,
+    5663468292,
+    5663468293,
+    5663468294,
+    5663468288
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739180,
+  "center": {
+    "lat": 27.7787065,
+    "lon": 84.9067657
+  },
+  "nodes": [
+    5663468295,
+    5663468296,
+    5663468297,
+    5663468298,
+    5663468299,
+    5663468300,
+    5663468295
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739181,
+  "center": {
+    "lat": 27.7790720,
+    "lon": 84.9076803
+  },
+  "nodes": [
+    5663468301,
+    5663468302,
+    5663468303,
+    5663468304,
+    5663468305,
+    5663468306,
+    5663468307,
+    5663468301
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739182,
+  "center": {
+    "lat": 27.7795204,
+    "lon": 84.9064572
+  },
+  "nodes": [
+    5663468308,
+    5663468309,
+    5663468310,
+    5663468311,
+    5663468312,
+    5663468308
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739183,
+  "center": {
+    "lat": 27.7891598,
+    "lon": 84.9160078
+  },
+  "nodes": [
+    5663468313,
+    5663468314,
+    5663468315,
+    5663468316,
+    5663468317,
+    5663468318,
+    5663468313
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739184,
+  "center": {
+    "lat": 27.7950669,
+    "lon": 84.9158017
+  },
+  "nodes": [
+    5663468319,
+    5663468320,
+    5663468621,
+    5663468622,
+    5663468623,
+    5663468624,
+    5663468319
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739204,
+  "center": {
+    "lat": 27.7924235,
+    "lon": 84.9317823
+  },
+  "nodes": [
+    5663468771,
+    5663468772,
+    5663468773,
+    5663468774,
+    5663468775,
+    5663468771
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739205,
+  "center": {
+    "lat": 27.7939722,
+    "lon": 84.9317793
+  },
+  "nodes": [
+    5663468776,
+    5663468777,
+    5663468778,
+    5663468779,
+    5663468780,
+    5663468781,
+    5663468782,
+    5663468783,
+    5663468784,
+    5663468785,
+    5663468786,
+    5663468787,
+    5663468776
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739206,
+  "center": {
+    "lat": 27.7960314,
+    "lon": 84.9353665
+  },
+  "nodes": [
+    5663468788,
+    5663468789,
+    5663468790,
+    5663468791,
+    5663468792,
+    5663468793,
+    5663468794,
+    5663468795,
+    5663468796,
+    5663468797,
+    5663468798,
+    5663468799,
+    5663468800,
+    5663468801,
+    5663468788
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739207,
+  "center": {
+    "lat": 27.7950084,
+    "lon": 84.9339844
+  },
+  "nodes": [
+    5663468802,
+    5663468803,
+    5663468804,
+    5663468805,
+    5663468806,
+    5663468807,
+    5663468808,
+    5663468809,
+    5663468802
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739208,
+  "center": {
+    "lat": 27.7900315,
+    "lon": 84.9352626
+  },
+  "nodes": [
+    5663468810,
+    5663468811,
+    5663468812,
+    5663468813,
+    5663468814,
+    5663468815,
+    5663468816,
+    5663468817,
+    5663468818,
+    5663468819,
+    5663468810
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739209,
+  "center": {
+    "lat": 27.7919464,
+    "lon": 84.9392717
+  },
+  "nodes": [
+    3506026532,
+    5663468820,
+    5663468821,
+    5663468822,
+    5663468823,
+    5663468824,
+    5663468825,
+    5663468826,
+    5663468827,
+    3506026532
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739210,
+  "center": {
+    "lat": 27.7910952,
+    "lon": 84.9402821
+  },
+  "nodes": [
+    3506026511,
+    5663468828,
+    5663468829,
+    5663468830,
+    5663468831,
+    5663468832,
+    5663468833,
+    5663468834,
+    5663468835,
+    5663468836,
+    3506026510,
+    5663468837,
+    3506026511
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739211,
+  "center": {
+    "lat": 27.7896852,
+    "lon": 84.9400767
+  },
+  "nodes": [
+    5663468838,
+    5663468839,
+    5663468840,
+    5663468841,
+    5663468842,
+    5663468843,
+    5663468838
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739212,
+  "center": {
+    "lat": 27.7911684,
+    "lon": 84.9398849
+  },
+  "nodes": [
+    5663468844,
+    5663468845,
+    5663468846,
+    5663468847,
+    5663468848,
+    5663468849,
+    5663468850,
+    5663468844
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739213,
+  "center": {
+    "lat": 27.7917918,
+    "lon": 84.9383496
+  },
+  "nodes": [
+    5663468851,
+    5663468852,
+    5663468853,
+    5663468854,
+    5663468855,
+    5663468851
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739214,
+  "center": {
+    "lat": 27.7974132,
+    "lon": 84.9415955
+  },
+  "nodes": [
+    5663468856,
+    5663468857,
+    5663468858,
+    5663468859,
+    5663468860,
+    3488015453,
+    5663468861,
+    5663468862,
+    5663468863,
+    5663468864,
+    5663468865,
+    5663468866,
+    5663468867,
+    5663468856
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739215,
+  "center": {
+    "lat": 27.7979053,
+    "lon": 84.9432545
+  },
+  "nodes": [
+    5663468868,
+    5663468869,
+    5663468870,
+    5663468871,
+    5663468872,
+    5663468873,
+    5663468874,
+    5663468875,
+    5663468868
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739216,
+  "center": {
+    "lat": 27.7794482,
+    "lon": 84.9381423
+  },
+  "nodes": [
+    5663468876,
+    5663468877,
+    5663468878,
+    5663468879,
+    5663468880,
+    5663468881,
+    5663468876
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739217,
+  "center": {
+    "lat": 27.7783832,
+    "lon": 84.9329359
+  },
+  "nodes": [
+    5663468882,
+    5663468883,
+    5663468884,
+    5663468885,
+    5663468886,
+    5663468887,
+    5663468888,
+    5663468882
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739218,
+  "center": {
+    "lat": 27.7775254,
+    "lon": 84.9346989
+  },
+  "nodes": [
+    5663468889,
+    5663468890,
+    5663468891,
+    5663468892,
+    5663468893,
+    5663468894,
+    5663468889
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739219,
+  "center": {
+    "lat": 27.7752738,
+    "lon": 84.9316785
+  },
+  "nodes": [
+    5663468895,
+    5663468896,
+    5663468897,
+    5663468898,
+    5663468899,
+    5663468900,
+    5663468901,
+    5663468895
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739220,
+  "center": {
+    "lat": 27.7660721,
+    "lon": 84.9338361
+  },
+  "nodes": [
+    5663468902,
+    5663468903,
+    5663468904,
+    5663468905,
+    5663468906,
+    5663468907,
+    3506025262,
+    5663468908,
+    5663468909,
+    5663468910,
+    3506025538,
+    5663468911,
+    5663468902
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739227,
+  "center": {
+    "lat": 27.7635547,
+    "lon": 84.9257282
+  },
+  "nodes": [
+    5663468955,
+    3489013155,
+    5663468956,
+    5663468957,
+    5663468958,
+    5663468959,
+    5663468955
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739228,
+  "center": {
+    "lat": 27.7641994,
+    "lon": 84.9256698
+  },
+  "nodes": [
+    5663468960,
+    5663468961,
+    5663468962,
+    5663468963,
+    5663468964,
+    5663468960
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739229,
+  "center": {
+    "lat": 27.7632002,
+    "lon": 84.9250143
+  },
+  "nodes": [
+    5663468965,
+    5663468966,
+    5663468967,
+    5663468968,
+    5663468969,
+    5663468970,
+    5663468971,
+    5663468972,
+    5663468973,
+    5663468974,
+    5663468975,
+    5663468976,
+    5663468965
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739230,
+  "center": {
+    "lat": 27.7633061,
+    "lon": 84.9219321
+  },
+  "nodes": [
+    5663468977,
+    5663468978,
+    5663468979,
+    5663468980,
+    5663468981,
+    5663468982,
+    5663468983,
+    5663468984,
+    5663468977
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739231,
+  "center": {
+    "lat": 27.7642774,
+    "lon": 84.9208465
+  },
+  "nodes": [
+    5663468985,
+    5663468986,
+    5663468987,
+    5663468988,
+    5663468989,
+    5663468990,
+    5663468991,
+    5663468992,
+    5663468993,
+    5663468985
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739232,
+  "center": {
+    "lat": 27.7636804,
+    "lon": 84.9226962
+  },
+  "nodes": [
+    5663468994,
+    5663468995,
+    5663468996,
+    5663468997,
+    5663468998,
+    5663468994
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739233,
+  "center": {
+    "lat": 27.7641043,
+    "lon": 84.9229119
+  },
+  "nodes": [
+    5663468999,
+    5663469000,
+    5663469001,
+    5663469002,
+    5663469003,
+    5663469004,
+    5663469005,
+    5663469006,
+    5663468999
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739234,
+  "center": {
+    "lat": 27.7648336,
+    "lon": 84.9233047
+  },
+  "nodes": [
+    5663469007,
+    5663469008,
+    5663469009,
+    5663469010,
+    5663469011,
+    5663469012,
+    5663469007
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739235,
+  "center": {
+    "lat": 27.7652889,
+    "lon": 84.9212527
+  },
+  "nodes": [
+    5663469013,
+    5663469014,
+    5663469015,
+    5663469016,
+    5663469017,
+    5663469018,
+    5663469019,
+    5663469020,
+    5663469121,
+    5663469122,
+    5663469013
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739236,
+  "center": {
+    "lat": 27.7653774,
+    "lon": 84.9223314
+  },
+  "nodes": [
+    5663469123,
+    5663469124,
+    5663469125,
+    5663469126,
+    5663469127,
+    5663469128,
+    5663469129,
+    5663469123
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739237,
+  "center": {
+    "lat": 27.7637291,
+    "lon": 84.9189962
+  },
+  "nodes": [
+    5663469130,
+    5663469131,
+    5663469132,
+    5663469133,
+    5663469134,
+    5663469135,
+    5663469136,
+    5663469137,
+    5663469138,
+    5663469130
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739238,
+  "center": {
+    "lat": 27.7645824,
+    "lon": 84.9194660
+  },
+  "nodes": [
+    5663469139,
+    5663469140,
+    5663469141,
+    5663469142,
+    5663469143,
+    5663469144,
+    5663469145,
+    5663469146,
+    5663469147,
+    5663469139
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739239,
+  "center": {
+    "lat": 27.7645087,
+    "lon": 84.9179147
+  },
+  "nodes": [
+    5663469148,
+    5663469149,
+    5663469150,
+    5663469151,
+    5663469152,
+    5663469153,
+    5663469154,
+    5663469155,
+    5663469156,
+    5663469157,
+    5663469148
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739240,
+  "center": {
+    "lat": 27.7645374,
+    "lon": 84.9169781
+  },
+  "nodes": [
+    5663469158,
+    5663469159,
+    5663469160,
+    5663469161,
+    5663469162,
+    5663469163,
+    5663469164,
+    5663469165,
+    5663469166,
+    5663469158
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739241,
+  "center": {
+    "lat": 27.7634458,
+    "lon": 84.9164655
+  },
+  "nodes": [
+    5663469167,
+    5663469168,
+    5663469169,
+    5663469170,
+    5663469171,
+    5663469172,
+    5663469173,
+    5663469167
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739242,
+  "center": {
+    "lat": 27.7579127,
+    "lon": 84.9220389
+  },
+  "nodes": [
+    5663469174,
+    5663469175,
+    5663469176,
+    5663469177,
+    5663469178,
+    5663469179,
+    5663469174
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739243,
+  "center": {
+    "lat": 27.7566158,
+    "lon": 84.9214478
+  },
+  "nodes": [
+    5663469180,
+    5663469181,
+    5663469182,
+    5663469183,
+    5663469184,
+    5663469180
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739244,
+  "center": {
+    "lat": 27.7562408,
+    "lon": 84.9229352
+  },
+  "nodes": [
+    5663469185,
+    5663469186,
+    5663469187,
+    5663469188,
+    5663469189,
+    5663469185
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739245,
+  "center": {
+    "lat": 27.7600422,
+    "lon": 84.9227396
+  },
+  "nodes": [
+    5663469190,
+    5663469191,
+    5663469192,
+    5663469193,
+    5663469194,
+    5663469195,
+    5663469190
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739246,
+  "center": {
+    "lat": 27.7614584,
+    "lon": 84.9233976
+  },
+  "nodes": [
+    5663469196,
+    5663469197,
+    5663469198,
+    5663469199,
+    5663469200,
+    5663469201,
+    5663469202,
+    5663469196
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739247,
+  "center": {
+    "lat": 27.7629923,
+    "lon": 84.9208891
+  },
+  "nodes": [
+    5663469203,
+    5663469204,
+    5663469205,
+    5663469206,
+    5663469207,
+    5663469208,
+    5663469209,
+    5663469203
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739248,
+  "center": {
+    "lat": 27.7634949,
+    "lon": 84.9211351
+  },
+  "nodes": [
+    5663469210,
+    5663469211,
+    5663469212,
+    5663469213,
+    5663469214,
+    5663469215,
+    5663469210
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593739249,
+  "center": {
+    "lat": 27.7622767,
+    "lon": 84.9205228
+  },
+  "nodes": [
+    5663469216,
+    5663469217,
+    5663469218,
+    5663469219,
+    5663469220,
+    5663469221,
+    5663469222,
+    5663469216
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593741632,
+  "center": {
+    "lat": 27.7691545,
+    "lon": 84.9241958
+  },
+  "nodes": [
+    5663487121,
+    5663487122,
+    5663487123,
+    5663487124,
+    5663487125,
+    5663487126,
+    5663487127,
+    5663487128,
+    5663487129,
+    5663487130,
+    5663487131,
+    5663487121
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593741635,
+  "center": {
+    "lat": 27.7697207,
+    "lon": 84.9257439
+  },
+  "nodes": [
+    5663487132,
+    5663487133,
+    5663487134,
+    5663487135,
+    5663487136,
+    5663487137,
+    3506025759,
+    5663487138,
+    5663487139,
+    5663487140,
+    5663487141,
+    5663487142,
+    5663487132
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593741638,
+  "center": {
+    "lat": 27.7697702,
+    "lon": 84.9267783
+  },
+  "nodes": [
+    5663487143,
+    5663487144,
+    5663487145,
+    5663487146,
+    5663487147,
+    5663487148,
+    5663487149,
+    5663487150,
+    5663487151,
+    5663487152,
+    5663487153,
+    5663487154,
+    5663487155,
+    3506025824,
+    5663487156,
+    5663487157,
+    5663487143
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593741643,
+  "center": {
+    "lat": 27.7692640,
+    "lon": 84.9280672
+  },
+  "nodes": [
+    5663487158,
+    5663487159,
+    5663487160,
+    5663487161,
+    5663487162,
+    5663487163,
+    5663487164,
+    5663487165,
+    5663487166,
+    5663487167,
+    5663487168,
+    5663487158
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593741646,
+  "center": {
+    "lat": 27.7716391,
+    "lon": 84.9243770
+  },
+  "nodes": [
+    5663487169,
+    5663487170,
+    5663487171,
+    5663487172,
+    5663487173,
+    5663487174,
+    5663487175,
+    5663487176,
+    5663487177,
+    5663487178,
+    5663487179,
+    5663487169
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593741650,
+  "center": {
+    "lat": 27.7727596,
+    "lon": 84.9250498
+  },
+  "nodes": [
+    5663487180,
+    5663487181,
+    5663487182,
+    5663487183,
+    5663487184,
+    5663487185,
+    5663487186,
+    5663487180
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 593741653,
+  "center": {
+    "lat": 27.7737578,
+    "lon": 84.9254482
+  },
+  "nodes": [
+    5663487187,
+    5663487188,
+    5663487189,
+    5663487190,
+    5663487191,
+    5663487192,
+    5663487193,
+    5663487194,
+    5663487195,
+    5663487196,
+    5663487197,
+    5663487187
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010869,
+  "center": {
+    "lat": 27.7812527,
+    "lon": 84.9251186
+  },
+  "nodes": [
+    5665454133,
+    5665454134,
+    5665454135,
+    5665454136,
+    5665454137,
+    5665454138,
+    5665454139,
+    5665454140,
+    5665454141,
+    5665454142,
+    3489043599,
+    5665454143,
+    5665454144,
+    5665454145,
+    5665454146,
+    5665454133
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010870,
+  "center": {
+    "lat": 27.7843201,
+    "lon": 84.9248937
+  },
+  "nodes": [
+    5665454147,
+    5665454148,
+    5665454149,
+    5665454150,
+    5665454151,
+    5665454152,
+    5665454153,
+    5665454147
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010871,
+  "center": {
+    "lat": 27.7824376,
+    "lon": 84.9263759
+  },
+  "nodes": [
+    5665454154,
+    5665454155,
+    5665454156,
+    5665454157,
+    5665454154
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010873,
+  "center": {
+    "lat": 27.7787867,
+    "lon": 84.9202442
+  },
+  "nodes": [
+    5665454166,
+    5665454167,
+    5665454168,
+    5665454169,
+    5665454170,
+    5665454171,
+    5665454166
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010874,
+  "center": {
+    "lat": 27.7782741,
+    "lon": 84.9198231
+  },
+  "nodes": [
+    5665454172,
+    5665454173,
+    5665454174,
+    5665454175,
+    5665454176,
+    5665454172
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010875,
+  "center": {
+    "lat": 27.7786063,
+    "lon": 84.9211106
+  },
+  "nodes": [
+    5665454177,
+    5665454178,
+    5665454179,
+    5665454180,
+    5665454177
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010876,
+  "center": {
+    "lat": 27.7748385,
+    "lon": 84.9200161
+  },
+  "nodes": [
+    5665454181,
+    5665454182,
+    5665454183,
+    5665454184,
+    5665454185,
+    5665454186,
+    5665454181
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010877,
+  "center": {
+    "lat": 27.7740453,
+    "lon": 84.9196989
+  },
+  "nodes": [
+    5665454187,
+    5665454188,
+    5665454189,
+    5665454190,
+    5665454191,
+    5665454192,
+    5665454193,
+    5665454194,
+    5665454187
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010878,
+  "center": {
+    "lat": 27.7745162,
+    "lon": 84.9216192
+  },
+  "nodes": [
+    5665454195,
+    5665454196,
+    5665454197,
+    5665454198,
+    5665454199,
+    5665454200,
+    5665454201,
+    5665454195
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010879,
+  "center": {
+    "lat": 27.7753004,
+    "lon": 84.9216537
+  },
+  "nodes": [
+    5665454202,
+    5665454203,
+    5665454204,
+    5665454205,
+    5665454206,
+    5665454207,
+    5665454208,
+    5665454209,
+    5665454202
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010880,
+  "center": {
+    "lat": 27.7747356,
+    "lon": 84.9224445
+  },
+  "nodes": [
+    5665454210,
+    5665454211,
+    5665454212,
+    5665454213,
+    5665454214,
+    5665454215,
+    5665454216,
+    5665454217,
+    5665454210
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010881,
+  "center": {
+    "lat": 27.7759675,
+    "lon": 84.9255822
+  },
+  "nodes": [
+    3485703570,
+    5665454218,
+    5665454219,
+    5665454220,
+    5665454921,
+    5665454922,
+    5665454923,
+    3485703570
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010882,
+  "center": {
+    "lat": 27.7757729,
+    "lon": 84.9266365
+  },
+  "nodes": [
+    5665454924,
+    5665454925,
+    5665454926,
+    5665454927,
+    5665454928,
+    5665454929,
+    5665454924
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010883,
+  "center": {
+    "lat": 27.7802855,
+    "lon": 84.9258154
+  },
+  "nodes": [
+    5665454930,
+    5665454931,
+    5665454932,
+    5665454933,
+    5665454934,
+    5665454935,
+    5665454930
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010884,
+  "center": {
+    "lat": 27.7796650,
+    "lon": 84.9271547
+  },
+  "nodes": [
+    5665454936,
+    5665454937,
+    5665454938,
+    5665454939,
+    5665454940,
+    5665454941,
+    5665454936
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010885,
+  "center": {
+    "lat": 27.7781010,
+    "lon": 84.9271525
+  },
+  "nodes": [
+    5665454942,
+    5665454943,
+    5665454944,
+    5665454945,
+    5665454946,
+    5665454947,
+    5665454942
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010886,
+  "center": {
+    "lat": 27.7765518,
+    "lon": 84.9231135
+  },
+  "nodes": [
+    5665454948,
+    5665454949,
+    5665454950,
+    5665454951,
+    5665454952,
+    5665454953,
+    5665454948
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010887,
+  "center": {
+    "lat": 27.7718024,
+    "lon": 84.9257860
+  },
+  "nodes": [
+    5665454954,
+    5665454955,
+    5665454956,
+    5665454957,
+    5665454958,
+    5665454959,
+    5665454954
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010888,
+  "center": {
+    "lat": 27.7702702,
+    "lon": 84.9233933
+  },
+  "nodes": [
+    5665454960,
+    5665454961,
+    5665454962,
+    5665454963,
+    5665454964,
+    5665454960
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010889,
+  "center": {
+    "lat": 27.7706927,
+    "lon": 84.9214214
+  },
+  "nodes": [
+    5665454965,
+    5665454966,
+    5665454967,
+    5665454968,
+    5665454969,
+    5665454970,
+    5665454965
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010890,
+  "center": {
+    "lat": 27.7683228,
+    "lon": 84.9193935
+  },
+  "nodes": [
+    5665454971,
+    5665454972,
+    5665454973,
+    5665454974,
+    5665454975,
+    5665454976,
+    5665454977,
+    5665454971
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010891,
+  "center": {
+    "lat": 27.7689902,
+    "lon": 84.9186720
+  },
+  "nodes": [
+    5665454978,
+    5665454979,
+    5665454980,
+    5665454981,
+    5665454982,
+    5665454983,
+    5665454984,
+    5665454985,
+    5665454986,
+    5665454987,
+    5665454978
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010892,
+  "center": {
+    "lat": 27.7694276,
+    "lon": 84.9175871
+  },
+  "nodes": [
+    5665454988,
+    5665454989,
+    5665454990,
+    5665454991,
+    5665454992,
+    5665454993,
+    5665454988
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010896,
+  "center": {
+    "lat": 27.7658690,
+    "lon": 84.9406365
+  },
+  "nodes": [
+    5665455014,
+    5665455015,
+    5665455016,
+    5665455017,
+    5665455018,
+    5665455019,
+    5665455014
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010898,
+  "center": {
+    "lat": 27.7653653,
+    "lon": 84.9429881
+  },
+  "nodes": [
+    5665455124,
+    5665455125,
+    5665455126,
+    5665455127,
+    5665455128,
+    5665455124
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010899,
+  "center": {
+    "lat": 27.7673346,
+    "lon": 84.9427208
+  },
+  "nodes": [
+    5665455129,
+    5665455130,
+    5665455131,
+    5665455132,
+    5665455133,
+    5665455129
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010901,
+  "center": {
+    "lat": 27.7959042,
+    "lon": 84.9276098
+  },
+  "nodes": [
+    5665455157,
+    5665455158,
+    5665455159,
+    5665455160,
+    5665455161,
+    5665455157
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010902,
+  "center": {
+    "lat": 27.7958224,
+    "lon": 84.9261520
+  },
+  "nodes": [
+    5665455162,
+    5665455163,
+    5665455164,
+    5665455165,
+    5665455162
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010903,
+  "center": {
+    "lat": 27.7952930,
+    "lon": 84.9296875
+  },
+  "nodes": [
+    5665455166,
+    5665455167,
+    5665455168,
+    5665455169,
+    5665455170,
+    5665455166
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010905,
+  "center": {
+    "lat": 27.7997461,
+    "lon": 84.9318272
+  },
+  "nodes": [
+    5665455178,
+    5665455179,
+    5665455180,
+    5665455181,
+    5665455182,
+    5665455183,
+    5665455184,
+    5665455178
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010906,
+  "center": {
+    "lat": 27.8001961,
+    "lon": 84.9329074
+  },
+  "nodes": [
+    5665455185,
+    5665455186,
+    5665455187,
+    5665455188,
+    5665455189,
+    5665455190,
+    5665455191,
+    5665455185
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010907,
+  "center": {
+    "lat": 27.8022512,
+    "lon": 84.9342041
+  },
+  "nodes": [
+    5665455192,
+    5665455193,
+    5665455194,
+    5665455195,
+    5665455192
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010908,
+  "center": {
+    "lat": 27.8017325,
+    "lon": 84.9347388
+  },
+  "nodes": [
+    5665455196,
+    5665455197,
+    5665455198,
+    5665455199,
+    5665455200,
+    5665455201,
+    5665455202,
+    5665455196
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010909,
+  "center": {
+    "lat": 27.8010819,
+    "lon": 84.9342041
+  },
+  "nodes": [
+    5665455203,
+    5665455204,
+    5665455205,
+    5665455206,
+    5665455207,
+    5665455208,
+    5665455203
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010913,
+  "center": {
+    "lat": 27.7857667,
+    "lon": 84.9430083
+  },
+  "nodes": [
+    5665455328,
+    5665455329,
+    5665455330,
+    5665455331,
+    5665455328
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010914,
+  "center": {
+    "lat": 27.7845619,
+    "lon": 84.9431839
+  },
+  "nodes": [
+    5665455332,
+    5665455333,
+    5665455334,
+    5665455335,
+    5665455336,
+    5665455332
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010915,
+  "center": {
+    "lat": 27.7837769,
+    "lon": 84.9408609
+  },
+  "nodes": [
+    5665455337,
+    5665455338,
+    5665455339,
+    5665455340,
+    5665455341,
+    5665455342,
+    5665455343,
+    5665455337
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010916,
+  "center": {
+    "lat": 27.7832114,
+    "lon": 84.9391133
+  },
+  "nodes": [
+    5665455344,
+    5665455345,
+    5665455346,
+    5665455347,
+    5665455348,
+    5665455344
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010918,
+  "center": {
+    "lat": 27.7839675,
+    "lon": 84.9365328
+  },
+  "nodes": [
+    5665455352,
+    5665455353,
+    5665455354,
+    5665455355,
+    5665455356,
+    5665455352
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010919,
+  "center": {
+    "lat": 27.7809516,
+    "lon": 84.9387384
+  },
+  "nodes": [
+    5665455357,
+    5665455358,
+    5665455359,
+    5665455360,
+    5665455361,
+    5665455362,
+    5665455357
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010929,
+  "center": {
+    "lat": 27.7593611,
+    "lon": 84.9083698
+  },
+  "nodes": [
+    5665455423,
+    5665455424,
+    5665455425,
+    5665455426,
+    5665455427,
+    5665455423
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010930,
+  "center": {
+    "lat": 27.7592120,
+    "lon": 84.9091873
+  },
+  "nodes": [
+    5665455428,
+    5665455429,
+    5665455430,
+    5665455431,
+    5665455432,
+    5665455428
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594010931,
+  "center": {
+    "lat": 27.7593123,
+    "lon": 84.9061937
+  },
+  "nodes": [
+    5665455433,
+    5665455434,
+    5665455435,
+    5665455436,
+    5665455437,
+    5665455438,
+    5665455433
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594015801,
+  "center": {
+    "lat": 27.7677822,
+    "lon": 84.9326574
+  },
+  "nodes": [
+    5665479689,
+    5665479690,
+    5665479691,
+    5665479692,
+    5665479693,
+    5665479689
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594015802,
+  "center": {
+    "lat": 27.7675046,
+    "lon": 84.9347109
+  },
+  "nodes": [
+    5665479694,
+    5665479695,
+    5665479696,
+    5665479697,
+    5665479698,
+    5665479694
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594016420,
+  "center": {
+    "lat": 27.7677790,
+    "lon": 84.9356921
+  },
+  "nodes": [
+    3506025569,
+    5665483049,
+    5665483050,
+    5665483051,
+    3506025569
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594016421,
+  "center": {
+    "lat": 27.7663843,
+    "lon": 84.9399719
+  },
+  "nodes": [
+    5665483052,
+    5665483053,
+    5665483054,
+    5665483055,
+    5665483056,
+    5665483052
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594016424,
+  "center": {
+    "lat": 27.7690616,
+    "lon": 84.9389707
+  },
+  "nodes": [
+    5665483063,
+    5665483064,
+    5665483065,
+    5665483066,
+    5665483067,
+    5665483068,
+    5665483069,
+    5665483070,
+    5665483071,
+    5665483063
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594016983,
+  "center": {
+    "lat": 27.7813080,
+    "lon": 84.9273391
+  },
+  "nodes": [
+    5665485993,
+    5665485994,
+    5665485995,
+    5665485996,
+    5665485993
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594016986,
+  "center": {
+    "lat": 27.7778585,
+    "lon": 84.9231143
+  },
+  "nodes": [
+    5665486008,
+    5665486009,
+    5665486010,
+    5665486011,
+    5665486012,
+    5665486008
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594019584,
+  "center": {
+    "lat": 27.7703452,
+    "lon": 84.9239731
+  },
+  "nodes": [
+    5665496109,
+    5665496110,
+    5665496111,
+    5665496112,
+    5665496113,
+    5665496114,
+    5665496115,
+    5665496116,
+    5665496117,
+    5665496109
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594021690,
+  "center": {
+    "lat": 27.7705873,
+    "lon": 84.9244725
+  },
+  "nodes": [
+    5665506662,
+    5665506663,
+    5665506664,
+    5665506665,
+    5665506666,
+    5665506667,
+    5665506668,
+    5665506669,
+    5665506670,
+    5665506671,
+    5665506672,
+    5665506673,
+    5665506674,
+    5665506675,
+    5665506676,
+    5665506677,
+    5665506678,
+    5665506662
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594022173,
+  "center": {
+    "lat": 27.7767224,
+    "lon": 84.9341656
+  },
+  "nodes": [
+    5665510572,
+    5665510573,
+    5665510574,
+    5665510575,
+    5665510576,
+    5665510577,
+    5665510578,
+    5665510579,
+    5665510580,
+    5665510572
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594022628,
+  "center": {
+    "lat": 27.7793476,
+    "lon": 84.9352201
+  },
+  "nodes": [
+    5665512346,
+    5665512347,
+    5665512348,
+    5665512349,
+    5665512350,
+    5665512346
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594022629,
+  "center": {
+    "lat": 27.7792522,
+    "lon": 84.9344442
+  },
+  "nodes": [
+    5665512351,
+    5665512352,
+    5665512353,
+    5665512354,
+    5665512355,
+    5665512351
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594023102,
+  "center": {
+    "lat": 27.7798073,
+    "lon": 84.9379956
+  },
+  "nodes": [
+    5665519171,
+    5665519172,
+    5665519173,
+    5665519174,
+    5665519175,
+    5665519176,
+    5665519177,
+    5665519178,
+    5665519179,
+    5665519171
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594023106,
+  "center": {
+    "lat": 27.7798480,
+    "lon": 84.9394860
+  },
+  "nodes": [
+    5665519180,
+    5665519181,
+    5665519182,
+    5665519183,
+    5665519180
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594023864,
+  "center": {
+    "lat": 27.7789424,
+    "lon": 84.9409036
+  },
+  "nodes": [
+    5665523655,
+    5665523656,
+    5665523657,
+    5665523658,
+    5665523659,
+    5665523655
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594023866,
+  "center": {
+    "lat": 27.7788724,
+    "lon": 84.9416627
+  },
+  "nodes": [
+    5665523665,
+    5665523666,
+    5665523667,
+    5665523668,
+    5665523665
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594024883,
+  "center": {
+    "lat": 27.7832330,
+    "lon": 84.9489420
+  },
+  "nodes": [
+    5665530942,
+    5665530943,
+    5665530944,
+    5665530945,
+    5665530946,
+    5665530947,
+    7345997143,
+    5665530948,
+    5665530949,
+    5665530950,
+    5665530951,
+    7345997141,
+    5665530952,
+    5665530942
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594024901,
+  "center": {
+    "lat": 27.7867396,
+    "lon": 84.9553791
+  },
+  "nodes": [
+    5665530984,
+    4940118891,
+    7345997219,
+    7345997216,
+    7345997217,
+    5665530985,
+    5665530986,
+    5665530987,
+    5665530988,
+    5665530989,
+    5665530990,
+    5665530991,
+    5665530992,
+    5665530993,
+    5665530994,
+    5665530984
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594026395,
+  "center": {
+    "lat": 27.7875493,
+    "lon": 84.9575090
+  },
+  "nodes": [
+    5665536820,
+    5665537321,
+    5665537322,
+    5665537323,
+    3487806111,
+    5665537324,
+    5665537325,
+    5665537326,
+    5665537327,
+    5665537328,
+    5665537329,
+    3487806066,
+    5665537330,
+    3487806017,
+    5665537331,
+    5665536820
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594026396,
+  "center": {
+    "lat": 27.7881229,
+    "lon": 84.9581496
+  },
+  "nodes": [
+    5665537332,
+    5665537333,
+    5665537334,
+    5665537335,
+    5665537336,
+    5665537332
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594026397,
+  "center": {
+    "lat": 27.7900565,
+    "lon": 84.9574281
+  },
+  "nodes": [
+    5665537337,
+    5665537338,
+    5665537339,
+    5665537340,
+    5665537341,
+    5665537342,
+    5665537343,
+    5665537344,
+    5665537345,
+    5665537346,
+    5665537347,
+    5665537348,
+    5665537349,
+    5665537350,
+    5665537351,
+    5665537352,
+    5665537353,
+    5665537354,
+    5665537337
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594026400,
+  "center": {
+    "lat": 27.7918072,
+    "lon": 84.9571883
+  },
+  "nodes": [
+    5665537364,
+    5665537365,
+    5665537366,
+    5665537367,
+    5665537368,
+    5665537369,
+    5665537370,
+    5665537371,
+    5665537372,
+    5665537373,
+    5665537374,
+    5665537375,
+    5665537376,
+    5665537364
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594027676,
+  "center": {
+    "lat": 27.7960081,
+    "lon": 84.9593666
+  },
+  "nodes": [
+    5665543996,
+    5665543997,
+    5665543998,
+    5665543999,
+    5665544000,
+    5665543996
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594027680,
+  "center": {
+    "lat": 27.8038482,
+    "lon": 84.9694386
+  },
+  "nodes": [
+    5665544010,
+    5665544011,
+    5665544012,
+    5665544013,
+    5665544014,
+    5665544015,
+    5665544016,
+    5665544017,
+    5665544010
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594027684,
+  "center": {
+    "lat": 27.8047665,
+    "lon": 84.9695191
+  },
+  "nodes": [
+    5665545422,
+    5665545423,
+    5665545424,
+    5665545425,
+    5665545426,
+    5665545422
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594029427,
+  "center": {
+    "lat": 27.8069773,
+    "lon": 84.9731056
+  },
+  "nodes": [
+    5665552947,
+    5665552948,
+    5665552949,
+    5665552950,
+    5665552951,
+    5665552952,
+    5665552953,
+    5665552954,
+    5665552955,
+    5665552956,
+    5665552957,
+    5665552958,
+    5665552959,
+    5665552947
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594029431,
+  "center": {
+    "lat": 27.8058585,
+    "lon": 84.9747687
+  },
+  "nodes": [
+    5665552971,
+    5665552972,
+    5665552973,
+    5665552974,
+    5665552971
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594029432,
+  "center": {
+    "lat": 27.8041100,
+    "lon": 84.9749401
+  },
+  "nodes": [
+    5665552975,
+    5665552976,
+    5665552977,
+    5665552978,
+    5665552979,
+    5665552980,
+    5665552981,
+    5665552982,
+    5665552983,
+    5665552984,
+    5665552985,
+    5665552986,
+    5665552987,
+    5665552988,
+    5665552989,
+    5665552990,
+    5665552991,
+    5665552992,
+    5665552993,
+    5665552994,
+    5665552995,
+    5665552996,
+    5665552997,
+    5665552998,
+    5665552999,
+    5665553000,
+    5665553001,
+    5665553002,
+    5665553003,
+    5665553004,
+    5665553005,
+    5665553006,
+    5665553007,
+    5665553008,
+    5665553009,
+    5665553010,
+    5665553011,
+    5665553012,
+    5665553013,
+    5665553014,
+    5665553015,
+    5665553016,
+    5665553017,
+    5665553018,
+    5665553019,
+    5665553020,
+    5665556821,
+    5665556822,
+    5665556823,
+    5665556824,
+    5665556825,
+    5665552975
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594031994,
+  "center": {
+    "lat": 27.8033370,
+    "lon": 84.9773713
+  },
+  "nodes": [
+    5665567752,
+    5665567753,
+    5665567754,
+    5665567755,
+    5665567756,
+    5665567757,
+    5665567758,
+    5665567759,
+    5665567760,
+    5665567761,
+    5665567762,
+    5665567763,
+    5665567764,
+    5665567765,
+    5665567766,
+    5665567767,
+    5665567768,
+    5665567769,
+    5665567770,
+    5665567771,
+    5665567772,
+    5665567773,
+    5665567751,
+    5665567752
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594031996,
+  "center": {
+    "lat": 27.8033574,
+    "lon": 84.9813300
+  },
+  "nodes": [
+    5665567778,
+    5665567779,
+    5665567780,
+    5665567781,
+    5665567782,
+    5665567783,
+    5665567778
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594031999,
+  "center": {
+    "lat": 27.8072029,
+    "lon": 84.9896134
+  },
+  "nodes": [
+    5665567798,
+    5665567799,
+    5665567800,
+    5665567801,
+    5665567802,
+    5665567798
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594032001,
+  "center": {
+    "lat": 27.8059115,
+    "lon": 84.9924333
+  },
+  "nodes": [
+    5665567808,
+    5665567809,
+    5665567810,
+    5665567811,
+    3078005827,
+    5665567812,
+    5665567813,
+    5665567814,
+    5665567815,
+    5665567816,
+    5665567817,
+    5665567818,
+    3490648071,
+    5665567819,
+    5665567820,
+    5665567921,
+    5665567922,
+    5665567808
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594033467,
+  "center": {
+    "lat": 27.8041672,
+    "lon": 84.9992635
+  },
+  "nodes": [
+    5665577443,
+    5665577444,
+    5665577445,
+    5665577446,
+    5665577447,
+    5665577443
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594033473,
+  "center": {
+    "lat": 27.8052619,
+    "lon": 85.0035183
+  },
+  "nodes": [
+    5665577469,
+    5665577470,
+    5665577471,
+    5665577472,
+    5665577473,
+    5665577474,
+    5665577475,
+    5665577476,
+    3069794042,
+    5665577477,
+    5665577478,
+    5665577479,
+    5665577480,
+    5665577481,
+    5665577482,
+    5665577483,
+    5665577484,
+    5665577485,
+    5665577486,
+    5665577487,
+    5665577488,
+    5665577489,
+    5665577490,
+    5665577491,
+    5665577492,
+    5665577493,
+    5665577494,
+    5665577495,
+    5665577496,
+    5665577497,
+    3490636152,
+    3069794101,
+    3069794114,
+    5665577498,
+    3069794286,
+    5665577499,
+    5665577500,
+    5665577501,
+    3069793322,
+    5665577502,
+    3069794288,
+    5665577503,
+    3069794040,
+    3069794267,
+    5665577504,
+    5665577505,
+    5665577469
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594033476,
+  "center": {
+    "lat": 27.8080680,
+    "lon": 85.0031315
+  },
+  "nodes": [
+    5665577510,
+    5665577511,
+    5665577512,
+    5665577513,
+    5665577514,
+    5665577515,
+    5665577516,
+    5665577510
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594034566,
+  "center": {
+    "lat": 27.7701368,
+    "lon": 84.9307155
+  },
+  "nodes": [
+    5665582904,
+    5665582905,
+    5665582906,
+    5665582907,
+    5665582908,
+    5665582909,
+    5665582904
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594034844,
+  "center": {
+    "lat": 27.7688376,
+    "lon": 84.9364181
+  },
+  "nodes": [
+    5665585223,
+    5665585224,
+    5665585225,
+    5665585226,
+    5665585227,
+    5665585223
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594034845,
+  "center": {
+    "lat": 27.7725513,
+    "lon": 84.9190279
+  },
+  "nodes": [
+    5665585228,
+    5665585229,
+    5665585230,
+    5665585231,
+    5665585232,
+    5665585233,
+    5665585228
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038259,
+  "center": {
+    "lat": 27.7727576,
+    "lon": 84.9182142
+  },
+  "nodes": [
+    5665601545,
+    5665601546,
+    5665601547,
+    5665601548,
+    5665601549,
+    5665601545
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038262,
+  "center": {
+    "lat": 27.7791983,
+    "lon": 84.9194845
+  },
+  "nodes": [
+    5665601550,
+    5665601551,
+    5665601552,
+    5665601553,
+    5665601554,
+    5665601550
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038264,
+  "center": {
+    "lat": 27.7776499,
+    "lon": 84.9262657
+  },
+  "nodes": [
+    5665601555,
+    5665601556,
+    5665601557,
+    5665601558,
+    5665601559,
+    5665601555
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038265,
+  "center": {
+    "lat": 27.7768897,
+    "lon": 84.9251747
+  },
+  "nodes": [
+    5665601560,
+    5665601561,
+    5665601562,
+    5665601563,
+    5665601564,
+    5665601560
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038267,
+  "center": {
+    "lat": 27.7755530,
+    "lon": 84.9247685
+  },
+  "nodes": [
+    5665601565,
+    5665601566,
+    5665601567,
+    5665601568,
+    5665601569,
+    5665601570,
+    5665601571,
+    5665601565
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038269,
+  "center": {
+    "lat": 27.7746444,
+    "lon": 84.9231006
+  },
+  "nodes": [
+    5665601572,
+    5665601573,
+    5665601574,
+    5665601575,
+    5665601576,
+    5665601572
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038271,
+  "center": {
+    "lat": 27.7763221,
+    "lon": 84.9292097
+  },
+  "nodes": [
+    5665601577,
+    5665601578,
+    5665601579,
+    5665601580,
+    5665601581,
+    5665601582,
+    5665601577
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038273,
+  "center": {
+    "lat": 27.7802124,
+    "lon": 84.9252667
+  },
+  "nodes": [
+    5665601583,
+    5665601584,
+    5665601585,
+    5665601586,
+    5665601587,
+    5665601583
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038275,
+  "center": {
+    "lat": 27.7804379,
+    "lon": 84.9261698
+  },
+  "nodes": [
+    5665601588,
+    5665601589,
+    5665601590,
+    5665601591,
+    5665601592,
+    5665601588
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038277,
+  "center": {
+    "lat": 27.7760895,
+    "lon": 84.9231458
+  },
+  "nodes": [
+    5665601593,
+    5665601594,
+    5665601595,
+    5665601596,
+    5665601597,
+    5665601598,
+    5665601593
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038279,
+  "center": {
+    "lat": 27.7676889,
+    "lon": 84.9267713
+  },
+  "nodes": [
+    5665601599,
+    5665601600,
+    5665601601,
+    5665601602,
+    5665601603,
+    5665601599
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038281,
+  "center": {
+    "lat": 27.7668668,
+    "lon": 84.9280051
+  },
+  "nodes": [
+    5665601604,
+    5665601605,
+    5665601606,
+    5665601607,
+    5665601608,
+    5665601609,
+    5665601610,
+    5665601611,
+    5665601612,
+    5665601613,
+    5665601604
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038283,
+  "center": {
+    "lat": 27.7662614,
+    "lon": 84.9290033
+  },
+  "nodes": [
+    5665601614,
+    5665601615,
+    5665601616,
+    5665601617,
+    5665601618,
+    5665601619,
+    5665601620,
+    5665602121,
+    5665602122,
+    5665602123,
+    5665602124,
+    5665602125,
+    5665602126,
+    5665602127,
+    5665602128,
+    5665602129,
+    5665602130,
+    5665602131,
+    5665602132,
+    3483551794,
+    5665602133,
+    5665602134,
+    5665601614
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594038286,
+  "center": {
+    "lat": 27.7828031,
+    "lon": 84.9271380
+  },
+  "nodes": [
+    5665602135,
+    5665602136,
+    5665602137,
+    5665602138,
+    5665602139,
+    5665602135
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046735,
+  "center": {
+    "lat": 27.7754969,
+    "lon": 84.9347745
+  },
+  "nodes": [
+    5665640860,
+    5665640861,
+    5665640862,
+    5665640863,
+    5665640864,
+    5665640860
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046736,
+  "center": {
+    "lat": 27.7692097,
+    "lon": 84.9369567
+  },
+  "nodes": [
+    5665640865,
+    5665640866,
+    5665640867,
+    5665640868,
+    5665640869,
+    5665640870,
+    5665640871,
+    5665640872,
+    5665640873,
+    5665640865
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046737,
+  "center": {
+    "lat": 27.7670004,
+    "lon": 84.9360771
+  },
+  "nodes": [
+    5665640874,
+    5665640875,
+    5665640876,
+    5665640877,
+    5665640878,
+    5665640874
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046738,
+  "center": {
+    "lat": 27.7639094,
+    "lon": 84.9359337
+  },
+  "nodes": [
+    5665640879,
+    5665640880,
+    5665640881,
+    5665640882,
+    5665640883,
+    5665640884,
+    5665640879
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046739,
+  "center": {
+    "lat": 27.7638365,
+    "lon": 84.9345072
+  },
+  "nodes": [
+    5665640885,
+    5665640886,
+    5665640887,
+    5665640888,
+    5665640889,
+    5665640890,
+    5665640885
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046740,
+  "center": {
+    "lat": 27.7635622,
+    "lon": 84.9338659
+  },
+  "nodes": [
+    5665640891,
+    5665640892,
+    5665640893,
+    5665640894,
+    5665640895,
+    5665640896,
+    5665640891
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046741,
+  "center": {
+    "lat": 27.7632627,
+    "lon": 84.9329522
+  },
+  "nodes": [
+    5665640897,
+    5665640898,
+    5665640899,
+    5665640900,
+    5665640901,
+    5665640902,
+    5665640897
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046742,
+  "center": {
+    "lat": 27.7630874,
+    "lon": 84.9336657
+  },
+  "nodes": [
+    5665640903,
+    5665640904,
+    5665640905,
+    5665640906,
+    5665640907,
+    5665640903
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046743,
+  "center": {
+    "lat": 27.7625690,
+    "lon": 84.9325263
+  },
+  "nodes": [
+    5665640908,
+    5665640909,
+    5665640910,
+    5665640911,
+    5665640912,
+    5665640913,
+    5665640914,
+    5665640915,
+    5665640916,
+    5665640908
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046744,
+  "center": {
+    "lat": 27.7622219,
+    "lon": 84.9327712
+  },
+  "nodes": [
+    5665640917,
+    3488739773,
+    5665640918,
+    5665640919,
+    5665640920,
+    5665641621,
+    5665640917
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046745,
+  "center": {
+    "lat": 27.7616892,
+    "lon": 84.9321419
+  },
+  "nodes": [
+    5665641622,
+    5665641623,
+    5665641624,
+    5665641625,
+    5665641626,
+    5665641627,
+    5665641628,
+    5665641622
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046746,
+  "center": {
+    "lat": 27.7614393,
+    "lon": 84.9315617
+  },
+  "nodes": [
+    5665641629,
+    5665641630,
+    5665641631,
+    5665641632,
+    5665641633,
+    5665641634,
+    5665641635,
+    5665641629
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046756,
+  "center": {
+    "lat": 27.7604170,
+    "lon": 84.9256294
+  },
+  "nodes": [
+    5665641697,
+    5665641698,
+    5665641699,
+    5665641700,
+    5665641701,
+    5665641702,
+    5665641703,
+    5665641704,
+    5665641705,
+    5665641706,
+    5665641697
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046758,
+  "center": {
+    "lat": 27.7623835,
+    "lon": 84.9228924
+  },
+  "nodes": [
+    5665641712,
+    5665641713,
+    5665641714,
+    5665641715,
+    5665641716,
+    5665641717,
+    5665641718,
+    5665641719,
+    5665641720,
+    5665641721,
+    5665641722,
+    5665641723,
+    5665641724,
+    5665641712
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046759,
+  "center": {
+    "lat": 27.7629645,
+    "lon": 84.9236330
+  },
+  "nodes": [
+    5665641725,
+    5665641726,
+    5665641727,
+    5665641728,
+    5665641729,
+    5665641730,
+    5665641725
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046760,
+  "center": {
+    "lat": 27.7639923,
+    "lon": 84.9246876
+  },
+  "nodes": [
+    5665641731,
+    5665641732,
+    5665641733,
+    5665641734,
+    5665641735,
+    5665641736,
+    5665641737,
+    5665641738,
+    5665641739,
+    5665641731
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046762,
+  "center": {
+    "lat": 27.7638793,
+    "lon": 84.9217408
+  },
+  "nodes": [
+    5665641740,
+    5665641741,
+    5665641742,
+    5665641743,
+    5665641744,
+    5665641745,
+    5665641746,
+    5665641740
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046763,
+  "center": {
+    "lat": 27.7612488,
+    "lon": 84.9205529
+  },
+  "nodes": [
+    5665641747,
+    5665641748,
+    5665641749,
+    5665641750,
+    5665641751,
+    5665641752,
+    5665641747
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046764,
+  "center": {
+    "lat": 27.7609232,
+    "lon": 84.9207779
+  },
+  "nodes": [
+    5665641753,
+    5665641754,
+    5665641755,
+    5665641756,
+    5665641757,
+    5665641758,
+    5665641759,
+    5665641753
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046766,
+  "center": {
+    "lat": 27.7608800,
+    "lon": 84.9192023
+  },
+  "nodes": [
+    5665641760,
+    5665641761,
+    5665641762,
+    5665641763,
+    5665641764,
+    5665641765,
+    5665641760
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594046769,
+  "center": {
+    "lat": 27.7582485,
+    "lon": 84.9180075
+  },
+  "nodes": [
+    5665641766,
+    5665641767,
+    5665641768,
+    5665641769,
+    5665641770,
+    5665641771,
+    5665641772,
+    5665641766
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594048141,
+  "center": {
+    "lat": 27.7819840,
+    "lon": 84.9110402
+  },
+  "nodes": [
+    5665648494,
+    5665648495,
+    5665648496,
+    5665648497,
+    5665648498,
+    5665648499,
+    5665648494
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594048142,
+  "center": {
+    "lat": 27.7807983,
+    "lon": 84.9116811
+  },
+  "nodes": [
+    5665648500,
+    5665648501,
+    5665648502,
+    5665648503,
+    5665648504,
+    5665648505,
+    5665648500
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594048143,
+  "center": {
+    "lat": 27.7757339,
+    "lon": 84.9105054
+  },
+  "nodes": [
+    5665648506,
+    5665648507,
+    5665648508,
+    5665648509,
+    5665648510,
+    5665648511,
+    5665648512,
+    5665648506
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594048144,
+  "center": {
+    "lat": 27.7693476,
+    "lon": 84.9064902
+  },
+  "nodes": [
+    5665648513,
+    5665648514,
+    5665648515,
+    5665648516,
+    5665648517,
+    5665648513
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594048145,
+  "center": {
+    "lat": 27.7685576,
+    "lon": 84.9064250
+  },
+  "nodes": [
+    5665648518,
+    5665648519,
+    5665648520,
+    5665649521,
+    5665649522,
+    5665648518
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594048146,
+  "center": {
+    "lat": 27.7658984,
+    "lon": 84.9078065
+  },
+  "nodes": [
+    5665649523,
+    5665649524,
+    5665649525,
+    5665649526,
+    5665649527,
+    5665649528,
+    5665649523
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594048147,
+  "center": {
+    "lat": 27.7659691,
+    "lon": 84.9058240
+  },
+  "nodes": [
+    5665649529,
+    5665649530,
+    5665649531,
+    5414065035,
+    5665649532,
+    5665649533,
+    5665649529
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594059485,
+  "center": {
+    "lat": 27.7640333,
+    "lon": 84.9226091
+  },
+  "nodes": [
+    5665715131,
+    5665715132,
+    5665715133,
+    5665715134,
+    5665715135,
+    5665715136,
+    5665715137,
+    5665715131
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594059487,
+  "center": {
+    "lat": 27.7591648,
+    "lon": 84.9229110
+  },
+  "nodes": [
+    5665715138,
+    5665715139,
+    5665715140,
+    5665715141,
+    5665715142,
+    5665715143,
+    5665715144,
+    5665715145,
+    5665715138
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594059488,
+  "center": {
+    "lat": 27.7579110,
+    "lon": 84.9247309
+  },
+  "nodes": [
+    5665715146,
+    5665715147,
+    5665715148,
+    5665715149,
+    5665715150,
+    5665715151,
+    5665715152,
+    5665715146
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594059489,
+  "center": {
+    "lat": 27.7568223,
+    "lon": 84.9253451
+  },
+  "nodes": [
+    5665715153,
+    5665715154,
+    5665715155,
+    3482261350,
+    5665715156,
+    5665715157,
+    5665715158,
+    5665715159,
+    5665715160,
+    5665715153
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594071792,
+  "center": {
+    "lat": 27.7548026,
+    "lon": 84.9120322
+  },
+  "nodes": [
+    5665784184,
+    5665784185,
+    5665784186,
+    5665784187,
+    5665784188,
+    5665784189,
+    5665784184
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594071794,
+  "center": {
+    "lat": 27.7560119,
+    "lon": 84.9105737
+  },
+  "nodes": [
+    5665784190,
+    5665784191,
+    5665784192,
+    5665784193,
+    5665784194,
+    5665784190
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594071796,
+  "center": {
+    "lat": 27.7559880,
+    "lon": 84.9090035
+  },
+  "nodes": [
+    5665784195,
+    5665784196,
+    5665784197,
+    5665784198,
+    5665784199,
+    5665784200,
+    5665784201,
+    5665784202,
+    5665784195
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594071797,
+  "center": {
+    "lat": 27.7550922,
+    "lon": 84.9078547
+  },
+  "nodes": [
+    5665784203,
+    5665784204,
+    5665784205,
+    5665784206,
+    5665784207,
+    5665784203
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091368,
+  "center": {
+    "lat": 27.7594362,
+    "lon": 84.9037515
+  },
+  "nodes": [
+    5665902259,
+    5665902260,
+    5665902261,
+    5665902262,
+    5665902263,
+    5665902264,
+    5665902265,
+    5665902266,
+    5665902267,
+    5665902268,
+    5665902269,
+    5665902259
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091369,
+  "center": {
+    "lat": 27.7583001,
+    "lon": 84.9010741
+  },
+  "nodes": [
+    5665902270,
+    5665902271,
+    5665902272,
+    5665902273,
+    5665902274,
+    5665902270
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091370,
+  "center": {
+    "lat": 27.7586724,
+    "lon": 84.9009574
+  },
+  "nodes": [
+    5665902275,
+    5665902276,
+    5665902277,
+    5665902278,
+    5665902279,
+    5665902280,
+    5665902275
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091377,
+  "center": {
+    "lat": 27.7538717,
+    "lon": 84.9000191
+  },
+  "nodes": [
+    5665902319,
+    5665902320,
+    5665902321,
+    5665902322,
+    5665902323,
+    5665902319
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091385,
+  "center": {
+    "lat": 27.7572474,
+    "lon": 84.9229859
+  },
+  "nodes": [
+    5665902359,
+    5665902360,
+    5665902361,
+    5665902362,
+    5665902363,
+    5665902364,
+    5665902365,
+    5665902366,
+    5665902367,
+    5665902368,
+    5665902359
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091390,
+  "center": {
+    "lat": 27.7523314,
+    "lon": 84.9404021
+  },
+  "nodes": [
+    5665902393,
+    5665902394,
+    5665902395,
+    5665902396,
+    5665902393
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091391,
+  "center": {
+    "lat": 27.7512276,
+    "lon": 84.9398676
+  },
+  "nodes": [
+    5665902397,
+    5665902398,
+    5665902399,
+    5665902400,
+    5665902401,
+    5665902397
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091392,
+  "center": {
+    "lat": 27.7511891,
+    "lon": 84.9426312
+  },
+  "nodes": [
+    5665902402,
+    5665902403,
+    5665902404,
+    5665902405,
+    3483042473,
+    5665902402
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091393,
+  "center": {
+    "lat": 27.7507791,
+    "lon": 84.9427984
+  },
+  "nodes": [
+    5665902406,
+    5665902407,
+    5665902408,
+    5665902409,
+    5665902410,
+    5665902406
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594091394,
+  "center": {
+    "lat": 27.7501790,
+    "lon": 84.9435881
+  },
+  "nodes": [
+    5665902411,
+    5665902412,
+    5665902413,
+    5665902414,
+    5665902415,
+    5665902411
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122524,
+  "center": {
+    "lat": 27.7539414,
+    "lon": 84.9518875
+  },
+  "nodes": [
+    5666093798,
+    5666093799,
+    5666093800,
+    5666093801,
+    5666093802,
+    5666093803,
+    5666093804,
+    5666093798
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122526,
+  "center": {
+    "lat": 27.7558528,
+    "lon": 84.9510961
+  },
+  "nodes": [
+    5666093805,
+    5666093806,
+    5666093807,
+    5666093808,
+    5666093809,
+    5666093805
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122528,
+  "center": {
+    "lat": 27.7572695,
+    "lon": 84.9492924
+  },
+  "nodes": [
+    5666093810,
+    5666093811,
+    5666093812,
+    5666093813,
+    5666093810
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122529,
+  "center": {
+    "lat": 27.7573549,
+    "lon": 84.9473837
+  },
+  "nodes": [
+    5666093814,
+    5666093815,
+    5666093816,
+    5666093817,
+    5666093814
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122531,
+  "center": {
+    "lat": 27.7577624,
+    "lon": 84.9470484
+  },
+  "nodes": [
+    5666093818,
+    5666093819,
+    5666093820,
+    5666093921,
+    5666093818
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122533,
+  "center": {
+    "lat": 27.7577621,
+    "lon": 84.9475546
+  },
+  "nodes": [
+    5666093922,
+    5666093923,
+    5666093924,
+    5666093925,
+    5666093922
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122537,
+  "center": {
+    "lat": 27.7585449,
+    "lon": 84.9462959
+  },
+  "nodes": [
+    5666093930,
+    5666093931,
+    5666093932,
+    5666093933,
+    5666093934,
+    5666093930
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122539,
+  "center": {
+    "lat": 27.7589746,
+    "lon": 84.9462275
+  },
+  "nodes": [
+    5666093935,
+    5666093936,
+    5666093937,
+    5666093938,
+    5666093939,
+    5666093935
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122541,
+  "center": {
+    "lat": 27.7588704,
+    "lon": 84.9475270
+  },
+  "nodes": [
+    5666093940,
+    5666093941,
+    5666093942,
+    5666093943,
+    5666093944,
+    5666093940
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122543,
+  "center": {
+    "lat": 27.7578074,
+    "lon": 84.9445926
+  },
+  "nodes": [
+    5666093945,
+    5666093946,
+    5666093947,
+    5666093948,
+    5666093949,
+    5666093945
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122545,
+  "center": {
+    "lat": 27.7573961,
+    "lon": 84.9443878
+  },
+  "nodes": [
+    5666093950,
+    5666093951,
+    5666093952,
+    5666093953,
+    5666093954,
+    5666093950
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122547,
+  "center": {
+    "lat": 27.7567712,
+    "lon": 84.9428989
+  },
+  "nodes": [
+    5666093955,
+    5666093956,
+    5666093957,
+    5666093958,
+    5666093959,
+    5666093960,
+    5666093955
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122549,
+  "center": {
+    "lat": 27.7556565,
+    "lon": 84.9423944
+  },
+  "nodes": [
+    5666093961,
+    5666093962,
+    5666093963,
+    5666093964,
+    5666093965,
+    5666093966,
+    5666093967,
+    5666093968,
+    5666093961
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122551,
+  "center": {
+    "lat": 27.7551657,
+    "lon": 84.9424070
+  },
+  "nodes": [
+    5666093969,
+    5666093970,
+    5666093971,
+    5666093972,
+    5666093973,
+    5666093969
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122553,
+  "center": {
+    "lat": 27.7553522,
+    "lon": 84.9430747
+  },
+  "nodes": [
+    5666093974,
+    5666093975,
+    5666093976,
+    5666093977,
+    5666093978,
+    5666093979,
+    5666093974
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122555,
+  "center": {
+    "lat": 27.7557789,
+    "lon": 84.9445404
+  },
+  "nodes": [
+    5666093980,
+    5666093981,
+    5666093982,
+    5666093983,
+    5666093980
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122557,
+  "center": {
+    "lat": 27.7564858,
+    "lon": 84.9440821
+  },
+  "nodes": [
+    5666093984,
+    5666093985,
+    5666093986,
+    5666093987,
+    5666093984
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122559,
+  "center": {
+    "lat": 27.7598456,
+    "lon": 84.9438401
+  },
+  "nodes": [
+    3483047973,
+    5666093988,
+    5666093989,
+    5666093990,
+    5666093991,
+    5666093992,
+    5666093993,
+    5666093994,
+    5666093995,
+    5666093996,
+    3483047973
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122565,
+  "center": {
+    "lat": 27.7577841,
+    "lon": 84.9410353
+  },
+  "nodes": [
+    5666094014,
+    5666094015,
+    5666094016,
+    5666094017,
+    5666094018,
+    5666094019,
+    5666094014
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122567,
+  "center": {
+    "lat": 27.7585967,
+    "lon": 84.9421509
+  },
+  "nodes": [
+    5666094020,
+    5666094121,
+    5666094122,
+    5666094123,
+    5666094124,
+    5666094125,
+    5666094126,
+    5666094020
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122569,
+  "center": {
+    "lat": 27.7593989,
+    "lon": 84.9412421
+  },
+  "nodes": [
+    5666094127,
+    5666094128,
+    5666094129,
+    5666094130,
+    5666094131,
+    5666094132,
+    5666094127
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122571,
+  "center": {
+    "lat": 27.7596433,
+    "lon": 84.9420429
+  },
+  "nodes": [
+    5666094133,
+    5666094134,
+    5666094135,
+    5666094136,
+    5666094133
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122573,
+  "center": {
+    "lat": 27.7611051,
+    "lon": 84.9406799
+  },
+  "nodes": [
+    5666094137,
+    5666094138,
+    5666094139,
+    5666094140,
+    5666094141,
+    5666094137
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122575,
+  "center": {
+    "lat": 27.7612661,
+    "lon": 84.9397336
+  },
+  "nodes": [
+    5666094142,
+    5666094143,
+    5666094144,
+    5666094145,
+    5666094142
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122577,
+  "center": {
+    "lat": 27.7613336,
+    "lon": 84.9392672
+  },
+  "nodes": [
+    5666094146,
+    5666094147,
+    5666094148,
+    5666094149,
+    5666094146
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122580,
+  "center": {
+    "lat": 27.7611570,
+    "lon": 84.9387833
+  },
+  "nodes": [
+    5666094150,
+    5666094151,
+    5666094152,
+    5666094153,
+    5666094150
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122582,
+  "center": {
+    "lat": 27.7617463,
+    "lon": 84.9413144
+  },
+  "nodes": [
+    5666094154,
+    5666094155,
+    5666094156,
+    5666094157,
+    5666094154
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122585,
+  "center": {
+    "lat": 27.7617533,
+    "lon": 84.9425989
+  },
+  "nodes": [
+    5666094158,
+    5666094159,
+    5666094160,
+    5666094161,
+    5666094158
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122588,
+  "center": {
+    "lat": 27.7622842,
+    "lon": 84.9424290
+  },
+  "nodes": [
+    5666094162,
+    5666094163,
+    5666094164,
+    5666094165,
+    5666094162
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122591,
+  "center": {
+    "lat": 27.7604513,
+    "lon": 84.9459607
+  },
+  "nodes": [
+    5666094166,
+    5666094167,
+    5666094168,
+    5666094169,
+    5666094166
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122597,
+  "center": {
+    "lat": 27.7611403,
+    "lon": 84.9446999
+  },
+  "nodes": [
+    5666094175,
+    5666094176,
+    5666094177,
+    5666094178,
+    5666094179,
+    5666094175
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122612,
+  "center": {
+    "lat": 27.7596412,
+    "lon": 84.9506947
+  },
+  "nodes": [
+    5666094200,
+    5666094201,
+    5666094202,
+    5666094203,
+    5666094204,
+    5666094205,
+    5666094206,
+    5666094207,
+    5666094208,
+    5666094209,
+    5666094210,
+    5666094200
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122615,
+  "center": {
+    "lat": 27.7595641,
+    "lon": 84.9516325
+  },
+  "nodes": [
+    5666094211,
+    5666094212,
+    5666094213,
+    5666094214,
+    5666094215,
+    5666094216,
+    5666094217,
+    5666094211
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122618,
+  "center": {
+    "lat": 27.7600575,
+    "lon": 84.9521060
+  },
+  "nodes": [
+    5666094218,
+    5666094219,
+    5666094220,
+    5666094221,
+    5666094222,
+    5666094223,
+    5666094218
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122622,
+  "center": {
+    "lat": 27.7606667,
+    "lon": 84.9497686
+  },
+  "nodes": [
+    5666094224,
+    5666094225,
+    5666094226,
+    5666094227,
+    5666094224
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122625,
+  "center": {
+    "lat": 27.7617909,
+    "lon": 84.9520227
+  },
+  "nodes": [
+    5666094228,
+    5666094229,
+    5666094230,
+    5666094231,
+    5666094228
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122628,
+  "center": {
+    "lat": 27.7624635,
+    "lon": 84.9523933
+  },
+  "nodes": [
+    5666094232,
+    5666094233,
+    5666094234,
+    5666094235,
+    5666094236,
+    5666094232
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122631,
+  "center": {
+    "lat": 27.7595905,
+    "lon": 84.9571542
+  },
+  "nodes": [
+    5666094237,
+    5666094238,
+    5666094239,
+    5666094240,
+    5666094241,
+    5666094242,
+    5666094243,
+    5666094244,
+    5666094245,
+    5666094246,
+    5666094247,
+    5666094237
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122634,
+  "center": {
+    "lat": 27.7605502,
+    "lon": 84.9572079
+  },
+  "nodes": [
+    5666094248,
+    5666094249,
+    5666094250,
+    5666094251,
+    5666094252,
+    5666094253,
+    5666094254,
+    5666094255,
+    5666094256,
+    5666094257,
+    5666094258,
+    5666094259,
+    5666094260,
+    5666094248
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122638,
+  "center": {
+    "lat": 27.7612756,
+    "lon": 84.9580151
+  },
+  "nodes": [
+    5666094261,
+    5666094262,
+    5666094263,
+    5666094264,
+    5666094265,
+    5666094266,
+    5666094261
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122644,
+  "center": {
+    "lat": 27.7606691,
+    "lon": 84.9634267
+  },
+  "nodes": [
+    5666094272,
+    5666094273,
+    5666094274,
+    5666094275,
+    5666094272
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122647,
+  "center": {
+    "lat": 27.7614913,
+    "lon": 84.9650267
+  },
+  "nodes": [
+    5666094276,
+    5666094277,
+    5666094278,
+    5666094279,
+    5666094276
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122650,
+  "center": {
+    "lat": 27.7562075,
+    "lon": 84.9471449
+  },
+  "nodes": [
+    5666094280,
+    5666094281,
+    5666094282,
+    5666094283,
+    5666094284,
+    5666094285,
+    5666094286,
+    5666094280
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122656,
+  "center": {
+    "lat": 27.7624843,
+    "lon": 84.9378827
+  },
+  "nodes": [
+    5666094291,
+    5666094292,
+    5666094293,
+    5666094294,
+    5666094295,
+    5666094291
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122659,
+  "center": {
+    "lat": 27.7627833,
+    "lon": 84.9382758
+  },
+  "nodes": [
+    5666094296,
+    5666094297,
+    5666094298,
+    5666094299,
+    5666094296
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122662,
+  "center": {
+    "lat": 27.7630976,
+    "lon": 84.9381267
+  },
+  "nodes": [
+    5666094300,
+    5666094301,
+    5666094302,
+    5666094303,
+    5666094300
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122665,
+  "center": {
+    "lat": 27.7628864,
+    "lon": 84.9394205
+  },
+  "nodes": [
+    5666094304,
+    5666094305,
+    5666094306,
+    5666094307,
+    5666094308,
+    5666094309,
+    5666094310,
+    5666094311,
+    5666094312,
+    5666094313,
+    5666094314,
+    5666094315,
+    5666094304
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122668,
+  "center": {
+    "lat": 27.7632644,
+    "lon": 84.9405472
+  },
+  "nodes": [
+    5666094316,
+    5666094317,
+    5666094318,
+    5666094319,
+    5666094316
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122671,
+  "center": {
+    "lat": 27.7648233,
+    "lon": 84.9412590
+  },
+  "nodes": [
+    5666094320,
+    5666094421,
+    5666094422,
+    5666094423,
+    5666094320
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122674,
+  "center": {
+    "lat": 27.7649946,
+    "lon": 84.9407150
+  },
+  "nodes": [
+    5666094424,
+    5666094425,
+    5666094426,
+    5666094427,
+    5666094424
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122676,
+  "center": {
+    "lat": 27.7650618,
+    "lon": 84.9410954
+  },
+  "nodes": [
+    5666094428,
+    5666094429,
+    3488739603,
+    5666094430,
+    5666094428
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122679,
+  "center": {
+    "lat": 27.7650475,
+    "lon": 84.9434354
+  },
+  "nodes": [
+    5666094431,
+    5666094432,
+    5666094433,
+    5666094434,
+    5666094431
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122683,
+  "center": {
+    "lat": 27.7651758,
+    "lon": 84.9438144
+  },
+  "nodes": [
+    5666094435,
+    5666094436,
+    5666094437,
+    5666094438,
+    5666094439,
+    5666094435
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122685,
+  "center": {
+    "lat": 27.7652559,
+    "lon": 84.9444698
+  },
+  "nodes": [
+    5666094440,
+    5666094441,
+    5666094442,
+    5666094443,
+    5666094440
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122690,
+  "center": {
+    "lat": 27.7973732,
+    "lon": 84.9403456
+  },
+  "nodes": [
+    5666094448,
+    5666094449,
+    5666094450,
+    5666094451,
+    5666094452,
+    5666094453,
+    5666094448
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122693,
+  "center": {
+    "lat": 27.7966848,
+    "lon": 84.9406740
+  },
+  "nodes": [
+    5666094454,
+    5666094455,
+    5666094456,
+    5666094457,
+    5666094454
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122695,
+  "center": {
+    "lat": 27.7987161,
+    "lon": 84.9337667
+  },
+  "nodes": [
+    5666094458,
+    5666094459,
+    5666094460,
+    5666094461,
+    5666094462,
+    5666094458
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122700,
+  "center": {
+    "lat": 27.7877174,
+    "lon": 84.9185720
+  },
+  "nodes": [
+    5666094467,
+    5666094468,
+    5666094469,
+    5666094470,
+    5666094467
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122703,
+  "center": {
+    "lat": 27.7879436,
+    "lon": 84.9188760
+  },
+  "nodes": [
+    5666094471,
+    5666094472,
+    5666094473,
+    5666094474,
+    5666094471
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122705,
+  "center": {
+    "lat": 27.7875529,
+    "lon": 84.9193466
+  },
+  "nodes": [
+    5666094475,
+    5666094476,
+    5666094477,
+    5666094478,
+    5666094479,
+    5666094480,
+    5666094475
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122708,
+  "center": {
+    "lat": 27.7886668,
+    "lon": 84.9202508
+  },
+  "nodes": [
+    5666094481,
+    5666094482,
+    5666094483,
+    5666094484,
+    5666094481
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122709,
+  "center": {
+    "lat": 27.7870197,
+    "lon": 84.9197767
+  },
+  "nodes": [
+    5666094485,
+    5666094486,
+    5666094487,
+    5666094488,
+    5666094485
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122712,
+  "center": {
+    "lat": 27.7951453,
+    "lon": 84.9406915
+  },
+  "nodes": [
+    5666094489,
+    5666094490,
+    5666094491,
+    5666094492,
+    5666094493,
+    5666094489
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122715,
+  "center": {
+    "lat": 27.7937914,
+    "lon": 84.9392148
+  },
+  "nodes": [
+    5666094494,
+    5666094495,
+    5666094496,
+    5666094497,
+    5666094494
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122718,
+  "center": {
+    "lat": 27.7924801,
+    "lon": 84.9409456
+  },
+  "nodes": [
+    5666094498,
+    5666094499,
+    5666094500,
+    5666094501,
+    5666094498
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122722,
+  "center": {
+    "lat": 27.7911228,
+    "lon": 84.9414940
+  },
+  "nodes": [
+    5666094502,
+    5666094503,
+    5666094504,
+    5666094505,
+    5666094506,
+    5666094507,
+    5666094508,
+    5666094509,
+    5666094510,
+    5666094511,
+    5666094502
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122725,
+  "center": {
+    "lat": 27.7912343,
+    "lon": 84.9426519
+  },
+  "nodes": [
+    5666094512,
+    5666094513,
+    5666094514,
+    5666094515,
+    5666094512
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122729,
+  "center": {
+    "lat": 27.7756321,
+    "lon": 84.9133651
+  },
+  "nodes": [
+    5666094516,
+    5666094517,
+    5666094518,
+    5666094519,
+    5666094516
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122732,
+  "center": {
+    "lat": 27.7756098,
+    "lon": 84.9113252
+  },
+  "nodes": [
+    5666094520,
+    5666094521,
+    5666094522,
+    5666094523,
+    5666094520
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122736,
+  "center": {
+    "lat": 27.7739575,
+    "lon": 84.9113257
+  },
+  "nodes": [
+    5666094524,
+    5666094525,
+    5666094526,
+    5666094527,
+    5666094524
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122739,
+  "center": {
+    "lat": 27.7702106,
+    "lon": 84.9071733
+  },
+  "nodes": [
+    5666094528,
+    5666094529,
+    5666094530,
+    5666094531,
+    5666094528
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122744,
+  "center": {
+    "lat": 27.7692700,
+    "lon": 84.9072175
+  },
+  "nodes": [
+    5666094532,
+    5666094533,
+    5666094534,
+    5666094535,
+    5666094536,
+    5666094537,
+    5666094532
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122748,
+  "center": {
+    "lat": 27.7679861,
+    "lon": 84.9066804
+  },
+  "nodes": [
+    5666094538,
+    5666094539,
+    5666094540,
+    5666094541,
+    5666094538
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122751,
+  "center": {
+    "lat": 27.7675294,
+    "lon": 84.9074167
+  },
+  "nodes": [
+    5666094542,
+    5666094543,
+    5666094544,
+    5666094545,
+    5666094542
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594122757,
+  "center": {
+    "lat": 27.7671292,
+    "lon": 84.9062833
+  },
+  "nodes": [
+    5666094550,
+    5666094551,
+    5666094552,
+    5666094553,
+    5666094550
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594132223,
+  "center": {
+    "lat": 27.7529722,
+    "lon": 84.9471213
+  },
+  "nodes": [
+    5666133813,
+    5666133814,
+    5666133815,
+    5666133816,
+    5666133817,
+    5666133818,
+    5666133819,
+    5666133820,
+    5666137521,
+    5666133813
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594132224,
+  "center": {
+    "lat": 27.7532910,
+    "lon": 84.9409452
+  },
+  "nodes": [
+    5666137522,
+    5666137523,
+    5666137524,
+    5666137525,
+    5666137522
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594132225,
+  "center": {
+    "lat": 27.7541455,
+    "lon": 84.9403721
+  },
+  "nodes": [
+    5666137526,
+    5666137527,
+    5666137528,
+    5666137529,
+    5666137526
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594140922,
+  "center": {
+    "lat": 27.7950468,
+    "lon": 84.9864443
+  },
+  "nodes": [
+    5666189544,
+    5666189545,
+    5666189546,
+    5666189547,
+    5666189548,
+    5666189549,
+    5666189550,
+    5666189551,
+    5666189552,
+    5666189544
+  ],
+  "tags": {
+    "place": "village"
+  }
+},
+{
+  "type": "way",
+  "id": 594140927,
+  "center": {
+    "lat": 27.7949967,
+    "lon": 84.9873956
+  },
+  "nodes": [
+    5666189553,
+    5666189554,
+    5666189555,
+    5666189556,
+    5666189553
+  ],
+  "tags": {
+    "place": "village"
+  }
+}
+
+  ]
+}

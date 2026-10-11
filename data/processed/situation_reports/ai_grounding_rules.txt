@@ -1,0 +1,36 @@
+FloodSpaceAI Numerical Grounding Rules
+======================================
+
+SOURCE OF TRUTH:
+
+data\processed\situation_report_evidence.json
+
+Every numerical statement in an AI-generated situation
+report must be traceable to the evidence JSON.
+
+The AI must NEVER invent a numerical value.
+
+Evidence numbers:
+
+00, 1, 2, 3, 07, 13, 18, 27, 84, 115, 181, 195, 252, 589, 600, 1286, 1495.74, 2026, 2463, 340415956, 340415958, 3476388711, 3484404878
+
+IMPORTANT:
+
+Comma-separated numbers are equivalent to their unformatted
+values.
+
+For example:
+
+1,286 == 1286
+
+1,495.74 == 1495.74
+
+The number must still be used in the correct context.
+
+MODELLED ≠ CONFIRMED
+
+Potential inundation ≠ confirmed flood extent
+
+Potentially affected ≠ confirmed damage
+
+Potentially cut off ≠ confirmed isolation

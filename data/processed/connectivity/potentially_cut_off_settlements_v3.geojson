@@ -1,0 +1,4365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.916593,
+          28.0166123
+        ]
+      },
+      "properties": {
+        "name": "छापथोक",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 24.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2388622,
+          27.8325156
+        ]
+      },
+      "properties": {
+        "name": "रानीपौवा",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 8.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2469602,
+          27.8156544
+        ]
+      },
+      "properties": {
+        "name": "ककनी",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 8.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2094347,
+          27.8291945
+        ]
+      },
+      "properties": {
+        "name": "जुरेथूम",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 28.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.194453,
+          27.8664405
+        ]
+      },
+      "properties": {
+        "name": "दाङमाई",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 56.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1932646,
+          27.8452758
+        ]
+      },
+      "properties": {
+        "name": "लौके बाराहितान",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 10.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.180529,
+          27.8625873
+        ]
+      },
+      "properties": {
+        "name": "काजिन डाँडा",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 11.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.191843,
+          27.84917
+        ]
+      },
+      "properties": {
+        "name": "लौके कोटघाडेरी",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 6.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1814642,
+          28.0172009
+        ]
+      },
+      "properties": {
+        "name": "शान्ति बजार",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 48.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0488554,
+          27.8824223
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478161245",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 46.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0486434,
+          27.8938671
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478161249",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 15.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0653839,
+          27.8955048
+        ]
+      },
+      "properties": {
+        "name": "तारकेश्वर",
+        "place": "village",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 13.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0559346,
+          27.8982735
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478161255",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 89.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0619127,
+          27.8983246
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478161256",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 125.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0655936,
+          27.9008506
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478161258",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 86.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0434358,
+          27.9027745
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478161260",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 42.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.039906,
+          27.9109542
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478161264",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 26.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0757011,
+          27.9051748
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478242461",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 445.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0688956,
+          27.9153251
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478243857",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 58.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0361715,
+          27.91093
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478249110",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 105.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1078951,
+          27.8899787
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478285246",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 137.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1033111,
+          27.8911218
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478285249",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 28.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9699938,
+          28.0348993
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478326622",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 302.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9797148,
+          28.0363484
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478326670",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 21.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9741662,
+          28.0370431
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478326677",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 122.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9855744,
+          28.0374505
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478326685",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 56.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0594493,
+          27.8701354
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478460439",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 79.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0992342,
+          27.8399696
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478520883",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 32.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0925171,
+          27.8443901
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478521311",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 27.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0962925,
+          27.8506597
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478521330",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 21.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0980518,
+          27.8528229
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478521332",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 26.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0972662,
+          27.8545303
+        ]
+      },
+      "properties": {
+        "name": "OSM-3478521338",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 15.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1677864,
+          27.9027345
+        ]
+      },
+      "properties": {
+        "name": "OSM-3484453635",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 30.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1761161,
+          27.9146656
+        ]
+      },
+      "properties": {
+        "name": "OSM-3484453637",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 135.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0662964,
+          27.8974199
+        ]
+      },
+      "properties": {
+        "name": "OSM-3486910168",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 88.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0423901,
+          27.8995686
+        ]
+      },
+      "properties": {
+        "name": "OSM-3487891611",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 66.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0576397,
+          27.8997535
+        ]
+      },
+      "properties": {
+        "name": "OSM-3488550901",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 28.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0597156,
+          27.9004578
+        ]
+      },
+      "properties": {
+        "name": "OSM-3488550974",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 16.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9949665,
+          27.9131181
+        ]
+      },
+      "properties": {
+        "name": "काउले भञ्ज्याङ",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 52.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.026253,
+          27.9215957
+        ]
+      },
+      "properties": {
+        "name": "OSM-3488620383",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 251.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.913915,
+          28.0469279
+        ]
+      },
+      "properties": {
+        "name": "बस्नेत टोल",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 366.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9124307,
+          28.0490767
+        ]
+      },
+      "properties": {
+        "name": "कात्तिके",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 106.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9153566,
+          27.9668477
+        ]
+      },
+      "properties": {
+        "name": "केरुङगाउँ",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 27.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.931161,
+          27.9111306
+        ]
+      },
+      "properties": {
+        "name": "दोधेली",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 8.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9222806,
+          27.9727289
+        ]
+      },
+      "properties": {
+        "name": "गैरीगाउँ",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 9.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9257975,
+          27.9801497
+        ]
+      },
+      "properties": {
+        "name": "चारुङ्गे",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 48.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1010327,
+          27.9915622
+        ]
+      },
+      "properties": {
+        "name": "बुङताङ",
+        "place": "village",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 19.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1726939,
+          28.0001697
+        ]
+      },
+      "properties": {
+        "name": "कार्की गाउँ",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 24.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2493381,
+          27.8326792
+        ]
+      },
+      "properties": {
+        "name": "डाँडागाउँ",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 57.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2402156,
+          27.9169995
+        ]
+      },
+      "properties": {
+        "name": "गणेशस्थान",
+        "place": "village",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 56.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9129264,
+          27.8615796
+        ]
+      },
+      "properties": {
+        "name": "कुसुन्डे गाउँ",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 13.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9067686,
+          27.8724269
+        ]
+      },
+      "properties": {
+        "name": "Kafachaap Gaun",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 4.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9107069,
+          27.8493976
+        ]
+      },
+      "properties": {
+        "name": "नवलपुर",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 233.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2492607,
+          27.7814361
+        ]
+      },
+      "properties": {
+        "name": "सिसडोल",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 31.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.215316,
+          27.8127782
+        ]
+      },
+      "properties": {
+        "name": "सिस्नेरी",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 24.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2094594,
+          27.8093726
+        ]
+      },
+      "properties": {
+        "name": "जागरी",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 24.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2260274,
+          27.818295
+        ]
+      },
+      "properties": {
+        "name": "निङ्गले",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 41.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2432713,
+          27.810687
+        ]
+      },
+      "properties": {
+        "name": "हिले भिट्टा",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 38.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2481629,
+          28.0042411
+        ]
+      },
+      "properties": {
+        "name": "सरसिउ",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 33.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2359676,
+          27.8324302
+        ]
+      },
+      "properties": {
+        "name": "छहारे",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 29.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9379742,
+          27.8532679
+        ]
+      },
+      "properties": {
+        "name": "जल्किनी",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 35.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9776833,
+          27.8644386
+        ]
+      },
+      "properties": {
+        "name": "पहारेछाप",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 40.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9864209,
+          27.8596131
+        ]
+      },
+      "properties": {
+        "name": "गैरीगाउँ",
+        "place": "hamlet",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 161.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.00448,
+          28.0429052
+        ]
+      },
+      "properties": {
+        "name": "खनियाबास",
+        "place": "village",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 52.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0645826,
+          27.9859191
+        ]
+      },
+      "properties": {
+        "name": "म्यागङ",
+        "place": "village",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_distance_m": 153.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2397859,
+          27.8324632
+        ]
+      },
+      "properties": {
+        "name": "ककनी",
+        "place": "village",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 0.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9147641,
+          27.7599222
+        ]
+      },
+      "properties": {
+        "name": "OSM-340771369",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 219.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9081513,
+          27.7556818
+        ]
+      },
+      "properties": {
+        "name": "OSM-341051142",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 163.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9136391,
+          27.7563274
+        ]
+      },
+      "properties": {
+        "name": "OSM-341051143",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 44.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9047422,
+          27.7607783
+        ]
+      },
+      "properties": {
+        "name": "OSM-341051151",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 132.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9096989,
+          27.7559172
+        ]
+      },
+      "properties": {
+        "name": "OSM-341051967",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 119.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9611136,
+          27.8342897
+        ]
+      },
+      "properties": {
+        "name": "Archale Village",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 10.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9564817,
+          27.8375242
+        ]
+      },
+      "properties": {
+        "name": "Kalleri Village",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 52.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9008948,
+          27.7607853
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727215",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 33.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9008747,
+          27.7615087
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727216",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 25.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9024904,
+          27.7624732
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727217",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 178.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9047396,
+          27.7621397
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727218",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 179.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9051298,
+          27.761904
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727219",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 194.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9082635,
+          27.7611786
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727220",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 182.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9094216,
+          27.7622974
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727221",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 53.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9109505,
+          27.7588244
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727222",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 109.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9095526,
+          27.7584767
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727223",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 63.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9089633,
+          27.7582811
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727224",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 56.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9092822,
+          27.7573233
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727225",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 23.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9101898,
+          27.7569902
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727226",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 4.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9070155,
+          27.755539
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727227",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 165.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9041729,
+          27.7558876
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727228",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 123.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9121866,
+          27.7606112
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727230",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 27.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9152226,
+          27.7568026
+        ]
+      },
+      "properties": {
+        "name": "OSM-593727231",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 45.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9007194,
+          27.7727043
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731274",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 9.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9026989,
+          27.7736869
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731275",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 87.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9027176,
+          27.7722344
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731276",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 42.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.902606,
+          27.7703774
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731277",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 95.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9035621,
+          27.7684201
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731279",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 79.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9051646,
+          27.7688913
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731280",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 15.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9044072,
+          27.767732
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731281",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 47.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9059484,
+          27.7693499
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731282",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 41.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9076956,
+          27.7698154
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731283",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 216.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.905265,
+          27.7696596
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731284",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 47.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.90424,
+          27.7701784
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731285",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 11.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9087297,
+          27.767645
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731286",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 130.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9091043,
+          27.7666845
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731287",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 47.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9113967,
+          27.7668736
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731288",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 39.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9117014,
+          27.7673568
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731290",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 28.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9117786,
+          27.7679054
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731291",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 25.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9104093,
+          27.7673411
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731293",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 34.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9108034,
+          27.7676286
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731295",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 57.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9094993,
+          27.7683497
+        ]
+      },
+      "properties": {
+        "name": "OSM-593731297",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 157.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9124433,
+          27.7738541
+        ]
+      },
+      "properties": {
+        "name": "OSM-593735440",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 27.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9126502,
+          27.77469
+        ]
+      },
+      "properties": {
+        "name": "OSM-593735442",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 92.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9338361,
+          27.7660721
+        ]
+      },
+      "properties": {
+        "name": "OSM-593739220",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 6.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9220389,
+          27.7579127
+        ]
+      },
+      "properties": {
+        "name": "OSM-593739242",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 61.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9214478,
+          27.7566158
+        ]
+      },
+      "properties": {
+        "name": "OSM-593739243",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 162.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9229352,
+          27.7562408
+        ]
+      },
+      "properties": {
+        "name": "OSM-593739244",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 14.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9227396,
+          27.7600422
+        ]
+      },
+      "properties": {
+        "name": "OSM-593739245",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 32.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9233976,
+          27.7614584
+        ]
+      },
+      "properties": {
+        "name": "OSM-593739246",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 117.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9280672,
+          27.769264
+        ]
+      },
+      "properties": {
+        "name": "OSM-593741643",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 278.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9202442,
+          27.7787867
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010873",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 93.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9198231,
+          27.7782741
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010874",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 23.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9211106,
+          27.7786063
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010875",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 134.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9200161,
+          27.7748385
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010876",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 39.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9196989,
+          27.7740453
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010877",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 43.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9216192,
+          27.7745162
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010878",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 174.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9216537,
+          27.7753004
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010879",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 100.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9224445,
+          27.7747356
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010880",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 199.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9406365,
+          27.765869
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010896",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 9.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9083698,
+          27.7593611
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010929",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 188.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9091873,
+          27.759212
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010930",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 145.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9061937,
+          27.7593123
+        ]
+      },
+      "properties": {
+        "name": "OSM-594010931",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 147.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9326574,
+          27.7677822
+        ]
+      },
+      "properties": {
+        "name": "OSM-594015801",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 182.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9347109,
+          27.7675046
+        ]
+      },
+      "properties": {
+        "name": "OSM-594015802",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 18.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9399719,
+          27.7663843
+        ]
+      },
+      "properties": {
+        "name": "OSM-594016421",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 96.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9307155,
+          27.7701368
+        ]
+      },
+      "properties": {
+        "name": "OSM-594034566",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 354.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9190279,
+          27.7725513
+        ]
+      },
+      "properties": {
+        "name": "OSM-594034845",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 36.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9182142,
+          27.7727576
+        ]
+      },
+      "properties": {
+        "name": "OSM-594038259",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 8.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9194845,
+          27.7791983
+        ]
+      },
+      "properties": {
+        "name": "OSM-594038262",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 83.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9267713,
+          27.7676889
+        ]
+      },
+      "properties": {
+        "name": "OSM-594038279",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 259.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9280051,
+          27.7668668
+        ]
+      },
+      "properties": {
+        "name": "OSM-594038281",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 119.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9290033,
+          27.7662614
+        ]
+      },
+      "properties": {
+        "name": "OSM-594038283",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 45.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9359337,
+          27.7639094
+        ]
+      },
+      "properties": {
+        "name": "OSM-594046738",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 62.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9329522,
+          27.7632627
+        ]
+      },
+      "properties": {
+        "name": "OSM-594046741",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 104.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9228924,
+          27.7623835
+        ]
+      },
+      "properties": {
+        "name": "OSM-594046758",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 181.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9207779,
+          27.7609232
+        ]
+      },
+      "properties": {
+        "name": "OSM-594046764",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 4.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9180075,
+          27.7582485
+        ]
+      },
+      "properties": {
+        "name": "OSM-594046769",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 362.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9064902,
+          27.7693476
+        ]
+      },
+      "properties": {
+        "name": "OSM-594048144",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 87.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.906425,
+          27.7685576
+        ]
+      },
+      "properties": {
+        "name": "OSM-594048145",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 51.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9078065,
+          27.7658984
+        ]
+      },
+      "properties": {
+        "name": "OSM-594048146",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 33.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.905824,
+          27.7659691
+        ]
+      },
+      "properties": {
+        "name": "OSM-594048147",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 21.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.922911,
+          27.7591648
+        ]
+      },
+      "properties": {
+        "name": "OSM-594059487",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 23.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9253451,
+          27.7568223
+        ]
+      },
+      "properties": {
+        "name": "OSM-594059489",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 17.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9120322,
+          27.7548026
+        ]
+      },
+      "properties": {
+        "name": "OSM-594071792",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 21.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9105737,
+          27.7560119
+        ]
+      },
+      "properties": {
+        "name": "OSM-594071794",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 82.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9090035,
+          27.755988
+        ]
+      },
+      "properties": {
+        "name": "OSM-594071796",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 126.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9078547,
+          27.7550922
+        ]
+      },
+      "properties": {
+        "name": "OSM-594071797",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 231.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9037515,
+          27.7594362
+        ]
+      },
+      "properties": {
+        "name": "OSM-594091368",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 138.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9010741,
+          27.7583001
+        ]
+      },
+      "properties": {
+        "name": "OSM-594091369",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 160.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9009574,
+          27.7586724
+        ]
+      },
+      "properties": {
+        "name": "OSM-594091370",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 120.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9000191,
+          27.7538717
+        ]
+      },
+      "properties": {
+        "name": "OSM-594091377",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 195.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9229859,
+          27.7572474
+        ]
+      },
+      "properties": {
+        "name": "OSM-594091385",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 14.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9404021,
+          27.7523314
+        ]
+      },
+      "properties": {
+        "name": "OSM-594091390",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 14.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9398676,
+          27.7512276
+        ]
+      },
+      "properties": {
+        "name": "OSM-594091391",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 92.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9518875,
+          27.7539414
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122524",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 88.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9510961,
+          27.7558528
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122526",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 196.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9492924,
+          27.7572695
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122528",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 166.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9473837,
+          27.7573549
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122529",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 36.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9470484,
+          27.7577624
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122531",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 55.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9475546,
+          27.7577621
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122533",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 83.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9462959,
+          27.7585449
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122537",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 54.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9462275,
+          27.7589746
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122539",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 95.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.947527,
+          27.7588704
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122541",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 172.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9445926,
+          27.7578074
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122543",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 72.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9443878,
+          27.7573961
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122545",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 82.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9428989,
+          27.7567712
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122547",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 158.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9423944,
+          27.7556565
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122549",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 203.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.942407,
+          27.7551657
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122551",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 198.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9430747,
+          27.7553522
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122553",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 267.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9445404,
+          27.7557789
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122555",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 252.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9440821,
+          27.7564858
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122557",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 165.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9438401,
+          27.7598456
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122559",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 118.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9410353,
+          27.7577841
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122565",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 4.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9421509,
+          27.7585967
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122567",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 32.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9412421,
+          27.7593989
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122569",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 43.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9420429,
+          27.7596433
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122571",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 36.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9406799,
+          27.7611051
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122573",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 102.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9397336,
+          27.7612661
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122575",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 19.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9392672,
+          27.7613336
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122577",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 2.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9387833,
+          27.761157
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122580",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 5.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9413144,
+          27.7617463
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122582",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 150.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9425989,
+          27.7617533
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122585",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 164.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.942429,
+          27.7622842
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122588",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 105.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9459607,
+          27.7604513
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122591",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 256.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9446999,
+          27.7611403
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122597",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 285.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9506947,
+          27.7596412
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122612",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 246.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9516325,
+          27.7595641
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122615",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 153.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.952106,
+          27.7600575
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122618",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 135.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9497686,
+          27.7606667
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122622",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 368.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9520227,
+          27.7617909
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122625",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 222.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9523933,
+          27.7624635
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122628",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 209.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9571542,
+          27.7595905
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122631",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 88.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9572079,
+          27.7605502
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122634",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 79.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9580151,
+          27.7612756
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122638",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 12.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9650267,
+          27.7614913
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122647",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 169.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9471449,
+          27.7562075
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122650",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 48.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9378827,
+          27.7624843
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122656",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 78.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9382758,
+          27.7627833
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122659",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 106.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9381267,
+          27.7630976
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122662",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 118.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9394205,
+          27.7628864
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122665",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 9.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9405472,
+          27.7632644
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122668",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 10.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.940715,
+          27.7649946
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122674",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 25.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9410954,
+          27.7650618
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122676",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 13.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9071733,
+          27.7702106
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122739",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 194.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9072175,
+          27.76927
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122744",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 153.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9066804,
+          27.7679861
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122748",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 70.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9074167,
+          27.7675294
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122751",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 81.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9062833,
+          27.7671292
+        ]
+      },
+      "properties": {
+        "name": "OSM-594122757",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 14.5,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9471213,
+          27.7529722
+        ]
+      },
+      "properties": {
+        "name": "OSM-594132223",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 62.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9409452,
+          27.753291
+        ]
+      },
+      "properties": {
+        "name": "OSM-594132224",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 31.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9403721,
+          27.7541455
+        ]
+      },
+      "properties": {
+        "name": "OSM-594132225",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_distance_m": 31.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    }
+  ]
+}

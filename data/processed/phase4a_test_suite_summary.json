@@ -1,0 +1,49 @@
+{
+  "suite": "Phase 4A Real Satellite Acquisition & Provenance Test Suite",
+  "timestamp_utc": "2026-10-09T16:40:00.512346+00:00",
+  "all_passed": true,
+  "total_tests": 8,
+  "passed_tests": 8,
+  "results": [
+    {
+      "test_name": "Test 1: Live Real-Data Retrieval & Checksums",
+      "passed": true,
+      "details": "Provider: AWS Open Data (Element84 Earth Search STAC), Checksums: 4 verified, Mode: LIVE_AUTHORITATIVE_SATELLITE_RETRIEVAL"
+    },
+    {
+      "test_name": "Test 2: Future Date Rejection",
+      "passed": true,
+      "details": "Status: UNAVAILABLE_FUTURE_DATE, Error: Flood date 2026-12-31 is in the future. Cannot acquire future satellite imagery."
+    },
+    {
+      "test_name": "Test 3: Empty Catalog Handling",
+      "passed": true,
+      "details": "Status: EMPTY_CATALOG_RESULTS, Msg: No Sentinel-1 GRD scenes found in live catalog for bbox=[-140.0, -20.0, -139.9, -19.9] between 2023-12-21 and 2024-01-25."
+    },
+    {
+      "test_name": "Test 4: Benchmark Fixture Labeling",
+      "passed": true,
+      "details": "Status: VERIFIED_BENCHMARK_FIXTURE, Mode: VERIFIED_TRISHULI_BENCHMARK_CACHE"
+    },
+    {
+      "test_name": "Test 5: Multi-Tile MGRS Mosaicking",
+      "passed": true,
+      "details": "Multi-tile applied: True, Tiles: ['MGRS-45RTL', 'MGRS-45RUL']"
+    },
+    {
+      "test_name": "Test 6: Corrupt Input Rejection",
+      "passed": true,
+      "details": "Status: FAILED_SAR_PROCESSING, Error: Could not open Sentinel-1 input rasters with GDAL."
+    },
+    {
+      "test_name": "Test 7: Anti-Synthetic Provenance Enforcement",
+      "passed": true,
+      "details": "Provenance mode: EXPLICIT_USER_SUPPLIED_INPUTS (strictly distinct from LIVE_AUTHORITATIVE_SATELLITE_RETRIEVAL)"
+    },
+    {
+      "test_name": "Test 8: Secrets & Token Safety",
+      "passed": true,
+      "details": "No tokens or secrets found in metadata"
+    }
+  ]
+}

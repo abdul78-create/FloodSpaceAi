@@ -1,0 +1,23 @@
+{
+  "language": "English",
+  "mode": "Deterministic fallback",
+  "passed": true,
+  "report_numbers": [
+    "00",
+    "07",
+    "1",
+    "115",
+    "1286",
+    "13",
+    "18",
+    "195",
+    "2",
+    "2026",
+    "3",
+    "589",
+    "600",
+    "84"
+  ],
+  "evidence_numbers_count": 23,
+  "unsupported_numbers": []
+}

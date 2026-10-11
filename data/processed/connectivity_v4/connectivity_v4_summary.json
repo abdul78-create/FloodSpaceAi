@@ -1,0 +1,15 @@
+{
+  "analysis_version": "V4",
+  "vehicle_accessible_ways": 4405,
+  "v3_affected_road_features": 115,
+  "disrupted_road_segments": 3748,
+  "pre_event_components": 181,
+  "post_event_components": 252,
+  "settlements_available": 600,
+  "settlements_analysed": 589,
+  "town_city_hubs": 3,
+  "potentially_cut_off_settlements": 18,
+  "match_tolerance_m": 5,
+  "settlement_snap_distance_m": 500,
+  "interpretation": "Modelled road-network connectivity result. Potentially cut-off settlements are settlements connected to their nearest town/city before removal of V3 potentially affected road segments but disconnected afterward. This does not confirm real-world isolation."
+}

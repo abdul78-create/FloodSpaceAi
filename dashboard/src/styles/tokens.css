@@ -1,0 +1,177 @@
+/* ============================================================
+   FloodSpaceAI — Design Tokens
+   Light field-survey / hydrology-map aesthetic
+   ============================================================ */
+
+:root {
+  /* Strict Palette (flat colors, no gradients) */
+  --fog: #EDF1F0;      /* Page background */
+  --paper: #F8F9F6;    /* Panels & cards */
+  --paper-elevated: #FFFFFF;
+  --ink: #1E2A32;      /* Primary text */
+  --ink-secondary: #4A5B66;
+  --ink-muted: #73848E;
+  --river: #2E6F9E;    /* Flood / water */
+  --river-light: #E4EFF6;
+  --river-dark: #1E4E70;
+  --silt: #B98A3E;     /* Roads, secondary data */
+  --silt-light: #F7EEDB;
+  --brick: #B04A3A;    /* Cut-off settlements, warnings */
+  --brick-light: #F8E8E6;
+  --moss: #5F7F56;     /* Safe / unaffected */
+  --moss-light: #EDF3EC;
+  --slate: #8A979E;    /* Borders, structural lines, muted text */
+  --slate-light: #DCE3E6;
+  --slate-subtle: #E8ECEE;
+
+  /* Typography variables */
+  --font-serif: var(--font-fraunces), Georgia, serif;
+  --font-sans: var(--font-instrument), system-ui, sans-serif;
+  --font-devanagari: var(--font-noto-devanagari), sans-serif;
+  --font-mono: "JetBrains Mono", "Courier New", monospace;
+
+  /* Physical UI shapes */
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 8px;
+
+  /* Flat borders */
+  --border-subtle: 1px solid var(--slate-subtle);
+  --border-default: 1px solid var(--slate-light);
+  --border-strong: 1px solid var(--slate);
+  --border-river: 1px solid var(--river);
+  --border-brick: 1px solid var(--brick);
+  --border-silt: 1px solid var(--silt);
+
+  /* Shadows (tactile & clean, not soft purple glows) */
+  --shadow-flat: 0 1px 2px rgba(30, 42, 50, 0.05);
+  --shadow-panel: 0 2px 6px rgba(30, 42, 50, 0.06), 0 1px 2px rgba(30, 42, 50, 0.04);
+  --shadow-dropdown: 0 4px 14px rgba(30, 42, 50, 0.1);
+
+  /* Transitions */
+  --t-press: transform 80ms ease, box-shadow 80ms ease;
+  --t-smooth: all 180ms ease;
+}
+
+/* Base Body Style */
+body {
+  background-color: var(--fog);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Flat tactile button system with physical press animation */
+.btn-survey {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 7px 14px;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 500;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--slate);
+  background-color: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  box-shadow: 0 2px 0 var(--slate-light);
+  transition: var(--t-press);
+  user-select: none;
+  text-decoration: none;
+}
+
+.btn-survey:hover {
+  background-color: #FFFFFF;
+  border-color: var(--ink);
+}
+
+.btn-survey:active {
+  transform: translateY(2px);
+  box-shadow: 0 0 0 transparent;
+}
+
+.btn-survey-primary {
+  background-color: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+  box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25);
+}
+
+.btn-survey-primary:hover {
+  background-color: #111A20;
+  color: #FFFFFF;
+}
+
+.btn-survey-primary:active {
+  transform: translateY(2px);
+  box-shadow: 0 0 0 transparent;
+}
+
+.btn-survey-river {
+  background-color: var(--river);
+  color: #FFFFFF;
+  border-color: var(--river-dark);
+  box-shadow: 0 2px 0 var(--river-dark);
+}
+
+.btn-survey-river:hover {
+  background-color: var(--river-dark);
+}
+
+.btn-survey-river:active {
+  transform: translateY(2px);
+  box-shadow: 0 0 0 transparent;
+}
+
+/* Survey tags & badges */
+.survey-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 8px;
+  font-size: 11px;
+  font-weight: 600;
+  border-radius: var(--radius-sm);
+  background: var(--paper);
+  border: 1px solid var(--slate-light);
+  color: var(--ink-secondary);
+  font-family: var(--font-mono);
+}
+
+.survey-badge-river {
+  background: var(--river-light);
+  border-color: rgba(46, 111, 158, 0.35);
+  color: var(--river-dark);
+}
+
+.survey-badge-brick {
+  background: var(--brick-light);
+  border-color: rgba(176, 74, 58, 0.35);
+  color: var(--brick);
+}
+
+.survey-badge-silt {
+  background: var(--silt-light);
+  border-color: rgba(185, 138, 62, 0.35);
+  color: var(--silt);
+}
+
+.survey-badge-moss {
+  background: var(--moss-light);
+  border-color: rgba(95, 127, 86, 0.35);
+  color: var(--moss);
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

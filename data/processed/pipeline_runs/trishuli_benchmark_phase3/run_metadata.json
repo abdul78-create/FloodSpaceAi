@@ -1,0 +1,100 @@
+{
+  "status": "SUCCESS_COMPLETED",
+  "run_id": "trishuli_benchmark_phase3",
+  "execution_timestamp": "2026-10-09T07:26:53.508058+00:00",
+  "inputs": {
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2026-08-28"
+  },
+  "discovery_metadata": {
+    "sentinel1_sar": {
+      "status": "ERROR",
+      "error": "name 'asdict' is not defined"
+    },
+    "sentinel2_optical": {
+      "status": "ERROR",
+      "error": "name 'asdict' is not defined"
+    }
+  },
+  "raster_provenance": {
+    "mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE",
+    "verified_acquisition_dates": {
+      "sentinel1_pre": "2026-08-16 (Relative Orbit 85, Ascending)",
+      "sentinel1_post": "2026-08-28 (Relative Orbit 85, Ascending)",
+      "sentinel2_pre": "2026-08-12 (Clear-sky baseline, 20.5% cloud)",
+      "sentinel2_post": "2026-08-27 (Flood peak, 75.9% cloud, SCL-masked)"
+    },
+    "files": {
+      "s1_pre": "data/raw/sentinel1_pre_20260816_vv_vh.tif",
+      "s1_post": "data/raw/sentinel1_post_20260828_vv_vh.tif",
+      "s2_pre": "data/raw/sentinel2_pre_20260812_b03_b08_scl.tif",
+      "s2_post": "data/raw/sentinel2_20260827_b03_b08_scl.tif"
+    }
+  },
+  "spatial_grid_specification": {
+    "width": 2048,
+    "height": 2048,
+    "geotransform": [
+      84.9,
+      0.00017089843749999722,
+      0.0,
+      28.05,
+      0.0,
+      -0.00014648437500000035
+    ],
+    "pixel_size_x_deg": 0.00017089843749999722,
+    "pixel_size_y_deg": 0.00014648437500000035,
+    "crs": "EPSG:4326 (WGS84)"
+  },
+  "sar_metrics": {
+    "total_pixels": 4194304,
+    "valid_pixels": 4177140,
+    "valid_fraction_pct": 99.59,
+    "filter": "3x3 median filter on linear amplitude",
+    "vv_change_mean_db": -0.077,
+    "vh_change_mean_db": -0.036
+  },
+  "optical_metrics": {
+    "total_pixels": 4194304,
+    "pre_valid_pixels": 3488672,
+    "pre_valid_coverage_pct": 83.18,
+    "pre_cloud_masked_pct": 16.82,
+    "post_valid_pixels": 2208564,
+    "post_valid_coverage_pct": 52.66,
+    "post_cloud_masked_pct": 47.34,
+    "common_valid_pixels": 2141850,
+    "common_valid_coverage_pct": 51.07,
+    "scl_mask_policy": "Retained SCL classes [2, 4, 5, 6, 7]; masked shadows (3), clouds (8,9), cirrus (10), snow (11)"
+  },
+  "v3_flood_metrics": {
+    "valid_common_pixels": 2133192,
+    "raw_candidate_pixels": 3040,
+    "final_v3_pixels": 1286,
+    "removed_by_patch_filter": 1754,
+    "patch_reduction_pct": 57.7,
+    "final_flood_clusters": 27,
+    "estimated_candidate_area_ha": 35.03
+  },
+  "generated_rasters": {
+    "filtered_vv_change_db": "data/processed/pipeline_runs/trishuli_benchmark_phase3/rasters/filtered_vv_change_db.tif",
+    "filtered_vh_change_db": "data/processed/pipeline_runs/trishuli_benchmark_phase3/rasters/filtered_vh_change_db.tif",
+    "pre_ndwi_cloudmasked": "data/processed/pipeline_runs/trishuli_benchmark_phase3/rasters/pre_ndwi_cloudmasked.tif",
+    "post_ndwi_cloudmasked": "data/processed/pipeline_runs/trishuli_benchmark_phase3/rasters/post_ndwi_cloudmasked.tif",
+    "ndwi_change": "data/processed/pipeline_runs/trishuli_benchmark_phase3/rasters/ndwi_change.tif",
+    "final_flood_candidate_v3": "data/processed/pipeline_runs/trishuli_benchmark_phase3/rasters/final_flood_candidate_v3.tif"
+  },
+  "generated_vectors": {
+    "flood_polygons_geojson": "data/processed/pipeline_runs/trishuli_benchmark_phase3/vectors/v3_flood_polygons.geojson"
+  },
+  "warnings": [],
+  "scientific_notices": [
+    "Process API outputs represent resampled bounding box grids (2048x2048), not native 10m imagery unless native resolution is independently established.",
+    "SCL pixel cloud/shadow masking was strictly applied; non-valid optical pixels were propagated as nodata rather than false non-water.",
+    "Established V3 conditions (VV < -1.5 dB, VH < -1.5 dB, NDWI change > 0.15, post NDWI > 0.05, pre NDWI < 0.20, patch >= 25 px) were rigorously preserved."
+  ]
+}

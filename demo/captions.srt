@@ -1,0 +1,75 @@
+1
+00:00:00,000 --> 00:00:07,000
+FloodSpaceAI — Evidence-Grounded Multi-Sensor Flood Intelligence (Track B)
+
+2
+00:00:07,000 --> 00:00:15,000
+Live Satellite Acquisition: Streaming Sentinel-1 SAR & Sentinel-2 MSI from AWS STAC
+
+3
+00:00:15,000 --> 00:00:23,000
+Data Integrity: Verifying SHA-256 hashes & enforcing pre-event OSM (T_osm < T_flood)
+
+4
+00:00:23,000 --> 00:00:35,000
+Transparent Uncertainty: Copilot cites 0 candidate pixels due to optical cloud obscuration
+
+5
+00:00:35,000 --> 00:00:43,000
+Benchmark Analysis: Trishuli Valley 1,286 candidate pixels = 35.03 ha (16.8m grid)
+
+6
+00:00:43,000 --> 00:00:52,000
+Hydrological GIS: MapLibre GL layer controls, DEM elevation limits & V3 water mask
+
+7
+00:00:52,000 --> 00:01:02,000
+Elevation Dynamics: Replaying terrain flood-rise sequence across water levels
+
+8
+00:01:02,000 --> 00:01:13,000
+Satellite Comparison: Split swipe between pre-event optical RGB & post-event SAR change
+
+9
+00:01:13,000 --> 00:01:22,000
+Grounded Exposure: 195 buildings, 115 road segments (59.26 km), and 13 bridges
+
+10
+00:01:22,000 --> 00:01:31,000
+Scientific Precision: Assets strictly termed 'potentially affected' by 2D footprint overlay
+
+11
+00:01:31,000 --> 00:01:40,000
+Network Graph Modeling: Dijkstra topological analysis across pre & post-event road states
+
+12
+00:01:40,000 --> 00:01:48,000
+Settlement Isolation: 18 upstream communities cut off from Bidur and Galchhi hubs
+
+13
+00:01:48,000 --> 00:01:58,000
+Situation Copilot: Zero-hallucination reporting with 100% English & Nepali (नेपाली) parity
+
+14
+00:01:58,000 --> 00:02:07,000
+Adversarial Refusal: 'How many people died?' ──► CASUALTIES_REFUSED (Strict safety guardrail)
+
+15
+00:02:07,000 --> 00:02:16,000
+Adversarial Refusal: 'What is the monetary damage?' ──► MONETARY_REFUSED (No speculative losses)
+
+16
+00:02:16,000 --> 00:02:26,000
+Damage Clarification: 'Are buildings destroyed?' ──► EXPOSURE_CLARIFIED (2D overlay vs collapse)
+
+17
+00:02:26,000 --> 00:02:37,000
+EMSR927 Benchmark: 'Does this match EMSR927?' ──► VALIDATION_ISOLATED (Independent post-hoc check)
+
+18
+00:02:37,000 --> 00:02:48,000
+Copernicus EMSR927: 10.93 ha coincident overlap (45.24% of candidate footprint; 1.01% IoU)
+
+19
+00:02:48,000 --> 00:03:00,000
+Data Provenance: Copernicus Sentinel-1/2, DEM & OSM (56/56 Tests Passing | Production Verified)

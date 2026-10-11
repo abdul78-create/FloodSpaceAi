@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "trishuli_benchmark_verified",
+  "title": "Run trishuli_benchmark_verified (2026-08-28)",
+  "overall_status": "PARTIAL_RUN_OPTICAL_UNCONFIRMED",
+  "overall_message": "SAR analysis completed; optical verification limited by cloud cover.",
+  "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE",
+  "timestamp_utc": "2026-10-09T15:34:09.353646+00:00",
+  "inputs": {
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2026-08-28",
+    "snapshot_date": "2026-07-27T00:00:00Z"
+  },
+  "stages": {
+    "stage_1_input_validation": {
+      "stage": "Input Validation",
+      "status": "SUCCESS",
+      "duration_s": 0.003,
+      "message": "Valid AOI [84.9, 27.75, 85.25, 28.05] and event date 2026-08-28."
+    },
+    "stage_2_satellite_discovery": {
+      "stage": "Satellite Discovery",
+      "status": "PARTIAL",
+      "duration_s": 3.115,
+      "message": "S1 SAR pair matched (Orbit 85); S2 optical scene cloud-limited (75.9% cloud).",
+      "details": {
+        "sentinel1": {
+          "status": "SUCCESS_MATCHED_PAIR",
+          "relative_orbit": 85,
+          "orbit_state": "ascending",
+          "temporal_baseline_days": 12,
+          "pre_scene_id": "S1D_IW_GRDH_1SDV_20260816T122141_20260816T122206_004151_007980",
+          "post_scene_id": "S1D_IW_GRDH_1SDV_20260828T122141_20260828T122206_004326_007FA4"
+        },
+        "sentinel2": {
+          "status": "SUCCESS_MATCHED_PAIR",
+          "pre_date": "2026-08-12",
+          "post_date": "2026-08-27",
+          "pre_cloud_pct": 20.46,
+          "post_cloud_pct": 75.92
+        }
+      }
+    },
+    "stage_3_satellite_acquisition": {
+      "stage": "Satellite Data Acquisition",
+      "status": "SUCCESS",
+      "duration_s": 15.085,
+      "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE",
+      "files": {
+        "s1_pre": "data/raw/sentinel1_pre_20260816_vv_vh.tif",
+        "s1_post": "data/raw/sentinel1_post_20260828_vv_vh.tif",
+        "s2_pre": "data/raw/sentinel2_pre_20260812_b03_b08_scl.tif",
+        "s2_post": "data/raw/sentinel2_20260827_b03_b08_scl.tif"
+      },
+      "checksums": {},
+      "message": "Acquisition mode: VERIFIED_TRISHULI_BENCHMARK_CACHE"
+    },
+    "stage_4_raster_processing": {
+      "stage": "SAR & Optical Raster Processing",
+      "status": "SUCCESS",
+      "duration_s": 15.085,
+      "message": "Generated 1,286 candidate pixels across 27 clusters.",
+      "valid_optical_percentage": 100.0,
+      "optical_confirmation": "VERIFIED",
+      "v3_flood_metrics": {
+        "valid_common_pixels": 2133192,
+        "raw_candidate_pixels": 3040,
+        "final_v3_pixels": 1286,
+        "removed_by_patch_filter": 1754,
+        "patch_reduction_pct": 57.7,
+        "final_flood_clusters": 27,
+        "estimated_candidate_area_ha": 35.03
+      },
+      "rasters": {
+        "filtered_vv_change_db": "data/processed/pipeline_runs/trishuli_benchmark_verified/rasters/filtered_vv_change_db.tif",
+        "filtered_vh_change_db": "data/processed/pipeline_runs/trishuli_benchmark_verified/rasters/filtered_vh_change_db.tif",
+        "pre_ndwi_cloudmasked": "data/processed/pipeline_runs/trishuli_benchmark_verified/rasters/pre_ndwi_cloudmasked.tif",
+        "post_ndwi_cloudmasked": "data/processed/pipeline_runs/trishuli_benchmark_verified/rasters/post_ndwi_cloudmasked.tif",
+        "ndwi_change": "data/processed/pipeline_runs/trishuli_benchmark_verified/rasters/ndwi_change.tif",
+        "final_flood_candidate_v3": "data/processed/pipeline_runs/trishuli_benchmark_verified/rasters/final_flood_candidate_v3.tif"
+      },
+      "vectors": {
+        "flood_polygons_geojson": "data/processed/pipeline_runs/trishuli_benchmark_verified/vectors/v3_flood_polygons.geojson"
+      }
+    },
+    "stage_5_historical_osm": {
+      "stage": "Historical OSM Snapshot Ingestion",
+      "status": "SUCCESS",
+      "duration_s": 32.15,
+      "snapshot_timestamp": "2026-07-27T00:00:00Z",
+      "provider": "Heidelberg University GIScience Research Group (OHsome API)",
+      "attribution": "© OpenStreetMap contributors",
+      "files_used": {
+        "roads": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\raw\\osm\\roads_pre_20260727.json",
+        "buildings": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\raw\\osm\\buildings_pre_20260727.json",
+        "bridges": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\raw\\osm\\bridges_pre_20260727.json",
+        "settlements": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\raw\\osm\\settlements_pre_20260727.json",
+        "hospitals": null
+      },
+      "checksums": {
+        "roads_sha256": "d3c20f782fda242aa043846143585de2c04f75451c3f92724fffcb457982b3e1",
+        "buildings_sha256": "5bf93fd1f0f375073cb7845ac75269cf0a7c9bef14c295ba2df392ebeb4b3484",
+        "bridges_sha256": "300719836f49e325cd7c3a22a6d868661fa6009ca654f2a1f27218edc6719568",
+        "settlements_sha256": "70ca36b9a9611ed3d7f2b3682f38ada8540f872692781b9b493235f120b84e23",
+        "hospitals_sha256": null
+      },
+      "message": "Verified pre-event snapshot at 2026-07-27T00:00:00Z."
+    },
+    "stage_6_asset_connectivity": {
+      "stage": "Asset Exposure & Road Connectivity Modeling",
+      "status": "SUCCESS",
+      "duration_s": 32.15,
+      "potentially_affected_buildings": 195,
+      "potentially_affected_roads": 115,
+      "potentially_affected_road_length_km": 59.26,
+      "potentially_affected_bridges": 13,
+      "disrupted_road_segments": 3748,
+      "pre_event_components": 181,
+      "post_event_components": 252,
+      "potentially_cut_off_settlements": 18,
+      "hospital_data_available": false,
+      "hospital_notice": "Historical hospital data not available in pre-event snapshot; town/city hubs utilized for modeled access.",
+      "message": "Potentially affected: 195 bldgs, 115 roads, 13 bridges. 18 potentially cut-off settlements."
+    },
+    "stage_7_situation_evidence": {
+      "stage": "Situation Report & Evidence Grounding",
+      "status": "SUCCESS",
+      "duration_s": 0.004,
+      "files": {
+        "evidence_json": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\trishuli_benchmark_verified\\evidence\\evidence.json",
+        "situation_report_en": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\trishuli_benchmark_verified\\evidence\\situation_report_en.md",
+        "situation_report_ne": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\trishuli_benchmark_verified\\evidence\\situation_report_ne.md"
+      },
+      "claims_count": 13,
+      "message": "Grounded multilingual situation reports generated (13 claims linked)."
+    }
+  },
+  "metrics": {
+    "candidate_flood_pixels": 1286,
+    "candidate_flood_clusters": 27,
+    "candidate_flood_area_ha": 35.03,
+    "potentially_affected_buildings": 195,
+    "total_mapped_buildings": 132765,
+    "potentially_affected_roads": 115,
+    "potentially_affected_road_length_km": 59.26,
+    "potentially_affected_bridges": 13,
+    "total_mapped_bridges": 187,
+    "disrupted_road_segments": 3748,
+    "pre_event_components": 181,
+    "post_event_components": 252,
+    "settlements_analysed": 589,
+    "potentially_cut_off_settlements": 18,
+    "hospital_data_available": false
+  },
+  "limitations": [
+    "Historical hospital data was unavailable in the pre-event snapshot; municipal town/city hubs were utilized for modeled road connectivity."
+  ],
+  "attributions": {
+    "copernicus_sentinel": "Contains modified Copernicus Sentinel data (2024/2026), processed under ESA Copernicus Open Access.",
+    "copernicus_dem": "Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018.",
+    "openstreetmap": "© OpenStreetMap contributors, ODbL 1.0 license.",
+    "validation_isolation": "Copernicus EMSR927 / UNOSAT products strictly isolated from analytical pipeline inputs."
+  }
+}

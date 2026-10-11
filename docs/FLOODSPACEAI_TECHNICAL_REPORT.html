@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FloodSpaceAI Technical Report — Multimodal AI Hackathon 2026</title>
+  <style>
+    @page {
+      size: A4;
+      margin: 12mm 15mm;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 9pt;
+      line-height: 1.35;
+      color: #111;
+      max-width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    h1 {
+      font-size: 16pt;
+      text-align: center;
+      margin-top: 0;
+      margin-bottom: 4px;
+      color: #0b1a24;
+    }
+    h2 {
+      font-size: 11pt;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 2px;
+      margin-top: 12px;
+      margin-bottom: 4px;
+      color: #1a364a;
+    }
+    h3 {
+      font-size: 9.5pt;
+      margin-top: 8px;
+      margin-bottom: 2px;
+      color: #2c4c62;
+    }
+    h4 {
+      font-size: 9pt;
+      margin-top: 6px;
+      margin-bottom: 2px;
+    }
+    p {
+      margin: 3px 0;
+      text-align: justify;
+    }
+    .table-wrapper {
+      overflow-x: auto;
+      margin: 6px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 8pt;
+      line-height: 1.2;
+    }
+    th, td {
+      border: 1px solid #bbb;
+      padding: 3px 6px;
+      text-align: left;
+    }
+    th {
+      background-color: #f0f4f7;
+      font-weight: 600;
+    }
+    pre.code-block {
+      background: #f7f9fa;
+      border: 1px solid #ddd;
+      padding: 5px;
+      font-family: 'Consolas', 'Courier New', monospace;
+      font-size: 7pt;
+      line-height: 1.15;
+      overflow-x: auto;
+      margin: 4px 0;
+    }
+    code {
+      font-family: 'Consolas', 'Courier New', monospace;
+      background: #f0f2f4;
+      padding: 1px 3px;
+      font-size: 8pt;
+      border-radius: 2px;
+    }
+    hr {
+      border: 0;
+      border-top: 1px solid #ddd;
+      margin: 8px 0;
+    }
+    li {
+      margin: 2px 0 2px 16px;
+    }
+    @media print {
+      body {
+        padding: 0;
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+<h1>FloodSpaceAI: Evidence-Grounded Multi-Sensor Satellite Hydrology and Geospatial Network Intelligence</h1>
+<p></p>
+<p><strong>Track B: Mapping Flood Damage from Space — Multimodal AI Hackathon 2026</strong>  </p>
+<p><strong>Technical Paper & System Architecture Report</strong>  </p>
+<p><em>Authors: FloodSpaceAI Technical Team</em>  </p>
+<p><em>Date: October 2026 | Version: 1.0.0 (Final Submission)</em>  </p>
+<p></p>
+<hr/>
+<p></p>
+<h2>Abstract</h2>
+<p></p>
+<p>Rapid disaster response during extreme monsoon flooding requires reconciling high-resolution earth observation with ground-truth infrastructure vulnerabilities while strictly avoiding artificial intelligence hallucinations. In mountainous terrain like the Himalayas, optical satellites are routinely obscured by dense cloud cover (up to 88.9%), while synthetic aperture radar (SAR) suffers from severe terrain shadowing and foreshortening. </p>
+<p></p>
+<p><strong>FloodSpaceAI</strong> introduces an end-to-end, evidence-grounded hydrology and infrastructure damage intelligence platform. The system couples multi-temporal Copernicus Sentinel-1 C-band SAR backscatter change with Copernicus Sentinel-2 multispectral Scene Classification Layer (SCL) cloud masking, parameterized OpenStreetMap (OSM) pre-event network graph topology, and an evidence-grounded bilingual (English/Nepali) AI copilot governed by zero-hallucination verification schemas. </p>
+<p></p>
+<p>Across 56 automated test suites, FloodSpaceAI demonstrates:</p>
+<p>1. Automated, cryptographic STAC streaming of multi-tile Sentinel-1 and Sentinel-2 rasters with SHA-256 integrity verification;</p>
+<p>2. Strict temporal enforcement of pre-event OSM infrastructure snapshots ($T_{\text{OSM}} < T_{\text{flood}}$);</p>
+<p>3. Physics-based flood candidate segmentation (1,286 pixels, 35.03 ha extent on resampled grid) with 57.7% morphological noise reduction;</p>
+<p>4. Dijkstra network graph modeling identifying 18 potentially cut-off settlements across 3,748 disrupted road edges;</p>
+<p>5. Independent validation against Copernicus EMS Rapid Mapping activation EMSR927 (45.24% candidate footprint overlap within the 1,068.36 ha mountain debris corridor);</p>
+<p>6. A dual-tier AI copilot that links 100% of generated numbers to schema-validated evidence records and strictly refuses unverified casualty and economic loss queries.</p>
+<p></p>
+<hr/>
+<p></p>
+<h2>1. Introduction & Operational Motivation</h2>
+<p></p>
+<p>During the August 2024–2026 monsoon events in Nepal's central river basins (e.g., Trishuli, Narayani), humanitarian commanders faced severe intelligence bottlenecks:</p>
+<li>**Cloud Blindness:** Optical sensors (Sentinel-2, Landsat) cannot penetrate monsoonal cloud decks.</li>
+<li>**Topological Invisibility:** Knowing that 35 ha of valley floor is inundated does not reveal whether critical mountain roads are cut or which hamlets are severed from medical care.</li>
+<li>**LLM Hallucinations:** Generative AI tools often fabricate plausible-sounding fatality figures, damage costs, and structural collapse counts, creating unacceptable operational liability.</li>
+<li>**Data Contamination:** Post-disaster OSM edits frequently introduce retrospective changes that pollute baseline damage assessments.</li>
+<p></p>
+<p>FloodSpaceAI was engineered from first principles to solve these challenges through strict provenance boundaries, reproducible physics-based algorithms, and evidence-grounded conversational intelligence.</p>
+<p></p>
+<hr/>
+<p></p>
+<h2>2. Multi-Sensor Remote Sensing & Flood Extraction</h2>
+<p></p>
+<pre class='code-block '>
+                ┌────────────────────────────────────────────────────────┐
+                │             COPERNICUS EARTH OBSERVATION               │
+                └───────────────────┬────────────────┬───────────────────┘
+                                    │                │
+            Sentinel-1 IW SAR       │                │    Sentinel-2 MSI
+       (VV + VH Polarization, C-Band)│                │   (12-Band Multispectral)
+                                    ▼                ▼
+                     ┌──────────────────┐  ┌──────────────────┐
+                     │ 3x3 Median Filter│  │ SCL Cloud Masking│
+                     │  Speckle Removal │  │ (Shadows, Clouds)│
+                     └────────┬─────────┘  └────────┬─────────┘
+                              │                     │
+                              ▼                     ▼
+                     ┌──────────────────┐  ┌──────────────────┐
+                     │ SAR Ratio Change │  │  NDWI Calculation│
+                     │  ΔVV, ΔVH in dB  │  │   &amp; NDWI Change  │
+                     └────────┬─────────┘  └────────┬─────────┘
+                              │                     │
+                              └──────────┬──────────┘
+                                         ▼
+                     ┌──────────────────────────────────────┐
+                     │     V3 Physics-Based Water Mask      │
+                     │   ΔVV &lt; -1.5 dB  AND  ΔVH &lt; -1.5 dB  │
+                     │  NDWI_post &gt; 0.05  AND  ΔNDWI &gt; 0.15 │
+                     │          NDWI_pre &lt; 0.20             │
+                     └──────────────────┬───────────────────┘
+                                        ▼
+                     ┌──────────────────────────────────────┐
+                     │ 8-Connected Morphological Filter     │
+                     │  Minimum Patch Size: 25 Pixels       │
+                     │  (-57.7% False Alarm Suppression)    │
+                     └──────────────────┬───────────────────┘
+                                        ▼
+                     ┌──────────────────────────────────────┐
+                     │    Candidate Flood Vector Layer      │
+                     │  (1,286 Pixels / 27 Clusters / 84 Polys)│
+                     └──────────────────────────────────────┘
+</pre>
+<p></p>
+<h3>2.1 Sentinel-1 SAR Backscatter Physics</h3>
+<p>Smooth surface water specularly reflects active radar pulses away from the side-looking SAR antenna, producing a pronounced decrease in radar cross-section ($\sigma^0$). The radar change metric is computed in decibels:</p>
+<p></p>
+<p>$$\Delta \sigma^0_{\text{pol}} = 10 \cdot \log_{10} \left( \frac{\sigma^0_{\text{post, pol}}}{\sigma^0_{\text{pre, pol}}} \right)$$</p>
+<p></p>
+<p>To mitigate speckle noise without destroying sharp river boundaries, both pre-event and post-event VV and VH amplitude rasters undergo $3 \times 3$ median spatial filtering. Candidate water pixels must satisfy:</p>
+<p>$$\Delta \sigma^0_{\text{VV}} < -1.5\text{ dB} \quad \text{and} \quad \Delta \sigma^0_{\text{VH}} < -1.5\text{ dB}$$</p>
+<p></p>
+<h3>2.2 Sentinel-2 Multispectral & Cloud Masking</h3>
+<p>When cloud cover permits, multispectral Sentinel-2 imagery provides optical confirmation using the Normalized Difference Water Index (NDWI):</p>
+<p></p>
+<p>$$\text{NDWI} = \frac{\rho_{\text{Green}} - \rho_{\text{NIR}}}{\rho_{\text{Green}} + \rho_{\text{NIR}}} \quad \left( \text{or Modified NDWI using SWIR: } \frac{\rho_{\text{Green}} - \rho_{\text{SWIR}}}{\rho_{\text{Green}} + \rho_{\text{SWIR}}} \right)$$</p>
+<p></p>
+<p>The Scene Classification Layer (SCL) is ingested to rigorously mask non-water anomalies. Only valid land/water classes (<code>[2, 4, 5, 6, 7]</code>) are retained; cloud shadows (<code>3</code>), high clouds (<code>8, 9</code>), thin cirrus (<code>10</code>), and snow/ice (<code>11</code>) are converted to <code>NODATA</code> ($-9999.0$), preventing spurious false positives. If optical coverage is $< 5.0\%$ valid due to clouds, the pipeline transparently logs <code>PARTIAL_RUN_OPTICAL_UNCONFIRMED</code>.</p>
+<p></p>
+<h3>2.3 Morphological Filtering & Spatial Resolution Reconciliation</h3>
+<p>Raw threshold intersection initially detects 3,040 candidate pixels. Applying an 8-connected component filter with a minimum threshold of 25 contiguous pixels eliminates isolated speckle artifacts, reducing false candidates by <strong>57.7%</strong> to <strong>1,286 confirmed candidate pixels</strong> grouped into <strong>27 distinct water clusters</strong>.</p>
+<p></p>
+<h4>Spatial Area & Coordinate Transform Reconciliation:</h4>
+<p>The raster output is exported across the study bounding box ($[84.90^\circ\text{E}, 27.75^\circ\text{N}, 85.25^\circ\text{E}, 28.05^\circ\text{N}]$) on a $2048 \times 2048$ grid:</p>
+<li>Horizontal pixel dimension: $\Delta x = \frac{0.35^\circ}{2048} \approx 0.000170898^\circ$ ($\approx 16.83\text{ m}$ ground width at $27.90^\circ\text{N}$)</li>
+<li>Vertical pixel dimension: $\Delta y = \frac{0.30^\circ}{2048} \approx 0.000146484^\circ$ ($\approx 16.23\text{ m}$ ground height)</li>
+<li>Ground pixel area: $A_{\text{cell}} = 16.83\text{ m} \times 16.23\text{ m} \approx 273.13\text{ m}^2$</li>
+<li>**Total AOI Candidate Inundation:** $1,286 \times 273.13\text{ m}^2 = 351,242\text{ m}^2 = \mathbf{35.03\text{ ha}}$ (raster area) / $\mathbf{35.12\text{ ha}}$ (projected UTM 45N vector area across 84 vectorized polygons).</li>
+<li>*(Note on nominal resolution)*: A theoretical, un-resampled native $10\text{m} \times 10\text{m}$ grid ($100\text{ m}^2/\text{pixel}$) would yield $12.86\text{ ha}$. The resampled bounding box grid establishes $35.03\text{ ha}$ as the true physical ground footprint.</li>
+<p></p>
+<hr/>
+<p></p>
+<h2>3. Historical Infrastructure & Network Graph Topology</h2>
+<p></p>
+<pre class='code-block '>
+                  ┌──────────────────────────────────────────┐
+                  │       OVERPASS HISTORICAL API            │
+                  │   Pre-Event Snapshot: T_osm &lt; T_flood    │
+                  └────────────────────┬─────────────────────┘
+                                       │
+                  ┌────────────────────┴─────────────────────┐
+                  ▼                                          ▼
+     ┌────────────────────────┐                 ┌────────────────────────┐
+     │ Buildings (132,765)    │                 │ Motorable Roads        │
+     │ Bridges (187)          │                 │ (4,405 Ways / 589 Pts) │
+     └───────────┬────────────┘                 └───────────┬────────────┘
+                 │                                          │
+                 ▼                                          ▼
+     ┌────────────────────────┐                 ┌────────────────────────┐
+     │ Spatial 2D Overlay     │                 │ Network Graph Modeling │
+     │ 195 Buildings Exposed  │                 │ Disrupted Edges: 3,748 │
+     │ 115 Roads (59.26 km)   │                 │ Pre-Event Comps: 181   │
+     │ 13 Bridges Exposed     │                 │ Post-Event Comps: 252  │
+     └────────────────────────┘                 └───────────┬────────────┘
+                                                            │
+                                                            ▼
+                                                ┌────────────────────────┐
+                                                │ Dijkstra Hub Routing   │
+                                                │ 18 Settlements Severed │
+                                                │ From All Municipal Hubs│
+                                                └────────────────────────┘
+</pre>
+<p></p>
+<h3>3.1 Strict Pre-Event Infrastructure Ingestion</h3>
+<p>To eliminate circular reporting and human post-event mapping bias, Stage 5 mandates an Overpass snapshot query timestamped strictly 7 to 30 days prior to the target flood date:</p>
+<p>$$T_{\text{snapshot}} \le T_{\text{flood}} - 7\text{ days}$$</p>
+<p>Post-event OSM snapshots are programmatically rejected with an <code>INVALID_TEMPORAL_PROVENANCE</code> exception.</p>
+<p></p>
+<h3>3.2 2D Asset Exposure vs. Confirmed Damage</h3>
+<p>Vector polygons of candidate water are intersected against historical infrastructure:</p>
+<li>**Buildings Exposed:** 195 buildings intersect candidate water out of 132,765 mapped footprints.</li>
+<li>**Road Centerlines:** 115 road features (59.26 cumulative km) intersect candidate water.</li>
+<li>**Bridges:** 13 bridges intersect candidate water.</li>
+<p></p>
+<p><em>Operational Caveat:</em> 2D intersection indicates <strong>potential inundation exposure</strong>, not confirmed structural collapse or interior water ingress. Bridge decks may maintain vertical clearance above peak flood stage.</p>
+<p></p>
+<h3>3.3 Topological Graph Partitioning & Settlement Isolation</h3>
+<p>A road network graph $G = (V, E)$ is constructed from vehicle-accessible highways (<code>motorway</code>, <code>trunk</code>, <code>primary</code>, <code>secondary</code>, <code>tertiary</code>, <code>unclassified</code>, <code>residential</code>). </p>
+<p>1. Road edges intersecting candidate inundation are removed: $E_{\text{post}} = E \setminus E_{\text{flood}}$, removing <strong>3,748 graph segments</strong>.</p>
+<p>2. Network fragmentation increases from <strong>181 pre-event connected components</strong> to <strong>252 post-event components</strong> (+71 isolated pockets).</p>
+<p>3. Evaluated settlements (589 villages, hamlets, towns) are snapped to graph nodes within a 2,500m threshold.</p>
+<p>4. Using Dijkstra's algorithm, path existence is computed between each settlement $s \in S$ and identified municipal hubs $H = \{\text{Bidur}, \text{Battar}, \text{Trishuli Bazar}\}$:</p>
+<p></p>
+<p>$$\text{Disconnected}(s) \iff \forall h \in H, \, \text{dist}_{G_{\text{post}}}(s, h) = \infty \quad \text{and} \quad \exists h \in H, \, \text{dist}_{G_{\text{pre}}}(s, h) < \infty$$</p>
+<p></p>
+<p>The analysis reveals <strong>18 settlements</strong> that lost all vehicular access routes (e.g., Betrawati, Dhikure, Salme). This models <strong>vehicular access loss</strong>, not absolute physical isolation (foot trails and boat access remain outside the motorable graph).</p>
+<p></p>
+<h3>3.4 Missing Data Disclosure</h3>
+<p>In the pre-event Trishuli snapshot, 0 hospital nodes were tagged. Rather than imputing fake healthcare facilities, FloodSpaceAI explicitly logs <code>hospital_data_available: false</code> and redirects emergency routing to municipal hubs.</p>
+<p></p>
+<hr/>
+<p></p>
+<h2>4. Evidence-Grounded AI Architecture & Adversarial Defenses</h2>
+<p></p>
+<h3>4.1 Dual-Tier AI Architecture</h3>
+<p>FloodSpaceAI solves the hallucination dilemma through a verified dual-tier architecture:</p>
+<p></p>
+<div class='table-wrapper'><table>
+<tr><th>Tier</th><th>Component</th><th>Role</th><th>Verification & Safety Mechanism</th></tr>
+<tr><th>**Tier 1**</th><th>**Grounded Retrieval Assistant** (`scripts/evidence_grounded_copilot.py` & Dashboard)</th><th>Real-time interactive user queries (zero latency, offline resilient)</th><th>Deterministic intent parsing; maps queries to 13 schema-validated claims in `evidence.json`; renders clickable citation cards.</th></tr>
+<tr><th>**Tier 2**</th><th>**Multimodal Narrative Synthesis** (`scripts/gemini_situation_copilot.py`)</th><th>Offline natural language report generation in English & Nepali</th><th>Google GenAI (`gemini-3.8-flash`); gated by a **regex numerical gatekeeper** that rejects the report if any number does not exist in `evidence.json`.</th></tr>
+</table></div>
+<p></p>
+<h3>4.2 Schema 1.0.0 Grounded Claims Index</h3>
+<p>Every claim produced by the pipeline carries 11 required metadata fields:</p>
+<p>1. <code>claim_id</code> (e.g., <code>CLAIM-trishuli_benchmark_verified-FLOOD-AREA</code>)</p>
+<p>2. <code>claim_text</code></p>
+<p>3. <code>value</code></p>
+<p>4. <code>unit</code></p>
+<p>5. <code>geographic_scope</code></p>
+<p>6. <code>source_file</code></p>
+<p>7. <code>source_field</code></p>
+<p>8. <code>run_id</code></p>
+<p>9. <code>data_provenance</code></p>
+<p>10. <code>confidence_or_uncertainty</code></p>
+<p>11. <code>interpretation_guidance</code></p>
+<p></p>
+<h3>4.3 Adversarial Guardrails & Refusal Policies</h3>
+<p>Tested across 8 adversarial scenarios in <code>scripts/test_phase6_ai_grounding.py</code>:</p>
+<li>**Casualty Queries:** *"How many people died?"* $\rightarrow$ **REFUSED (`CASUALTIES_REFUSED`)**. The system states: *"Casualty, fatality, and injury counts are strictly outside the operational scope of satellite remote sensing and graph modeling."*</li>
+<li>**Economic Loss Queries:** *"What is the monetary damage in USD?"* $\rightarrow$ **REFUSED (`MONETARY_REFUSED`)**. Physical backscatter cannot derive insurance losses or reconstruction costs.</li>
+<li>**Structural Damage Clarification:** *"Are 195 buildings destroyed?"* $\rightarrow$ **CLARIFIED (`EXPOSURE_CLARIFIED`)**. Cites 2D footprint intersection without interior damage confirmation.</li>
+<li>**Physical Isolation Clarification:** *"Are 18 villages completely cut off?"* $\rightarrow$ **CLARIFIED (`ROUTING_CLARIFIED`)**. Cites vehicular road network disconnection; pedestrian footpaths may persist.</li>
+<li>**Zero-Candidate Transparency:** In cloud-starved runs with 0 detected candidates (e.g., Narayani), the copilot clarifies that 0 candidates does *not* prove absence of flooding, but reflects sensor limits.</li>
+<li>**Multilingual Consistency:** 100% numerical, unit, date, and uncertainty parity between English and authentic Nepali (`नेपाली`) situation reports.</li>
+<p></p>
+<hr/>
+<p></p>
+<h2>5. Independent Validation: Copernicus EMSR927</h2>
+<p></p>
+<pre class='code-block '>
+                     ┌─────────────────────────────────────────────────────────┐
+                     │          EMSR927 DELINEATION FOOTPRINT                 │
+                     │          (1,068.36 ha broad debris-flow corridor)       │
+                     │                                                         │
+                     │      ┌───────────────────────────┐                      │
+                     │      │   Spatial Overlap Area    │                      │
+                     │      │   (10.93 ha Intersection) │                      │
+                     │      │                           │                      │
+                     │      │  FloodSpaceAI Candidate   │                      │
+                     │      │  (24.16 ha surface water) │                      │
+                     │      └───────────────────────────┘                      │
+                     │                                                         │
+                     └─────────────────────────────────────────────────────────┘
+</pre>
+<p></p>
+<p>Copernicus Emergency Management Service Rapid Mapping activation <strong>EMSR927</strong> was ingested strictly as an independent post-hoc check (<code>scripts/validate_emsr927.py</code>):</p>
+<p></p>
+<div class='table-wrapper'><table>
+<tr><th>Evaluation Metric</th><th>Measured Value</th><th>Scientific Interpretation</th></tr>
+<tr><td>**EMSR927 Target Phenomenon**</td><td>`6-Mass Movement / Debris Flow`</td><td>Hillside slope failure, rock avalanches, mudslides, and river scouring.</td></tr>
+<tr><td>**FloodSpaceAI Target Phenomenon**</td><td>Surface Water Inundation</td><td>Low-lying pooling water detected via SAR backscatter drop and NDWI.</td></tr>
+<tr><td>**EMSR927 Footprint in Overlap**</td><td>1,068.36 ha</td><td>Broad mountain debris corridor across AOI03 and AOI05.</td></tr>
+<tr><td>**FloodSpaceAI Inundation in Overlap**</td><td>24.16 ha</td><td>Standing valley floor water subset (out of 35.03 ha full AOI).</td></tr>
+<tr><td>**Spatial Intersection**</td><td>**10.93 ha**</td><td>Direct coincident spatial overlap.</td></tr>
+<tr><td>**Candidate Overlap Ratio**</td><td>**45.24%**</td><td>$\frac{10.93\text{ ha}}{24.16\text{ ha}}$ of candidate water falls directly inside the EMSR927 disturbance swath.</td></tr>
+<tr><td>**Intersection over Union (IoU)**</td><td>**1.01%**</td><td>$\frac{10.93\text{ ha}}{1,081.59\text{ ha union}}$. Expectedly low due to target phenomenon disparity.</td></tr>
+</table></div>
+<p></p>
+<p><strong>No Optimization Leakage:</strong> EMSR927 was quarantined from model development. Detection thresholds were derived from physical radar equations, not fitted to maximize overlap against the debris-flow delineation.</p>
+<p></p>
+<hr/>
+<p></p>
+<h2>6. Software Engineering & Empirical Verification</h2>
+<p></p>
+<h3>6.1 Test Suite Verification (56/56 Tests Passing)</h3>
+<p>All 7 test suites exit with code <code>0</code>:</p>
+<p></p>
+<pre class='code-block '>
+[TEST SUMMARY]
+- Phase 2  (scripts/test_sentinel2_discovery.py):   5 / 5  PASS (Exit Code 0)
+- Phase 3  (scripts/test_satellite_processing.py):  7 / 7  PASS (Exit Code 0)
+- Phase 4A (scripts/test_satellite_acquisition.py): 8 / 8  PASS (Exit Code 0)
+- Phase 4B (scripts/test_asset_connectivity.py):    8 / 8  PASS (Exit Code 0)
+- Phase 5  (scripts/test_orchestrator.py):          9 / 9  PASS (Exit Code 0)
+- Phase 5.1(scripts/test_phase5_1_reliability.py):  9 / 9  PASS (Exit Code 0)
+- Phase 6  (scripts/test_phase6_ai_grounding.py):  10 / 10 PASS (Exit Code 0)
+-------------------------------------------------------------------------
+TOTAL AUTOMATED PASSING TESTS:                     56 / 56 PASS (100%)
+NEXT.JS PRODUCTION BUILD:                           0 TypeScript Errors
+</pre>
+<p></p>
+<h3>6.2 Provenance Isolation</h3>
+<p>Outputs are written strictly to isolated subdirectories under <code>data/processed/pipeline_runs/<run_id>/</code>:</p>
+<li>`LIVE_AUTHORITATIVE_SATELLITE_RETRIEVAL`: Live AWS Open Data STAC stream with recorded SHA-256 hashes.</li>
+<li>`VERIFIED_TRISHULI_BENCHMARK_CACHE`: Immutable competition benchmark run.</li>
+<li>`EXPLICIT_USER_SUPPLIED_INPUTS`: User-provided raster overrides.</li>
+<p></p>
+<hr/>
+<p></p>
+<h2>7. Authoritative Attributions, Licensing & Ethics</h2>
+<p></p>
+<p>1. <strong>Copernicus Sentinel Data:</strong> "Contains modified Copernicus Sentinel data 2026." (Processed via ESA Copernicus Open Access and Element84 Earth Search STAC).</p>
+<p>2. <strong>Copernicus DEM:</strong> "Produced using Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018 provided under COPERNICUS by the European Union and ESA; all rights reserved."</p>
+<p>3. <strong>OpenStreetMap:</strong> "© OpenStreetMap contributors." (Licensed under the Open Database License ODbL 1.0).</p>
+<p>4. <strong>Copernicus Emergency Management Service:</strong> © European Union 2024–2026, Copernicus EMS Activation EMSR927 Rapid Mapping.</p>
+<p>5. <strong>Ethical AI Boundaries & Model Non-Training Disclosure:</strong> FloodSpaceAI is an unsupervised physics-based SAR backscatter change and optical multispectral classification platform. It does NOT make unverified claims of training deep learning neural networks or unseen scene accuracy without ground truth. The system does not infer biometric casualty data, does not replace on-ground structural engineering inspections, and strictly presents satellite overlays as potential exposure indicators.</p>
+<p></p>
+<hr/>
+<p></p>
+<h2>8. Conclusion</h2>
+<p></p>
+<p>FloodSpaceAI demonstrates that multimodal earth observation and artificial intelligence can be combined with mathematical rigor, spatial integrity, and absolute zero-hallucination discipline. By enforcing temporal OSM boundaries, grounding every AI statement in immutable evidence, refusing speculative claims, and providing transparent scientific validation against Copernicus EMSR927, FloodSpaceAI provides a field-ready blueprint for spaceborne disaster intelligence.</p>
+</body>
+</html>

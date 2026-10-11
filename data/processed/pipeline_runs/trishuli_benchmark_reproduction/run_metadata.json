@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS_COMPLETED",
+  "run_id": "trishuli_benchmark_reproduction",
+  "timestamp_utc": "2026-10-09T17:22:04.862035+00:00",
+  "execution_duration_seconds": 18.32,
+  "inputs": {
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2026-08-28",
+    "flood_raster": null,
+    "flood_polygons": null
+  },
+  "flood_raster_statistics": {
+    "total_pixels": 4194304,
+    "valid_pixels": 4194304,
+    "nodata_pixels": 0,
+    "flood_pixels": 1286,
+    "polygon_count": 84
+  },
+  "osm_provenance": {
+    "provenance_mode": "VERIFIED_TRISHULI_OSM_FIXTURE",
+    "snapshot_timestamp": "2026-07-27T00:00:00Z",
+    "source_info": {
+      "provider": "Heidelberg University GIScience Research Group (OHsome API)",
+      "snapshot_timestamp": "2026-07-27T00:00:00Z",
+      "query": "Historical pre-event extract for Trishuli watershed (2026-07-27)",
+      "attribution": "© OpenStreetMap contributors",
+      "notice": "Verified benchmark pre-event fixture; strict historical isolation enforced."
+    },
+    "files_used": {
+      "roads": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\raw\\osm\\roads_pre_20260727.json",
+      "buildings": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\raw\\osm\\buildings_pre_20260727.json",
+      "bridges": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\raw\\osm\\bridges_pre_20260727.json",
+      "settlements": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\raw\\osm\\settlements_pre_20260727.json",
+      "hospitals": null
+    },
+    "checksums": {
+      "roads_sha256": "d3c20f782fda242aa043846143585de2c04f75451c3f92724fffcb457982b3e1",
+      "buildings_sha256": "5bf93fd1f0f375073cb7845ac75269cf0a7c9bef14c295ba2df392ebeb4b3484",
+      "bridges_sha256": "300719836f49e325cd7c3a22a6d868661fa6009ca654f2a1f27218edc6719568",
+      "settlements_sha256": "70ca36b9a9611ed3d7f2b3682f38ada8540f872692781b9b493235f120b84e23",
+      "hospitals_sha256": null
+    }
+  },
+  "asset_summary": {
+    "total_mapped_buildings": 132765,
+    "potentially_affected_buildings": 195,
+    "total_mapped_roads": 10792,
+    "total_mapped_road_length_km": 3843.25,
+    "potentially_affected_roads": 115,
+    "potentially_affected_road_length_km": 59.26,
+    "total_mapped_bridges": 187,
+    "potentially_affected_bridges": 13,
+    "road_buffer_m": 20.0,
+    "bridge_buffer_m": 30.0,
+    "interpretation": "Modeled estimates based on candidate flood extents; does not confirm physical structural damage."
+  },
+  "connectivity_summary": {
+    "analysis_version": "V4B",
+    "vehicle_accessible_ways": 4405,
+    "disrupted_road_segments": 3748,
+    "pre_event_components": 181,
+    "post_event_components": 252,
+    "settlements_available": 600,
+    "settlements_analysed": 589,
+    "town_city_hubs": 3,
+    "potentially_cut_off_settlements": 18,
+    "hospital_data_available": false,
+    "hospital_notice": "Historical hospital data not available in pre-event snapshot; town/city hubs utilized for modeled access.",
+    "match_tolerance_m": 5.0,
+    "settlement_snap_distance_m": 500.0,
+    "interpretation": "Modeled road-network connectivity result. Potentially cut-off settlements are settlements connected to their nearest town/city before removal of potentially affected road segments but disconnected afterward. This is a network modeling scenario, not confirmed real-world isolation."
+  },
+  "scientific_disclaimers": [
+    "Asset counts represent exposure estimates based on candidate flood extents; they do not confirm physical structural damage.",
+    "Road disruption is modeled by intersecting candidate flood extents with a 20m road buffer and 5m matching tolerance.",
+    "Settlement disconnection represents topological network fragmentation relative to nearest town/city hubs, not ground-verified physical isolation."
+  ]
+}

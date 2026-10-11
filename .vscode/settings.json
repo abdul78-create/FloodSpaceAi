@@ -1,0 +1,15 @@
+{
+  "python.analysis.extraPaths": [
+    "C:/Program Files/QGIS 3.44.14/apps/Python312/Lib/site-packages",
+    "C:/Program Files/QGIS 3.44.14/apps/qgis-ltr/python",
+    "C:/Users/Abdul/AppData/Roaming/Python/Python312/site-packages"
+  ],
+  "python.autoComplete.extraPaths": [
+    "C:/Program Files/QGIS 3.44.14/apps/Python312/Lib/site-packages",
+    "C:/Program Files/QGIS 3.44.14/apps/qgis-ltr/python",
+    "C:/Users/Abdul/AppData/Roaming/Python/Python312/site-packages"
+  ],
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingTypeStubs": "none"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "status": "SUCCESS_MATCHED_PAIR",
+  "query_bbox": [
+    84.9,
+    27.75,
+    85.25,
+    28.05
+  ],
+  "query_flood_date": "2026-08-28",
+  "pre_event_acquisition": {
+    "date": "2026-08-12",
+    "datetime": "2026-08-12T04:57:01.025000Z",
+    "tiles_required": [
+      "45RTL",
+      "45RTM",
+      "45RUL",
+      "45RUM"
+    ],
+    "scenes": [
+      {
+        "id": "S2C_MSIL2A_20260812T045701_R119_T45RUM_20260812T100317",
+        "datetime": "2026-08-12T04:57:01.025000Z",
+        "date": "2026-08-12",
+        "mgrs_tile": "45RUM",
+        "platform": "Sentinel-2C",
+        "cloud_cover_scene_pct": 18.75,
+        "high_proba_clouds_pct": 11.16,
+        "medium_proba_clouds_pct": 7.58,
+        "cloud_shadow_pct": 0.66,
+        "aoi_overlap_pct": 34.13,
+        "bbox": [
+          84.9485681,
+          27.9221491,
+          86.0760403,
+          28.9251026
+        ],
+        "days_from_flood_date": -15.79,
+        "local_file": "data/raw/sentinel2_pre_20260812_b03_b08_scl.tif",
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260812T045701_R119_T45RUM_20260812T100317"
+      },
+      {
+        "id": "S2C_MSIL2A_20260812T045701_R119_T45RUL_20260812T100317",
+        "datetime": "2026-08-12T04:57:01.025000Z",
+        "date": "2026-08-12",
+        "mgrs_tile": "45RUL",
+        "platform": "Sentinel-2C",
+        "cloud_cover_scene_pct": 27.95,
+        "high_proba_clouds_pct": 12.65,
+        "medium_proba_clouds_pct": 11.09,
+        "cloud_shadow_pct": 6.2,
+        "aoi_overlap_pct": 70.27,
+        "bbox": [
+          84.9659236,
+          27.0197356,
+          85.8709574,
+          28.0201008
+        ],
+        "days_from_flood_date": -15.79,
+        "local_file": "data/raw/sentinel2_pre_20260812_b03_b08_scl.tif",
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260812T045701_R119_T45RUL_20260812T100317"
+      },
+      {
+        "id": "S2C_MSIL2A_20260812T045701_R119_T45RTM_20260812T100317",
+        "datetime": "2026-08-12T04:57:01.025000Z",
+        "date": "2026-08-12",
+        "mgrs_tile": "45RTM",
+        "platform": "Sentinel-2C",
+        "cloud_cover_scene_pct": 19.04,
+        "high_proba_clouds_pct": 10.94,
+        "medium_proba_clouds_pct": 8.1,
+        "cloud_shadow_pct": 1.32,
+        "aoi_overlap_pct": 20.2,
+        "bbox": [
+          83.9236638,
+          27.9034157,
+          85.0669162,
+          28.9141444
+        ],
+        "days_from_flood_date": -15.79,
+        "local_file": "data/raw/sentinel2_pre_20260812_b03_b08_scl.tif",
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260812T045701_R119_T45RTM_20260812T100317"
+      },
+      {
+        "id": "S2C_MSIL2A_20260812T045701_R119_T45RTL_20260812T100317",
+        "datetime": "2026-08-12T04:57:01.025000Z",
+        "date": "2026-08-12",
+        "mgrs_tile": "45RTL",
+        "platform": "Sentinel-2C",
+        "cloud_cover_scene_pct": 16.11,
+        "high_proba_clouds_pct": 8.47,
+        "medium_proba_clouds_pct": 7.63,
+        "cloud_shadow_pct": 5.16,
+        "aoi_overlap_pct": 41.56,
+        "bbox": [
+          83.9496629,
+          27.0017062,
+          85.0826066,
+          28.0118164
+        ],
+        "days_from_flood_date": -15.79,
+        "local_file": "data/raw/sentinel2_pre_20260812_b03_b08_scl.tif",
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260812T045701_R119_T45RTL_20260812T100317"
+      }
+    ],
+    "combined_aoi_coverage_pct": 100.0,
+    "mean_cloud_cover_pct": 20.46,
+    "requires_mosaicking": true,
+    "days_from_flood_date": -15.79,
+    "primary_tile": "45RUL",
+    "local_file": "data/raw/sentinel2_pre_20260812_b03_b08_scl.tif"
+  },
+  "post_event_acquisition": {
+    "date": "2026-08-27",
+    "datetime": "2026-08-27T04:56:59.024000Z",
+    "tiles_required": [
+      "45RTL",
+      "45RTM",
+      "45RUL",
+      "45RUM"
+    ],
+    "scenes": [
+      {
+        "id": "S2B_MSIL2A_20260827T045659_R119_T45RUM_20260827T084453",
+        "datetime": "2026-08-27T04:56:59.024000Z",
+        "date": "2026-08-27",
+        "mgrs_tile": "45RUM",
+        "platform": "Sentinel-2B",
+        "cloud_cover_scene_pct": 78.47,
+        "high_proba_clouds_pct": 58.7,
+        "medium_proba_clouds_pct": 19.77,
+        "cloud_shadow_pct": 0.47,
+        "aoi_overlap_pct": 34.13,
+        "bbox": [
+          84.9485681,
+          27.9221491,
+          86.0762097,
+          28.9251026
+        ],
+        "days_from_flood_date": -0.79,
+        "local_file": "data/raw/sentinel2_20260827_b03_b08_scl.tif",
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260827T045659_R119_T45RUM_20260827T084453"
+      },
+      {
+        "id": "S2B_MSIL2A_20260827T045659_R119_T45RUL_20260827T084453",
+        "datetime": "2026-08-27T04:56:59.024000Z",
+        "date": "2026-08-27",
+        "mgrs_tile": "45RUL",
+        "platform": "Sentinel-2B",
+        "cloud_cover_scene_pct": 54.29,
+        "high_proba_clouds_pct": 37.81,
+        "medium_proba_clouds_pct": 16.43,
+        "cloud_shadow_pct": 6.83,
+        "aoi_overlap_pct": 70.27,
+        "bbox": [
+          84.9659236,
+          27.0197356,
+          85.8765996,
+          28.0201614
+        ],
+        "days_from_flood_date": -0.79,
+        "local_file": "data/raw/sentinel2_20260827_b03_b08_scl.tif",
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260827T045659_R119_T45RUL_20260827T084453"
+      },
+      {
+        "id": "S2B_MSIL2A_20260827T045659_R119_T45RTM_20260827T084453",
+        "datetime": "2026-08-27T04:56:59.024000Z",
+        "date": "2026-08-27",
+        "mgrs_tile": "45RTM",
+        "platform": "Sentinel-2B",
+        "cloud_cover_scene_pct": 85.92,
+        "high_proba_clouds_pct": 75.01,
+        "medium_proba_clouds_pct": 10.8,
+        "cloud_shadow_pct": 1.33,
+        "aoi_overlap_pct": 20.2,
+        "bbox": [
+          83.9236638,
+          27.9034157,
+          85.0669162,
+          28.9141444
+        ],
+        "days_from_flood_date": -0.79,
+        "local_file": "data/raw/sentinel2_20260827_b03_b08_scl.tif",
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260827T045659_R119_T45RTM_20260827T084453"
+      },
+      {
+        "id": "S2B_MSIL2A_20260827T045659_R119_T45RTL_20260827T084453",
+        "datetime": "2026-08-27T04:56:59.024000Z",
+        "date": "2026-08-27",
+        "mgrs_tile": "45RTL",
+        "platform": "Sentinel-2B",
+        "cloud_cover_scene_pct": 84.98,
+        "high_proba_clouds_pct": 70.16,
+        "medium_proba_clouds_pct": 13.97,
+        "cloud_shadow_pct": 1.01,
+        "aoi_overlap_pct": 41.56,
+        "bbox": [
+          83.9496629,
+          27.0017062,
+          85.0826066,
+          28.0118164
+        ],
+        "days_from_flood_date": -0.79,
+        "local_file": "data/raw/sentinel2_20260827_b03_b08_scl.tif",
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260827T045659_R119_T45RTL_20260827T084453"
+      }
+    ],
+    "combined_aoi_coverage_pct": 100.0,
+    "mean_cloud_cover_pct": 75.92,
+    "requires_mosaicking": true,
+    "days_from_flood_date": -0.79,
+    "primary_tile": "45RUL",
+    "local_file": "data/raw/sentinel2_20260827_b03_b08_scl.tif"
+  },
+  "temporal_delta_days": 15,
+  "post_delta_from_flood_days": -0.79,
+  "pre_delta_from_flood_days": -15.79,
+  "cloud_metadata_scope": "scene_wide_estimate",
+  "requires_mosaicking": true,
+  "tiles_involved": [
+    "45RTL",
+    "45RTM",
+    "45RUL",
+    "45RUM"
+  ],
+  "selection_rationale": [
+    "Selected post-event acquisition 2026-08-27 (delta: -0.8d): closest optical observation meeting cloud threshold (75.9% <= 85.0%).",
+    "Selected pre-event baseline 2026-08-12 (delta: -15.8d): clear-sky optical reference (20.5% cloud cover)."
+  ],
+  "warnings": [
+    "AOI intersects multiple Sentinel-2 MGRS tiles (45RTL, 45RTM, 45RUL, 45RUM); multi-tile mosaicking or Sentinel Hub Process API composite required.",
+    "Post-event acquisition exhibits 75.9% scene-wide cloud cover. River corridor visibility must be verified via pixel-level Scene Classification Layer (SCL) masking in Phase 3."
+  ],
+  "scientific_notes": [
+    "STAC cloud metadata (eo:cloud_cover) represents scene-wide estimates; localized river corridor visibility requires pixel-level SCL masking.",
+    "Never claim cloud-free river corridor coverage until SCL masking has been computed in Phase 3.",
+    "Sentinel Hub Process API 2048x2048 outputs are resampled grids, not native 10m imagery unless native resolution is independently established."
+  ],
+  "execution_timestamp": "2026-10-09T07:18:38.016191+00:00"
+}

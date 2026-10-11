@@ -1,0 +1,28 @@
+{
+  "status": "PARTIAL_RUN_OSM_UNAVAILABLE",
+  "run_id": "unseen_aoi_asset_test",
+  "timestamp_utc": "2026-10-09T09:19:12.414366+00:00",
+  "inputs": {
+    "bbox": [
+      83.95,
+      28.18,
+      84.05,
+      28.28
+    ],
+    "flood_date": "2026-09-15",
+    "flood_raster": "data\\processed\\pipeline_runs\\test_unseen_aoi_end_to_end\\rasters\\final_flood_candidate_v3.tif",
+    "flood_polygons": null
+  },
+  "osm_provenance": {
+    "provenance_mode": "HISTORICAL_PRE_EVENT_SNAPSHOT",
+    "snapshot_timestamp": "2026-09-08T00:00:00Z",
+    "source_info": {
+      "provider": "OHsome API / Overpass Historical API",
+      "snapshot_timestamp": "2026-09-08T00:00:00Z",
+      "query": "Pre-event snapshot query for bbox=[83.95, 28.18, 84.05, 28.28] at timestamp 2026-09-08T00:00:00Z",
+      "attribution": "© OpenStreetMap contributors",
+      "notice": "Selected strictly prior to flood event date; post-event modifications excluded."
+    }
+  },
+  "message": "Pre-event OSM data for AOI [83.95, 28.18, 84.05, 28.28] has not been downloaded to cache."
+}

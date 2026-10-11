@@ -1,0 +1,75 @@
+{
+  "status": "SUCCESS_MATCHED_PAIR",
+  "query_bbox": [
+    84.9,
+    27.75,
+    85.25,
+    28.05
+  ],
+  "query_flood_date": "2026-08-28",
+  "relative_orbit": 85,
+  "orbit_state": "ascending",
+  "instrument_mode": "IW",
+  "polarizations": [
+    "VV",
+    "VH"
+  ],
+  "orbit_match_verified": true,
+  "pass_direction_verified": true,
+  "polarization_match_verified": true,
+  "temporal_baseline_days": 12,
+  "post_event_scene": {
+    "id": "S1D_IW_GRDH_1SDV_20260828T122141_20260828T122206_004326_007FA4",
+    "datetime": "2026-08-28T12:21:54.261291Z",
+    "date": "2026-08-28",
+    "relative_orbit": 85,
+    "orbit_state": "ascending",
+    "instrument_mode": "IW",
+    "polarizations": [
+      "VV",
+      "VH"
+    ],
+    "platform": "sentinel-1d",
+    "aoi_overlap_pct": 99.3,
+    "bbox": [
+      83.924644,
+      27.591553,
+      86.74958800000002,
+      29.524954
+    ],
+    "days_from_flood_date": 0.52,
+    "local_file": "data/raw/sentinel1_post_20260828_vv_vh.tif",
+    "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-grd/items/S1D_IW_GRDH_1SDV_20260828T122141_20260828T122206_004326_007FA4"
+  },
+  "pre_event_scene": {
+    "id": "S1D_IW_GRDH_1SDV_20260816T122141_20260816T122206_004151_007980",
+    "datetime": "2026-08-16T12:21:53.557589Z",
+    "date": "2026-08-16",
+    "relative_orbit": 85,
+    "orbit_state": "ascending",
+    "instrument_mode": "IW",
+    "polarizations": [
+      "VV",
+      "VH"
+    ],
+    "platform": "sentinel-1d",
+    "aoi_overlap_pct": 99.3,
+    "bbox": [
+      83.92439999999999,
+      27.591494,
+      86.74935199999999,
+      29.524935
+    ],
+    "days_from_flood_date": -11.48,
+    "local_file": "data/raw/sentinel1_pre_20260816_vv_vh.tif",
+    "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-grd/items/S1D_IW_GRDH_1SDV_20260816T122141_20260816T122206_004151_007980"
+  },
+  "scientific_validation_notes": [
+    "Matched Relative Orbit: 85 (exact match verified: True).",
+    "Pass Direction: ASCENDING (identical look angle verified: True).",
+    "Polarizations: Dual-pol VV+VH verified in IW mode (polarization verified: True).",
+    "Temporal Baseline: 12 days (pre: 2026-08-16, post: 2026-08-28).",
+    "Post AOI Coverage: 99.3%, Pre AOI Coverage: 99.3%."
+  ],
+  "execution_timestamp": "2026-10-08T19:01:23.485044+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "project": "FloodSpaceAI",
+  "track": "Track B — Mapping Flood Damage from Space",
+  "run_id": "test_orchestrator_trishuli",
+  "case_study": {
+    "event": "Flood Event 2026-08-28",
+    "analysis_area": "AOI Bbox [84.9, 27.75, 85.25, 28.05]",
+    "osm_snapshot": "2026-07-27T00:00:00Z",
+    "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE"
+  },
+  "flood_mapping": {
+    "method": "Multi-temporal Sentinel-1 SAR backscatter change + Sentinel-2 optical spectral filtering",
+    "candidate_version": "V3",
+    "flood_pixels": 1286,
+    "flood_clusters": 27,
+    "candidate_area_ha": 35.03
+  },
+  "potentially_affected_assets": {
+    "buildings": 195,
+    "roads": 115,
+    "road_length_km": 59.26,
+    "bridges": 13
+  },
+  "road_connectivity": {
+    "vehicle_accessible_ways": 0,
+    "disrupted_road_segments": 3748,
+    "pre_event_components": 181,
+    "post_event_components": 252,
+    "settlements_analysed": 589,
+    "potentially_cut_off_settlements": 18,
+    "hospital_data_available": false
+  },
+  "limitations": [
+    "The flood output is a modelled potential inundation candidate, not confirmed physical damage.",
+    "Potentially affected assets are based on candidate spatial overlap; not confirmed structural destruction.",
+    "Potentially cut-off settlements represent modelled topological network disconnections, not confirmed real-world isolation.",
+    "Validation layers (EMSR927 / UNOSAT) are strictly checking-only and excluded from analytical pipelines.",
+    "This system is an educational and research prototype for the Multimodal AI Hackathon 2026.",
+    "Historical hospital data was unavailable in the pre-event snapshot; municipal town/city hubs were utilized for modeled road connectivity."
+  ],
+  "data_provenance": {
+    "sentinel_sar": "Copernicus Sentinel-1 (C-band SAR, IW mode, VV+VH)",
+    "sentinel_optical": "Copernicus Sentinel-2 MSI (Level-2A BOA, SCL masked)",
+    "dem": "Copernicus DEM 30m GLO-30",
+    "osm": "© OpenStreetMap contributors, ODbL 1.0",
+    "osm_snapshot": "2026-07-27T00:00:00Z",
+    "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE"
+  }
+}

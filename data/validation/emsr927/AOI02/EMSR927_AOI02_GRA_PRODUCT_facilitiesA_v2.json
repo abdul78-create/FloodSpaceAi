@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "EMSR927_AOI02_GRA_PRODUCT_facilitiesA_v2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "215-Harbours, waterways, dams and other waterworks", "name": "Rasuwagadhi Hydropower Dam", "info": "2152-Dams", "simplified": "Dam", "damage_gra": "Destroyed", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 1, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 85.37713575, 28.27394627 ], [ 85.37693432, 28.27395118 ], [ 85.37673366, 28.27437099 ], [ 85.37687641, 28.27443107 ], [ 85.37686978, 28.27447999 ], [ 85.37694948, 28.27450491 ], [ 85.37714101, 28.27414336 ], [ 85.37718195, 28.27416157 ], [ 85.37724604, 28.27405079 ], [ 85.37739391, 28.27408382 ], [ 85.37740682, 28.27400891 ], [ 85.37729906, 28.27397115 ], [ 85.37713575, 28.27394627 ] ] ] } }
+]
+}

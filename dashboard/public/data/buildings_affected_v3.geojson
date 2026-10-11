@@ -1,0 +1,6958 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0370951,
+              27.8548612
+            ],
+            [
+              85.0370746,
+              27.8549571
+            ],
+            [
+              85.0372171,
+              27.8549808
+            ],
+            [
+              85.0372375,
+              27.854885
+            ],
+            [
+              85.0370951,
+              27.8548612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 340651226,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0373242,
+              27.8548996
+            ],
+            [
+              85.0372945,
+              27.8549369
+            ],
+            [
+              85.0373503,
+              27.8549715
+            ],
+            [
+              85.03738,
+              27.8549342
+            ],
+            [
+              85.0373242,
+              27.8548996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 340651228,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0368019,
+              27.8548211
+            ],
+            [
+              85.0368212,
+              27.8548835
+            ],
+            [
+              85.036912,
+              27.8548616
+            ],
+            [
+              85.0368928,
+              27.8547992
+            ],
+            [
+              85.0368019,
+              27.8548211
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 340651230,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1787759,
+              27.9812835
+            ],
+            [
+              85.178778,
+              27.9812386
+            ],
+            [
+              85.1788892,
+              27.9812425
+            ],
+            [
+              85.1788872,
+              27.9812874
+            ],
+            [
+              85.1787759,
+              27.9812835
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341049699,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1789454,
+              27.9808871
+            ],
+            [
+              85.1789614,
+              27.9808346
+            ],
+            [
+              85.1790692,
+              27.9808601
+            ],
+            [
+              85.1790533,
+              27.9809127
+            ],
+            [
+              85.1789454,
+              27.9808871
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341049813,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1791545,
+              27.9802781
+            ],
+            [
+              85.1791819,
+              27.9802163
+            ],
+            [
+              85.1792842,
+              27.9802516
+            ],
+            [
+              85.1792569,
+              27.9803135
+            ],
+            [
+              85.1791545,
+              27.9802781
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341049844,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1786747,
+              27.9814525
+            ],
+            [
+              85.1786392,
+              27.981404
+            ],
+            [
+              85.178696,
+              27.9813716
+            ],
+            [
+              85.1787315,
+              27.98142
+            ],
+            [
+              85.1786747,
+              27.9814525
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341049876,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1854004,
+              27.973026
+            ],
+            [
+              85.1854591,
+              27.9730237
+            ],
+            [
+              85.1854549,
+              27.9729383
+            ],
+            [
+              85.1853962,
+              27.9729406
+            ],
+            [
+              85.1854004,
+              27.973026
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461685,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1860212,
+              27.9737832
+            ],
+            [
+              85.1861248,
+              27.9738238
+            ],
+            [
+              85.1860907,
+              27.9738915
+            ],
+            [
+              85.1859871,
+              27.9738509
+            ],
+            [
+              85.1860212,
+              27.9737832
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461705,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1853985,
+              27.974698
+            ],
+            [
+              85.1854699,
+              27.9747264
+            ],
+            [
+              85.1854369,
+              27.9747911
+            ],
+            [
+              85.1853655,
+              27.9747627
+            ],
+            [
+              85.1853985,
+              27.974698
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461708,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.184188,
+              27.974672
+            ],
+            [
+              85.184264,
+              27.9746166
+            ],
+            [
+              85.1841908,
+              27.9745382
+            ],
+            [
+              85.1841147,
+              27.9745936
+            ],
+            [
+              85.184188,
+              27.974672
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461718,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1858391,
+              27.9737147
+            ],
+            [
+              85.1858397,
+              27.9737755
+            ],
+            [
+              85.1857352,
+              27.9737762
+            ],
+            [
+              85.1857347,
+              27.9737154
+            ],
+            [
+              85.1858391,
+              27.9737147
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461734,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1855217,
+              27.9737846
+            ],
+            [
+              85.1855162,
+              27.9738161
+            ],
+            [
+              85.185563,
+              27.9738224
+            ],
+            [
+              85.1855684,
+              27.9737909
+            ],
+            [
+              85.1855217,
+              27.9737846
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461750,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1838919,
+              27.9745081
+            ],
+            [
+              85.1838565,
+              27.974535
+            ],
+            [
+              85.1838057,
+              27.974483
+            ],
+            [
+              85.1838411,
+              27.9744561
+            ],
+            [
+              85.1838919,
+              27.9745081
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461768,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1842149,
+              27.9745429
+            ],
+            [
+              85.1842729,
+              27.9745007
+            ],
+            [
+              85.1843461,
+              27.9745791
+            ],
+            [
+              85.1842881,
+              27.9746213
+            ],
+            [
+              85.1842149,
+              27.9745429
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461777,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1853965,
+              27.9738096
+            ],
+            [
+              85.1854433,
+              27.9738159
+            ],
+            [
+              85.1854344,
+              27.9738671
+            ],
+            [
+              85.1853877,
+              27.9738608
+            ],
+            [
+              85.1853965,
+              27.9738096
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461784,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1854854,
+              27.9730841
+            ],
+            [
+              85.1854854,
+              27.973115
+            ],
+            [
+              85.1855749,
+              27.9731151
+            ],
+            [
+              85.185575,
+              27.9730842
+            ],
+            [
+              85.1854854,
+              27.9730841
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461790,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1839142,
+              27.9745404
+            ],
+            [
+              85.1838858,
+              27.9745602
+            ],
+            [
+              85.1839163,
+              27.9745943
+            ],
+            [
+              85.1839447,
+              27.9745745
+            ],
+            [
+              85.1839142,
+              27.9745404
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461824,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1846359,
+              27.9746713
+            ],
+            [
+              85.1845788,
+              27.9746501
+            ],
+            [
+              85.1846075,
+              27.9745901
+            ],
+            [
+              85.1846646,
+              27.9746113
+            ],
+            [
+              85.1846359,
+              27.9746713
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461850,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1858242,
+              27.9737919
+            ],
+            [
+              85.1858222,
+              27.9738698
+            ],
+            [
+              85.1857201,
+              27.9738677
+            ],
+            [
+              85.1857221,
+              27.9737898
+            ],
+            [
+              85.1858242,
+              27.9737919
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461866,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.185687,
+              27.973515
+            ],
+            [
+              85.1856854,
+              27.9735467
+            ],
+            [
+              85.1857299,
+              27.9735485
+            ],
+            [
+              85.1857315,
+              27.9735168
+            ],
+            [
+              85.185687,
+              27.973515
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461886,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1854088,
+              27.9736934
+            ],
+            [
+              85.1854544,
+              27.9736952
+            ],
+            [
+              85.1854526,
+              27.9737313
+            ],
+            [
+              85.185407,
+              27.9737295
+            ],
+            [
+              85.1854088,
+              27.9736934
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461894,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1855518,
+              27.9733519
+            ],
+            [
+              85.1855369,
+              27.9733184
+            ],
+            [
+              85.1856173,
+              27.9732905
+            ],
+            [
+              85.1856322,
+              27.973324
+            ],
+            [
+              85.1855518,
+              27.9733519
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461896,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1856695,
+              27.974639
+            ],
+            [
+              85.1856534,
+              27.9746885
+            ],
+            [
+              85.1857381,
+              27.9747101
+            ],
+            [
+              85.1857543,
+              27.9746606
+            ],
+            [
+              85.1856695,
+              27.974639
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461902,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1845169,
+              27.9746081
+            ],
+            [
+              85.1844858,
+              27.9746387
+            ],
+            [
+              85.1844219,
+              27.9745878
+            ],
+            [
+              85.184453,
+              27.9745573
+            ],
+            [
+              85.1845169,
+              27.9746081
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461930,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1848986,
+              27.9745836
+            ],
+            [
+              85.1848684,
+              27.9746494
+            ],
+            [
+              85.1851385,
+              27.9747458
+            ],
+            [
+              85.1851686,
+              27.97468
+            ],
+            [
+              85.1848986,
+              27.9745836
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461948,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1856508,
+              27.973918
+            ],
+            [
+              85.1856557,
+              27.973877
+            ],
+            [
+              85.185708,
+              27.973882
+            ],
+            [
+              85.1857031,
+              27.9739229
+            ],
+            [
+              85.1856508,
+              27.973918
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462008,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1855228,
+              27.9739574
+            ],
+            [
+              85.1855301,
+              27.973871
+            ],
+            [
+              85.1855658,
+              27.9738734
+            ],
+            [
+              85.1855585,
+              27.9739597
+            ],
+            [
+              85.1855228,
+              27.9739574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462013,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1845501,
+              27.9747311
+            ],
+            [
+              85.1845655,
+              27.9746913
+            ],
+            [
+              85.1846747,
+              27.9747243
+            ],
+            [
+              85.1846593,
+              27.974764
+            ],
+            [
+              85.1845501,
+              27.9747311
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462032,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1845605,
+              27.9745609
+            ],
+            [
+              85.1845779,
+              27.9745278
+            ],
+            [
+              85.1845249,
+              27.974506
+            ],
+            [
+              85.1845074,
+              27.9745391
+            ],
+            [
+              85.1845605,
+              27.9745609
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462034,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.18559,
+              27.9739137
+            ],
+            [
+              85.185593,
+              27.9738873
+            ],
+            [
+              85.1856341,
+              27.9738909
+            ],
+            [
+              85.1856311,
+              27.9739173
+            ],
+            [
+              85.18559,
+              27.9739137
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462065,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1855471,
+              27.9732064
+            ],
+            [
+              85.185627,
+              27.9731815
+            ],
+            [
+              85.1856084,
+              27.973135
+            ],
+            [
+              85.1855285,
+              27.9731599
+            ],
+            [
+              85.1855471,
+              27.9732064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462067,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1856985,
+              27.9745637
+            ],
+            [
+              85.1857131,
+              27.9745189
+            ],
+            [
+              85.1857903,
+              27.9745387
+            ],
+            [
+              85.1857757,
+              27.9745835
+            ],
+            [
+              85.1856985,
+              27.9745637
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462082,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1848186,
+              27.9746643
+            ],
+            [
+              85.1848472,
+              27.9746043
+            ],
+            [
+              85.1847263,
+              27.9745592
+            ],
+            [
+              85.1846976,
+              27.9746192
+            ],
+            [
+              85.1848186,
+              27.9746643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462084,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1857561,
+              27.9736303
+            ],
+            [
+              85.1857566,
+              27.973697
+            ],
+            [
+              85.1858617,
+              27.9736964
+            ],
+            [
+              85.1858611,
+              27.9736297
+            ],
+            [
+              85.1857561,
+              27.9736303
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462104,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1854889,
+              27.9739438
+            ],
+            [
+              85.1854464,
+              27.973941
+            ],
+            [
+              85.1854562,
+              27.9738228
+            ],
+            [
+              85.1854988,
+              27.9738256
+            ],
+            [
+              85.1854962,
+              27.9738574
+            ],
+            [
+              85.1854889,
+              27.9739438
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462106,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1856335,
+              27.9732384
+            ],
+            [
+              85.1855164,
+              27.973272
+            ],
+            [
+              85.1855024,
+              27.9732341
+            ],
+            [
+              85.1856195,
+              27.9732005
+            ],
+            [
+              85.1856335,
+              27.9732384
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462110,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1860242,
+              27.9739837
+            ],
+            [
+              85.1860503,
+              27.973942
+            ],
+            [
+              85.1859529,
+              27.9738946
+            ],
+            [
+              85.1859269,
+              27.9739363
+            ],
+            [
+              85.1860242,
+              27.9739837
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462121,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1852799,
+              27.9730699
+            ],
+            [
+              85.1853573,
+              27.9730634
+            ],
+            [
+              85.1853458,
+              27.9729568
+            ],
+            [
+              85.1852462,
+              27.9729652
+            ],
+            [
+              85.1852538,
+              27.9730358
+            ],
+            [
+              85.1852761,
+              27.973034
+            ],
+            [
+              85.1852799,
+              27.9730699
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462124,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1855365,
+              27.9746182
+            ],
+            [
+              85.185441,
+              27.9745649
+            ],
+            [
+              85.1854876,
+              27.9744998
+            ],
+            [
+              85.1854378,
+              27.9744719
+            ],
+            [
+              85.1854725,
+              27.9744235
+            ],
+            [
+              85.1856178,
+              27.9745048
+            ],
+            [
+              85.1855365,
+              27.9746182
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462126,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1856229,
+              27.9736273
+            ],
+            [
+              85.1856215,
+              27.9736569
+            ],
+            [
+              85.1855133,
+              27.9736527
+            ],
+            [
+              85.1855148,
+              27.973623
+            ],
+            [
+              85.1856229,
+              27.9736273
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341462130,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0321371,
+              27.8515504
+            ],
+            [
+              85.0321828,
+              27.8515362
+            ],
+            [
+              85.0321584,
+              27.8514746
+            ],
+            [
+              85.0321127,
+              27.8514887
+            ],
+            [
+              85.0321371,
+              27.8515504
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341483358,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1997436,
+              28.0456344
+            ],
+            [
+              85.1997227,
+              28.045616
+            ],
+            [
+              85.1997503,
+              28.0455915
+            ],
+            [
+              85.1997713,
+              28.04561
+            ],
+            [
+              85.1997436,
+              28.0456344
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341560211,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1995448,
+              28.0455487
+            ],
+            [
+              85.1995203,
+              28.0455303
+            ],
+            [
+              85.1995551,
+              28.0454941
+            ],
+            [
+              85.1995797,
+              28.0455125
+            ],
+            [
+              85.1995448,
+              28.0455487
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341560215,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1713245,
+              27.9618392
+            ],
+            [
+              85.1712732,
+              27.9617996
+            ],
+            [
+              85.1713732,
+              27.9616985
+            ],
+            [
+              85.1714245,
+              27.9617381
+            ],
+            [
+              85.1713245,
+              27.9618392
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341587426,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1698367,
+              27.9608565
+            ],
+            [
+              85.1697918,
+              27.960827
+            ],
+            [
+              85.1698348,
+              27.9607759
+            ],
+            [
+              85.1698905,
+              27.9608124
+            ],
+            [
+              85.1698616,
+              27.9608468
+            ],
+            [
+              85.1698508,
+              27.9608397
+            ],
+            [
+              85.1698367,
+              27.9608565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341587470,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1740692,
+              27.9662121
+            ],
+            [
+              85.1740988,
+              27.9661996
+            ],
+            [
+              85.1740836,
+              27.9661715
+            ],
+            [
+              85.174054,
+              27.9661839
+            ],
+            [
+              85.1740692,
+              27.9662121
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341622676,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1741908,
+              27.96609
+            ],
+            [
+              85.1740862,
+              27.9660451
+            ],
+            [
+              85.1741125,
+              27.9659972
+            ],
+            [
+              85.1742172,
+              27.9660421
+            ],
+            [
+              85.1741908,
+              27.96609
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341622933,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1799738,
+              27.9800565
+            ],
+            [
+              85.1800852,
+              27.9800586
+            ],
+            [
+              85.1800865,
+              27.980003
+            ],
+            [
+              85.1799751,
+              27.980001
+            ],
+            [
+              85.1799738,
+              27.9800565
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341622968,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1742466,
+              27.9660305
+            ],
+            [
+              85.1742689,
+              27.9659835
+            ],
+            [
+              85.1741878,
+              27.9659535
+            ],
+            [
+              85.1741654,
+              27.9660004
+            ],
+            [
+              85.1742466,
+              27.9660305
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341622985,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1799775,
+              27.9799908
+            ],
+            [
+              85.1800917,
+              27.9799918
+            ],
+            [
+              85.1800927,
+              27.9799086
+            ],
+            [
+              85.1800054,
+              27.9799078
+            ],
+            [
+              85.180005,
+              27.9799417
+            ],
+            [
+              85.179978,
+              27.9799415
+            ],
+            [
+              85.1799775,
+              27.9799908
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341623023,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1799874,
+              27.9800888
+            ],
+            [
+              85.1799846,
+              27.9801317
+            ],
+            [
+              85.1800647,
+              27.9801358
+            ],
+            [
+              85.1800675,
+              27.9800928
+            ],
+            [
+              85.1799874,
+              27.9800888
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341623146,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1740041,
+              27.966142
+            ],
+            [
+              85.1739851,
+              27.9661654
+            ],
+            [
+              85.1739198,
+              27.9661243
+            ],
+            [
+              85.1739388,
+              27.9661008
+            ],
+            [
+              85.1740041,
+              27.966142
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341623204,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1741209,
+              27.966175
+            ],
+            [
+              85.1740556,
+              27.9661338
+            ],
+            [
+              85.1740435,
+              27.9661261
+            ],
+            [
+              85.1740771,
+              27.9660846
+            ],
+            [
+              85.1741545,
+              27.9661334
+            ],
+            [
+              85.1741209,
+              27.966175
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341623236,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1790513,
+              27.9808161
+            ],
+            [
+              85.1790604,
+              27.9807899
+            ],
+            [
+              85.1790828,
+              27.9807959
+            ],
+            [
+              85.1790947,
+              27.9807618
+            ],
+            [
+              85.1790413,
+              27.9807473
+            ],
+            [
+              85.1790361,
+              27.9807623
+            ],
+            [
+              85.1790071,
+              27.9807544
+            ],
+            [
+              85.1789913,
+              27.9807999
+            ],
+            [
+              85.1790513,
+              27.9808161
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341623268,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1101286,
+              27.8634429
+            ],
+            [
+              85.1100539,
+              27.8633616
+            ],
+            [
+              85.1101103,
+              27.8633211
+            ],
+            [
+              85.110185,
+              27.8634023
+            ],
+            [
+              85.1101286,
+              27.8634429
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341649658,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1992002,
+              28.0451862
+            ],
+            [
+              85.1992448,
+              28.0452191
+            ],
+            [
+              85.1992845,
+              28.045195
+            ],
+            [
+              85.1992424,
+              28.045149
+            ],
+            [
+              85.1992002,
+              28.0451862
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341666160,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1990841,
+              28.0449402
+            ],
+            [
+              85.1990707,
+              28.0449083
+            ],
+            [
+              85.1991163,
+              28.0448917
+            ],
+            [
+              85.1991284,
+              28.0449237
+            ],
+            [
+              85.1990841,
+              28.0449402
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341666848,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1787784,
+              27.9812082
+            ],
+            [
+              85.1787823,
+              27.981172
+            ],
+            [
+              85.1788769,
+              27.9811798
+            ],
+            [
+              85.1788731,
+              27.981216
+            ],
+            [
+              85.1787784,
+              27.9812082
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341701631,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1850901,
+              27.9961652
+            ],
+            [
+              85.1851369,
+              27.9961262
+            ],
+            [
+              85.1850928,
+              27.9960849
+            ],
+            [
+              85.1850459,
+              27.9961239
+            ],
+            [
+              85.1850901,
+              27.9961652
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 342075515,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0220025,
+              27.8342475
+            ],
+            [
+              85.0220526,
+              27.8341548
+            ],
+            [
+              85.0221006,
+              27.8341751
+            ],
+            [
+              85.0220505,
+              27.8342678
+            ],
+            [
+              85.0220025,
+              27.8342475
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 355674070,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0220029,
+              27.8346787
+            ],
+            [
+              85.0219449,
+              27.8346739
+            ],
+            [
+              85.0219492,
+              27.834633
+            ],
+            [
+              85.0219635,
+              27.8346342
+            ],
+            [
+              85.0219653,
+              27.8346172
+            ],
+            [
+              85.0219882,
+              27.8346191
+            ],
+            [
+              85.0219866,
+              27.8346345
+            ],
+            [
+              85.0220074,
+              27.8346362
+            ],
+            [
+              85.0220029,
+              27.8346787
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 355674074,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.185001,
+              27.9744916
+            ],
+            [
+              85.1850015,
+              27.974527
+            ],
+            [
+              85.1850545,
+              27.9745264
+            ],
+            [
+              85.1850539,
+              27.974491
+            ],
+            [
+              85.185001,
+              27.9744916
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 846895893,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1849353,
+              27.9745528
+            ],
+            [
+              85.1849858,
+              27.9745526
+            ],
+            [
+              85.1849856,
+              27.9744944
+            ],
+            [
+              85.1849351,
+              27.9744945
+            ],
+            [
+              85.1849353,
+              27.9745528
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 846895894,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1847938,
+              27.9745319
+            ],
+            [
+              85.1848729,
+              27.9745461
+            ],
+            [
+              85.1848822,
+              27.9745058
+            ],
+            [
+              85.184803,
+              27.9744916
+            ],
+            [
+              85.1847938,
+              27.9745319
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 846895895,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1858291,
+              27.9746989
+            ],
+            [
+              85.1858767,
+              27.9747534
+            ],
+            [
+              85.1859118,
+              27.9747295
+            ],
+            [
+              85.1858642,
+              27.974675
+            ],
+            [
+              85.1858291,
+              27.9746989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 846895896,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1857641,
+              27.9746308
+            ],
+            [
+              85.1858164,
+              27.9746918
+            ],
+            [
+              85.1858592,
+              27.9746632
+            ],
+            [
+              85.1858068,
+              27.9746022
+            ],
+            [
+              85.1857641,
+              27.9746308
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 846895897,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1864769,
+              27.9744484
+            ],
+            [
+              85.1864552,
+              27.9744681
+            ],
+            [
+              85.1865048,
+              27.9745107
+            ],
+            [
+              85.1865265,
+              27.974491
+            ],
+            [
+              85.1864769,
+              27.9744484
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 846895899,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1835935,
+              27.9935926
+            ],
+            [
+              85.1835935,
+              27.9935523
+            ],
+            [
+              85.1835398,
+              27.9935523
+            ],
+            [
+              85.1835398,
+              27.9935926
+            ],
+            [
+              85.1835935,
+              27.9935926
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027726,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1839717,
+              27.9939858
+            ],
+            [
+              85.1840858,
+              27.9939546
+            ],
+            [
+              85.184063,
+              27.9938895
+            ],
+            [
+              85.1839489,
+              27.9939206
+            ],
+            [
+              85.1839717,
+              27.9939858
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027727,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1839757,
+              27.9940533
+            ],
+            [
+              85.1840331,
+              27.9940388
+            ],
+            [
+              85.184017,
+              27.993989
+            ],
+            [
+              85.1839596,
+              27.9940035
+            ],
+            [
+              85.1839757,
+              27.9940533
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027728,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.183973,
+              27.9938614
+            ],
+            [
+              85.1839918,
+              27.9939064
+            ],
+            [
+              85.1840462,
+              27.9938887
+            ],
+            [
+              85.1840274,
+              27.9938437
+            ],
+            [
+              85.183973,
+              27.9938614
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027729,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1839261,
+              27.9937714
+            ],
+            [
+              85.1840087,
+              27.9937658
+            ],
+            [
+              85.1840034,
+              27.9937042
+            ],
+            [
+              85.1839207,
+              27.9937098
+            ],
+            [
+              85.1839261,
+              27.9937714
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027730,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1838081,
+              27.993865
+            ],
+            [
+              85.183859,
+              27.9936933
+            ],
+            [
+              85.1838162,
+              27.9936834
+            ],
+            [
+              85.1837652,
+              27.9938551
+            ],
+            [
+              85.1838081,
+              27.993865
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027731,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1837102,
+              27.9938366
+            ],
+            [
+              85.1837595,
+              27.993842
+            ],
+            [
+              85.1837743,
+              27.9937378
+            ],
+            [
+              85.1837249,
+              27.9937323
+            ],
+            [
+              85.1837102,
+              27.9938366
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027732,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1833896,
+              27.9933025
+            ],
+            [
+              85.1834285,
+              27.9933552
+            ],
+            [
+              85.1834717,
+              27.9933304
+            ],
+            [
+              85.1834328,
+              27.9932777
+            ],
+            [
+              85.1833896,
+              27.9933025
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027733,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1837303,
+              27.9934623
+            ],
+            [
+              85.1837718,
+              27.9934464
+            ],
+            [
+              85.1837486,
+              27.9933992
+            ],
+            [
+              85.183707,
+              27.9934152
+            ],
+            [
+              85.1837303,
+              27.9934623
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027734,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836813,
+              27.9934132
+            ],
+            [
+              85.1837316,
+              27.9933895
+            ],
+            [
+              85.1837055,
+              27.9933462
+            ],
+            [
+              85.1836552,
+              27.9933699
+            ],
+            [
+              85.1836813,
+              27.9934132
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027735,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1837853,
+              27.9933984
+            ],
+            [
+              85.1838433,
+              27.9933899
+            ],
+            [
+              85.1838339,
+              27.9933401
+            ],
+            [
+              85.1837759,
+              27.9933487
+            ],
+            [
+              85.1837853,
+              27.9933984
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027736,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836619,
+              27.9932883
+            ],
+            [
+              85.1836967,
+              27.9933451
+            ],
+            [
+              85.1837509,
+              27.9933192
+            ],
+            [
+              85.183716,
+              27.9932624
+            ],
+            [
+              85.1836619,
+              27.9932883
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027737,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836444,
+              27.9932634
+            ],
+            [
+              85.1836844,
+              27.9932612
+            ],
+            [
+              85.1836803,
+              27.9932032
+            ],
+            [
+              85.1836404,
+              27.9932054
+            ],
+            [
+              85.1836444,
+              27.9932634
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027738,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1833655,
+              27.9931977
+            ],
+            [
+              85.1833727,
+              27.9932443
+            ],
+            [
+              85.1834264,
+              27.9932378
+            ],
+            [
+              85.1834191,
+              27.9931912
+            ],
+            [
+              85.1833655,
+              27.9931977
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027739,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1831596,
+              27.991808
+            ],
+            [
+              85.1831844,
+              27.991849
+            ],
+            [
+              85.1832159,
+              27.9918342
+            ],
+            [
+              85.1831911,
+              27.9917932
+            ],
+            [
+              85.1831596,
+              27.991808
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027746,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1831362,
+              27.9916067
+            ],
+            [
+              85.1831992,
+              27.9917002
+            ],
+            [
+              85.1832367,
+              27.9916806
+            ],
+            [
+              85.1831736,
+              27.991587
+            ],
+            [
+              85.1831362,
+              27.9916067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027747,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832575,
+              27.9922337
+            ],
+            [
+              85.1833152,
+              27.9922343
+            ],
+            [
+              85.1833159,
+              27.9921823
+            ],
+            [
+              85.1832582,
+              27.9921817
+            ],
+            [
+              85.1832575,
+              27.9922337
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027748,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1830631,
+              27.9923782
+            ],
+            [
+              85.1831143,
+              27.9923906
+            ],
+            [
+              85.1831472,
+              27.9922846
+            ],
+            [
+              85.1830959,
+              27.9922722
+            ],
+            [
+              85.1830631,
+              27.9923782
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027749,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1830979,
+              27.9922616
+            ],
+            [
+              85.1831508,
+              27.9922734
+            ],
+            [
+              85.1831803,
+              27.992171
+            ],
+            [
+              85.1831274,
+              27.9921591
+            ],
+            [
+              85.1830979,
+              27.9922616
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027750,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.183106,
+              27.9921449
+            ],
+            [
+              85.1831864,
+              27.992169
+            ],
+            [
+              85.1832219,
+              27.9920767
+            ],
+            [
+              85.1831415,
+              27.9920526
+            ],
+            [
+              85.183106,
+              27.9921449
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027751,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832233,
+              27.9920366
+            ],
+            [
+              85.1832944,
+              27.99202
+            ],
+            [
+              85.1832816,
+              27.991977
+            ],
+            [
+              85.1832105,
+              27.9919936
+            ],
+            [
+              85.1832233,
+              27.9920366
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027752,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832461,
+              27.9920922
+            ],
+            [
+              85.1833259,
+              27.9920774
+            ],
+            [
+              85.1833143,
+              27.9920285
+            ],
+            [
+              85.1832345,
+              27.9920433
+            ],
+            [
+              85.1832461,
+              27.9920922
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027753,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832857,
+              27.9921431
+            ],
+            [
+              85.183344,
+              27.9921349
+            ],
+            [
+              85.1833359,
+              27.9920904
+            ],
+            [
+              85.1832776,
+              27.9920987
+            ],
+            [
+              85.1832857,
+              27.9921431
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027754,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832287,
+              27.9919851
+            ],
+            [
+              85.1832771,
+              27.9919708
+            ],
+            [
+              85.1832543,
+              27.9919104
+            ],
+            [
+              85.1832059,
+              27.9919247
+            ],
+            [
+              85.1832287,
+              27.9919851
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027755,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.183275,
+              27.9918743
+            ],
+            [
+              85.1832984,
+              27.9919217
+            ],
+            [
+              85.1833505,
+              27.9919016
+            ],
+            [
+              85.183327,
+              27.9918542
+            ],
+            [
+              85.183275,
+              27.9918743
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027756,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1831308,
+              27.9918879
+            ],
+            [
+              85.1831574,
+              27.9919369
+            ],
+            [
+              85.1832707,
+              27.9918889
+            ],
+            [
+              85.1832441,
+              27.99184
+            ],
+            [
+              85.1831308,
+              27.9918879
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027757,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832897,
+              27.9919329
+            ],
+            [
+              85.1833273,
+              27.9920289
+            ],
+            [
+              85.1833976,
+              27.9920074
+            ],
+            [
+              85.1833601,
+              27.9919115
+            ],
+            [
+              85.1832897,
+              27.9919329
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027758,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1833682,
+              27.9920277
+            ],
+            [
+              85.183401,
+              27.9921112
+            ],
+            [
+              85.1834701,
+              27.99209
+            ],
+            [
+              85.1834373,
+              27.9920065
+            ],
+            [
+              85.1833682,
+              27.9920277
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027759,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1833789,
+              27.9921686
+            ],
+            [
+              85.1834252,
+              27.9922041
+            ],
+            [
+              85.1834893,
+              27.992139
+            ],
+            [
+              85.183443,
+              27.9921035
+            ],
+            [
+              85.1833789,
+              27.9921686
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027760,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1834372,
+              27.9922047
+            ],
+            [
+              85.1834614,
+              27.9922539
+            ],
+            [
+              85.1835101,
+              27.9922352
+            ],
+            [
+              85.1834859,
+              27.9921861
+            ],
+            [
+              85.1834372,
+              27.9922047
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027761,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1834721,
+              27.9923516
+            ],
+            [
+              85.1835297,
+              27.992347
+            ],
+            [
+              85.1835217,
+              27.9922671
+            ],
+            [
+              85.1834641,
+              27.9922716
+            ],
+            [
+              85.1834721,
+              27.9923516
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027764,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1834299,
+              27.9924718
+            ],
+            [
+              85.1835056,
+              27.992471
+            ],
+            [
+              85.1835042,
+              27.9923609
+            ],
+            [
+              85.1834285,
+              27.9923616
+            ],
+            [
+              85.1834299,
+              27.9924718
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027765,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1834527,
+              27.9925174
+            ],
+            [
+              85.1835244,
+              27.9925168
+            ],
+            [
+              85.183524,
+              27.9924787
+            ],
+            [
+              85.1834523,
+              27.9924793
+            ],
+            [
+              85.1834527,
+              27.9925174
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027766,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1835901,
+              27.9926121
+            ],
+            [
+              85.1836414,
+              27.992604
+            ],
+            [
+              85.1835965,
+              27.9923831
+            ],
+            [
+              85.1835452,
+              27.9923912
+            ],
+            [
+              85.1835901,
+              27.9926121
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027767,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1834272,
+              27.9926062
+            ],
+            [
+              85.1834595,
+              27.9926794
+            ],
+            [
+              85.1835111,
+              27.9926617
+            ],
+            [
+              85.1834788,
+              27.9925884
+            ],
+            [
+              85.1834272,
+              27.9926062
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027768,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.183519,
+              27.9926518
+            ],
+            [
+              85.1835771,
+              27.9926374
+            ],
+            [
+              85.1835469,
+              27.9925421
+            ],
+            [
+              85.1834889,
+              27.9925564
+            ],
+            [
+              85.183519,
+              27.9926518
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027769,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1835982,
+              27.9926743
+            ],
+            [
+              85.183649,
+              27.9926706
+            ],
+            [
+              85.1836443,
+              27.9926202
+            ],
+            [
+              85.1835935,
+              27.9926239
+            ],
+            [
+              85.1835982,
+              27.9926743
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027770,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1835928,
+              27.9927435
+            ],
+            [
+              85.1836555,
+              27.9927366
+            ],
+            [
+              85.1836475,
+              27.9926798
+            ],
+            [
+              85.1835848,
+              27.9926867
+            ],
+            [
+              85.1835928,
+              27.9927435
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027771,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.183507,
+              27.9927412
+            ],
+            [
+              85.1835787,
+              27.992729
+            ],
+            [
+              85.1835632,
+              27.992658
+            ],
+            [
+              85.1834916,
+              27.9926701
+            ],
+            [
+              85.183507,
+              27.9927412
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027772,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1835271,
+              27.9927968
+            ],
+            [
+              85.1835946,
+              27.9927837
+            ],
+            [
+              85.1835832,
+              27.9927381
+            ],
+            [
+              85.1835157,
+              27.9927512
+            ],
+            [
+              85.1835271,
+              27.9927968
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027773,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836136,
+              27.9928016
+            ],
+            [
+              85.1836766,
+              27.9927856
+            ],
+            [
+              85.1836605,
+              27.9927359
+            ],
+            [
+              85.1835974,
+              27.9927519
+            ],
+            [
+              85.1836136,
+              27.9928016
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027774,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836887,
+              27.992772
+            ],
+            [
+              85.1836936,
+              27.9928144
+            ],
+            [
+              85.1837459,
+              27.9928097
+            ],
+            [
+              85.183741,
+              27.9927672
+            ],
+            [
+              85.1836887,
+              27.992772
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027775,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836773,
+              27.9928691
+            ],
+            [
+              85.183741,
+              27.9928679
+            ],
+            [
+              85.1837398,
+              27.9928185
+            ],
+            [
+              85.1836761,
+              27.9928197
+            ],
+            [
+              85.1836773,
+              27.9928691
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027776,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836471,
+              27.992978
+            ],
+            [
+              85.1837048,
+              27.9929676
+            ],
+            [
+              85.1836914,
+              27.9929096
+            ],
+            [
+              85.1836337,
+              27.9929199
+            ],
+            [
+              85.1836471,
+              27.992978
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027777,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1835814,
+              27.9929987
+            ],
+            [
+              85.1836424,
+              27.9929855
+            ],
+            [
+              85.1835888,
+              27.9927925
+            ],
+            [
+              85.1835278,
+              27.9928057
+            ],
+            [
+              85.1835814,
+              27.9929987
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027778,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836672,
+              27.9930532
+            ],
+            [
+              85.1837397,
+              27.9930425
+            ],
+            [
+              85.1837266,
+              27.9929735
+            ],
+            [
+              85.1836542,
+              27.9929842
+            ],
+            [
+              85.1836672,
+              27.9930532
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027779,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836391,
+              27.9931201
+            ],
+            [
+              85.1837236,
+              27.9931071
+            ],
+            [
+              85.1837136,
+              27.9930567
+            ],
+            [
+              85.1836291,
+              27.9930697
+            ],
+            [
+              85.1836391,
+              27.9931201
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027780,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836652,
+              27.9931781
+            ],
+            [
+              85.1837356,
+              27.9931645
+            ],
+            [
+              85.1837235,
+              27.9931154
+            ],
+            [
+              85.183653,
+              27.993129
+            ],
+            [
+              85.1836652,
+              27.9931781
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027781,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1836947,
+              27.9931935
+            ],
+            [
+              85.1837544,
+              27.9932906
+            ],
+            [
+              85.1838042,
+              27.9932668
+            ],
+            [
+              85.1837445,
+              27.9931697
+            ],
+            [
+              85.1836947,
+              27.9931935
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027782,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1838242,
+              27.9935435
+            ],
+            [
+              85.1838959,
+              27.9935263
+            ],
+            [
+              85.1838586,
+              27.9934048
+            ],
+            [
+              85.1837869,
+              27.993422
+            ],
+            [
+              85.1838242,
+              27.9935435
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027783,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1838134,
+              27.9936554
+            ],
+            [
+              85.1838754,
+              27.9936573
+            ],
+            [
+              85.1838794,
+              27.9935542
+            ],
+            [
+              85.1838174,
+              27.9935523
+            ],
+            [
+              85.1838134,
+              27.9936554
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027784,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.183745,
+              27.9936281
+            ],
+            [
+              85.1838011,
+              27.9936171
+            ],
+            [
+              85.1837743,
+              27.9935106
+            ],
+            [
+              85.1837182,
+              27.9935216
+            ],
+            [
+              85.183745,
+              27.9936281
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027785,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832113,
+              27.9935441
+            ],
+            [
+              85.1834191,
+              27.9936423
+            ],
+            [
+              85.1834475,
+              27.9935956
+            ],
+            [
+              85.1832396,
+              27.9934973
+            ],
+            [
+              85.1832113,
+              27.9935441
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027786,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1834594,
+              27.9936352
+            ],
+            [
+              85.1835194,
+              27.9936441
+            ],
+            [
+              85.1835288,
+              27.9935943
+            ],
+            [
+              85.1834688,
+              27.9935855
+            ],
+            [
+              85.1834594,
+              27.9936352
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027787,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1834071,
+              27.9935322
+            ],
+            [
+              85.1834661,
+              27.9935322
+            ],
+            [
+              85.1834661,
+              27.9934458
+            ],
+            [
+              85.1834071,
+              27.9934458
+            ],
+            [
+              85.1834071,
+              27.9935322
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027788,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832025,
+              27.993415
+            ],
+            [
+              85.1832683,
+              27.9934061
+            ],
+            [
+              85.1832598,
+              27.9933572
+            ],
+            [
+              85.1831941,
+              27.9933661
+            ],
+            [
+              85.1832025,
+              27.993415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027789,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.183279,
+              27.993447
+            ],
+            [
+              85.1833247,
+              27.9934456
+            ],
+            [
+              85.1833227,
+              27.9933917
+            ],
+            [
+              85.183277,
+              27.9933931
+            ],
+            [
+              85.183279,
+              27.993447
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027790,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832823,
+              27.9932072
+            ],
+            [
+              85.1833313,
+              27.9932012
+            ],
+            [
+              85.1833235,
+              27.9931507
+            ],
+            [
+              85.1832745,
+              27.9931567
+            ],
+            [
+              85.1832823,
+              27.9932072
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027792,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832893,
+              27.9932949
+            ],
+            [
+              85.1833615,
+              27.9932858
+            ],
+            [
+              85.1833514,
+              27.9932242
+            ],
+            [
+              85.1832792,
+              27.9932333
+            ],
+            [
+              85.1832893,
+              27.9932949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027793,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.183173,
+              27.9932072
+            ],
+            [
+              85.1832488,
+              27.9931965
+            ],
+            [
+              85.1832403,
+              27.9931495
+            ],
+            [
+              85.1831646,
+              27.9931602
+            ],
+            [
+              85.183173,
+              27.9932072
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027794,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1832958,
+              27.9930846
+            ],
+            [
+              85.1833507,
+              27.9930811
+            ],
+            [
+              85.1833454,
+              27.9930159
+            ],
+            [
+              85.1832904,
+              27.9930195
+            ],
+            [
+              85.1832958,
+              27.9930846
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027795,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1831737,
+              27.9931272
+            ],
+            [
+              85.1832572,
+              27.9931122
+            ],
+            [
+              85.1832398,
+              27.9930365
+            ],
+            [
+              85.1831563,
+              27.9930514
+            ],
+            [
+              85.1831737,
+              27.9931272
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027796,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1830798,
+              27.9931935
+            ],
+            [
+              85.1831265,
+              27.9931852
+            ],
+            [
+              85.1831077,
+              27.9931035
+            ],
+            [
+              85.1830611,
+              27.9931118
+            ],
+            [
+              85.1830798,
+              27.9931935
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027798,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1831348,
+              27.9934458
+            ],
+            [
+              85.183199,
+              27.9934244
+            ],
+            [
+              85.1831561,
+              27.9933238
+            ],
+            [
+              85.1830919,
+              27.9933451
+            ],
+            [
+              85.1831348,
+              27.9934458
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027800,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1831784,
+              27.9930005
+            ],
+            [
+              85.1832307,
+              27.9929922
+            ],
+            [
+              85.1832193,
+              27.992936
+            ],
+            [
+              85.183167,
+              27.9929443
+            ],
+            [
+              85.1831784,
+              27.9930005
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027806,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1830986,
+              27.993007
+            ],
+            [
+              85.1831309,
+              27.9930055
+            ],
+            [
+              85.1831275,
+              27.9929499
+            ],
+            [
+              85.1830953,
+              27.9929514
+            ],
+            [
+              85.1830986,
+              27.993007
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027807,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1830879,
+              27.9929401
+            ],
+            [
+              85.1831288,
+              27.9929363
+            ],
+            [
+              85.1831208,
+              27.9928688
+            ],
+            [
+              85.1830798,
+              27.9928726
+            ],
+            [
+              85.1830879,
+              27.9929401
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027808,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1830463,
+              27.9929863
+            ],
+            [
+              85.183087,
+              27.9929814
+            ],
+            [
+              85.1830783,
+              27.9929251
+            ],
+            [
+              85.1830376,
+              27.99293
+            ],
+            [
+              85.1830463,
+              27.9929863
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027809,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1829176,
+              27.9929022
+            ],
+            [
+              85.1829768,
+              27.9929093
+            ],
+            [
+              85.1829882,
+              27.9928347
+            ],
+            [
+              85.182929,
+              27.9928276
+            ],
+            [
+              85.1829176,
+              27.9929022
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027810,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1829377,
+              27.9930325
+            ],
+            [
+              85.1829909,
+              27.9930262
+            ],
+            [
+              85.1829735,
+              27.9929113
+            ],
+            [
+              85.1829202,
+              27.9929176
+            ],
+            [
+              85.1829377,
+              27.9930325
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027811,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1831241,
+              27.9927199
+            ],
+            [
+              85.1831436,
+              27.9927903
+            ],
+            [
+              85.1831765,
+              27.9927832
+            ],
+            [
+              85.183157,
+              27.9927127
+            ],
+            [
+              85.1831241,
+              27.9927199
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027812,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1831,
+              27.9926571
+            ],
+            [
+              85.1831041,
+              27.9927016
+            ],
+            [
+              85.1831698,
+              27.9926969
+            ],
+            [
+              85.1831657,
+              27.9926524
+            ],
+            [
+              85.1831,
+              27.9926571
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027813,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1831563,
+              27.9928827
+            ],
+            [
+              85.183206,
+              27.9928722
+            ],
+            [
+              85.1831858,
+              27.9927976
+            ],
+            [
+              85.1831362,
+              27.9928081
+            ],
+            [
+              85.1831563,
+              27.9928827
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027814,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1830222,
+              27.9926624
+            ],
+            [
+              85.1830403,
+              27.9927838
+            ],
+            [
+              85.1831193,
+              27.9927746
+            ],
+            [
+              85.1831124,
+              27.9927288
+            ],
+            [
+              85.1830788,
+              27.9927327
+            ],
+            [
+              85.1830675,
+              27.9926571
+            ],
+            [
+              85.1830222,
+              27.9926624
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027815,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1830222,
+              27.9926376
+            ],
+            [
+              85.1830734,
+              27.9926434
+            ],
+            [
+              85.1830888,
+              27.9925374
+            ],
+            [
+              85.1830376,
+              27.9925316
+            ],
+            [
+              85.1830222,
+              27.9926376
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027816,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1828056,
+              27.9926879
+            ],
+            [
+              85.1829149,
+              27.9927258
+            ],
+            [
+              85.1829507,
+              27.9926451
+            ],
+            [
+              85.1828414,
+              27.9926072
+            ],
+            [
+              85.1828056,
+              27.9926879
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027817,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1827539,
+              27.9929271
+            ],
+            [
+              85.1828183,
+              27.9930135
+            ],
+            [
+              85.1828633,
+              27.9929875
+            ],
+            [
+              85.1827989,
+              27.992901
+            ],
+            [
+              85.1827539,
+              27.9929271
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027818,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1828505,
+              27.9928288
+            ],
+            [
+              85.1829082,
+              27.9928288
+            ],
+            [
+              85.1829082,
+              27.9927684
+            ],
+            [
+              85.1828505,
+              27.9927684
+            ],
+            [
+              85.1828505,
+              27.9928288
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027819,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1828398,
+              27.9929259
+            ],
+            [
+              85.1829,
+              27.9929336
+            ],
+            [
+              85.1829134,
+              27.9928519
+            ],
+            [
+              85.1828532,
+              27.9928442
+            ],
+            [
+              85.1828398,
+              27.9929259
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027820,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1827955,
+              27.992528
+            ],
+            [
+              85.182844,
+              27.9925175
+            ],
+            [
+              85.1828355,
+              27.9924871
+            ],
+            [
+              85.1828638,
+              27.9924809
+            ],
+            [
+              85.1828307,
+              27.9923621
+            ],
+            [
+              85.1827539,
+              27.9923788
+            ],
+            [
+              85.1827955,
+              27.992528
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027825,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1828418,
+              27.9922852
+            ],
+            [
+              85.18288,
+              27.9923184
+            ],
+            [
+              85.1829222,
+              27.9922805
+            ],
+            [
+              85.182884,
+              27.9922474
+            ],
+            [
+              85.1828418,
+              27.9922852
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027827,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1829719,
+              27.9921532
+            ],
+            [
+              85.1830281,
+              27.9921684
+            ],
+            [
+              85.183065,
+              27.9920618
+            ],
+            [
+              85.1830088,
+              27.9920466
+            ],
+            [
+              85.1829719,
+              27.9921532
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027828,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1829263,
+              27.992242
+            ],
+            [
+              85.1829829,
+              27.992245
+            ],
+            [
+              85.1829862,
+              27.9921959
+            ],
+            [
+              85.1829296,
+              27.9921929
+            ],
+            [
+              85.1829263,
+              27.992242
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027829,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1828277,
+              27.9922112
+            ],
+            [
+              85.1828964,
+              27.9922219
+            ],
+            [
+              85.1829078,
+              27.9921644
+            ],
+            [
+              85.1828391,
+              27.9921538
+            ],
+            [
+              85.1828277,
+              27.9922112
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027830,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1829021,
+              27.9920383
+            ],
+            [
+              85.1829733,
+              27.9920673
+            ],
+            [
+              85.1830336,
+              27.9919519
+            ],
+            [
+              85.1829625,
+              27.9919229
+            ],
+            [
+              85.1829021,
+              27.9920383
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027831,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.18287,
+              27.9920946
+            ],
+            [
+              85.1829384,
+              27.9921267
+            ],
+            [
+              85.1829672,
+              27.9920787
+            ],
+            [
+              85.1828988,
+              27.9920466
+            ],
+            [
+              85.18287,
+              27.9920946
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027832,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1826795,
+              27.9920804
+            ],
+            [
+              85.1828262,
+              27.9921465
+            ],
+            [
+              85.1829254,
+              27.9919748
+            ],
+            [
+              85.1827788,
+              27.9919087
+            ],
+            [
+              85.1826795,
+              27.9920804
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027833,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1826674,
+              27.9922177
+            ],
+            [
+              85.1827895,
+              27.9922172
+            ],
+            [
+              85.1827892,
+              27.9921656
+            ],
+            [
+              85.1826671,
+              27.9921662
+            ],
+            [
+              85.1826674,
+              27.9922177
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 847027834,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1847723,
+              28.0021315
+            ],
+            [
+              85.1847409,
+              28.0022016
+            ],
+            [
+              85.1848119,
+              28.0022265
+            ],
+            [
+              85.1848434,
+              28.0021564
+            ],
+            [
+              85.1847723,
+              28.0021315
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 848313637,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1848112,
+              28.0020415
+            ],
+            [
+              85.1847904,
+              28.002099
+            ],
+            [
+              85.1848535,
+              28.0021168
+            ],
+            [
+              85.1848742,
+              28.0020593
+            ],
+            [
+              85.1848112,
+              28.0020415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 848313638,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1845437,
+              28.0020794
+            ],
+            [
+              85.1845341,
+              28.0021372
+            ],
+            [
+              85.1845843,
+              28.0021437
+            ],
+            [
+              85.1845939,
+              28.0020859
+            ],
+            [
+              85.1845437,
+              28.0020794
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 848313639,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1844853,
+              27.996186
+            ],
+            [
+              85.1845404,
+              27.9962374
+            ],
+            [
+              85.184763,
+              27.9960515
+            ],
+            [
+              85.1847079,
+              27.9960001
+            ],
+            [
+              85.1844853,
+              27.996186
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 848313669,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1841031,
+              27.9744792
+            ],
+            [
+              85.1841688,
+              27.9745254
+            ],
+            [
+              85.1842196,
+              27.9744691
+            ],
+            [
+              85.1841538,
+              27.9744229
+            ],
+            [
+              85.1841031,
+              27.9744792
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 851737926,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1840106,
+              27.9745455
+            ],
+            [
+              85.1840749,
+              27.9745941
+            ],
+            [
+              85.1841251,
+              27.9745422
+            ],
+            [
+              85.1840608,
+              27.9744936
+            ],
+            [
+              85.1840106,
+              27.9745455
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 851737927,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1837128,
+              27.9927021
+            ],
+            [
+              85.1836699,
+              27.9927106
+            ],
+            [
+              85.1836819,
+              27.992758
+            ],
+            [
+              85.1837249,
+              27.9927495
+            ],
+            [
+              85.1837128,
+              27.9927021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 854887285,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1696781,
+              27.9607821
+            ],
+            [
+              85.1696874,
+              27.9608234
+            ],
+            [
+              85.1697552,
+              27.9608131
+            ],
+            [
+              85.1697505,
+              27.9607801
+            ],
+            [
+              85.1696781,
+              27.9607821
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886277361,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1694247,
+              27.9608687
+            ],
+            [
+              85.1694371,
+              27.9609015
+            ],
+            [
+              85.1694814,
+              27.9608827
+            ],
+            [
+              85.1694583,
+              27.9608499
+            ],
+            [
+              85.1694247,
+              27.9608687
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886277362,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1711593,
+              27.9618109
+            ],
+            [
+              85.1712503,
+              27.9618646
+            ],
+            [
+              85.171276,
+              27.9618274
+            ],
+            [
+              85.171241,
+              27.9618048
+            ],
+            [
+              85.1713391,
+              27.9617016
+            ],
+            [
+              85.17129,
+              27.9616707
+            ],
+            [
+              85.1711593,
+              27.9618109
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886277371,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1741061,
+              27.9658145
+            ],
+            [
+              85.1741457,
+              27.9657731
+            ],
+            [
+              85.1742974,
+              27.9658866
+            ],
+            [
+              85.1742577,
+              27.965928
+            ],
+            [
+              85.1741061,
+              27.9658145
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886387021,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1856496,
+              27.9736454
+            ],
+            [
+              85.1856479,
+              27.9736821
+            ],
+            [
+              85.1857234,
+              27.9736848
+            ],
+            [
+              85.185725,
+              27.973648
+            ],
+            [
+              85.1856496,
+              27.9736454
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886398167,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1799594,
+              27.9800599
+            ],
+            [
+              85.1799115,
+              27.9800588
+            ],
+            [
+              85.1799126,
+              27.9800218
+            ],
+            [
+              85.1799605,
+              27.9800229
+            ],
+            [
+              85.1799594,
+              27.9800599
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886471625,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1799663,
+              27.979989
+            ],
+            [
+              85.1799185,
+              27.97999
+            ],
+            [
+              85.1799177,
+              27.9799581
+            ],
+            [
+              85.1799654,
+              27.9799571
+            ],
+            [
+              85.1799663,
+              27.979989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886471626,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1800598,
+              27.9801958
+            ],
+            [
+              85.1800063,
+              27.9801937
+            ],
+            [
+              85.1800084,
+              27.980152
+            ],
+            [
+              85.1800619,
+              27.980154
+            ],
+            [
+              85.1800598,
+              27.9801958
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886471627,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1800005,
+              27.9801494
+            ],
+            [
+              85.1799996,
+              27.9801687
+            ],
+            [
+              85.1799557,
+              27.9801672
+            ],
+            [
+              85.1799565,
+              27.9801479
+            ],
+            [
+              85.1800005,
+              27.9801494
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886471628,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1802174,
+              27.9800668
+            ],
+            [
+              85.1801391,
+              27.9800508
+            ],
+            [
+              85.18016,
+              27.9799709
+            ],
+            [
+              85.1801888,
+              27.9799768
+            ],
+            [
+              85.1801801,
+              27.9800096
+            ],
+            [
+              85.1802297,
+              27.9800197
+            ],
+            [
+              85.1802174,
+              27.9800668
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886471629,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1842395,
+              27.9940265
+            ],
+            [
+              85.1841943,
+              27.9940246
+            ],
+            [
+              85.1841967,
+              27.9939795
+            ],
+            [
+              85.184242,
+              27.9939814
+            ],
+            [
+              85.1842395,
+              27.9940265
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 886471675,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1843566,
+              27.9959598
+            ],
+            [
+              85.1843499,
+              27.9959977
+            ],
+            [
+              85.1844158,
+              27.9960068
+            ],
+            [
+              85.1844225,
+              27.9959689
+            ],
+            [
+              85.1843566,
+              27.9959598
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 887054230,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1843029,
+              27.9963328
+            ],
+            [
+              85.1843204,
+              27.9963334
+            ],
+            [
+              85.1843216,
+              27.9963057
+            ],
+            [
+              85.1843041,
+              27.9963051
+            ],
+            [
+              85.1843029,
+              27.9963328
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 887054232,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1843351,
+              27.9961635
+            ],
+            [
+              85.1843834,
+              27.996167
+            ],
+            [
+              85.1843917,
+              27.9960786
+            ],
+            [
+              85.1843435,
+              27.9960751
+            ],
+            [
+              85.1843351,
+              27.9961635
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 887054233,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1843137,
+              27.9962949
+            ],
+            [
+              85.1843579,
+              27.9962949
+            ],
+            [
+              85.1843579,
+              27.9961907
+            ],
+            [
+              85.1843137,
+              27.9961907
+            ],
+            [
+              85.1843137,
+              27.9962949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 887054234,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1739469,
+              27.9660154
+            ],
+            [
+              85.1739356,
+              27.9660507
+            ],
+            [
+              85.1739665,
+              27.9660584
+            ],
+            [
+              85.1739569,
+              27.9660884
+            ],
+            [
+              85.1740214,
+              27.9661046
+            ],
+            [
+              85.1740424,
+              27.9660393
+            ],
+            [
+              85.1739469,
+              27.9660154
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 887418169,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0427563,
+              27.8553297
+            ],
+            [
+              85.0428504,
+              27.8553139
+            ],
+            [
+              85.0428161,
+              27.8551537
+            ],
+            [
+              85.042722,
+              27.8551694
+            ],
+            [
+              85.0427563,
+              27.8553297
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 891507115,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0427585,
+              27.8554302
+            ],
+            [
+              85.0428149,
+              27.8554241
+            ],
+            [
+              85.0428176,
+              27.8554435
+            ],
+            [
+              85.0428624,
+              27.8554386
+            ],
+            [
+              85.0428536,
+              27.8553758
+            ],
+            [
+              85.0427525,
+              27.8553869
+            ],
+            [
+              85.0427585,
+              27.8554302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 891507116,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0426977,
+              27.8554727
+            ],
+            [
+              85.04274,
+              27.8554542
+            ],
+            [
+              85.0427125,
+              27.8554051
+            ],
+            [
+              85.0426702,
+              27.8554236
+            ],
+            [
+              85.0426977,
+              27.8554727
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 891507117,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0429405,
+              27.855602
+            ],
+            [
+              85.0429883,
+              27.8555811
+            ],
+            [
+              85.042917,
+              27.8554538
+            ],
+            [
+              85.0428692,
+              27.8554747
+            ],
+            [
+              85.0429405,
+              27.855602
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 891507118,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0429901,
+              27.8557484
+            ],
+            [
+              85.0430398,
+              27.8557267
+            ],
+            [
+              85.0429713,
+              27.8556043
+            ],
+            [
+              85.0429216,
+              27.8556261
+            ],
+            [
+              85.0429901,
+              27.8557484
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 891507119,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0431379,
+              27.8559145
+            ],
+            [
+              85.0430823,
+              27.8558152
+            ],
+            [
+              85.0430428,
+              27.8558325
+            ],
+            [
+              85.0430983,
+              27.8559318
+            ],
+            [
+              85.0431379,
+              27.8559145
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 891507120,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.0433119,
+              27.8555172
+            ],
+            [
+              85.0434107,
+              27.8555103
+            ],
+            [
+              85.0434045,
+              27.855441
+            ],
+            [
+              85.0433058,
+              27.8554479
+            ],
+            [
+              85.0433119,
+              27.8555172
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 891507121,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.037456,
+              27.8556879
+            ],
+            [
+              85.0377059,
+              27.8557009
+            ],
+            [
+              85.0377153,
+              27.8555598
+            ],
+            [
+              85.0374654,
+              27.8555468
+            ],
+            [
+              85.037456,
+              27.8556879
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 891507122,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1141578,
+              27.8672254
+            ],
+            [
+              85.1142329,
+              27.8672043
+            ],
+            [
+              85.1142128,
+              27.8671485
+            ],
+            [
+              85.1141377,
+              27.8671697
+            ],
+            [
+              85.1141578,
+              27.8672254
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 892314192,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1139835,
+              27.8665402
+            ],
+            [
+              85.1139931,
+              27.8665873
+            ],
+            [
+              85.1141044,
+              27.8665696
+            ],
+            [
+              85.1140948,
+              27.8665224
+            ],
+            [
+              85.1139835,
+              27.8665402
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 892314194,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1140948,
+              27.8667548
+            ],
+            [
+              85.114177,
+              27.8667412
+            ],
+            [
+              85.1141582,
+              27.8666523
+            ],
+            [
+              85.114076,
+              27.8666658
+            ],
+            [
+              85.1140948,
+              27.8667548
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 892314195,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.036028,
+              27.8551464
+            ],
+            [
+              85.0360484,
+              27.8551156
+            ],
+            [
+              85.0360932,
+              27.8551387
+            ],
+            [
+              85.0360729,
+              27.8551695
+            ],
+            [
+              85.036028,
+              27.8551464
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 922087615,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.185473,
+              27.9737508
+            ],
+            [
+              85.1855669,
+              27.973765
+            ],
+            [
+              85.1855795,
+              27.9737002
+            ],
+            [
+              85.1854856,
+              27.973686
+            ],
+            [
+              85.185473,
+              27.9737508
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 987441828,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1860604,
+              27.9739498
+            ],
+            [
+              85.1861791,
+              27.9740137
+            ],
+            [
+              85.1862256,
+              27.9739464
+            ],
+            [
+              85.1862122,
+              27.9739392
+            ],
+            [
+              85.1862247,
+              27.9739212
+            ],
+            [
+              85.1861194,
+              27.9738644
+            ],
+            [
+              85.1860604,
+              27.9739498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 987441829,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1852658,
+              27.9744638
+            ],
+            [
+              85.1853383,
+              27.9744934
+            ],
+            [
+              85.1853689,
+              27.9744349
+            ],
+            [
+              85.1852965,
+              27.9744053
+            ],
+            [
+              85.1852658,
+              27.9744638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 987441830,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.1852082,
+              27.9745443
+            ],
+            [
+              85.1853057,
+              27.9745808
+            ],
+            [
+              85.1853352,
+              27.9745192
+            ],
+            [
+              85.1852377,
+              27.9744827
+            ],
+            [
+              85.1852082,
+              27.9745443
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 987441831,
+        "potentially_affected": true,
+        "analysis_version": "V3"
+      }
+    }
+  ]
+}

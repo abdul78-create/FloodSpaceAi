@@ -1,0 +1,13 @@
+{
+  "total_mapped_buildings": 117129,
+  "potentially_affected_buildings": 0,
+  "total_mapped_roads": 6872,
+  "total_mapped_road_length_km": 1364.4,
+  "potentially_affected_roads": 0,
+  "potentially_affected_road_length_km": 0.0,
+  "total_mapped_bridges": 313,
+  "potentially_affected_bridges": 0,
+  "road_buffer_m": 20.0,
+  "bridge_buffer_m": 30.0,
+  "interpretation": "Modeled estimates based on candidate flood extents; does not confirm physical structural damage."
+}

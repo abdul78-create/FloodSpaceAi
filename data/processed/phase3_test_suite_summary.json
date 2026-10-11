@@ -1,0 +1,44 @@
+{
+  "suite": "Phase 3 Parameterized Satellite Raster Processing",
+  "timestamp_utc": "2026-10-09T17:22:22.951376+00:00",
+  "all_passed": true,
+  "total_tests": 7,
+  "passed_tests": 7,
+  "results": [
+    {
+      "test_name": "Test 1: Trishuli Benchmark (1,286 V3 pixels)",
+      "passed": true,
+      "details": "Status: SUCCESS_COMPLETED, V3 Pixels: 1286, Clusters: 27"
+    },
+    {
+      "test_name": "Test 2: Anti-Pollution Isolation (Unseen Date)",
+      "passed": true,
+      "details": "Status: PARTIAL_RUN_IMAGERY_UNAVAILABLE, Message: Query parameters (bbox=[84.9, 27.75, 85.25, 28.05], flood_date='2..."
+    },
+    {
+      "test_name": "Test 3: Missing Input Error Handling",
+      "passed": true,
+      "details": "Status: FAILED_MISSING_OVERRIDE, Error: Explicit input raster s1_pre not found: non_existent_s1_pre.tif"
+    },
+    {
+      "test_name": "Test 4: SCL Cloud/Shadow Masking Policy",
+      "passed": true,
+      "details": "Valid Optical Pixels: 2208564 / 4194304 (52.66%), Nodata: -9999.0"
+    },
+    {
+      "test_name": "Test 5: Grid Alignment & Zero Cloud False Positives",
+      "passed": true,
+      "details": "Alignment: (2048, 2048) vs (2048, 2048), False water in cloudy pixels: 0"
+    },
+    {
+      "test_name": "Test 6: Input Validation Error Rejection",
+      "passed": true,
+      "details": "6a (Inverted Bbox): FAILED_INVALID_INPUT, 6b (Invalid Day): FAILED_INVALID_INPUT"
+    },
+    {
+      "test_name": "Test 7: Unseen AOI End-to-End Processing (396 new V3 px)",
+      "passed": true,
+      "details": "Status: SUCCESS_COMPLETED, New V3 Pixels: 396, Area: 432.36 ha"
+    }
+  ]
+}

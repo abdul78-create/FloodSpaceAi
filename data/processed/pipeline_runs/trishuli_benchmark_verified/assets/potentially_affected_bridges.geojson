@@ -1,0 +1,426 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.1089803,
+            27.8583598
+          ],
+          [
+            85.1092913,
+            27.8588349
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 168199206,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "highway": "primary",
+          "layer": "1",
+          "name": "devighat-Tadi bridge",
+          "ref": "NH42",
+          "ref:old": "F69"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.027894,
+            27.8474098
+          ],
+          [
+            85.027262,
+            27.8481327
+          ],
+          [
+            85.0267135,
+            27.848875
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 209014516,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "bridge:structure": "suspension",
+          "highway": "footway",
+          "layer": "1",
+          "motor_vehicle": "no"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.1732285,
+            27.9641981
+          ],
+          [
+            85.173644,
+            27.9637426
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 281810148,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "bridge:structure": "simple-suspension",
+          "highway": "path",
+          "layer": "1",
+          "lit": "no",
+          "name": "Tupche Aama ko pool",
+          "source": "Bing",
+          "surface": "wood"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.1852005,
+            27.995359
+          ],
+          [
+            85.1848082,
+            27.9956189
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 298744773,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "highway": "unclassified",
+          "layer": "1",
+          "ref": "NH42"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.0224691,
+            27.8311017
+          ],
+          [
+            85.0216698,
+            27.8314623
+          ],
+          [
+            85.0202334,
+            27.8322513
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 302554531,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "highway": "footway",
+          "layer": "1",
+          "name": "Suspension Bridge"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.0238072,
+            27.8351338
+          ],
+          [
+            85.0233807,
+            27.8352666
+          ],
+          [
+            85.020991,
+            27.8362238
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 302755357,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "highway": "footway",
+          "layer": "1",
+          "name": "Suspension Bridge"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.0428539,
+            27.8558146
+          ],
+          [
+            85.042903,
+            27.8570619
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 302758285,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "highway": "footway",
+          "layer": "1"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.1850809,
+            27.9724338
+          ],
+          [
+            85.1839585,
+            27.9725259
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341049679,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "bridge:structure": "simple-suspension",
+          "highway": "path",
+          "layer": "1",
+          "source": "Digital Globe,2015-05-03"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.185882,
+            27.9739074
+          ],
+          [
+            85.1858603,
+            27.9739625
+          ],
+          [
+            85.1856624,
+            27.9744799
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341461646,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "highway": "primary",
+          "layer": "1",
+          "name": "Falaakhu River Bridge",
+          "name:ne": "फलाखु खोला पुल",
+          "ref": "NH42",
+          "ref:old": "F21",
+          "source": "MapBox",
+          "surface": "paved"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.1706307,
+            27.9636381
+          ],
+          [
+            85.1702496,
+            27.963347
+          ],
+          [
+            85.170068,
+            27.963355
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 341587490,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "highway": "service",
+          "lanes": "2",
+          "layer": "1",
+          "lit": "no",
+          "sidewalk": "no",
+          "smoothness": "good",
+          "source": "Bing",
+          "surface": "concrete"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.1797873,
+            27.9821684
+          ],
+          [
+            85.1797873,
+            27.9815122
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 343303369,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "bridge:structure": "simple-suspension",
+          "fixme": "imagery bad",
+          "highway": "path",
+          "layer": "1",
+          "source": "Digital Globe,2015-05-03"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.1847908,
+            27.9703121
+          ],
+          [
+            85.1848611,
+            27.9705325
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 345313942,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "damage:event": "nepal_earthquake_2015",
+          "highway": "primary",
+          "layer": "1",
+          "name": "Pasang Lhamu Highway",
+          "note": "No previous smoothness tag. Only small vehicles (4 x 4 jeeps) are allowed. Caution due to risk of landslides. Not advised to travel the route at night. Relief vehicles should register with the police in Kalikasthan before driving to Dhunche.",
+          "ref": "F21",
+          "smoothness": "horrible",
+          "source:smoothness": "DFID RMO survey post nepal_earthquake_2015",
+          "surface": "unpaved"
+        },
+        "analysis_version": "V4B"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            85.0229754,
+            27.832286
+          ],
+          [
+            85.0213643,
+            27.8328972
+          ]
+        ]
+      },
+      "properties": {
+        "osm_id": 1493017039,
+        "asset_type": "bridge",
+        "potentially_affected": true,
+        "buffer_distance_m": 30.0,
+        "tags": {
+          "bridge": "yes",
+          "highway": "path",
+          "layer": "1"
+        },
+        "analysis_version": "V4B"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EMSR927_AOI03_GRA_PRODUCT_facilitiesL_v1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "obj_type": "215-Harbours, waterways, dams and other waterworks", "name": "Unknown", "info": "2152-Dams", "simplified": "Dam", "damage_gra": "Possibly damaged", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 2, "cd_value": "Not Applicable" }, "geometry": { "type": "LineString", "coordinates": [ [ 85.1330675, 27.8887251 ], [ 85.1334967, 27.8888152 ], [ 85.1342214, 27.8892616 ] ] } },
+{ "type": "Feature", "properties": { "obj_type": "22-Pipelines, Communication and Electricity Lines", "name": "Unknown", "info": "223-Aqueducts, irrigation and cultivation waterworks", "simplified": "Acqueduct", "damage_gra": "Destroyed", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 1, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "LineString", "coordinates": [ [ 85.1614264, 27.94832025 ], [ 85.16387055, 27.94871245 ] ] } },
+{ "type": "Feature", "properties": { "obj_type": "215-Harbours, waterways, dams and other waterworks", "name": "Unknown", "info": "2152-Dams", "simplified": "Dam", "damage_gra": "Destroyed", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "LineString", "coordinates": [ [ 85.1702269, 27.9632673 ], [ 85.1702724, 27.9632192 ], [ 85.1702818, 27.9632085 ], [ 85.1704379, 27.9630308 ], [ 85.1705714, 27.9628636 ], [ 85.1710905, 27.9622134 ] ] } },
+{ "type": "Feature", "properties": { "obj_type": "215-Harbours, waterways, dams and other waterworks", "name": "Unknown", "info": "2152-Dams", "simplified": "Dam", "damage_gra": "Destroyed", "det_method": "Photo-interpretation", "notation": "Not Applicable", "or_src_id": 994, "dmg_src_id": 3, "cd_value": "Not Applicable" }, "geometry": { "type": "LineString", "coordinates": [ [ 85.1706193, 27.963532 ], [ 85.1704249, 27.9634227 ], [ 85.1702269, 27.9632673 ] ] } }
+]
+}

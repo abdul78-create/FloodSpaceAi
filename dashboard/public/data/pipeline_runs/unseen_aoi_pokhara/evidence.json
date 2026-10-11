@@ -1,0 +1,48 @@
+{
+  "project": "FloodSpaceAI",
+  "track": "Track B — Mapping Flood Damage from Space",
+  "run_id": "unseen_aoi_pokhara",
+  "case_study": {
+    "event": "Flood Event 2026-09-15",
+    "analysis_area": "AOI Bbox [83.95, 28.18, 84.05, 28.28]",
+    "osm_snapshot": "N/A",
+    "provenance_mode": "UNKNOWN"
+  },
+  "flood_mapping": {
+    "method": "Multi-temporal Sentinel-1 SAR backscatter change + Sentinel-2 optical spectral filtering",
+    "candidate_version": "V3",
+    "flood_pixels": 0,
+    "flood_clusters": 0,
+    "candidate_area_ha": 0.0
+  },
+  "potentially_affected_assets": {
+    "buildings": 0,
+    "roads": 0,
+    "road_length_km": 0.0,
+    "bridges": 0
+  },
+  "road_connectivity": {
+    "vehicle_accessible_ways": 0,
+    "disrupted_road_segments": 0,
+    "pre_event_components": 0,
+    "post_event_components": 0,
+    "settlements_analysed": 0,
+    "potentially_cut_off_settlements": 0,
+    "hospital_data_available": false
+  },
+  "limitations": [
+    "The flood output is a modelled potential inundation candidate, not confirmed physical damage.",
+    "Potentially affected assets are based on candidate spatial overlap; not confirmed structural destruction.",
+    "Potentially cut-off settlements represent modelled topological network disconnections, not confirmed real-world isolation.",
+    "Validation layers (EMSR927 / UNOSAT) are strictly checking-only and excluded from analytical pipelines.",
+    "This system is an educational and research prototype for the Multimodal AI Hackathon 2026."
+  ],
+  "data_provenance": {
+    "sentinel_sar": "Copernicus Sentinel-1 (C-band SAR, IW mode, VV+VH)",
+    "sentinel_optical": "Copernicus Sentinel-2 MSI (Level-2A BOA, SCL masked)",
+    "dem": "Copernicus DEM 30m GLO-30",
+    "osm": "© OpenStreetMap contributors, ODbL 1.0",
+    "osm_snapshot": "N/A",
+    "provenance_mode": "UNKNOWN"
+  }
+}

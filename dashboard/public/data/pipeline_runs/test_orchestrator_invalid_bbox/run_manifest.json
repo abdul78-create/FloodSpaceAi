@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "test_orchestrator_invalid_bbox",
+  "title": "Run test_orchestrator_invalid_bbox (2026-08-28)",
+  "overall_status": "FAILED",
+  "overall_message": "Pipeline execution failed at: stage_1_input_validation",
+  "provenance_mode": "UNKNOWN",
+  "timestamp_utc": "2026-10-09T09:33:00.139538+00:00",
+  "inputs": {
+    "bbox": [
+      85.25,
+      28.05,
+      84.9,
+      27.75
+    ],
+    "flood_date": "2026-08-28",
+    "snapshot_date": null
+  },
+  "stages": {
+    "stage_1_input_validation": {
+      "stage": "Input Validation",
+      "status": "FAILED",
+      "duration_s": 0.0,
+      "message": "Input validation failed: Invalid bounding box: west longitude (85.25) must be strictly less than east longitude (84.9)"
+    }
+  },
+  "metrics": {},
+  "limitations": [],
+  "attributions": {
+    "copernicus_sentinel": "Contains modified Copernicus Sentinel data (2024/2026), processed under ESA Copernicus Open Access.",
+    "copernicus_dem": "Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018.",
+    "openstreetmap": "© OpenStreetMap contributors, ODbL 1.0 license.",
+    "validation_isolation": "Copernicus EMSR927 / UNOSAT products strictly isolated from analytical pipeline inputs."
+  }
+}

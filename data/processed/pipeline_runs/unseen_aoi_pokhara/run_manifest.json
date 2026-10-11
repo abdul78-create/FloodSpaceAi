@@ -1,0 +1,94 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "unseen_aoi_pokhara",
+  "title": "Run unseen_aoi_pokhara (2026-09-15)",
+  "overall_status": "PARTIAL_RUN_IMAGERY_UNAVAILABLE",
+  "overall_message": "Satellite imagery not yet acquired/cached for requested AOI/date.",
+  "provenance_mode": "UNKNOWN",
+  "timestamp_utc": "2026-10-09T09:43:09.615490+00:00",
+  "inputs": {
+    "bbox": [
+      83.95,
+      28.18,
+      84.05,
+      28.28
+    ],
+    "flood_date": "2026-09-15",
+    "snapshot_date": null
+  },
+  "stages": {
+    "stage_1_input_validation": {
+      "stage": "Input Validation",
+      "status": "SUCCESS",
+      "duration_s": 0.001,
+      "message": "Valid AOI [83.95, 28.18, 84.05, 28.28] and event date 2026-09-15."
+    },
+    "stage_2_satellite_discovery": {
+      "stage": "Satellite Discovery",
+      "status": "SUCCESS",
+      "duration_s": 2.415,
+      "message": "Both S1 SAR (Orbit 19) and S2 optical pairs discovered.",
+      "details": {
+        "sentinel1": {
+          "status": "SUCCESS_MATCHED_PAIR",
+          "relative_orbit": 19,
+          "orbit_state": "descending",
+          "temporal_baseline_days": 12,
+          "pre_scene_id": "S1D_IW_GRDH_1SDV_20260905T001844_20260905T001909_004435_00837B",
+          "post_scene_id": "S1D_IW_GRDH_1SDV_20260917T001845_20260917T001910_004610_008985"
+        },
+        "sentinel2": {
+          "status": "SUCCESS_MATCHED_PAIR",
+          "pre_date": "2026-09-11",
+          "post_date": "2026-09-16",
+          "pre_cloud_pct": 72.55,
+          "post_cloud_pct": 63.14
+        }
+      }
+    },
+    "stage_3_satellite_acquisition": {
+      "stage": "Satellite Data Acquisition",
+      "status": "UNAVAILABLE",
+      "duration_s": 2.502,
+      "provenance_mode": "UNKNOWN",
+      "files": {},
+      "checksums": {},
+      "message": "Acquisition mode: UNKNOWN"
+    },
+    "stage_4_raster_processing": {
+      "stage": "SAR & Optical Raster Processing",
+      "status": "UNAVAILABLE",
+      "duration_s": 2.502,
+      "message": "Query parameters (bbox=[83.95, 28.18, 84.05, 28.28], flood_date='2026-09-15') represent an unseen AOI or date. While candidate scenes were discovered in STAC catalogues, raw multiband satellite rasters have not yet been fetched for this specific AOI/date. Strict provenance isolation prevents reusing cached Trishuli rasters."
+    },
+    "stage_5_historical_osm": {
+      "stage": "Historical OSM Snapshot Ingestion",
+      "status": "SKIPPED",
+      "message": "Skipped because flood raster was not generated."
+    },
+    "stage_6_asset_connectivity": {
+      "stage": "Asset Exposure & Road Connectivity Modeling",
+      "status": "SKIPPED",
+      "message": "Skipped because flood raster was not generated."
+    },
+    "stage_7_situation_evidence": {
+      "stage": "Situation Report & Evidence Grounding",
+      "status": "SUCCESS",
+      "duration_s": 0.005,
+      "files": {
+        "evidence_json": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\unseen_aoi_pokhara\\evidence\\evidence.json",
+        "situation_report_en": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\unseen_aoi_pokhara\\evidence\\situation_report_en.md",
+        "situation_report_ne": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\unseen_aoi_pokhara\\evidence\\situation_report_ne.md"
+      },
+      "message": "Grounded multilingual situation reports generated."
+    }
+  },
+  "metrics": {},
+  "limitations": [],
+  "attributions": {
+    "copernicus_sentinel": "Contains modified Copernicus Sentinel data (2024/2026), processed under ESA Copernicus Open Access.",
+    "copernicus_dem": "Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018.",
+    "openstreetmap": "© OpenStreetMap contributors, ODbL 1.0 license.",
+    "validation_isolation": "Copernicus EMSR927 / UNOSAT products strictly isolated from analytical pipeline inputs."
+  }
+}

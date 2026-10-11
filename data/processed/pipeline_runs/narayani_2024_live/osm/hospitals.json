@@ -1,0 +1,1207 @@
+{
+  "elements": [
+    {
+      "type": "node",
+      "id": 1904498930,
+      "lat": 27.6821809,
+      "lon": 84.4363371,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general;orthopaedics;dental_oral_maxillo_facial_surgery;gynaecology;cardiology;paediatrics;psychiatry",
+        "name": "Bharatpur District Hospital",
+        "name:ne": "\u091c\u093f\u0932\u094d\u0932\u093e \u0905\u0938\u094d\u092a\u0924\u093e\u0932"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905959105,
+      "lat": 27.6991788,
+      "lon": 84.423163,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Nepal Red Cross Society"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905962473,
+      "lat": 27.6991445,
+      "lon": 84.4235261,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "no",
+        "name": "Mary Stopes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1905992892,
+      "lat": 27.6757452,
+      "lon": 84.4384875,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "District Veterinary Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1906007914,
+      "lat": 27.6709797,
+      "lon": 84.4387436,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "no",
+        "healthcare": "hospital",
+        "name": "Bharatpur Family Planning Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1906007947,
+      "lat": 27.6837229,
+      "lon": 84.4360734,
+      "tags": {
+        "amenity": "hospital",
+        "name": "College Of Medical Sciences Teaching Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1906007957,
+      "lat": 27.6847699,
+      "lon": 84.4391608,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "ophthalmology",
+        "name": "Mahendra Memorial Eye Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1957170597,
+      "lat": 27.6853544,
+      "lon": 84.4307286,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Chitwan Medical College Teaching Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1960210094,
+      "lat": 27.6816756,
+      "lon": 84.4324497,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "name": "Narayani Samydayik Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1979213270,
+      "lat": 27.6902999,
+      "lon": 84.4096154,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Balkumari Maternity Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2282788885,
+      "lat": 27.6809967,
+      "lon": 84.4140065,
+      "tags": {
+        "amenity": "hospital",
+        "emergency": "yes",
+        "name": "school of science"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2456643501,
+      "lat": 27.697102,
+      "lon": 84.4267111,
+      "tags": {
+        "amenity": "hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2456677959,
+      "lat": 27.6814753,
+      "lon": 84.4303659,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Chitwan Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3343357437,
+      "lat": 27.6986884,
+      "lon": 84.4224991,
+      "tags": {
+        "amenity": "hospital",
+        "name": "abaya upchar kendra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3343362893,
+      "lat": 27.6987231,
+      "lon": 84.4225384,
+      "tags": {
+        "amenity": "hospital",
+        "name": "avaya upchar kendra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392229877,
+      "lat": 27.679569,
+      "lon": 84.4318936,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Chitwan Valley Model Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392269915,
+      "lat": 27.687011,
+      "lon": 84.4296794,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Anamol Arayog Kandra"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392281251,
+      "lat": 27.6810851,
+      "lon": 84.4325728,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Mankamana Hospital",
+        "phone": "056524162"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392281252,
+      "lat": 27.6813682,
+      "lon": 84.4322248,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Om Hospital",
+        "phone": "056527673"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392281253,
+      "lat": 27.6811392,
+      "lon": 84.4316313,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shanti Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392281256,
+      "lat": 27.6782161,
+      "lon": 84.4307855,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "National Eye Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283035,
+      "lat": 27.6809433,
+      "lon": 84.4335294,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bharatpur samudaik hospital",
+        "phone": "056523200"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283036,
+      "lat": 27.6780877,
+      "lon": 84.4315618,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Chitwan Ankha Hospital",
+        "phone": "056533780"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283037,
+      "lat": 27.6811711,
+      "lon": 84.4315492,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Jay Buddha Hospital",
+        "phone": "056524536"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283071,
+      "lat": 27.685502,
+      "lon": 84.4294439,
+      "tags": {
+        "amenity": "hospital",
+        "name": "\u0928\u093f\u0915\u094b \u091a\u093f\u0932\u094d\u0921\u094d\u0930\u0947\u0928\u094d\u0938 \u0939\u0938\u094d\u092a\u093f\u091f\u0932 (\u092a\u094d\u0930\u093e.) \u0932\u093f",
+        "name:en": "Niko Children's Hospital Pvt. Ltd.",
+        "name:ne": "\u0928\u093f\u0915\u094b \u091a\u093f\u0932\u094d\u0921\u094d\u0930\u0947\u0928\u094d\u0938 \u0939\u0938\u094d\u092a\u093f\u091f\u0932 (\u092a\u094d\u0930\u093e.) \u0932\u093f"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283072,
+      "lat": 27.6859846,
+      "lon": 84.4287179,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Alive Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283801,
+      "lat": 27.6839862,
+      "lon": 84.4323063,
+      "tags": {
+        "amenity": "hospital",
+        "name": "life care hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283802,
+      "lat": 27.682554,
+      "lon": 84.4302743,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Puspanjali Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283803,
+      "lat": 27.6809481,
+      "lon": 84.4333861,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "asha hospital",
+        "phone": "056525355"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283804,
+      "lat": 27.6813808,
+      "lon": 84.4319255,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Advance Community Hospital",
+        "phone": "056520266"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392283805,
+      "lat": 27.6803636,
+      "lon": 84.4304008,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Maulakalika Hospital",
+        "phone": "056525798"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392331573,
+      "lat": 27.6803508,
+      "lon": 84.4332766,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Asha Hospital pvt.ltd",
+        "phone": "056-525355/525356"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392361328,
+      "lat": 27.6806469,
+      "lon": 84.4334678,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Bharatpur Samaudayek Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3392408845,
+      "lat": 27.6962801,
+      "lon": 84.422115,
+      "tags": {
+        "amenity": "hospital",
+        "name": "kantipur dental",
+        "phone": "056528538"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4631857290,
+      "lat": 27.6836432,
+      "lon": 84.4363375,
+      "tags": {
+        "amenity": "hospital",
+        "name:en": "OPD block",
+        "opening_hours": "Mo-Su 09:00-16:00"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5003246523,
+      "lat": 27.6884248,
+      "lon": 84.4324255,
+      "tags": {
+        "addr:street": "Birendra campus road",
+        "amenity": "hospital",
+        "name": "oasis medical college",
+        "name:en": "Sungava girl's hostel",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9516157617,
+      "lat": 27.645095,
+      "lon": 84.3825975,
+      "tags": {
+        "amenity": "hospital",
+        "name:en": "Chitwan medical college basic science building"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9530259559,
+      "lat": 27.6204017,
+      "lon": 84.3566566,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Shivanagar Primary Health Care Center"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11982514804,
+      "lat": 27.6785354,
+      "lon": 84.4308248,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Bharatpur Central Hospital"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11991285795,
+      "lat": 27.6916532,
+      "lon": 84.3054315,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Gaidakot Community hospital",
+        "operator": "government"
+      }
+    },
+    {
+      "type": "way",
+      "id": 233234380,
+      "bounds": {
+        "minlat": 27.6624554,
+        "minlon": 84.4133431,
+        "maxlat": 27.6672816,
+        "maxlon": 84.4198427
+      },
+      "geometry": [
+        {
+          "lat": 27.6633544,
+          "lon": 84.4136861
+        },
+        {
+          "lat": 27.6642191,
+          "lon": 84.4145721
+        },
+        {
+          "lat": 27.664654,
+          "lon": 84.4150739
+        },
+        {
+          "lat": 27.6648496,
+          "lon": 84.4156763
+        },
+        {
+          "lat": 27.6650023,
+          "lon": 84.4156285
+        },
+        {
+          "lat": 27.6653681,
+          "lon": 84.4159376
+        },
+        {
+          "lat": 27.6652785,
+          "lon": 84.4164209
+        },
+        {
+          "lat": 27.665324,
+          "lon": 84.4166123
+        },
+        {
+          "lat": 27.6656688,
+          "lon": 84.4165295
+        },
+        {
+          "lat": 27.6657218,
+          "lon": 84.4168102
+        },
+        {
+          "lat": 27.6657832,
+          "lon": 84.4171298
+        },
+        {
+          "lat": 27.6658731,
+          "lon": 84.4172083
+        },
+        {
+          "lat": 27.6660607,
+          "lon": 84.417372
+        },
+        {
+          "lat": 27.6669114,
+          "lon": 84.4169646
+        },
+        {
+          "lat": 27.6672816,
+          "lon": 84.4185076
+        },
+        {
+          "lat": 27.6672465,
+          "lon": 84.4189023
+        },
+        {
+          "lat": 27.6671204,
+          "lon": 84.4191332
+        },
+        {
+          "lat": 27.6669918,
+          "lon": 84.4193177
+        },
+        {
+          "lat": 27.6668062,
+          "lon": 84.4195452
+        },
+        {
+          "lat": 27.6659995,
+          "lon": 84.4198427
+        },
+        {
+          "lat": 27.6658083,
+          "lon": 84.4192262
+        },
+        {
+          "lat": 27.6646135,
+          "lon": 84.4198128
+        },
+        {
+          "lat": 27.664229,
+          "lon": 84.4186061
+        },
+        {
+          "lat": 27.6640303,
+          "lon": 84.4179736
+        },
+        {
+          "lat": 27.6636769,
+          "lon": 84.4168108
+        },
+        {
+          "lat": 27.663492,
+          "lon": 84.4161672
+        },
+        {
+          "lat": 27.6629491,
+          "lon": 84.4143928
+        },
+        {
+          "lat": 27.6628001,
+          "lon": 84.4139693
+        },
+        {
+          "lat": 27.6627484,
+          "lon": 84.4138641
+        },
+        {
+          "lat": 27.6626759,
+          "lon": 84.4137799
+        },
+        {
+          "lat": 27.6624554,
+          "lon": 84.4135583
+        },
+        {
+          "lat": 27.6626678,
+          "lon": 84.4134808
+        },
+        {
+          "lat": 27.6627411,
+          "lon": 84.4134463
+        },
+        {
+          "lat": 27.6628906,
+          "lon": 84.4134045
+        },
+        {
+          "lat": 27.6630219,
+          "lon": 84.4133431
+        },
+        {
+          "lat": 27.6633544,
+          "lon": 84.4136861
+        }
+      ],
+      "tags": {
+        "alt_name": "Bharatpur Cancer Hospital",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "B.P. Koirala Memorial Cancer Hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 302548412,
+      "bounds": {
+        "minlat": 27.6880703,
+        "minlon": 84.4285593,
+        "maxlat": 27.6883647,
+        "maxlon": 84.4289103
+      },
+      "geometry": [
+        {
+          "lat": 27.6883647,
+          "lon": 84.4287919
+        },
+        {
+          "lat": 27.6882085,
+          "lon": 84.4285593
+        },
+        {
+          "lat": 27.6880703,
+          "lon": 84.4286777
+        },
+        {
+          "lat": 27.6882265,
+          "lon": 84.4289103
+        },
+        {
+          "lat": 27.6883647,
+          "lon": 84.4287919
+        }
+      ],
+      "tags": {
+        "addr:street": "Bharatpur ukalo",
+        "amenity": "hospital",
+        "building": "yes",
+        "building:adjacency": "one_side",
+        "building:adjacency:difference": "one_side",
+        "building:adjacency:level": "no",
+        "building:groundslope": "flat",
+        "building:irregularity": "regular",
+        "building:levels": "4",
+        "building:levels:underground": "0",
+        "building:use": "FALSE",
+        "column:size:breadth": "9",
+        "column:size:length": "9",
+        "floor:material": "rcc",
+        "name": "Bharatpur eye hospital",
+        "physical:condition": "good",
+        "roof:cover:material": "concrete_without_covering",
+        "roof:material": "rcc",
+        "roof:shape": "flat",
+        "roof_shade:present": "no",
+        "shape:plan": "square",
+        "wall:material": "brick",
+        "wall:thickness": "9"
+      }
+    },
+    {
+      "type": "way",
+      "id": 327288856,
+      "bounds": {
+        "minlat": 27.6803011,
+        "minlon": 84.4305006,
+        "maxlat": 27.680443,
+        "maxlon": 84.430773
+      },
+      "geometry": [
+        {
+          "lat": 27.6804296,
+          "lon": 84.4305006
+        },
+        {
+          "lat": 27.680443,
+          "lon": 84.4307647
+        },
+        {
+          "lat": 27.680319,
+          "lon": 84.4307727
+        },
+        {
+          "lat": 27.6803146,
+          "lon": 84.430773
+        },
+        {
+          "lat": 27.6803011,
+          "lon": 84.4305089
+        },
+        {
+          "lat": 27.6804296,
+          "lon": 84.4305006
+        }
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Maulakalika Hospital",
+        "name:ne": "\u092e\u094c\u0932\u093e\u0915\u093e\u0932\u093f\u0915\u093e \u0905\u0938\u094d\u092a\u0924\u093e\u0932 \u092a\u094d\u0930\u093e. \u0932\u093f."
+      }
+    },
+    {
+      "type": "way",
+      "id": 327288874,
+      "bounds": {
+        "minlat": 27.6852571,
+        "minlon": 84.4292626,
+        "maxlat": 27.6853936,
+        "maxlon": 84.4294003
+      },
+      "geometry": [
+        {
+          "lat": 27.6853813,
+          "lon": 84.4292626
+        },
+        {
+          "lat": 27.6853936,
+          "lon": 84.4293843
+        },
+        {
+          "lat": 27.6852694,
+          "lon": 84.4294003
+        },
+        {
+          "lat": 27.6852571,
+          "lon": 84.4292786
+        },
+        {
+          "lat": 27.6852652,
+          "lon": 84.4292775
+        },
+        {
+          "lat": 27.6853813,
+          "lon": 84.4292626
+        }
+      ],
+      "tags": {
+        "addr:street": "Mahandra",
+        "amenity": "hospital",
+        "building": "yes",
+        "building:adjacency": "three_side",
+        "building:adjacency:difference": "three_side",
+        "building:adjacency:level": "no",
+        "building:groundslope": "flat",
+        "building:irregularity": "regular",
+        "building:levels": "5",
+        "building:levels:underground": "0",
+        "building:use": "hospital",
+        "column:size:breadth": "12",
+        "column:size:length": "12",
+        "floor:material": "rcc",
+        "name": "Niko Children's Hospital & Research Center (P) Ltd",
+        "physical:condition": "good",
+        "roof:cover:material": "concrete_without_covering",
+        "roof:material": "rcc",
+        "roof:shape": "flat",
+        "roof_shade:present": "no",
+        "shape:plan": "square",
+        "wall:material": "brick",
+        "wall:thickness": "9"
+      }
+    },
+    {
+      "type": "way",
+      "id": 327966961,
+      "bounds": {
+        "minlat": 27.6854226,
+        "minlon": 84.4291013,
+        "maxlat": 27.6855366,
+        "maxlon": 84.4293221
+      },
+      "geometry": [
+        {
+          "lat": 27.6855133,
+          "lon": 84.4291013
+        },
+        {
+          "lat": 27.6855366,
+          "lon": 84.4293091
+        },
+        {
+          "lat": 27.6854458,
+          "lon": 84.4293221
+        },
+        {
+          "lat": 27.6854308,
+          "lon": 84.4291875
+        },
+        {
+          "lat": 27.6854226,
+          "lon": 84.4291143
+        },
+        {
+          "lat": 27.6855133,
+          "lon": 84.4291013
+        }
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "building": "yes",
+        "name": "Mary Healthcare Center cum Dental Home & Research Center"
+      }
+    },
+    {
+      "type": "way",
+      "id": 328109194,
+      "bounds": {
+        "minlat": 27.6853679,
+        "minlon": 84.4284483,
+        "maxlat": 27.6858776,
+        "maxlon": 84.428858
+      },
+      "geometry": [
+        {
+          "lat": 27.6858776,
+          "lon": 84.4288062
+        },
+        {
+          "lat": 27.685824,
+          "lon": 84.4288124
+        },
+        {
+          "lat": 27.6858051,
+          "lon": 84.4288149
+        },
+        {
+          "lat": 27.6857766,
+          "lon": 84.4288177
+        },
+        {
+          "lat": 27.6857591,
+          "lon": 84.4288199
+        },
+        {
+          "lat": 27.6856871,
+          "lon": 84.4288279
+        },
+        {
+          "lat": 27.6855992,
+          "lon": 84.4288395
+        },
+        {
+          "lat": 27.6853995,
+          "lon": 84.428858
+        },
+        {
+          "lat": 27.6853679,
+          "lon": 84.4285075
+        },
+        {
+          "lat": 27.685669,
+          "lon": 84.4284581
+        },
+        {
+          "lat": 27.6858212,
+          "lon": 84.4284483
+        },
+        {
+          "lat": 27.6858724,
+          "lon": 84.4287488
+        },
+        {
+          "lat": 27.6858776,
+          "lon": 84.4288062
+        }
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "name": "Alive Hospital & Trauma Center"
+      }
+    },
+    {
+      "type": "way",
+      "id": 328109196,
+      "bounds": {
+        "minlat": 27.6858214,
+        "minlon": 84.4281575,
+        "maxlat": 27.686096,
+        "maxlon": 84.4284548
+      },
+      "geometry": [
+        {
+          "lat": 27.6860194,
+          "lon": 84.4281575
+        },
+        {
+          "lat": 27.6858214,
+          "lon": 84.4282094
+        },
+        {
+          "lat": 27.6858768,
+          "lon": 84.4284548
+        },
+        {
+          "lat": 27.686096,
+          "lon": 84.4283878
+        },
+        {
+          "lat": 27.6860194,
+          "lon": 84.4281575
+        }
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "physiotherapist",
+        "name": "Sahara Hospital & Physiotherapy Rehabilitation Center"
+      }
+    },
+    {
+      "type": "way",
+      "id": 330314049,
+      "bounds": {
+        "minlat": 27.6795303,
+        "minlon": 84.4319239,
+        "maxlat": 27.6796438,
+        "maxlon": 84.4320225
+      },
+      "geometry": [
+        {
+          "lat": 27.6796411,
+          "lon": 84.4319422
+        },
+        {
+          "lat": 27.6796438,
+          "lon": 84.4319427
+        },
+        {
+          "lat": 27.6796323,
+          "lon": 84.4320225
+        },
+        {
+          "lat": 27.6795303,
+          "lon": 84.4320037
+        },
+        {
+          "lat": 27.6795418,
+          "lon": 84.4319239
+        },
+        {
+          "lat": 27.6796411,
+          "lon": 84.4319422
+        }
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 330314070,
+      "bounds": {
+        "minlat": 27.6795418,
+        "minlon": 84.4317955,
+        "maxlat": 27.6797037,
+        "maxlon": 84.4319422
+      },
+      "geometry": [
+        {
+          "lat": 27.6797037,
+          "lon": 84.4318199
+        },
+        {
+          "lat": 27.679697,
+          "lon": 84.4318709
+        },
+        {
+          "lat": 27.6796637,
+          "lon": 84.4318653
+        },
+        {
+          "lat": 27.6796595,
+          "lon": 84.4318971
+        },
+        {
+          "lat": 27.6796473,
+          "lon": 84.4318951
+        },
+        {
+          "lat": 27.6796411,
+          "lon": 84.4319422
+        },
+        {
+          "lat": 27.6795418,
+          "lon": 84.4319239
+        },
+        {
+          "lat": 27.6795591,
+          "lon": 84.4317955
+        },
+        {
+          "lat": 27.6795887,
+          "lon": 84.4318005
+        },
+        {
+          "lat": 27.6796322,
+          "lon": 84.4318079
+        },
+        {
+          "lat": 27.6796843,
+          "lon": 84.4318166
+        },
+        {
+          "lat": 27.6797037,
+          "lon": 84.4318199
+        }
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 787451285,
+      "bounds": {
+        "minlat": 27.6830538,
+        "minlon": 84.4351908,
+        "maxlat": 27.6842531,
+        "maxlon": 84.4368275
+      },
+      "geometry": [
+        {
+          "lat": 27.684246,
+          "lon": 84.435514
+        },
+        {
+          "lat": 27.6842454,
+          "lon": 84.4361845
+        },
+        {
+          "lat": 27.6842531,
+          "lon": 84.4366539
+        },
+        {
+          "lat": 27.683999,
+          "lon": 84.4366559
+        },
+        {
+          "lat": 27.6837573,
+          "lon": 84.4366499
+        },
+        {
+          "lat": 27.6833333,
+          "lon": 84.4366466
+        },
+        {
+          "lat": 27.6833328,
+          "lon": 84.4368275
+        },
+        {
+          "lat": 27.6830538,
+          "lon": 84.4368204
+        },
+        {
+          "lat": 27.6830659,
+          "lon": 84.4358765
+        },
+        {
+          "lat": 27.6830699,
+          "lon": 84.4355655
+        },
+        {
+          "lat": 27.6834004,
+          "lon": 84.4355522
+        },
+        {
+          "lat": 27.6833889,
+          "lon": 84.4351908
+        },
+        {
+          "lat": 27.6836571,
+          "lon": 84.4352216
+        },
+        {
+          "lat": 27.6836492,
+          "lon": 84.435457
+        },
+        {
+          "lat": 27.68424,
+          "lon": 84.4354711
+        },
+        {
+          "lat": 27.684246,
+          "lon": 84.435514
+        }
+      ],
+      "tags": {
+        "name": "College Of Medical Sciences Teaching Hospital",
+        "amenity": "hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 797908415,
+      "bounds": {
+        "minlat": 27.6798116,
+        "minlon": 84.4305496,
+        "maxlat": 27.679978,
+        "maxlon": 84.4307242
+      },
+      "geometry": [
+        {
+          "lat": 27.6799699,
+          "lon": 84.4305496
+        },
+        {
+          "lat": 27.679978,
+          "lon": 84.4307212
+        },
+        {
+          "lat": 27.6799267,
+          "lon": 84.4307242
+        },
+        {
+          "lat": 27.6799237,
+          "lon": 84.4306606
+        },
+        {
+          "lat": 27.6798647,
+          "lon": 84.4306641
+        },
+        {
+          "lat": 27.6798667,
+          "lon": 84.4307068
+        },
+        {
+          "lat": 27.6798187,
+          "lon": 84.4307097
+        },
+        {
+          "lat": 27.6798166,
+          "lon": 84.4306664
+        },
+        {
+          "lat": 27.6798122,
+          "lon": 84.4305708
+        },
+        {
+          "lat": 27.6798116,
+          "lon": 84.4305591
+        },
+        {
+          "lat": 27.6799699,
+          "lon": 84.4305496
+        }
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "building": "yes",
+        "healthcare": "hospital",
+        "name": "Shaptagandaki Hospital"
+      }
+    },
+    {
+      "type": "way",
+      "id": 930045826,
+      "bounds": {
+        "minlat": 27.6815878,
+        "minlon": 84.4349977,
+        "maxlat": 27.6830459,
+        "maxlon": 84.4370324
+      },
+      "geometry": [
+        {
+          "lat": 27.6817066,
+          "lon": 84.4349977
+        },
+        {
+          "lat": 27.6830459,
+          "lon": 84.4350953
+        },
+        {
+          "lat": 27.6830423,
+          "lon": 84.4370183
+        },
+        {
+          "lat": 27.6815878,
+          "lon": 84.4370324
+        },
+        {
+          "lat": 27.6817066,
+          "lon": 84.4349977
+        }
+      ],
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "BHARATPUR HOSPITAL"
+      }
+    }
+  ]
+}

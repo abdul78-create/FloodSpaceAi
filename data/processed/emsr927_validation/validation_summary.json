@@ -1,0 +1,109 @@
+{
+  "analysis_metadata": {
+    "title": "EMSR927 Independent Disaster-Impact Spatial Consistency Analysis",
+    "analysis_type": "Descriptive spatial overlap / consistency analysis (NOT flood detection accuracy validation)",
+    "scientific_notice": "EMSR927 observed-event polygons used in this comparison represent mapped mass movement/debris-flow impact associated with the Trishuli GLOF. FloodSpaceAI V3 models potential surface-water inundation. Because these products have different target definitions, direct precision, recall, IoU and F1 values are not measures of FloodSpaceAI flood-water detection accuracy.",
+    "target_model": "FloodSpaceAI V3 Modelled Potential Surface-Water Inundation",
+    "processing_crs": "EPSG:32645",
+    "metric_unit": "square_meters",
+    "timestamp": "2026-10-09T11:07:06.164714+00:00",
+    "provenance_statement": "EMSR927 was evaluated strictly as an independent post-hoc checking reference. It was NOT used as an input to Sentinel-1 or Sentinel-2 processing, flood candidate generation, OSM asset impact analysis, road connectivity analysis, or AI copilot evidence."
+  },
+  "target_definition_comparison": {
+    "floodspace_ai_target": "Potential surface-water inundation (smooth water specular radar attenuation & optical NDWI rise)",
+    "emsr927_target": "6-Mass Movement / Landslide / Debris Flow (total geomorphological disturbance swath including dry boulder wash and hill scars)",
+    "methodological_consequence": "Target mismatch: Direct geometric comparison yields an overlap of 10.93 ha. The 45.24% candidate overlap ratio represents spatial consistency with the CEMS disaster-impact footprint, while the 1.02% recall and 1.01% IoU reflect target-definition divergence, not flood model failure."
+  },
+  "verified_v3_thresholds_from_source": {
+    "source_script": "scripts/refine_flood_candidate_v3.py",
+    "filtered_vv_change": "< -1.5 dB",
+    "filtered_vh_change": "< -1.5 dB",
+    "ndwi_change": "> 0.15",
+    "post_event_ndwi": "> 0.05",
+    "pre_event_ndwi": "< 0.20",
+    "minimum_connected_patch_size_pixels": 25
+  },
+  "reference_provenance": {
+    "activation_code": "EMSR927",
+    "activation_title": "Flood in Nepal (Rasuwa District GLOF)",
+    "service": "Copernicus Emergency Management Service (CEMS) Rapid Mapping",
+    "source_authority": "European Commission / DG ECHO / Copernicus EMS",
+    "layers_evaluated": [
+      "EMSR927_AOI03_GRA_PRODUCT_observedEventA_v1.shp",
+      "EMSR927_AOI05_GRA_PRODUCT_observedEventA_v2.shp"
+    ],
+    "reference_acquisition_info": "VHR optical photo-interpretation (Pl\u00e9iades / WorldView) acquired post-event",
+    "event_classification": "6-Mass Movement / Landslide / Debris Flow"
+  },
+  "common_aoi": {
+    "spatial_overlap_description": "Trishuli river corridor overlap with CEMS Rapid Mapping AOI03 (Syapru Besi) and AOI05 (Trishuli Valley)",
+    "aoi_bounds_wgs84": [
+      84.9413,
+      27.7931,
+      85.1929,
+      28.0091
+    ],
+    "common_aoi_area_m2": 44890423.88,
+    "common_aoi_area_ha": 4489.04,
+    "common_aoi_area_km2": 44.89
+  },
+  "spatial_overlap_with_emsr927_disaster_impact_footprint": {
+    "floodspace_candidate_area_m2": 241597.35,
+    "floodspace_candidate_area_ha": 24.16,
+    "emsr927_reference_area_m2": 10683591.57,
+    "emsr927_reference_area_ha": 1068.36,
+    "coincident_overlap_m2": 109298.6,
+    "coincident_overlap_ha": 10.93,
+    "candidate_outside_emsr927_m2": 132298.75,
+    "candidate_outside_emsr927_ha": 13.23,
+    "emsr927_outside_candidate_m2": 10574292.98,
+    "emsr927_outside_candidate_ha": 1057.43,
+    "union_area_m2": 10815890.33,
+    "union_area_ha": 1081.59,
+    "spatial_overlap_ratio_relative_to_candidate": 0.4524,
+    "spatial_overlap_percentage_relative_to_candidate": 45.24,
+    "coverage_ratio_relative_to_emsr927_debris": 0.0102,
+    "coverage_percentage_relative_to_emsr927_debris": 1.02,
+    "intersection_over_union_iou": 0.0101,
+    "f1_overlap_index": 0.02,
+    "interpretation_warning": "These metrics denote spatial overlap with the EMSR927 mapped disaster-impact footprint. They MUST NOT be interpreted as flood-water detection accuracy."
+  },
+  "spatial_overlap_per_aoi": {
+    "AOI03": {
+      "aoi_name": "Syapru Besi / Trishuli Upstream Corridor",
+      "aoi_area_m2": 20960004.45869595,
+      "candidate_area_m2": 135558.49971298903,
+      "candidate_area_ha": 13.56,
+      "emsr927_debris_area_m2": 5890793.600501605,
+      "emsr927_debris_area_ha": 589.08,
+      "coincident_overlap_m2": 73375.18664036071,
+      "coincident_overlap_ha": 7.34,
+      "candidate_outside_emsr927_m2": 62183.31307262438,
+      "candidate_outside_emsr927_ha": 6.22,
+      "emsr927_outside_candidate_m2": 5817418.413861216,
+      "emsr927_outside_candidate_ha": 581.74,
+      "spatial_overlap_relative_to_candidate": 0.5412806042831421,
+      "spatial_overlap_relative_to_reference": 0.01245590859508524,
+      "intersection_over_union": 0.012325797278509023,
+      "f1_overlap_index": 0.02435144359976851
+    },
+    "AOI05": {
+      "aoi_name": "Trishuli Valley Downstream River Corridor",
+      "aoi_area_m2": 23930450.21567906,
+      "candidate_area_m2": 106038.84724529549,
+      "candidate_area_ha": 10.6,
+      "emsr927_debris_area_m2": 4792801.45820067,
+      "emsr927_debris_area_ha": 479.28,
+      "coincident_overlap_m2": 35923.40864010695,
+      "coincident_overlap_ha": 3.59,
+      "candidate_outside_emsr927_m2": 70115.43860518934,
+      "candidate_outside_emsr927_ha": 7.01,
+      "emsr927_outside_candidate_m2": 4756878.049560555,
+      "emsr927_outside_candidate_ha": 475.69,
+      "spatial_overlap_relative_to_candidate": 0.3387759257416904,
+      "spatial_overlap_relative_to_reference": 0.0074952841158568454,
+      "intersection_over_union": 0.0073872141766812395,
+      "f1_overlap_index": 0.014666086828824159
+    }
+  }
+}

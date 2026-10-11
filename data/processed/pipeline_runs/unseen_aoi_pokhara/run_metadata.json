@@ -1,0 +1,243 @@
+{
+  "status": "PARTIAL_RUN_IMAGERY_UNAVAILABLE",
+  "run_id": "unseen_aoi_pokhara",
+  "execution_timestamp": "2026-10-09T09:43:07.107993+00:00",
+  "inputs": {
+    "bbox": [
+      83.95,
+      28.18,
+      84.05,
+      28.28
+    ],
+    "flood_date": "2026-09-15"
+  },
+  "discovery_metadata": {
+    "sentinel1_sar": {
+      "status": "SUCCESS_MATCHED_PAIR",
+      "query_bbox": [
+        83.95,
+        28.18,
+        84.05,
+        28.28
+      ],
+      "query_flood_date": "2026-09-15",
+      "relative_orbit": 19,
+      "orbit_state": "descending",
+      "instrument_mode": "IW",
+      "polarizations": [
+        "VV",
+        "VH"
+      ],
+      "orbit_match_verified": true,
+      "pass_direction_verified": true,
+      "polarization_match_verified": true,
+      "temporal_baseline_days": 12,
+      "post_event_scene": {
+        "id": "S1D_IW_GRDH_1SDV_20260917T001845_20260917T001910_004610_008985",
+        "datetime": "2026-09-17T00:18:57.916312Z",
+        "date": "2026-09-17",
+        "relative_orbit": 19,
+        "orbit_state": "descending",
+        "instrument_mode": "IW",
+        "polarizations": [
+          "VV",
+          "VH"
+        ],
+        "platform": "sentinel-1d",
+        "aoi_overlap_pct": 100.0,
+        "bbox": [
+          83.260895,
+          27.46051,
+          86.068893,
+          29.389458
+        ],
+        "days_from_flood_date": 2.01,
+        "local_file": null,
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-grd/items/S1D_IW_GRDH_1SDV_20260917T001845_20260917T001910_004610_008985"
+      },
+      "pre_event_scene": {
+        "id": "S1D_IW_GRDH_1SDV_20260905T001844_20260905T001909_004435_00837B",
+        "datetime": "2026-09-05T00:18:57.330780Z",
+        "date": "2026-09-05",
+        "relative_orbit": 19,
+        "orbit_state": "descending",
+        "instrument_mode": "IW",
+        "polarizations": [
+          "VV",
+          "VH"
+        ],
+        "platform": "sentinel-1d",
+        "aoi_overlap_pct": 100.0,
+        "bbox": [
+          83.26223800000002,
+          27.460508,
+          86.07034299999998,
+          29.389458
+        ],
+        "days_from_flood_date": -9.99,
+        "local_file": null,
+        "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-1-grd/items/S1D_IW_GRDH_1SDV_20260905T001844_20260905T001909_004435_00837B"
+      },
+      "scientific_validation_notes": [
+        "Matched Relative Orbit: 19 (exact match verified: True).",
+        "Pass Direction: DESCENDING (identical look angle verified: True).",
+        "Polarizations: Dual-pol VV+VH verified in IW mode (polarization verified: True).",
+        "Temporal Baseline: 12 days (pre: 2026-09-05, post: 2026-09-17).",
+        "Post AOI Coverage: 100.0%, Pre AOI Coverage: 100.0%."
+      ],
+      "execution_timestamp": "2026-10-09T09:43:08.259106+00:00"
+    },
+    "sentinel2_optical": {
+      "status": "SUCCESS_MATCHED_PAIR",
+      "query_bbox": [
+        83.95,
+        28.18,
+        84.05,
+        28.28
+      ],
+      "query_flood_date": "2026-09-15",
+      "pre_event_acquisition": {
+        "date": "2026-09-11",
+        "datetime": "2026-09-11T04:56:51.025000Z",
+        "tiles_required": [
+          "44RQS",
+          "45RTM"
+        ],
+        "scenes": [
+          {
+            "id": "S2C_MSIL2A_20260911T045651_R119_T45RTM_20260911T100115",
+            "datetime": "2026-09-11T04:56:51.025000Z",
+            "date": "2026-09-11",
+            "mgrs_tile": "45RTM",
+            "platform": "Sentinel-2C",
+            "cloud_cover_scene_pct": 72.44,
+            "high_proba_clouds_pct": 53.37,
+            "medium_proba_clouds_pct": 17.64,
+            "cloud_shadow_pct": 1.71,
+            "aoi_overlap_pct": 100.0,
+            "bbox": [
+              83.9236638,
+              27.9034157,
+              85.0669162,
+              28.9141444
+            ],
+            "days_from_flood_date": -3.79,
+            "local_file": null,
+            "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260911T045651_R119_T45RTM_20260911T100115"
+          },
+          {
+            "id": "S2C_MSIL2A_20260911T045651_R119_T44RQS_20260911T100115",
+            "datetime": "2026-09-11T04:56:51.025000Z",
+            "date": "2026-09-11",
+            "mgrs_tile": "44RQS",
+            "platform": "Sentinel-2C",
+            "cloud_cover_scene_pct": 72.65,
+            "high_proba_clouds_pct": 56.6,
+            "medium_proba_clouds_pct": 13.47,
+            "cloud_shadow_pct": 1.37,
+            "aoi_overlap_pct": 100.0,
+            "bbox": [
+              83.0320156,
+              27.9011925,
+              84.1760833,
+              28.9126601
+            ],
+            "days_from_flood_date": -3.79,
+            "local_file": null,
+            "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2C_MSIL2A_20260911T045651_R119_T44RQS_20260911T100115"
+          }
+        ],
+        "combined_aoi_coverage_pct": 100.0,
+        "mean_cloud_cover_pct": 72.55,
+        "requires_mosaicking": false,
+        "days_from_flood_date": -3.79,
+        "primary_tile": "45RTM",
+        "local_file": null
+      },
+      "post_event_acquisition": {
+        "date": "2026-09-16",
+        "datetime": "2026-09-16T04:56:59.024000Z",
+        "tiles_required": [
+          "44RQS",
+          "45RTM"
+        ],
+        "scenes": [
+          {
+            "id": "S2B_MSIL2A_20260916T045659_R119_T45RTM_20260916T084937",
+            "datetime": "2026-09-16T04:56:59.024000Z",
+            "date": "2026-09-16",
+            "mgrs_tile": "45RTM",
+            "platform": "Sentinel-2B",
+            "cloud_cover_scene_pct": 61.73,
+            "high_proba_clouds_pct": 41.16,
+            "medium_proba_clouds_pct": 20.41,
+            "cloud_shadow_pct": 3.55,
+            "aoi_overlap_pct": 100.0,
+            "bbox": [
+              83.9236638,
+              27.9034157,
+              85.0669162,
+              28.9141444
+            ],
+            "days_from_flood_date": 1.21,
+            "local_file": null,
+            "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260916T045659_R119_T45RTM_20260916T084937"
+          },
+          {
+            "id": "S2B_MSIL2A_20260916T045659_R119_T44RQS_20260916T084937",
+            "datetime": "2026-09-16T04:56:59.024000Z",
+            "date": "2026-09-16",
+            "mgrs_tile": "44RQS",
+            "platform": "Sentinel-2B",
+            "cloud_cover_scene_pct": 64.55,
+            "high_proba_clouds_pct": 45.73,
+            "medium_proba_clouds_pct": 18.8,
+            "cloud_shadow_pct": 2.66,
+            "aoi_overlap_pct": 100.0,
+            "bbox": [
+              83.0320156,
+              27.9011925,
+              84.1760833,
+              28.9126601
+            ],
+            "days_from_flood_date": 1.21,
+            "local_file": null,
+            "stac_self_link": "https://planetarycomputer.microsoft.com/api/stac/v1/collections/sentinel-2-l2a/items/S2B_MSIL2A_20260916T045659_R119_T44RQS_20260916T084937"
+          }
+        ],
+        "combined_aoi_coverage_pct": 100.0,
+        "mean_cloud_cover_pct": 63.14,
+        "requires_mosaicking": false,
+        "days_from_flood_date": 1.21,
+        "primary_tile": "45RTM",
+        "local_file": null
+      },
+      "temporal_delta_days": 5,
+      "post_delta_from_flood_days": 1.21,
+      "pre_delta_from_flood_days": -3.79,
+      "cloud_metadata_scope": "scene_wide_estimate",
+      "requires_mosaicking": false,
+      "tiles_involved": [
+        "44RQS",
+        "45RTM"
+      ],
+      "selection_rationale": [
+        "Selected post-event acquisition 2026-09-16 (delta: 1.2d): closest optical observation meeting cloud threshold (63.1% <= 85.0%).",
+        "Selected pre-event baseline 2026-09-11 (delta: -3.8d): clear-sky optical reference (72.5% cloud cover)."
+      ],
+      "warnings": [
+        "Post-event acquisition exhibits 63.1% scene-wide cloud cover. River corridor visibility must be verified via pixel-level Scene Classification Layer (SCL) masking in Phase 3."
+      ],
+      "scientific_notes": [
+        "STAC cloud metadata (eo:cloud_cover) represents scene-wide estimates; localized river corridor visibility requires pixel-level SCL masking.",
+        "Never claim cloud-free river corridor coverage until SCL masking has been computed in Phase 3.",
+        "Sentinel Hub Process API 2048x2048 outputs are resampled grids, not native 10m imagery unless native resolution is independently established."
+      ],
+      "execution_timestamp": "2026-10-09T09:43:09.608669+00:00"
+    }
+  },
+  "error_message": "Query parameters (bbox=[83.95, 28.18, 84.05, 28.28], flood_date='2026-09-15') represent an unseen AOI or date. While candidate scenes were discovered in STAC catalogues, raw multiband satellite rasters have not yet been fetched for this specific AOI/date. Strict provenance isolation prevents reusing cached Trishuli rasters.",
+  "warnings": [
+    "Query parameters (bbox=[83.95, 28.18, 84.05, 28.28], flood_date='2026-09-15') represent an unseen AOI or date. While candidate scenes were discovered in STAC catalogues, raw multiband satellite rasters have not yet been fetched for this specific AOI/date. Strict provenance isolation prevents reusing cached Trishuli rasters."
+  ]
+}

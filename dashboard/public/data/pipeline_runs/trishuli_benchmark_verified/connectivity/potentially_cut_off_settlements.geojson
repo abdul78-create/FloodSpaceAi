@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1859528,
+          27.9731085
+        ]
+      },
+      "properties": {
+        "osm_id": 268864226,
+        "name": "बेत्रावती",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 32.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1703311,
+          27.9603671
+        ]
+      },
+      "properties": {
+        "osm_id": 2857852085,
+        "name": "भैंसे",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 28.1,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1911972,
+          28.0292002
+        ]
+      },
+      "properties": {
+        "osm_id": 3415525225,
+        "name": "सिम्ले",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 27.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.038505,
+          27.8506951
+        ]
+      },
+      "properties": {
+        "osm_id": 3476388711,
+        "name": "OSM-3476388711",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 55.9,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2447622,
+          27.987457
+        ]
+      },
+      "properties": {
+        "osm_id": 3484404878,
+        "name": "OSM-3484404878",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 25.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1100635,
+          27.8600323
+        ]
+      },
+      "properties": {
+        "osm_id": 4156044161,
+        "name": "देवीघाट",
+        "place": "hamlet",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 31.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2112403,
+          28.0021505
+        ]
+      },
+      "properties": {
+        "osm_id": 4967937739,
+        "name": "धइबुङ",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 10.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.181726,
+          28.0235604
+        ]
+      },
+      "properties": {
+        "osm_id": 10603458426,
+        "name": "सालिम भित्ता",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 20.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2030983,
+          28.0142354
+        ]
+      },
+      "properties": {
+        "osm_id": 10603466952,
+        "name": "ढुङ्गे",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 34.7,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1825623,
+          27.984691
+        ]
+      },
+      "properties": {
+        "osm_id": 10603537479,
+        "name": "नौविसे फाँट",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 89.6,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.237744,
+          27.9995788
+        ]
+      },
+      "properties": {
+        "osm_id": 10603591893,
+        "name": "खालचेत",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 45.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2481629,
+          28.0042411
+        ]
+      },
+      "properties": {
+        "osm_id": 10603591972,
+        "name": "सरसिउ",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 33.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2369942,
+          27.9847648
+        ]
+      },
+      "properties": {
+        "osm_id": 10923411849,
+        "name": "बडहरे",
+        "place": "hamlet",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 224.8,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1951685,
+          28.0116144
+        ]
+      },
+      "properties": {
+        "osm_id": 13242877440,
+        "name": "उत्तरगया",
+        "place": "village",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 11.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2134318,
+          28.0059409
+        ]
+      },
+      "properties": {
+        "osm_id": 13242877441,
+        "name": "कालिका",
+        "place": "village",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 69.2,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2425148,
+          27.8883235
+        ]
+      },
+      "properties": {
+        "osm_id": 13370197379,
+        "name": "लिखु",
+        "place": "village",
+        "nearest_town_or_city": "बिदुर",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 37.0,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0538536,
+          27.8594614
+        ]
+      },
+      "properties": {
+        "osm_id": 340415956,
+        "name": "OSM-340415956",
+        "place": "village",
+        "nearest_town_or_city": "बेलकोटगढी",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 24.4,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0471109,
+          27.8575428
+        ]
+      },
+      "properties": {
+        "osm_id": 340415958,
+        "name": "OSM-340415958",
+        "place": "village",
+        "nearest_town_or_city": "गल्छी",
+        "nearest_hub_type": "town",
+        "road_snap_distance_m": 35.3,
+        "connected_before": true,
+        "connected_after": false,
+        "potentially_cut_off": true
+      }
+    }
+  ]
+}

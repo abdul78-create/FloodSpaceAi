@@ -1,0 +1,7 @@
+{
+  "potentially_affected_road_features": 2463,
+  "potentially_affected_road_length_km": 1495.74,
+  "potentially_cut_off_settlements_v3": 218,
+  "road_class_breakdown": null,
+  "note": "Road-class breakdown unavailable because the affected-road GeoJSON does not contain road-class attributes."
+}

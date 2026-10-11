@@ -1,0 +1,38 @@
+{
+  "status": "SUCCESS_DOWNLOADED",
+  "provider": "Overpass Historical API ([date])",
+  "mirror_endpoint": "https://overpass-api.de/api/interpreter",
+  "requested_snapshot_utc": "2024-08-13T00:00:00Z",
+  "retrieval_timestamp_utc": "2026-10-09T10:38:56.164799+00:00",
+  "bbox_wsen": [
+    84.3,
+    27.55,
+    84.5,
+    27.72
+  ],
+  "query_bounding_box": "27.5500,84.3000,27.7200,84.5000",
+  "counts": {
+    "total_elements": 124072,
+    "roads": 6872,
+    "buildings": 117129,
+    "bridges": 313,
+    "settlements": 25,
+    "hospitals": 52
+  },
+  "files": {
+    "roads": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\roads.json",
+    "buildings": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\buildings.json",
+    "bridges": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\bridges.json",
+    "settlements": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\settlements.json",
+    "hospitals": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\hospitals.json"
+  },
+  "checksums": {
+    "roads": "a8af46e5347d954b942bc2b19a69c711b4a7f51f59603a57052bca256689a826",
+    "buildings": "74c321e7a1ff81e302e0958d96a104b394153db04e1b3c0c58d5c14377b03e1b",
+    "bridges": "c517524981a5df4ee9b0a29731ede4167fc519f29d7fb7dbe2202aff18f5fe73",
+    "settlements": "79f155229620f9f0456b58c78a2bcf8a0105a63d25eac2e26ad3e1da6cd5021f",
+    "hospitals": "57706db307d41ee944cc75a62063d403800e89c0f89e21506091bda09a974201"
+  },
+  "attribution": "\u00a9 OpenStreetMap contributors, ODbL 1.0",
+  "scientific_notice": "Historical snapshot strictly precedes flood date 2024-08-20 (T_osm=2024-08-13T00:00:00Z < T_flood=2024-08-20). Post-event edits and disaster-response tags are strictly excluded."
+}

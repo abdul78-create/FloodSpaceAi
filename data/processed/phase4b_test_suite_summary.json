@@ -1,0 +1,49 @@
+{
+  "suite": "Phase 4B Parameterized Asset Exposure & Road Connectivity Test Suite",
+  "timestamp_utc": "2026-10-09T17:22:05.104188+00:00",
+  "all_passed": true,
+  "total_tests": 8,
+  "passed_tests": 8,
+  "results": [
+    {
+      "test_name": "Test 1: Historical Snapshot Selection & Post-Event Rejection",
+      "passed": true,
+      "details": "Post-event rejected: True, Pre-event accepted: True"
+    },
+    {
+      "test_name": "Test 2: AOI Bounds & Invalid Bbox Validation",
+      "passed": true,
+      "details": "Inverted west-east coordinate safely caught: True"
+    },
+    {
+      "test_name": "Test 3: Zero-Candidate / Cloud-Masked Flood Raster Handling",
+      "passed": true,
+      "details": "Status: SUCCESS_COMPLETED, Affected Buildings: 0, Disrupted Segments: 0"
+    },
+    {
+      "test_name": "Test 4: Trishuli Benchmark Numerical Reproduction",
+      "passed": true,
+      "details": "Bldgs: 195 (exp 195), Roads: 115 (exp 115), Bridges: 13 (exp 13), Disrupted: 3748 (exp 3748), Cut-off: 18 (exp 18)"
+    },
+    {
+      "test_name": "Test 5: Graph Disconnection on Controlled Topology",
+      "passed": true,
+      "details": "Components: 1 -> 2, Disrupted Segments: 4, Cut-offs: 1"
+    },
+    {
+      "test_name": "Test 6: Missing Hospital Coverage Limitation Disclosure",
+      "passed": true,
+      "details": "Hospital available: False, Notice: 'Historical hospital data not available in pre-event snapshot; town/city hubs utilized for modeled access.'"
+    },
+    {
+      "test_name": "Test 7: Cache & Baseline Fixture Isolation",
+      "passed": true,
+      "details": "Base assets summary intact: True, Base conn summary intact: True"
+    },
+    {
+      "test_name": "Test 8: Strict Checking-Only Data Isolation (No EMSR927 Leakage)",
+      "passed": true,
+      "details": "EMSR927 absent from production OSM provenance: True"
+    }
+  ]
+}

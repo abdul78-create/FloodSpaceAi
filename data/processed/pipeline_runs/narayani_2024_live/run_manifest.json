@@ -1,0 +1,172 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "narayani_2024_live",
+  "title": "Run narayani_2024_live (2024-08-20)",
+  "overall_status": "PARTIAL_RUN_OPTICAL_UNCONFIRMED",
+  "overall_message": "SAR analysis completed; optical verification limited by cloud cover.",
+  "provenance_mode": "LIVE_AUTHORITATIVE_SATELLITE_RETRIEVAL",
+  "timestamp_utc": "2026-10-09T15:34:31.930558+00:00",
+  "inputs": {
+    "bbox": [
+      84.3,
+      27.55,
+      84.5,
+      27.72
+    ],
+    "flood_date": "2024-08-20",
+    "snapshot_date": "2024-08-13T00:00:00Z"
+  },
+  "stages": {
+    "stage_1_input_validation": {
+      "stage": "Input Validation",
+      "status": "SUCCESS",
+      "duration_s": 0.0,
+      "message": "Valid AOI [84.3, 27.55, 84.5, 27.72] and event date 2024-08-20."
+    },
+    "stage_2_satellite_discovery": {
+      "stage": "Satellite Discovery",
+      "status": "PARTIAL",
+      "duration_s": 3.269,
+      "message": "S1 SAR pair matched (Orbit 158); S2 optical scene cloud-limited (77.8% cloud).",
+      "details": {
+        "sentinel1": {
+          "status": "SUCCESS_MATCHED_PAIR",
+          "relative_orbit": 158,
+          "orbit_state": "ascending",
+          "temporal_baseline_days": 12,
+          "pre_scene_id": "S1A_IW_GRDH_1SDV_20240812T123046_20240812T123111_055180_06B9A3",
+          "post_scene_id": "S1A_IW_GRDH_1SDV_20240824T123046_20240824T123111_055355_06C021"
+        },
+        "sentinel2": {
+          "status": "SUCCESS_MATCHED_PAIR",
+          "pre_date": "2024-08-17",
+          "post_date": "2024-08-22",
+          "pre_cloud_pct": 39.11,
+          "post_cloud_pct": 77.76
+        }
+      }
+    },
+    "stage_3_satellite_acquisition": {
+      "stage": "Satellite Data Acquisition",
+      "status": "SUCCESS",
+      "duration_s": 166.509,
+      "provenance_mode": "LIVE_AUTHORITATIVE_SATELLITE_RETRIEVAL",
+      "files": {
+        "s1_pre": "data/processed/pipeline_runs/narayani_2024_live/acquired_raw/sar/sentinel1_pre_20240807_vv_vh.tif",
+        "s1_post": "data/processed/pipeline_runs/narayani_2024_live/acquired_raw/sar/sentinel1_post_20240819_vv_vh.tif",
+        "s2_pre": "data/processed/pipeline_runs/narayani_2024_live/acquired_raw/optical/sentinel2_pre_20240817_b03_b08_scl.tif",
+        "s2_post": "data/processed/pipeline_runs/narayani_2024_live/acquired_raw/optical/sentinel2_post_20240822_b03_b08_scl.tif"
+      },
+      "checksums": {
+        "s1_pre": "e7fe70ac34723ea45f064bd33d2a203c93ddb5731a2b58714ccbeacdb216f85e",
+        "s1_post": "21db1ec09964de51e31b31e0f0d12dab1d6873b99d0d1c128014017180a7826b",
+        "s2_pre": "9d2a8456b095d966161755ad5420a8f3cf41035e7ebcc7f76694e14c94ab6df9",
+        "s2_post": "96a07f33285e6b0efd0041731a78fd21858d498184293fa1d800fd604837dad2"
+      },
+      "message": "Acquisition mode: LIVE_AUTHORITATIVE_SATELLITE_RETRIEVAL"
+    },
+    "stage_4_raster_processing": {
+      "stage": "SAR & Optical Raster Processing",
+      "status": "SUCCESS",
+      "duration_s": 166.509,
+      "message": "Generated 0 candidate pixels across 0 clusters.",
+      "valid_optical_percentage": 100.0,
+      "optical_confirmation": "VERIFIED",
+      "v3_flood_metrics": {
+        "valid_common_pixels": 1129843,
+        "raw_candidate_pixels": 0,
+        "final_v3_pixels": 0,
+        "removed_by_patch_filter": 0,
+        "patch_reduction_pct": 0.0,
+        "final_flood_clusters": 0,
+        "estimated_candidate_area_ha": 0.0
+      },
+      "rasters": {
+        "filtered_vv_change_db": "data/processed/pipeline_runs/narayani_2024_live/rasters/filtered_vv_change_db.tif",
+        "filtered_vh_change_db": "data/processed/pipeline_runs/narayani_2024_live/rasters/filtered_vh_change_db.tif",
+        "pre_ndwi_cloudmasked": "data/processed/pipeline_runs/narayani_2024_live/rasters/pre_ndwi_cloudmasked.tif",
+        "post_ndwi_cloudmasked": "data/processed/pipeline_runs/narayani_2024_live/rasters/post_ndwi_cloudmasked.tif",
+        "ndwi_change": "data/processed/pipeline_runs/narayani_2024_live/rasters/ndwi_change.tif",
+        "final_flood_candidate_v3": "data/processed/pipeline_runs/narayani_2024_live/rasters/final_flood_candidate_v3.tif"
+      },
+      "vectors": {
+        "flood_polygons_geojson": "data/processed/pipeline_runs/narayani_2024_live/vectors/v3_flood_polygons.geojson"
+      }
+    },
+    "stage_5_historical_osm": {
+      "stage": "Historical OSM Snapshot Ingestion",
+      "status": "SUCCESS",
+      "duration_s": 66.183,
+      "snapshot_timestamp": "2024-08-13T00:00:00Z",
+      "provider": "Overpass Historical API ([date])",
+      "attribution": "© OpenStreetMap contributors, ODbL 1.0",
+      "files_used": {
+        "roads": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\roads.json",
+        "buildings": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\buildings.json",
+        "bridges": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\bridges.json",
+        "settlements": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\settlements.json",
+        "hospitals": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\hospitals.json"
+      },
+      "checksums": {
+        "roads_sha256": "a8af46e5347d954b942bc2b19a69c711b4a7f51f59603a57052bca256689a826",
+        "buildings_sha256": "74c321e7a1ff81e302e0958d96a104b394153db04e1b3c0c58d5c14377b03e1b",
+        "bridges_sha256": "c517524981a5df4ee9b0a29731ede4167fc519f29d7fb7dbe2202aff18f5fe73",
+        "settlements_sha256": "79f155229620f9f0456b58c78a2bcf8a0105a63d25eac2e26ad3e1da6cd5021f",
+        "hospitals_sha256": "57706db307d41ee944cc75a62063d403800e89c0f89e21506091bda09a974201"
+      },
+      "message": "Verified pre-event snapshot at 2024-08-13T00:00:00Z."
+    },
+    "stage_6_asset_connectivity": {
+      "stage": "Asset Exposure & Road Connectivity Modeling",
+      "status": "SUCCESS",
+      "duration_s": 66.183,
+      "potentially_affected_buildings": 0,
+      "potentially_affected_roads": 0,
+      "potentially_affected_road_length_km": 0.0,
+      "potentially_affected_bridges": 0,
+      "disrupted_road_segments": 0,
+      "pre_event_components": 35,
+      "post_event_components": 35,
+      "potentially_cut_off_settlements": 0,
+      "hospital_data_available": true,
+      "hospital_notice": "Historical hospital locations present and evaluated.",
+      "message": "Potentially affected: 0 bldgs, 0 roads, 0 bridges. 0 potentially cut-off settlements."
+    },
+    "stage_7_situation_evidence": {
+      "stage": "Situation Report & Evidence Grounding",
+      "status": "SUCCESS",
+      "duration_s": 0.002,
+      "files": {
+        "evidence_json": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\evidence\\evidence.json",
+        "situation_report_en": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\evidence\\situation_report_en.md",
+        "situation_report_ne": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\evidence\\situation_report_ne.md"
+      },
+      "claims_count": 13,
+      "message": "Grounded multilingual situation reports generated (13 claims linked)."
+    }
+  },
+  "metrics": {
+    "candidate_flood_pixels": 0,
+    "candidate_flood_clusters": 0,
+    "candidate_flood_area_ha": 0.0,
+    "potentially_affected_buildings": 0,
+    "total_mapped_buildings": 117129,
+    "potentially_affected_roads": 0,
+    "potentially_affected_road_length_km": 0.0,
+    "potentially_affected_bridges": 0,
+    "total_mapped_bridges": 313,
+    "disrupted_road_segments": 0,
+    "pre_event_components": 35,
+    "post_event_components": 35,
+    "settlements_analysed": 25,
+    "potentially_cut_off_settlements": 0,
+    "hospital_data_available": true
+  },
+  "limitations": [],
+  "attributions": {
+    "copernicus_sentinel": "Contains modified Copernicus Sentinel data (2024/2026), processed under ESA Copernicus Open Access.",
+    "copernicus_dem": "Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018.",
+    "openstreetmap": "© OpenStreetMap contributors, ODbL 1.0 license.",
+    "validation_isolation": "Copernicus EMSR927 / UNOSAT products strictly isolated from analytical pipeline inputs."
+  }
+}

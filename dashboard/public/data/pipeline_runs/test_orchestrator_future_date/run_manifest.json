@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "run_id": "test_orchestrator_future_date",
+  "title": "Run test_orchestrator_future_date (2028-01-01)",
+  "overall_status": "UNAVAILABLE",
+  "overall_message": "Required inputs unavailable for: stage_1_input_validation",
+  "provenance_mode": "UNKNOWN",
+  "timestamp_utc": "2026-10-09T09:33:05.944706+00:00",
+  "inputs": {
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2028-01-01",
+    "snapshot_date": null
+  },
+  "stages": {
+    "stage_1_input_validation": {
+      "stage": "Input Validation",
+      "status": "UNAVAILABLE",
+      "duration_s": 0.001,
+      "message": "Flood date 2028-01-01 is in the future. Cannot acquire future satellite observations."
+    }
+  },
+  "metrics": {},
+  "limitations": [],
+  "attributions": {
+    "copernicus_sentinel": "Contains modified Copernicus Sentinel data (2024/2026), processed under ESA Copernicus Open Access.",
+    "copernicus_dem": "Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018.",
+    "openstreetmap": "© OpenStreetMap contributors, ODbL 1.0 license.",
+    "validation_isolation": "Copernicus EMSR927 / UNOSAT products strictly isolated from analytical pipeline inputs."
+  }
+}

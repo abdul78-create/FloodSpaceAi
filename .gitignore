@@ -1,0 +1,32 @@
+# Python virtual environments & bytecode
+.venv/
+.venv*/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Node.js & Next.js dashboard build artifacts
+dashboard/node_modules/
+dashboard/.next/
+dashboard/out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Demo scratch & intermediate render files
+demo/build/
+demo/keyframes/
+demo/final_frames/
+
+# Ephemeral pipeline test runs (keep verified benchmark fixtures)
+data/processed/pipeline_runs/run_*
+data/processed/pipeline_runs/test_*
+
+# Operating System & IDE clutter
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/

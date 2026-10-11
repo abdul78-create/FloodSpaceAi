@@ -1,0 +1,239 @@
+[
+  {
+    "run_id": "test_p5_1_manifest_check",
+    "title": "Run test_p5_1_manifest_check (2026-08-28)",
+    "status": "PARTIAL_RUN_OPTICAL_UNCONFIRMED",
+    "message": "SAR analysis completed; optical verification limited by cloud cover.",
+    "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE",
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2026-08-28",
+    "timestamp_utc": "2026-10-09T17:19:02.491184+00:00",
+    "metrics": {
+      "candidate_flood_pixels": 1286,
+      "candidate_flood_clusters": 27,
+      "candidate_flood_area_ha": 35.26,
+      "potentially_affected_buildings": 195,
+      "total_mapped_buildings": 132765,
+      "potentially_affected_roads": 115,
+      "potentially_affected_road_length_km": 59.26,
+      "potentially_affected_bridges": 13,
+      "total_mapped_bridges": 187,
+      "disrupted_road_segments": 3748,
+      "pre_event_components": 181,
+      "post_event_components": 252,
+      "settlements_analysed": 589,
+      "potentially_cut_off_settlements": 18,
+      "hospital_data_available": false
+    },
+    "manifest_relative_path": "/data/pipeline_runs/test_p5_1_manifest_check/run_manifest.json"
+  },
+  {
+    "run_id": "narayani_2024_live",
+    "title": "Run narayani_2024_live (2024-08-20)",
+    "status": "PARTIAL_RUN_OPTICAL_UNCONFIRMED",
+    "message": "SAR analysis completed; optical verification limited by cloud cover.",
+    "provenance_mode": "LIVE_AUTHORITATIVE_SATELLITE_RETRIEVAL",
+    "bbox": [
+      84.3,
+      27.55,
+      84.5,
+      27.72
+    ],
+    "flood_date": "2024-08-20",
+    "timestamp_utc": "2026-10-09T15:34:31.930558+00:00",
+    "metrics": {
+      "candidate_flood_pixels": 0,
+      "candidate_flood_clusters": 0,
+      "candidate_flood_area_ha": 0.0,
+      "potentially_affected_buildings": 0,
+      "total_mapped_buildings": 117129,
+      "potentially_affected_roads": 0,
+      "potentially_affected_road_length_km": 0.0,
+      "potentially_affected_bridges": 0,
+      "total_mapped_bridges": 313,
+      "disrupted_road_segments": 0,
+      "pre_event_components": 35,
+      "post_event_components": 35,
+      "settlements_analysed": 25,
+      "potentially_cut_off_settlements": 0,
+      "hospital_data_available": true
+    },
+    "manifest_relative_path": "/data/pipeline_runs/narayani_2024_live/run_manifest.json"
+  },
+  {
+    "run_id": "unseen_aoi_pokhara",
+    "title": "Run unseen_aoi_pokhara (2026-09-15)",
+    "status": "PARTIAL_RUN_IMAGERY_UNAVAILABLE",
+    "message": "Satellite imagery not yet acquired/cached for requested AOI/date.",
+    "provenance_mode": "UNKNOWN",
+    "bbox": [
+      83.95,
+      28.18,
+      84.05,
+      28.28
+    ],
+    "flood_date": "2026-09-15",
+    "timestamp_utc": "2026-10-09T09:43:09.615490+00:00",
+    "metrics": {},
+    "manifest_relative_path": "/data/pipeline_runs/unseen_aoi_pokhara/run_manifest.json"
+  },
+  {
+    "run_id": "trishuli_benchmark_verified",
+    "title": "Run trishuli_benchmark_verified (2026-08-28)",
+    "status": "PARTIAL_RUN_OPTICAL_UNCONFIRMED",
+    "message": "SAR analysis completed; optical verification limited by cloud cover.",
+    "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE",
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2026-08-28",
+    "timestamp_utc": "2026-10-09T15:34:09.353646+00:00",
+    "metrics": {
+      "candidate_flood_pixels": 1286,
+      "candidate_flood_clusters": 27,
+      "candidate_flood_area_ha": 35.03,
+      "potentially_affected_buildings": 195,
+      "total_mapped_buildings": 132765,
+      "potentially_affected_roads": 115,
+      "potentially_affected_road_length_km": 59.26,
+      "potentially_affected_bridges": 13,
+      "total_mapped_bridges": 187,
+      "disrupted_road_segments": 3748,
+      "pre_event_components": 181,
+      "post_event_components": 252,
+      "settlements_analysed": 589,
+      "potentially_cut_off_settlements": 18,
+      "hospital_data_available": false
+    },
+    "manifest_relative_path": "/data/pipeline_runs/trishuli_benchmark_verified/run_manifest.json"
+  },
+  {
+    "run_id": "test_p5_manifest_sync",
+    "title": "Run test_p5_manifest_sync (2026-08-28)",
+    "status": "PARTIAL_RUN_OPTICAL_UNCONFIRMED",
+    "message": "SAR analysis completed; optical verification limited by cloud cover.",
+    "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE",
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2026-08-28",
+    "timestamp_utc": "2026-10-09T17:21:41.297040+00:00",
+    "metrics": {
+      "candidate_flood_pixels": 1286,
+      "candidate_flood_clusters": 27,
+      "candidate_flood_area_ha": 35.26,
+      "potentially_affected_buildings": 195,
+      "total_mapped_buildings": 132765,
+      "potentially_affected_roads": 115,
+      "potentially_affected_road_length_km": 59.26,
+      "potentially_affected_bridges": 13,
+      "total_mapped_bridges": 187,
+      "disrupted_road_segments": 3748,
+      "pre_event_components": 181,
+      "post_event_components": 252,
+      "settlements_analysed": 589,
+      "potentially_cut_off_settlements": 18,
+      "hospital_data_available": false
+    },
+    "manifest_relative_path": "/data/pipeline_runs/test_p5_manifest_sync/run_manifest.json"
+  },
+  {
+    "run_id": "test_orchestrator_post_event_osm",
+    "title": "Run test_orchestrator_post_event_osm (2026-08-28)",
+    "status": "FAILED",
+    "message": "Pipeline execution failed at: stage_5_historical_osm, stage_6_asset_connectivity",
+    "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE",
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2026-08-28",
+    "timestamp_utc": "2026-10-09T09:33:25.635094+00:00",
+    "metrics": {
+      "candidate_flood_pixels": 1286,
+      "candidate_flood_clusters": 27,
+      "candidate_flood_area_ha": 35.03
+    },
+    "manifest_relative_path": "/data/pipeline_runs/test_orchestrator_post_event_osm/run_manifest.json"
+  },
+  {
+    "run_id": "test_orchestrator_future_date",
+    "title": "Run test_orchestrator_future_date (2028-01-01)",
+    "status": "UNAVAILABLE",
+    "message": "Required inputs unavailable for: stage_1_input_validation",
+    "provenance_mode": "UNKNOWN",
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2028-01-01",
+    "timestamp_utc": "2026-10-09T09:33:05.944706+00:00",
+    "metrics": {},
+    "manifest_relative_path": "/data/pipeline_runs/test_orchestrator_future_date/run_manifest.json"
+  },
+  {
+    "run_id": "test_orchestrator_invalid_bbox",
+    "title": "Run test_orchestrator_invalid_bbox (2026-08-28)",
+    "status": "FAILED",
+    "message": "Pipeline execution failed at: stage_1_input_validation",
+    "provenance_mode": "UNKNOWN",
+    "bbox": [
+      85.25,
+      28.05,
+      84.9,
+      27.75
+    ],
+    "flood_date": "2026-08-28",
+    "timestamp_utc": "2026-10-09T09:33:00.139538+00:00",
+    "metrics": {},
+    "manifest_relative_path": "/data/pipeline_runs/test_orchestrator_invalid_bbox/run_manifest.json"
+  },
+  {
+    "run_id": "test_orchestrator_trishuli",
+    "title": "Run test_orchestrator_trishuli (2026-08-28)",
+    "status": "PARTIAL_RUN_OPTICAL_UNCONFIRMED",
+    "message": "SAR analysis completed; optical verification limited by cloud cover.",
+    "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE",
+    "bbox": [
+      84.9,
+      27.75,
+      85.25,
+      28.05
+    ],
+    "flood_date": "2026-08-28",
+    "timestamp_utc": "2026-10-09T09:32:44.766130+00:00",
+    "metrics": {
+      "candidate_flood_pixels": 1286,
+      "candidate_flood_clusters": 27,
+      "candidate_flood_area_ha": 35.03,
+      "potentially_affected_buildings": 195,
+      "total_mapped_buildings": 132765,
+      "potentially_affected_roads": 115,
+      "potentially_affected_road_length_km": 59.26,
+      "potentially_affected_bridges": 13,
+      "total_mapped_bridges": 187,
+      "disrupted_road_segments": 3748,
+      "pre_event_components": 181,
+      "post_event_components": 252,
+      "settlements_analysed": 589,
+      "potentially_cut_off_settlements": 18,
+      "hospital_data_available": false
+    },
+    "manifest_relative_path": "/data/pipeline_runs/test_orchestrator_trishuli/run_manifest.json"
+  }
+]

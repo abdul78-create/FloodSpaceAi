@@ -1,0 +1,117 @@
+{
+  "status": "SUCCESS_COMPLETED",
+  "run_id": "narayani_2024_live",
+  "timestamp_utc": "2026-10-09T10:40:01.843026+00:00",
+  "execution_duration_seconds": 65.79,
+  "inputs": {
+    "bbox": [
+      84.3,
+      27.55,
+      84.5,
+      27.72
+    ],
+    "flood_date": "2024-08-20",
+    "flood_raster": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\rasters\\final_flood_candidate_v3.tif",
+    "flood_polygons": null
+  },
+  "flood_raster_statistics": {
+    "total_pixels": 4194304,
+    "valid_pixels": 4194304,
+    "nodata_pixels": 0,
+    "flood_pixels": 0,
+    "polygon_count": 0
+  },
+  "osm_provenance": {
+    "provenance_mode": "HISTORICAL_PRE_EVENT_SNAPSHOT",
+    "snapshot_timestamp": "2024-08-13T00:00:00Z",
+    "source_info": {
+      "provider": "Overpass Historical API ([date])",
+      "snapshot_timestamp": "2024-08-13T00:00:00Z",
+      "query": "Pre-event snapshot query for bbox=[84.3, 27.55, 84.5, 27.72] at timestamp 2024-08-13T00:00:00Z",
+      "attribution": "© OpenStreetMap contributors, ODbL 1.0",
+      "notice": "Selected strictly prior to flood event date; post-event modifications excluded.",
+      "status": "SUCCESS_DOWNLOADED",
+      "mirror_endpoint": "https://overpass-api.de/api/interpreter",
+      "requested_snapshot_utc": "2024-08-13T00:00:00Z",
+      "retrieval_timestamp_utc": "2026-10-09T10:38:56.164799+00:00",
+      "bbox_wsen": [
+        84.3,
+        27.55,
+        84.5,
+        27.72
+      ],
+      "query_bounding_box": "27.5500,84.3000,27.7200,84.5000",
+      "counts": {
+        "total_elements": 124072,
+        "roads": 6872,
+        "buildings": 117129,
+        "bridges": 313,
+        "settlements": 25,
+        "hospitals": 52
+      },
+      "files": {
+        "roads": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\roads.json",
+        "buildings": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\buildings.json",
+        "bridges": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\bridges.json",
+        "settlements": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\settlements.json",
+        "hospitals": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\hospitals.json"
+      },
+      "checksums": {
+        "roads": "a8af46e5347d954b942bc2b19a69c711b4a7f51f59603a57052bca256689a826",
+        "buildings": "74c321e7a1ff81e302e0958d96a104b394153db04e1b3c0c58d5c14377b03e1b",
+        "bridges": "c517524981a5df4ee9b0a29731ede4167fc519f29d7fb7dbe2202aff18f5fe73",
+        "settlements": "79f155229620f9f0456b58c78a2bcf8a0105a63d25eac2e26ad3e1da6cd5021f",
+        "hospitals": "57706db307d41ee944cc75a62063d403800e89c0f89e21506091bda09a974201"
+      },
+      "scientific_notice": "Historical snapshot strictly precedes flood date 2024-08-20 (T_osm=2024-08-13T00:00:00Z < T_flood=2024-08-20). Post-event edits and disaster-response tags are strictly excluded."
+    },
+    "files_used": {
+      "roads": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\roads.json",
+      "buildings": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\buildings.json",
+      "bridges": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\bridges.json",
+      "settlements": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\settlements.json",
+      "hospitals": "C:\\Users\\Abdul\\Desktop\\FloodSpaceAI\\data\\processed\\pipeline_runs\\narayani_2024_live\\osm\\hospitals.json"
+    },
+    "checksums": {
+      "roads_sha256": "a8af46e5347d954b942bc2b19a69c711b4a7f51f59603a57052bca256689a826",
+      "buildings_sha256": "74c321e7a1ff81e302e0958d96a104b394153db04e1b3c0c58d5c14377b03e1b",
+      "bridges_sha256": "c517524981a5df4ee9b0a29731ede4167fc519f29d7fb7dbe2202aff18f5fe73",
+      "settlements_sha256": "79f155229620f9f0456b58c78a2bcf8a0105a63d25eac2e26ad3e1da6cd5021f",
+      "hospitals_sha256": "57706db307d41ee944cc75a62063d403800e89c0f89e21506091bda09a974201"
+    }
+  },
+  "asset_summary": {
+    "total_mapped_buildings": 117129,
+    "potentially_affected_buildings": 0,
+    "total_mapped_roads": 6872,
+    "total_mapped_road_length_km": 1364.4,
+    "potentially_affected_roads": 0,
+    "potentially_affected_road_length_km": 0.0,
+    "total_mapped_bridges": 313,
+    "potentially_affected_bridges": 0,
+    "road_buffer_m": 20.0,
+    "bridge_buffer_m": 30.0,
+    "interpretation": "Modeled estimates based on candidate flood extents; does not confirm physical structural damage."
+  },
+  "connectivity_summary": {
+    "analysis_version": "V4B",
+    "vehicle_accessible_ways": 6826,
+    "disrupted_road_segments": 0,
+    "pre_event_components": 35,
+    "post_event_components": 35,
+    "settlements_available": 25,
+    "settlements_analysed": 25,
+    "town_city_hubs": 6,
+    "potentially_cut_off_settlements": 0,
+    "hospital_data_available": true,
+    "hospital_notice": "Historical hospital locations present and evaluated.",
+    "match_tolerance_m": 5.0,
+    "settlement_snap_distance_m": 500.0,
+    "interpretation": "Modeled road-network connectivity result. Potentially cut-off settlements are settlements connected to their nearest town/city before removal of potentially affected road segments but disconnected afterward. This is a network modeling scenario, not confirmed real-world isolation."
+  },
+  "scientific_disclaimers": [
+    "Asset counts represent exposure estimates based on candidate flood extents; they do not confirm physical structural damage.",
+    "Road disruption is modeled by intersecting candidate flood extents with a 20m road buffer and 5m matching tolerance.",
+    "Settlement disconnection represents topological network fragmentation relative to nearest town/city hubs, not ground-verified physical isolation."
+  ]
+}

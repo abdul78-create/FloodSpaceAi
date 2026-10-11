@@ -1,0 +1,85 @@
+@import "maplibre-gl/dist/maplibre-gl.css";
+@import "./../styles/tokens.css";
+
+/* Reset & Hydrology Field Sheet Base */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: var(--fog);
+  color: var(--ink);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+/* Hydrology Grid & Contour Background Pattern */
+.bg-topo-sheet {
+  background-color: var(--fog);
+  background-image: 
+    linear-gradient(to right, rgba(138, 151, 158, 0.12) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(138, 151, 158, 0.12) 1px, transparent 1px);
+  background-size: 32px 32px;
+}
+
+/* Field Survey Panels */
+.survey-panel {
+  background: var(--paper);
+  border: var(--border-default);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-panel);
+}
+
+.survey-panel-header {
+  padding: 10px 14px;
+  background: var(--paper-elevated);
+  border-bottom: var(--border-default);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Custom Scrollbars in Slate */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--fog);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--slate);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ink-secondary);
+}
+
+/* MapLibre Canvas Container Fixes */
+.maplibre-gl-map {
+  font-family: var(--font-sans);
+}
+
+.maplibregl-popup-content {
+  background: var(--paper) !important;
+  color: var(--ink) !important;
+  border: 1px solid var(--slate) !important;
+  border-radius: 4px !important;
+  box-shadow: var(--shadow-dropdown) !important;
+  padding: 12px 14px !important;
+  font-family: var(--font-sans) !important;
+}
+
+.maplibregl-popup-tip {
+  border-top-color: var(--slate) !important;
+}
+
+/* Text selections in River tint */
+::selection {
+  background: var(--river-light);
+  color: var(--river-dark);
+}

@@ -1,0 +1,218 @@
+{
+  "project": "FloodSpaceAI",
+  "track": "Track B — Mapping Flood Damage from Space",
+  "run_id": "test_p5_1_manifest_check",
+  "case_study": {
+    "event": "Flood Event 2026-08-28",
+    "analysis_area": "AOI Bbox [84.9, 27.75, 85.25, 28.05]",
+    "osm_snapshot": "2026-07-27T00:00:00Z",
+    "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE"
+  },
+  "flood_mapping": {
+    "method": "Multi-temporal Sentinel-1 SAR backscatter change + Sentinel-2 optical spectral filtering",
+    "candidate_version": "V3",
+    "flood_pixels": 1286,
+    "flood_clusters": 27,
+    "flood_polygons": 27,
+    "candidate_area_ha": 35.26
+  },
+  "potentially_affected_assets": {
+    "buildings": 195,
+    "roads": 115,
+    "road_length_km": 59.26,
+    "bridges": 13
+  },
+  "road_connectivity": {
+    "vehicle_accessible_ways": 0,
+    "disrupted_road_segments": 3748,
+    "pre_event_components": 181,
+    "post_event_components": 252,
+    "settlements_analysed": 589,
+    "potentially_cut_off_settlements": 18,
+    "hospital_data_available": false
+  },
+  "grounded_claims": [
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-FLOOD-PIXELS",
+      "claim_text": "Candidate flood extent contains 1,286 pixels.",
+      "value": 1286,
+      "unit": "pixels",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "rasters/final_flood_candidate_v3.tif",
+      "source_field": "candidate_flood_pixels",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Copernicus Sentinel-1 C-band SAR (IW VV+VH) + Sentinel-2 MSI",
+      "confidence_or_uncertainty": "Clear-sky multi-sensor confirmation",
+      "interpretation_guidance": "Modelled candidate surface water extent meeting specular drop / spectral criteria. Zero candidates does NOT prove no flooding occurred; indicates no pixels exceeded detection thresholds."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-FLOOD-AREA",
+      "claim_text": "Candidate inundation area covers 35.26 hectares.",
+      "value": 35.26,
+      "unit": "hectares",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "rasters/final_flood_candidate_v3.tif",
+      "confidence_or_uncertainty": "Calculated from resampled bounding box grid transform (approx. 16.8m x 16.2m = 272.4 m² per pixel at 27.9°N latitude, yielding 35.03 ha over 1,286 pixels; nominal 10m grid would be 12.86 ha)",
+      "interpretation_guidance": "Represents spatial extent of potential floodwater accumulation; does not measure flood depth or water volume."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-FLOOD-CLUSTERS",
+      "claim_text": "Candidate flood extent is grouped into 27 polygon clusters.",
+      "value": 27,
+      "unit": "clusters",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "vectors/flood_polygons_v3.geojson",
+      "source_field": "features.length",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Polygonized 8-connected candidate raster components (>=2 pixels)",
+      "confidence_or_uncertainty": "Isolated single-pixel noise filtered during raster morphological cleanup",
+      "interpretation_guidance": "Indicates discrete continuous bodies of potential standing water."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-AFFECTED-BUILDINGS",
+      "claim_text": "195 buildings are potentially affected by candidate inundation.",
+      "value": 195,
+      "unit": "buildings",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "assets/buildings_affected_v3.geojson",
+      "source_field": "features.length",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Pre-event OpenStreetMap building footprints (2026-07-27T00:00:00Z) intersected with flood candidate polygons",
+      "confidence_or_uncertainty": "Modelled 2D spatial overlay only; unconfirmed structural damage or water ingress",
+      "interpretation_guidance": "POTENTIAL EXPOSURE ONLY. Does NOT represent confirmed damaged, collapsed, or destroyed buildings. Field structural inspection required."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-AFFECTED-ROADS",
+      "claim_text": "115 road features are potentially affected.",
+      "value": 115,
+      "unit": "road_features",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "assets/roads_affected_v3.geojson",
+      "source_field": "features.length",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Pre-event OpenStreetMap highway ways (2026-07-27T00:00:00Z) intersected with flood candidate polygons",
+      "confidence_or_uncertainty": "Spatial intersection of road centerline geometries with 2D inundation candidate extent",
+      "interpretation_guidance": "POTENTIAL EXPOSURE ONLY. Indicates road sections passing through potential water; physical passability requires road patrol verification."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-AFFECTED-ROAD-LENGTH",
+      "claim_text": "59.26 km of road network is potentially affected.",
+      "value": 59.26,
+      "unit": "kilometers",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "assets/roads_affected_v3.geojson",
+      "source_field": "total_length_km",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Pre-event OpenStreetMap highway ways",
+      "confidence_or_uncertainty": "Sum of lengths of intersected road line segments",
+      "interpretation_guidance": "Cumulative exposed highway length, not length of destroyed pavement."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-AFFECTED-BRIDGES",
+      "claim_text": "13 bridges are potentially affected.",
+      "value": 13,
+      "unit": "bridges",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "assets/bridges_affected_v3.geojson",
+      "source_field": "features.length",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Pre-event OpenStreetMap bridge tags (2026-07-27T00:00:00Z)",
+      "confidence_or_uncertainty": "2D overlay does not model bridge deck vertical clearance above river stage",
+      "interpretation_guidance": "POTENTIAL EXPOSURE ONLY. High clearance bridges may remain open despite water below deck; structural engineering inspection required."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-DISRUPTED-ROAD-SEGMENTS",
+      "claim_text": "3,748 road segments were disrupted in the modeled graph.",
+      "value": 3748,
+      "unit": "road_segments",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "connectivity/settlement_connectivity_v4.json",
+      "source_field": "disrupted_road_segments",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Network graph topology generated from vehicle-accessible OSM highways",
+      "confidence_or_uncertainty": "Subdivided network graph edges removed due to candidate water intersection",
+      "interpretation_guidance": "Modelled edges severed in routing graph; emergency 4x4 or clearance operations may restore access."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-PRE-EVENT-COMPONENTS",
+      "claim_text": "Pre-event baseline road network had 181 connected components.",
+      "value": 181,
+      "unit": "connected_components",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "connectivity/settlement_connectivity_v4.json",
+      "source_field": "pre_event_components",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Connected components analysis of pre-event OSM road graph",
+      "confidence_or_uncertainty": "Graph topological analysis based on connected road subgraphs",
+      "interpretation_guidance": "Represents baseline network fragmentation prior to flood disruption."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-POST-EVENT-COMPONENTS",
+      "claim_text": "Post-disruption road network fractured into 252 connected components.",
+      "value": 252,
+      "unit": "connected_components",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "connectivity/settlement_connectivity_v4.json",
+      "source_field": "post_event_components",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Connected components analysis of post-disruption OSM road graph",
+      "confidence_or_uncertainty": "Difference indicates network fragmentation into isolated road pockets",
+      "interpretation_guidance": "Increase in components indicates network fragmentation into disconnected clusters."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-SETTLEMENTS-ANALYSED",
+      "claim_text": "589 settlements were evaluated for route connectivity.",
+      "value": 589,
+      "unit": "settlements",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "connectivity/settlement_connectivity_v4.json",
+      "source_field": "settlements_analysed",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Pre-event OpenStreetMap place nodes (towns, villages, hamlets)",
+      "confidence_or_uncertainty": "Settlements snapped to nearest road graph node within 2,500m tolerance",
+      "interpretation_guidance": "Total settlements within AOI successfully mapped to the vehicle road graph."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-CUTOFF-SETTLEMENTS",
+      "claim_text": "18 settlements were modeled as potentially cut off from town/city hubs.",
+      "value": 18,
+      "unit": "settlements",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "connectivity/settlements_cutoff_v4.geojson",
+      "source_field": "features.length",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Topological Dijkstra pathfinding from settlement nodes to town/city hubs",
+      "confidence_or_uncertainty": "Modelled vehicular road disconnection only; unconfirmed real-world physical isolation",
+      "interpretation_guidance": "MODELED TOPOLOGICAL DISRUPTION ONLY. Settlement nodes that lost all motorable road paths to municipal town/city hubs in the network graph. Does NOT confirm real-world physical isolation; pedestrian tracks, air access, or river crossings may be viable."
+    },
+    {
+      "claim_id": "CLAIM-test_p5_1_manifest_check-HOSPITAL-AVAILABILITY",
+      "claim_text": "Pre-event hospital data availability: False.",
+      "value": false,
+      "unit": "availability_status",
+      "geographic_scope": "Bbox [84.9, 27.75, 85.25, 28.05]",
+      "source_file": "connectivity/settlement_connectivity_v4.json",
+      "source_field": "hospital_data_available",
+      "run_id": "test_p5_1_manifest_check",
+      "data_provenance": "Pre-event OpenStreetMap healthcare/hospital tags (2026-07-27T00:00:00Z)",
+      "confidence_or_uncertainty": "Authoritative historical presence in OpenStreetMap",
+      "interpretation_guidance": "When False, hospital connectivity cannot be evaluated and municipal town/city hubs were utilized as fallback critical destinations."
+    }
+  ],
+  "limitations": [
+    "The flood output is a modelled potential inundation candidate, not confirmed physical damage.",
+    "Potentially affected assets are based on candidate spatial overlap; not confirmed structural destruction.",
+    "Potentially cut-off settlements represent modelled topological network disconnections, not confirmed real-world isolation.",
+    "Validation layers (EMSR927 / UNOSAT) are strictly checking-only and excluded from analytical pipelines.",
+    "This system is an educational and research prototype for the Multimodal AI Hackathon 2026.",
+    "Historical hospital data was unavailable in the pre-event snapshot; municipal town/city hubs were utilized for modeled road connectivity."
+  ],
+  "data_provenance": {
+    "sentinel_sar": "Copernicus Sentinel-1 (C-band SAR, IW mode, VV+VH)",
+    "sentinel_optical": "Copernicus Sentinel-2 MSI (Level-2A BOA, SCL masked)",
+    "dem": "Copernicus DEM 30m GLO-30",
+    "osm": "© OpenStreetMap contributors, ODbL 1.0",
+    "osm_snapshot": "2026-07-27T00:00:00Z",
+    "provenance_mode": "VERIFIED_TRISHULI_BENCHMARK_CACHE"
+  }
+}

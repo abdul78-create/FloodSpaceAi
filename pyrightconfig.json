@@ -1,0 +1,9 @@
+{
+  "extraPaths": [
+    "./scripts",
+    "C:/Program Files/QGIS 3.44.14/apps/Python312/Lib/site-packages",
+    "C:/Program Files/QGIS 3.44.14/apps/qgis-ltr/python",
+    "C:/Users/Abdul/AppData/Roaming/Python/Python312/site-packages"
+  ],
+  "reportMissingTypeStubs": false
+}

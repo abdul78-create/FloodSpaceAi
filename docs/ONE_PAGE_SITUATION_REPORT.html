@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FloodSpaceAI — Executive Disaster Situation Report</title>
+  <style>
+    @page {
+      size: A4 portrait;
+      margin: 8mm 10mm;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      font-size: 7.2pt;
+      line-height: 1.25;
+      color: #111;
+      margin: 0;
+      padding: 0;
+    }
+    .title {
+      font-size: 13pt;
+      text-align: center;
+      margin: 0 0 4px 0;
+      color: #0b2538;
+      font-weight: 700;
+      letter-spacing: -0.3px;
+    }
+    .section-title {
+      font-size: 8.5pt;
+      font-weight: 700;
+      color: #0e3854;
+      border-bottom: 1px solid #0e3854;
+      margin: 4px 0 2px 0;
+      padding-bottom: 1px;
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+    p {
+      margin: 1.5px 0;
+    }
+    hr {
+      border: 0;
+      border-top: 0.5px solid #ccc;
+      margin: 3px 0;
+    }
+    .table-wrapper {
+      margin: 2px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 6.8pt;
+      line-height: 1.15;
+    }
+    th, td {
+      border: 0.5px solid #bccad6;
+      padding: 1.5px 4px;
+      text-align: left;
+    }
+    th {
+      background-color: #e9f0f6;
+      font-weight: 600;
+      color: #0a2540;
+    }
+    .callout {
+      background: #fdf5e6;
+      border-left: 3px solid #d97706;
+      margin: 2px 0;
+      padding: 2px 6px;
+      font-size: 6.8pt;
+      color: #78350f;
+    }
+    .numbered-item {
+      margin: 1px 0;
+      font-size: 6.5pt;
+      line-height: 1.2;
+    }
+    code {
+      font-family: Consolas, monospace;
+      background: #eef2f6;
+      padding: 0 2px;
+      font-size: 6.6pt;
+    }
+    @media print {
+      body {
+        margin: 0;
+        padding: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+<h1 class='title'>FloodSpaceAI — Executive Disaster Situation Report</h1>
+<p><strong>Incident:</strong> Trishuli River Basin Flash Flood / GLOF  </p>
+<p><strong>Target Flood Date:</strong> August 28, 2026  </p>
+<p><strong>Analysis Area (AOI):</strong> Trishuli River Corridor, Nepal <code>[84.90°E, 27.75°N to 85.25°E, 28.05°N]</code>  </p>
+<p><strong>Operational Status:</strong> <code>PARTIAL_RUN_OPTICAL_UNCONFIRMED</code> (All-Weather SAR Verified; Optical Cloud-Obscured)  </p>
+<p><strong>Historical Infrastructure Baseline:</strong> OpenStreetMap Snapshot <code>2026-07-27T00:00:00Z</code> (Strictly Pre-Event)  </p>
+<hr/>
+<h2 class='section-title'>1. Operational Overview & Key Metrics</h2>
+<p>FloodSpaceAI executed end-to-end multi-sensor satellite change detection and road network connectivity modeling to evaluate potential inundation and accessibility disruption across the Trishuli valley.</p>
+<div class='table-wrapper'><table>
+<tr><th>Analytical Metric</th><th>Modeled Value</th><th>Analytical Unit</th><th>Source Artifact</th><th>Scientific Interpretation Notice</th></tr>
+<tr><td>**Candidate Inundation Extent**</td><td>**1,286**</td><td>pixels</td><td>`rasters/final_flood_candidate_v3.tif`</td><td>SAR backscatter drop < -1.5 dB; 16.8m x 16.2m resampled grid.</td></tr>
+<tr><td>**Candidate Surface Water Area**</td><td>**35.03**</td><td>hectares</td><td>`rasters/final_flood_candidate_v3.tif`</td><td>2D water pooling extent (24.16 ha in EMSR927 overlap); depth not modeled.</td></tr>
+<tr><td>**Discrete Water Clusters**</td><td>**27 / 84**</td><td>polygons</td><td>`vectors/flood_polygons_v3.geojson`</td><td>Contiguous standing water bodies (>=2 connected pixels).</td></tr>
+<tr><td>**Potentially Affected Buildings**</td><td>**195**</td><td>structures</td><td>`assets/buildings_affected_v3.geojson`</td><td>**Potential exposure only; unconfirmed structural damage.**</td></tr>
+<tr><td>**Potentially Affected Roads**</td><td>**115**</td><td>features</td><td>`assets/roads_affected_v3.geojson`</td><td>Centerlines intersecting candidate water polygons.</td></tr>
+<tr><td>**Exposed Highway Length**</td><td>**59.26**</td><td>kilometers</td><td>`assets/roads_affected_v3.geojson`</td><td>Cumulative exposed highway length; not destroyed pavement.</td></tr>
+<tr><td>**Potentially Affected Bridges**</td><td>**13**</td><td>bridges</td><td>`assets/bridges_affected_v3.geojson`</td><td>2D overlay; vertical bridge deck clearance not modeled.</td></tr>
+<tr><td>**Disrupted Network Edges**</td><td>**3,748**</td><td>segments</td><td>`connectivity/settlement_connectivity_v4.json`</td><td>Routable road edges severed in topological routing graph.</td></tr>
+<tr><td>**Potentially Cut-Off Settlements**</td><td>**18**</td><td>settlements</td><td>`connectivity/settlements_cutoff_v4.geojson`</td><td>**Modelled road network disconnection; not physical isolation.**</td></tr>
+</table></div>
+<hr/>
+<h2 class='section-title'>2. Priority Settlements with Modeled Vehicular Access Loss</h2>
+<p>Topological Dijkstra shortest-path pathfinding from 589 settlements to municipal town/city hubs (Bidur, Galchhi, Belkotgadhi) identified <strong>18 settlements</strong> that lost all vehicular access routes:</p>
+<div class='table-wrapper'><table>
+<tr><th>Settlement Name</th><th>OSM Classification</th><th>Nearest Municipal Hub</th><th>Pre-Flood Status</th><th>Modeled Post-Flood Access</th></tr>
+<tr><td>**Betrawati (बेत्रावती)**</td><td>Hamlet</td><td>Bidur (बिदुर)</td><td>Connected</td><td>**Disconnected (Bridge/Highway Cut)**</td></tr>
+<tr><td>**Bhaise (भैंसे)**</td><td>Hamlet</td><td>Bidur (बिदुर)</td><td>Connected</td><td>**Disconnected (Riverbank Overwash)**</td></tr>
+<tr><td>**Simle (सिम्ले)**</td><td>Hamlet</td><td>Bidur (बिदुर)</td><td>Connected</td><td>**Disconnected (Highway Segment Severed)**</td></tr>
+<tr><td>**Devighat (देवीघाट)**</td><td>Hamlet</td><td>Belkotgadhi (बेलकोटगढी)</td><td>Connected</td><td>**Disconnected (Bridge Approach Cut)**</td></tr>
+<tr><td>**Dhaibung (धइबुङ)**</td><td>Hamlet</td><td>Bidur (बिदुर)</td><td>Connected</td><td>**Disconnected (Corridor Inundation)**</td></tr>
+<tr><td>**Salim Bhitta (सालिम भित्ता)**</td><td>Hamlet</td><td>Bidur (बिदुर)</td><td>Connected</td><td>**Disconnected (Valley Floor Submergence)**</td></tr>
+<tr><td>**Dhungye (ढुङ्गे)**</td><td>Hamlet</td><td>Bidur (बिदुर)</td><td>Connected</td><td>**Disconnected (Access Road Blocked)**</td></tr>
+<tr><td>**Uttargaya (उत्तरगया)**</td><td>Village</td><td>Bidur (बिदुर)</td><td>Connected</td><td>**Disconnected (Primary Feeder Severed)**</td></tr>
+<tr><td>**Kalika (कालिका)**</td><td>Village</td><td>Bidur (बिदुर)</td><td>Connected</td><td>**Disconnected (Route Impassable)**</td></tr>
+</table></div>
+<blockquote class='callout'><strong>Responder Guidance:</strong> Modelled cut-offs reflect vehicular highway disruption. Emergency teams should prioritize foot patrols, unmapped pack trails, boat crossings, or helicopter reconnaissance for these locations.</blockquote>
+<hr/>
+<h2 class='section-title'>3. Mandatory Scientific Limitations & Attributions</h2>
+<div class='numbered-item'><strong>Exposure vs. Confirmed Damage:</strong> All figures represent modeled potential inundation and spatial intersection with OpenStreetMap infrastructure footprints. They <strong>do not confirm physical destruction, structural collapse, or water ingress</strong>. In-situ engineering inspection is required before declaring structural losses.</div>
+<div class='numbered-item'><strong>Topological Disruption vs. Physical Isolation:</strong> Cut-off settlements represent vehicular graph disconnects. Footpaths, mule trails, river ferries, or aerial access routes may remain open.</div>
+<div class='numbered-item'><strong>Sensor Limitations & Cloud Cover:</strong> Post-event Sentinel-2 optical imagery had 75.9% mean cloud obscuration. Inundation is derived primarily from all-weather Sentinel-1 C-band synthetic aperture radar and remains optical-unconfirmed.</div>
+<div class='numbered-item'><strong>Independent Validation Isolation:</strong> Copernicus Emergency Management Service EMSR927 debris-flow footprints (1,068.36 ha, 1.01% IoU geometric overlap) are maintained strictly as an independent post-hoc co-location check isolated from pipeline inputs; this comparison is limited and cannot establish flood-detection accuracy by itself.</div>
+<div class='numbered-item'><strong>Attribution:</strong> Contains modified Copernicus Sentinel data 2026. Produced using Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. © OpenStreetMap contributors.</div>
+</body>
+</html>

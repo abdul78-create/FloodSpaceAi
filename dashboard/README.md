@@ -88,4 +88,4 @@ Click the **"Start 3-minute tour"** button in the top-right header to auto-play 
 
 - All impacts are strictly designated as **modelled potential candidates**, **potentially affected**, and **modelled road-network disconnections**.
 - Physical damage or ground isolation is never confirmed without on-site field verification.
-- Authoritative Attribution: Contains modified Copernicus Sentinel data 2026. Produced using Copernicus WorldDEM-30 © DLR e.V./Airbus DS. © OpenStreetMap contributors (ODbL).
+- Authoritative Attribution: Contains modified Copernicus Sentinel data 2026. Produced using Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018 provided under COPERNICUS by the European Union and ESA; all rights reserved. © OpenStreetMap contributors.

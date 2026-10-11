@@ -46,8 +46,8 @@ export const EVIDENCE = {
 
   provenance: {
     sentinel: "Copernicus Sentinel-1 / Sentinel-2",
-    dem: "Copernicus DEM",
-    osm: "© OpenStreetMap contributors",
+    dem: "Produced using Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018 provided under COPERNICUS by the European Union and ESA; all rights reserved.",
+    osm: "© OpenStreetMap contributors.",
     note: "Contains modified Copernicus Sentinel data 2026.",
   },
 } as const;

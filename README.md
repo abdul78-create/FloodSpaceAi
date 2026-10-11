@@ -203,12 +203,37 @@ FloodSpaceAI/
 
 ## 🚀 Quickstart & Reproduction
 
-### Prerequisites
-- Python 3.10+ (with GDAL installed, e.g. via QGIS or OSGeo4W on Windows)
-- Node.js 18+ and npm
+### Cross-Platform Evaluation Options
 
-### 1. Launch Interactive Dashboard
+#### Option 1: Docker (Recommended for Judges — Zero Host Dependencies)
+Run the entire analytical stack, GDAL environment, and Next.js web application inside an isolated container:
+```bash
+# Build and run the evaluation container
+docker build -t floodspaceai .
+docker run -it -p 3000:3000 floodspaceai
+
+# The dashboard is immediately live at http://localhost:3000
+```
+
+#### Option 2: Linux / macOS / WSL Native Setup
+```bash
+# 1. Install GDAL and system libraries
+sudo apt-get update && sudo apt-get install -y gdal-bin libgdal-dev python3-gdal python3-pip
+
+# 2. Install Python dependencies
+pip install -r requirements.txt
+
+# 3. Launch Interactive Dashboard
+cd dashboard && npm install && npm run build && npm run dev
+# Dashboard launches at http://localhost:3000
+```
+
+#### Option 3: Windows Native Setup
 ```powershell
+# Prerequisites: Python 3.10+ (with GDAL via OSGeo4W/QGIS) and Node.js 18+
+# Note: On Windows 11 systems with Smart App Control enabled, third-party C-extensions
+# may require running via WSL or standard container to bypass kernel-level signature blocks.
+
 cd dashboard
 npm install
 npm run build
@@ -216,19 +241,20 @@ npm run dev
 # Dashboard launches at http://localhost:3000
 ```
 
-### 2. Run the 8-Stage Pipeline
-```powershell
-# Option A: Trishuli Valley Benchmark Run (Fast / Cached)
-python scripts/run_floodspace_pipeline.py `
-    --bbox 84.90 27.75 85.25 28.05 `
-    --flood-date 2026-08-28 `
+### Running the End-to-End Pipeline
+
+```bash
+# Run 1: Trishuli Benchmark Run (Verified Golden Reference)
+python scripts/run_floodspace_pipeline.py \
+    --bbox 84.90 27.75 85.25 28.05 \
+    --flood-date 2026-08-28 \
     --run-id trishuli_benchmark_verified
 
-# Option B: Live Arbitrary-AOI Satellite Retrieval (Narayani Basin)
-python scripts/run_floodspace_pipeline.py `
-    --bbox 84.30 27.55 84.50 27.72 `
-    --flood-date 2024-08-20 `
-    --run-id narayani_2024_live `
+# Run 2: Live Arbitrary-AOI Satellite Retrieval (Narayani Basin Event)
+python scripts/run_floodspace_pipeline.py \
+    --bbox 84.30 27.55 84.50 27.72 \
+    --flood-date 2024-08-20 \
+    --run-id narayani_2024_live \
     --enable-live-acquisition
 ```
 

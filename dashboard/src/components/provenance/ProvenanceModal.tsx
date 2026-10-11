@@ -149,7 +149,7 @@ export default function ProvenanceModal() {
               Sentinel-1A SAR (Interferometric Wide Swath, C-band 5.405 GHz) and Sentinel-2 MSI (Level-2A Bottom of Atmosphere).
             </div>
             <div style={{ fontFamily: "var(--font-mono)", fontSize: "11px", color: "var(--river)", marginTop: "4px" }}>
-              Contains modified Copernicus Sentinel data (2024/2026), processed under ESA Copernicus Open Access.
+              Contains modified Copernicus Sentinel data 2026.
             </div>
           </div>
 

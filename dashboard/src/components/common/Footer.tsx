@@ -44,7 +44,7 @@ export default function Footer({ onNavigateTab }: FooterProps) {
 
       {/* Middle & Right: Provenance Links & Attribution */}
       <div style={{ display: "flex", alignItems: "center", gap: "14px", fontSize: "11px" }}>
-        <span>Contains modified Copernicus Sentinel data (2026) · Produced using Copernicus WorldDEM-30 © DLR e.V./Airbus DS · © OpenStreetMap contributors (ODbL)</span>
+        <span>Contains modified Copernicus Sentinel data 2026. · Produced using Copernicus WorldDEM-30 © DLR e.V./Airbus DS · © OpenStreetMap contributors (ODbL)</span>
         
         <button
           onClick={() => onNavigateTab("provenance")}

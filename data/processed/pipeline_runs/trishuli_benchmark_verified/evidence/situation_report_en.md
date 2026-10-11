@@ -65,7 +65,7 @@ Every quantitative claim in this report links to an explicit record in `evidence
 ---
 
 ## 6. Authoritative Data Provenance & Legal Disclaimers
-- **Copernicus Sentinel:** Contains modified Copernicus Sentinel data (2024/2026), processed under ESA Copernicus Open Access.
+- **Copernicus Sentinel:** Contains modified Copernicus Sentinel data 2026.
 - **Copernicus DEM:** Produced using Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018.
 - **OpenStreetMap:** © OpenStreetMap contributors, ODbL 1.0 license. Pre-event snapshot verified.
 - **Independent Validation:** Copernicus EMSR927 / UNOSAT assessments strictly isolated from analytical pipeline inputs.

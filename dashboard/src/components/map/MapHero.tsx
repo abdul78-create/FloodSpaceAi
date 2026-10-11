@@ -765,7 +765,7 @@ export default function MapHero() {
           zIndex: 5,
         }}
       >
-        Contains modified Copernicus Sentinel data (2026) · Produced using Copernicus WorldDEM-30 © DLR e.V./Airbus DS · © OpenStreetMap contributors (ODbL)
+        Contains modified Copernicus Sentinel data 2026. · Produced using Copernicus WorldDEM-30 © DLR e.V./Airbus DS · © OpenStreetMap contributors (ODbL)
       </div>
 
       <style jsx>{`

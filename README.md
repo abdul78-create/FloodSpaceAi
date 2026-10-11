@@ -261,7 +261,7 @@ python scripts/test_sentinel2_discovery.py
 
 ## 📜 Authoritative Attributions & Licensing
 
-- **Copernicus Sentinel Data:** Contains modified Copernicus Sentinel data (2024/2026), processed under ESA Copernicus Open Access.
+- **Copernicus Sentinel Data:** Contains modified Copernicus Sentinel data 2026.
 - **Copernicus DEM:** Produced using Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018 provided under COPERNICUS by the European Union and ESA; all rights reserved.
 - **OpenStreetMap:** © OpenStreetMap contributors, licensed under the Open Database License (ODbL 1.0).
 - **Copernicus EMSR927:** European Commission / DG ECHO / Copernicus EMS Rapid Mapping activation EMSR927.

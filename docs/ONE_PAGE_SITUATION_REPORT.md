@@ -52,4 +52,4 @@ Topological Dijkstra shortest-path pathfinding from 589 settlements to municipal
 2. **Topological Disruption vs. Physical Isolation:** Cut-off settlements represent vehicular graph disconnects. Footpaths, mule trails, river ferries, or aerial access routes may remain open.
 3. **Sensor Limitations & Cloud Cover:** Post-event Sentinel-2 optical imagery had 75.9% mean cloud obscuration. Inundation is derived primarily from all-weather Sentinel-1 C-band synthetic aperture radar and remains optical-unconfirmed.
 4. **Independent Validation Isolation:** Copernicus Emergency Management Service EMSR927 debris-flow footprints (1,068.36 ha, 1.01% IoU) are maintained strictly as an independent post-hoc check and were strictly isolated from pipeline inputs.
-5. **Attribution:** Contains modified Copernicus Sentinel data (2026), processed under ESA Open Access. Produced using Copernicus WorldDEM-30 © DLR e.V./Airbus DS. Infrastructure data © OpenStreetMap contributors (ODbL 1.0).
+5. **Attribution:** Contains modified Copernicus Sentinel data 2026. Produced using Copernicus WorldDEM-30 © DLR e.V./Airbus DS. Infrastructure data © OpenStreetMap contributors (ODbL 1.0).

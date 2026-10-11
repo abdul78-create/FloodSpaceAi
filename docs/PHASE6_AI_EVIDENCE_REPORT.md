@@ -180,7 +180,7 @@ To prove hackathon readiness, the copilot was subjected to 8 adversarial scenari
 | **Coincident Spatial Intersection** | 10.93 ha | Candidate ∩ EMSR927 | Water candidates located directly within the disaster swath. |
 | **Candidate Overlap Ratio** | **45.24%** | 10.93 ha / 24.16 ha | **45.24% of candidate inundation coincides with the mapped disturbance corridor.** |
 | **Debris Footprint Coverage** | 1.02% | 10.93 ha / 1,068.36 ha | Active water covers only 1% of the broad dry boulder/scour area. |
-| **Intersection over Union (IoU)** | **1.01%** | 10.93 / (24.16 + 1068.36 - 10.93) ha | Low IoU reflects target mismatch, NOT flood model failure. |
+| **Intersection over Union (IoU)** | **1.01%** | 10.93 / (24.16 + 1068.36 - 10.93) ha | Geometric overlap against upland debris; comparison is limited and cannot establish flood accuracy alone. |
 
 > **Crucial Hackathon Rule:** EMSR927 was **never used to train, tune, or optimize** detection thresholds. It was evaluated strictly as an independent post-hoc check.
 

@@ -105,9 +105,9 @@ All metrics are geodetically computed in `EPSG:32645` within the exact common ge
 - **Spatial Overlap Ratio rel. to Candidate (Coincident / Candidate):** **`0.4524` (45.24%)**  
   *Interpretation:* **45.24%** of FloodSpaceAI's potential inundation candidate coincides spatially with the EMSR927 mapped disaster-impact footprint. This indicates **spatial overlap/consistency with the mapped disaster swath**, but must NOT be cited as "flood detection accuracy" or "strong precision".
 - **Coverage Ratio rel. to EMSR927 Debris Footprint (Coincident / Debris):** **`0.0102` (1.02%)**  
-  *Interpretation:* FloodSpaceAI candidate water covers **1.02%** of the 1,068.36 ha mass-movement perimeter. This value does NOT indicate model failure; it demonstrates that FloodSpaceAI isolated concentrated riverbed water rather than delineating the 1,000+ ha dry boulder and landslide zone mapped by CEMS.
+  *Interpretation:* FloodSpaceAI candidate water covers **1.02%** of the 1,068.36 ha mass-movement perimeter. Because FloodSpaceAI isolates concentrated riverbed standing water rather than delineating the 1,000+ ha dry boulder and landslide zone mapped by CEMS, this comparison is limited and cannot establish flood-detection accuracy by itself.
 - **Intersection over Union (IoU):** **`0.0101` (1.01%)**  
-  *Interpretation:* Directly reflects the 44:1 area ratio between the broad debris flow envelope and the water candidate.
+  *Interpretation:* Geometric spatial overlap result reflecting the 44:1 area ratio between the broad upland debris flow envelope and the concentrated water candidate; cannot by itself serve as a measure of flood-detection accuracy.
 - **F1 Overlap Index:** **`0.0200`**
 
 ---

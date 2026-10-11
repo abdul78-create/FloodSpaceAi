@@ -28,9 +28,9 @@ CRITICAL SCIENTIFIC & METHODOLOGICAL PRINCIPLES:
      "confirmed disaster impact", or evidence that flagged water pixels are correct
      flood detections. It represents spatial overlap/consistency with the EMSR927
      mapped disaster-impact footprint.
-   - The 1.02% recall and 1.01% IoU values MUST NOT be presented as evidence that
-     the flood model failed; they reflect the inherent scale and target-definition
-     mismatch between an active water mask and a broad debris-flow footprint.
+   - The 1.02% recall and 1.01% IoU values reflect the geometric overlap against
+     an external upland debris-flow reference; this comparison is limited and cannot
+     by itself establish flood-detection accuracy.
 
 3. VERIFIED V3 THRESHOLDS FROM SOURCE CODE:
    The actual FloodSpaceAI V3 candidate thresholds (from scripts/refine_flood_candidate_v3.py):
@@ -292,10 +292,11 @@ def main() -> int:
             "floodspace_ai_target": "Potential surface-water inundation (smooth water specular radar attenuation & optical NDWI rise)",
             "emsr927_target": "6-Mass Movement / Landslide / Debris Flow (total geomorphological disturbance swath including dry boulder wash and hill scars)",
             "methodological_consequence": (
-                "Target mismatch: Direct geometric comparison yields an overlap of 10.93 ha. "
-                "The 45.24% candidate overlap ratio represents spatial consistency with the CEMS disaster-impact "
-                "footprint, while the 1.02% recall and 1.01% IoU reflect target-definition divergence, "
-                "not flood model failure."
+                "Geometric comparison constraint: Direct geometric comparison yields an overlap of 10.93 ha. "
+                "The 45.24% candidate overlap ratio reflects spatial co-occurrence within the broader CEMS "
+                "disaster-impact footprint. Because EMSR927 maps hillside mass wasting and broad debris flows (1,068.36 ha) "
+                "rather than specular standing surface water (24.16 ha), the 1.01% IoU is a geometric overlap result "
+                "between disparate phenomena; this comparison is limited and cannot establish flood-detection accuracy by itself."
             )
         },
         "verified_v3_thresholds_from_source": {
@@ -525,9 +526,9 @@ All metrics are geodetically computed in `EPSG:32645` within the exact common ge
 - **Spatial Overlap Ratio rel. to Candidate (Coincident / Candidate):** **`{precision:.4f}` ({precision * 100:.2f}%)**  
   *Interpretation:* **45.24%** of FloodSpaceAI's potential inundation candidate coincides spatially with the EMSR927 mapped disaster-impact footprint. This indicates **spatial overlap/consistency with the mapped disaster swath**, but must NOT be cited as "flood detection accuracy" or "strong precision".
 - **Coverage Ratio rel. to EMSR927 Debris Footprint (Coincident / Debris):** **`{recall:.4f}` ({recall * 100:.2f}%)**  
-  *Interpretation:* FloodSpaceAI candidate water covers **1.02%** of the 1,068.36 ha mass-movement perimeter. This value does NOT indicate model failure; it demonstrates that FloodSpaceAI isolated concentrated riverbed water rather than delineating the 1,000+ ha dry boulder and landslide zone mapped by CEMS.
+  *Interpretation:* FloodSpaceAI candidate water covers **1.02%** of the 1,068.36 ha mass-movement perimeter. Because FloodSpaceAI isolates concentrated riverbed standing water rather than delineating the 1,000+ ha dry boulder and landslide zone mapped by CEMS, this comparison is limited and cannot establish flood-detection accuracy by itself.
 - **Intersection over Union (IoU):** **`{iou:.4f}` ({iou * 100:.2f}%)**  
-  *Interpretation:* Directly reflects the 44:1 area ratio between the broad debris flow envelope and the water candidate.
+  *Interpretation:* Geometric spatial overlap result reflecting the 44:1 area ratio between the broad upland debris flow envelope and the concentrated water candidate; cannot by itself serve as a measure of flood-detection accuracy.
 - **F1 Overlap Index:** **`{f1:.4f}`**
 
 ---

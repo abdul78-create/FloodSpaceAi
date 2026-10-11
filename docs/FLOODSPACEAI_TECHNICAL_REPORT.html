@@ -331,10 +331,10 @@
 <tr><td>**FloodSpaceAI Inundation in Overlap**</td><td>24.16 ha</td><td>Standing valley floor water subset (out of 35.03 ha full AOI).</td></tr>
 <tr><td>**Spatial Intersection**</td><td>**10.93 ha**</td><td>Direct coincident spatial overlap.</td></tr>
 <tr><td>**Candidate Overlap Ratio**</td><td>**45.24%**</td><td>$\frac{10.93\text{ ha}}{24.16\text{ ha}}$ of candidate water falls directly inside the EMSR927 disturbance swath.</td></tr>
-<tr><td>**Intersection over Union (IoU)**</td><td>**1.01%**</td><td>$\frac{10.93\text{ ha}}{1,081.59\text{ ha union}}$. Expectedly low due to target phenomenon disparity.</td></tr>
+<tr><td>**Intersection over Union (IoU)**</td><td>**1.01%**</td><td>$\frac{10.93\text{ ha}}{1,081.59\text{ ha union}}$. Geometric overlap with an upland debris swath; cannot establish flood accuracy alone.</td></tr>
 </table></div>
 <p></p>
-<p><strong>No Optimization Leakage:</strong> EMSR927 was quarantined from model development. Detection thresholds were derived from physical radar equations, not fitted to maximize overlap against the debris-flow delineation.</p>
+<p><strong>Methodological Boundary & Accuracy Limitations:</strong> The 1.01% IoU represents geometric overlap against an external emergency delineation mapping upland debris flows ($1,068.36\text{ ha}$). Because the reference product maps a broader and distinct phenomenon rather than valley standing water ($24.16\text{ ha}$), the comparison cannot serve as a standalone ground-truth accuracy benchmark. EMSR927 was strictly quarantined from threshold tuning.</p>
 <p></p>
 <hr/>
 <p></p>

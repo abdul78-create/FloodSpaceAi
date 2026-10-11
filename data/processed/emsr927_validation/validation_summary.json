@@ -12,7 +12,7 @@
   "target_definition_comparison": {
     "floodspace_ai_target": "Potential surface-water inundation (smooth water specular radar attenuation & optical NDWI rise)",
     "emsr927_target": "6-Mass Movement / Landslide / Debris Flow (total geomorphological disturbance swath including dry boulder wash and hill scars)",
-    "methodological_consequence": "Target mismatch: Direct geometric comparison yields an overlap of 10.93 ha. The 45.24% candidate overlap ratio represents spatial consistency with the CEMS disaster-impact footprint, while the 1.02% recall and 1.01% IoU reflect target-definition divergence, not flood model failure."
+    "methodological_consequence": "Geometric comparison constraint: Direct geometric comparison yields an overlap of 10.93 ha. The 45.24% candidate overlap ratio reflects spatial co-occurrence within the broader CEMS disaster-impact footprint. Because EMSR927 maps hillside mass wasting and broad debris flows (1,068.36 ha) rather than specular standing surface water (24.16 ha), the 1.01% IoU is a geometric overlap result between disparate phenomena; this comparison is limited and cannot establish flood-detection accuracy by itself."
   },
   "verified_v3_thresholds_from_source": {
     "source_script": "scripts/refine_flood_candidate_v3.py",

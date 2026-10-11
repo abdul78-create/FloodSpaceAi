@@ -227,10 +227,9 @@ Copernicus Emergency Management Service Rapid Mapping activation **EMSR927** was
 | **EMSR927 Footprint in Overlap** | 1,068.36 ha | Broad mountain debris corridor across AOI03 and AOI05. |
 | **FloodSpaceAI Inundation in Overlap** | 24.16 ha | Standing valley floor water subset (out of 35.03 ha full AOI). |
 | **Spatial Intersection** | **10.93 ha** | Direct coincident spatial overlap. |
-| **Candidate Overlap Ratio** | **45.24%** | $\frac{10.93\text{ ha}}{24.16\text{ ha}}$ of candidate water falls directly inside the EMSR927 disturbance swath. |
-| **Intersection over Union (IoU)** | **1.01%** | $\frac{10.93\text{ ha}}{1,081.59\text{ ha union}}$. Expectedly low due to target phenomenon disparity. |
+| **Intersection over Union (IoU)** | **1.01%** | $\frac{10.93\text{ ha}}{1,081.59\text{ ha union}}$. Geometric overlap with an upland debris swath; cannot establish flood accuracy alone. |
 
-**No Optimization Leakage:** EMSR927 was quarantined from model development. Detection thresholds were derived from physical radar equations, not fitted to maximize overlap against the debris-flow delineation.
+**Methodological Boundary & Accuracy Limitations:** The 1.01% IoU represents geometric overlap against an external emergency delineation that mapped broad mountain debris flows, rockslides, and hillside scours ($1,068.36\text{ ha}$). Because the reference product maps a broader and distinct geological phenomenon rather than valley-floor standing water ($24.16\text{ ha}$), the comparison establishes spatial co-location in the disaster corridor, but cannot serve as a standalone ground-truth accuracy benchmark. EMSR927 was strictly quarantined and never used to tune or calibrate detection thresholds.
 
 ---
 

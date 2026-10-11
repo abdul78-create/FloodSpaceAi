@@ -156,14 +156,16 @@ FloodSpaceAI solves these challenges through physics-based remote sensing, topol
 
 Copernicus Emergency Management Service Rapid Mapping activation **EMSR927** was evaluated strictly as an independent post-hoc benchmark:
 
-| Metric | Measured Value | Physical Interpretation |
+| Metric | Measured Value | Physical & Methodological Interpretation |
 |---|:---:|---|
 | **Target Phenomenon** | Mountain Debris Flows | EMSR927 mapped hillside mass movements across a $1,068.36\text{ ha}$ disturbance corridor. |
 | **FloodSpaceAI Extent** | Surface Water Inundation | Models valley-bottom surface water accumulation ($24.16\text{ ha}$ in common overlap). |
-| **Coincident Spatial Overlap** | **10.93 ha** | Coincident intersection between valley-floor standing water and mapped disaster zone. |
+| **Coincident Spatial Overlap** | **10.93 ha** | Coincident geometric intersection between valley-floor standing water and the mapped disaster zone. |
 | **Candidate Overlap Ratio** | **45.24%** | $45.24\%$ of FloodSpaceAI candidate inundation falls directly within the EMSR927 footprint. |
-| **Intersection over Union (IoU)**| **1.01%** | Reflects the physical distinction between narrow river inundation and massive hillside debris swaths. |
+| **Intersection over Union (IoU)**| **1.01%** | Geometric overlap against an upland debris reference; **cannot by itself establish flood-detection accuracy**. |
 | **Methodological Boundary** | **Strict Quarantine** | EMSR927 was quarantined and **never used to tune or calibrate detection thresholds**. |
+
+> **Methodological Boundary on IoU:** The 1.01% IoU is a geometric spatial overlap metric against an external rapid-mapping product delineating hillside slope failures and broad debris fields ($1,068.36\text{ ha}$). Because the reference product maps a broader and different geological phenomenon than specular riverine standing water ($24.16\text{ ha}$), the comparison illustrates spatial co-occurrence in the disaster corridor, but cannot by itself confirm or dispute fine-grained flood-detection accuracy. EMSR927 remains an independent post-hoc benchmark isolated from pipeline inputs.
 
 ---
 

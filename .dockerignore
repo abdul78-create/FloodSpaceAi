@@ -1,0 +1,12 @@
+.venv
+.git
+.agents
+.gemini
+dashboard/node_modules
+dashboard/.next
+**/__pycache__
+**/*.pyc
+**/*.pyo
+**/*.pyd
+demo/*.mp4
+demo/*.webp

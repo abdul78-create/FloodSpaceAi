@@ -17,6 +17,9 @@ yarn-error.log*
 
 # Demo scratch & intermediate render files
 demo/build/
+demo/build_hackathon/
+demo/audio_hackathon/
+demo/test_frames/
 demo/keyframes/
 demo/final_frames/
 

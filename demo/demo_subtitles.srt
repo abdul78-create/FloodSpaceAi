@@ -1,0 +1,159 @@
+1
+00:00:00,000 --> 00:00:05,500
+Welcome to FloodSpace AI, an evidence-grounded multi-sensor flood intelligence platform.
+
+2
+00:00:05,500 --> 00:00:11,200
+Developed for Track B: Mapping Flood Damage from Space at the Multimodal AI Hackathon 2026.
+
+3
+00:00:11,200 --> 00:00:18,500
+In mountainous disaster zones like the Himalayas of Nepal, flash floods and glacial lake outburst floods present severe challenges.
+
+4
+00:00:18,500 --> 00:00:26,000
+Torrential monsoon clouds blind optical satellites, while rugged topography causes radar shadow and delays emergency response.
+
+5
+00:00:26,000 --> 00:00:34,000
+FloodSpace AI streams all-weather Sentinel-1 radar data, terrain-corrected through Copernicus WorldDEM-30,
+
+6
+00:00:34,000 --> 00:00:42,150
+evaluating spatial exposure across strictly pre-event OpenStreetMap infrastructure baselines.
+
+7
+00:00:42,150 --> 00:00:48,000
+Here is the FloodSpace AI operational dashboard running live at 1920x1080 resolution.
+
+8
+00:00:48,000 --> 00:00:54,500
+The top navigation provides immediate situational awareness, showing the AOI bounding box, target flood date, and sensor status.
+
+9
+00:00:54,500 --> 00:01:02,000
+The analytical overview highlights key empirical findings for the Trishuli Valley benchmark run:
+
+10
+00:01:02,000 --> 00:01:10,000
+1,286 candidate inundation pixels covering 35.03 hectares, 195 potentially exposed buildings,
+
+11
+00:01:10,000 --> 00:01:18,000
+115 vehicle road segments across 59.26 kilometers, 13 bridges, and 18 potentially cut-off settlements.
+
+12
+00:01:18,000 --> 00:01:24,500
+Responders can seamlessly toggle layers, adjust raster opacity, and navigate interactive map overlays.
+
+13
+00:01:24,500 --> 00:01:31,400
+All UI components adhere to accessibility standards with verified data bindings.
+
+14
+00:01:31,400 --> 00:01:38,000
+Examining the satellite processing pipeline, FloodSpace AI performs dual-polarization change detection using Sentinel-1 SAR.
+
+15
+00:01:38,000 --> 00:01:45,500
+By comparing post-event acquisitions against pre-event baselines, backscatter drops exceeding -1.5 dB in both VV and VH are flagged.
+
+16
+00:01:45,500 --> 00:01:52,500
+Copernicus WorldDEM-30 slope constraints eliminate mountain shadow false positives on steep terrain.
+
+17
+00:01:52,500 --> 00:02:00,000
+Using the split comparison slider, analysts can directly contrast pre-event optical baselines against radar inundation footprints.
+
+18
+00:02:00,000 --> 00:02:08,500
+Furthermore, our live run on the Narayani Basin demonstrates zero synthetic hallucination:
+
+19
+00:02:08,500 --> 00:02:16,000
+Persistent water bodies without backscatter change correctly yield zero flood pixels, ensuring verifiable intelligence.
+
+20
+00:02:16,000 --> 00:02:24,500
+Crucially, candidate flood polygons represent modeled surface water pooling, distinct from confirmed structural damage.
+
+21
+00:02:24,500 --> 00:02:33,350
+This strict scientific distinction prevents misleading emergency relief deployments.
+
+22
+00:02:33,350 --> 00:02:40,000
+Moving to infrastructure impact, FloodSpace AI overlays candidate inundation onto OpenStreetMap footprints frozen prior to the event.
+
+23
+00:02:40,000 --> 00:02:47,000
+The pipeline identifies 195 potentially affected buildings, 59.26 kilometers of road segments, and 13 bridges.
+
+24
+00:02:47,000 --> 00:02:55,500
+Beyond 2D overlays, our topological Dijkstra graph model routes between 589 settlements and municipal emergency hubs.
+
+25
+00:02:55,500 --> 00:03:03,000
+Inundation severs 3,748 road edges, fragmenting the network from 181 pre-event connected components into 252 isolated clusters.
+
+26
+00:03:03,000 --> 00:03:11,000
+18 upstream settlements, including Betrawati, Devighat, and Simle, lose all primary vehicular highway connectivity.
+
+27
+00:03:11,000 --> 00:03:19,500
+The system explicitly reminds responders that modeled road loss indicates vehicular cutoff,
+
+28
+00:03:19,500 --> 00:03:26,500
+while foot trails, suspension footbridges, and aerial evacuation routes may remain operable.
+
+29
+00:03:26,500 --> 00:03:34,070
+Emergency teams can prioritize targeted reconnaissance for these isolated population pockets.
+
+30
+00:03:34,070 --> 00:03:40,500
+The Situation Copilot provides zero-hallucination operational briefs with full English and Nepali bilingual parity.
+
+31
+00:03:40,500 --> 00:03:47,500
+Every numerical metric is cryptographically tied to verified GroundedClaim records in the pipeline manifest.
+
+32
+00:03:47,500 --> 00:03:55,500
+When confronted with adversarial prompts asking for casualty estimates or monetary damage, strict guardrails refuse to speculate.
+
+33
+00:03:55,500 --> 00:04:03,500
+The copilot explains that satellite radar observes physical surface backscatter rather than casualties or economic valuation.
+
+34
+00:04:03,500 --> 00:04:14,140
+Rather than claiming an unverified neural segmentation model, FloodSpace AI relies on deterministic, physics-grounded thresholding.
+
+35
+00:04:14,140 --> 00:04:21,500
+For independent scientific validation, Copernicus Emergency Management Service activation EMSR927 serves as an isolated benchmark.
+
+36
+00:04:21,500 --> 00:04:29,000
+FloodSpace AI achieved 10.93 hectares of coincident overlap, capturing 45.2% of our candidate footprint within the activation zone.
+
+37
+00:04:29,000 --> 00:04:36,500
+EMSR927 was strictly isolated and never used for parameter tuning, confirming genuine generalization.
+
+38
+00:04:36,500 --> 00:04:44,000
+Built with a containerized Docker architecture, 56 passing automated tests, and strict attribution compliance,
+
+39
+00:04:44,000 --> 00:04:51,500
+Contains modified Copernicus Sentinel data 2026, Copernicus WorldDEM-30, and OpenStreetMap contributors.
+
+40
+00:04:51,500 --> 00:04:58,890
+FloodSpace AI delivers actionable, truthful disaster intelligence from space. Thank you for evaluating FloodSpace AI.

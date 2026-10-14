@@ -1,0 +1,55 @@
+[Script Info]
+Title: FloodSpaceAI Hackathon Demo Subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,36,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,2.5,1.5,2,40,40,45,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.50,Default,,0,0,0,,Welcome to FloodSpace AI, an evidence-grounded multi-sensor flood intelligence platform.
+Dialogue: 0,0:00:05.50,0:00:11.20,Default,,0,0,0,,Developed for Track B: Mapping Flood Damage from Space at the Multimodal AI Hackathon 2026.
+Dialogue: 0,0:00:11.20,0:00:18.50,Default,,0,0,0,,In mountainous disaster zones like the Himalayas of Nepal, flash floods and glacial lake outburst floods present severe challenges.
+Dialogue: 0,0:00:18.50,0:00:26.00,Default,,0,0,0,,Torrential monsoon clouds blind optical satellites, while rugged topography causes radar shadow and delays emergency response.
+Dialogue: 0,0:00:26.00,0:00:34.00,Default,,0,0,0,,FloodSpace AI streams all-weather Sentinel-1 radar data, terrain-corrected through Copernicus WorldDEM-30,
+Dialogue: 0,0:00:34.00,0:00:42.15,Default,,0,0,0,,evaluating spatial exposure across strictly pre-event OpenStreetMap infrastructure baselines.
+Dialogue: 0,0:00:42.15,0:00:48.00,Default,,0,0,0,,Here is the FloodSpace AI operational dashboard running live at 1920x1080 resolution.
+Dialogue: 0,0:00:48.00,0:00:54.50,Default,,0,0,0,,The top navigation provides immediate situational awareness, showing the AOI bounding box, target flood date, and sensor status.
+Dialogue: 0,0:00:54.50,0:01:02.00,Default,,0,0,0,,The analytical overview highlights key empirical findings for the Trishuli Valley benchmark run:
+Dialogue: 0,0:01:02.00,0:01:10.00,Default,,0,0,0,,1,286 candidate inundation pixels covering 35.03 hectares, 195 potentially exposed buildings,
+Dialogue: 0,0:01:10.00,0:01:18.00,Default,,0,0,0,,115 vehicle road segments across 59.26 kilometers, 13 bridges, and 18 potentially cut-off settlements.
+Dialogue: 0,0:01:18.00,0:01:24.50,Default,,0,0,0,,Responders can seamlessly toggle layers, adjust raster opacity, and navigate interactive map overlays.
+Dialogue: 0,0:01:24.50,0:01:31.40,Default,,0,0,0,,All UI components adhere to accessibility standards with verified data bindings.
+Dialogue: 0,0:01:31.40,0:01:38.00,Default,,0,0,0,,Examining the satellite processing pipeline, FloodSpace AI performs dual-polarization change detection using Sentinel-1 SAR.
+Dialogue: 0,0:01:38.00,0:01:45.50,Default,,0,0,0,,By comparing post-event acquisitions against pre-event baselines, backscatter drops exceeding -1.5 dB in both VV and VH are flagged.
+Dialogue: 0,0:01:45.50,0:01:52.50,Default,,0,0,0,,Copernicus WorldDEM-30 slope constraints eliminate mountain shadow false positives on steep terrain.
+Dialogue: 0,0:01:52.50,0:02:00.00,Default,,0,0,0,,Using the split comparison slider, analysts can directly contrast pre-event optical baselines against radar inundation footprints.
+Dialogue: 0,0:02:00.00,0:02:08.50,Default,,0,0,0,,Furthermore, our live run on the Narayani Basin demonstrates zero synthetic hallucination:
+Dialogue: 0,0:02:08.50,0:02:16.00,Default,,0,0,0,,Persistent water bodies without backscatter change correctly yield zero flood pixels, ensuring verifiable intelligence.
+Dialogue: 0,0:02:16.00,0:02:24.50,Default,,0,0,0,,Crucially, candidate flood polygons represent modeled surface water pooling, distinct from confirmed structural damage.
+Dialogue: 0,0:02:24.50,0:02:33.35,Default,,0,0,0,,This strict scientific distinction prevents misleading emergency relief deployments.
+Dialogue: 0,0:02:33.35,0:02:40.00,Default,,0,0,0,,Moving to infrastructure impact, FloodSpace AI overlays candidate inundation onto OpenStreetMap footprints frozen prior to the event.
+Dialogue: 0,0:02:40.00,0:02:47.00,Default,,0,0,0,,The pipeline identifies 195 potentially affected buildings, 59.26 kilometers of road segments, and 13 bridges.
+Dialogue: 0,0:02:47.00,0:02:55.50,Default,,0,0,0,,Beyond 2D overlays, our topological Dijkstra graph model routes between 589 settlements and municipal emergency hubs.
+Dialogue: 0,0:02:55.50,0:03:03.00,Default,,0,0,0,,Inundation severs 3,748 road edges, fragmenting the network from 181 pre-event connected components into 252 isolated clusters.
+Dialogue: 0,0:03:03.00,0:03:11.00,Default,,0,0,0,,18 upstream settlements, including Betrawati, Devighat, and Simle, lose all primary vehicular highway connectivity.
+Dialogue: 0,0:03:11.00,0:03:19.50,Default,,0,0,0,,The system explicitly reminds responders that modeled road loss indicates vehicular cutoff,
+Dialogue: 0,0:03:19.50,0:03:26.50,Default,,0,0,0,,while foot trails, suspension footbridges, and aerial evacuation routes may remain operable.
+Dialogue: 0,0:03:26.50,0:03:34.07,Default,,0,0,0,,Emergency teams can prioritize targeted reconnaissance for these isolated population pockets.
+Dialogue: 0,0:03:34.07,0:03:40.50,Default,,0,0,0,,The Situation Copilot provides zero-hallucination operational briefs with full English and Nepali bilingual parity.
+Dialogue: 0,0:03:40.50,0:03:47.50,Default,,0,0,0,,Every numerical metric is cryptographically tied to verified GroundedClaim records in the pipeline manifest.
+Dialogue: 0,0:03:47.50,0:03:55.50,Default,,0,0,0,,When confronted with adversarial prompts asking for casualty estimates or monetary damage, strict guardrails refuse to speculate.
+Dialogue: 0,0:03:55.50,0:04:03.50,Default,,0,0,0,,The copilot explains that satellite radar observes physical surface backscatter rather than casualties or economic valuation.
+Dialogue: 0,0:04:03.50,0:04:14.14,Default,,0,0,0,,Rather than claiming an unverified neural segmentation model, FloodSpace AI relies on deterministic, physics-grounded thresholding.
+Dialogue: 0,0:04:14.14,0:04:21.50,Default,,0,0,0,,For independent scientific validation, Copernicus Emergency Management Service activation EMSR927 serves as an isolated benchmark.
+Dialogue: 0,0:04:21.50,0:04:29.00,Default,,0,0,0,,FloodSpace AI achieved 10.93 hectares of coincident overlap, capturing 45.2% of our candidate footprint within the activation zone.
+Dialogue: 0,0:04:29.00,0:04:36.50,Default,,0,0,0,,EMSR927 was strictly isolated and never used for parameter tuning, confirming genuine generalization.
+Dialogue: 0,0:04:36.50,0:04:44.00,Default,,0,0,0,,Built with a containerized Docker architecture, 56 passing automated tests, and strict attribution compliance,
+Dialogue: 0,0:04:44.00,0:04:51.50,Default,,0,0,0,,Contains modified Copernicus Sentinel data 2026, Copernicus WorldDEM-30, and OpenStreetMap contributors.
+Dialogue: 0,0:04:51.50,0:04:58.89,Default,,0,0,0,,FloodSpace AI delivers actionable, truthful disaster intelligence from space. Thank you for evaluating FloodSpace AI.

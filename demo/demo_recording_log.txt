@@ -1,0 +1,100 @@
+================================================================================
+FLOODSPACEAI HACKATHON DEMONSTRATION RECORDING LOG
+Multimodal AI Hackathon 2026 — Track B: Mapping Flood Damage from Space
+================================================================================
+
+RECORDING METADATA
+------------------
+Target Video File:     demo/floodspaceai_hackathon_demo.mp4
+Absolute Path:         C:\Users\Abdul\Desktop\FloodSpaceAI\demo\floodspaceai_hackathon_demo.mp4
+Date Recorded:         2026-10-14
+Final Video Size:      59,894,897 bytes (57.12 MB)
+Exact Video Duration:  298.80 seconds (4 minutes 58.80 seconds / 4.98 minutes)
+Video Container:       MPEG-4 (.mp4)
+Video Codec:           H.264 / AVC (High Profile)
+Display Resolution:    1920 x 1080 pixels (Full HD 1080p, 16:9 aspect ratio)
+Pixel Format:          yuv420p (broad device & web browser compatibility)
+Frame Rate:            10.00 fps
+Audio Codec:           AAC (Advanced Audio Coding)
+Audio Sample Rate:     44,100 Hz, Mono
+Audio Bitrate:         122.7 kbps (CBR / ABR)
+Subtitle Tracks:       1. Embedded Soft Subtitles (mov_text, English)
+                       2. Burned-in Subtitles (Advanced SubStation Alpha, Arial 36pt, high-contrast)
+Standalone Subtitles:  demo/demo_subtitles.srt (40 synchronized cue points)
+                       demo/demo_subtitles.ass (SSA/ASS styled format)
+
+NARRATION SPECIFICATIONS
+------------------------
+Voice Engine:          Windows System.Speech.Synthesis
+Voice Model:           Microsoft Zira Desktop (English - United States)
+Speech Rate:           Normal (Rate = 0)
+Narration Audio Track: demo/build_hackathon/master_audio.wav (22.05 kHz -> 44.1 kHz resampled)
+
+WALKTHROUGH TIMELINE BREAKDOWN (6 CORE SECTIONS)
+-----------------------------------------------
+1. Introduction & Operational Motivation (00:00 - 00:42.15 | 42.15s)
+   - Real-time FloodSpaceAI project banner and system status badge.
+   - Framing of Himalayan flood and GLOF disaster challenges in Nepal.
+   - Limitations of optical imagery under storm cloud obscuration.
+   - Introduction of all-weather SAR satellite processing + pre-event OSM baselines.
+
+2. Dashboard Walkthrough & Interactive Map (00:42.15 - 01:31.40 | 49.25s)
+   - Live operational dashboard at 1920x1080 resolution.
+   - Analysis controls: AOI bounding box, target flood date, and real-time STAC status.
+   - Trishuli Valley benchmark run metric cards:
+     * 1,286 candidate inundation pixels (35.03 hectares)
+     * 195 potentially exposed buildings
+     * 115 road segments (59.26 km)
+     * 13 bridges
+     * 18 potentially cut-off settlements
+   - Interactive layer opacity controls and map navigation.
+
+3. Satellite Analysis & Change Detection Thresholding (01:31.40 - 02:33.35 | 61.95s)
+   - Sentinel-1 dual-polarization (VV + VH) backscatter change analysis.
+   - -1.5 dB flood threshold explanation (both VV and VH backscatter drops < -1.5 dB).
+   - Copernicus WorldDEM-30 slope masking to eliminate mountain terrain false positives.
+   - Split comparison slider contrasting optical imagery with radar inundation footprint.
+   - Multi-area live verification on Narayani Basin: persistent water yields 0 candidate pixels,
+     proving zero synthetic hallucination.
+   - Crucial scientific distinction: candidate flood polygons represent modeled surface water pooling,
+     distinct from confirmed structural damage.
+
+4. Infrastructure Exposure & Topological Connectivity (02:33.35 - 03:34.07 | 60.72s)
+   - Pre-event OpenStreetMap infrastructure footprint overlay (frozen before disaster event).
+   - Modeled exposure: 195 buildings, 59.26 km roads, 13 bridges.
+   - Topological Dijkstra routing graph (4,405 vehicle ways, 3,748 severed edges).
+   - Network fragmentation: increases from 181 pre-event connected components to 252 post-event
+     components (+71 isolated road network clusters).
+   - 18 upstream settlements cut off from municipal emergency hubs (Betrawati, Devighat, Simle).
+   - Crucial responder guidance: modeled road disconnect indicates vehicular access loss;
+     foot trails, suspension footbridges, and aerial evacuation routes may remain operable.
+
+5. Evidence-Grounded AI Reporting & Situation Copilot (03:34.07 - 04:14.14 | 40.07s)
+   - Evidence-grounded Situation Copilot with full English and Nepali bilingual parity.
+   - Every metric cryptographically tied to verified GroundedClaim records in pipeline manifest.
+   - Adversarial safety guardrails: explicitly refuses to speculate on unobserved human casualties
+     or monetary losses, explaining physical sensor limits.
+   - Honest scientific architecture: deterministic, physics-based radar thresholding rather than
+     an opaque, unverified neural segmentation model.
+
+6. Architecture, Scientific Validation & Conclusion (04:14.14 - 04:58.80 | 44.75s)
+   - Post-hoc independent validation against Copernicus EMS activation EMSR927:
+     * 10.93 ha coincident overlap (45.2% candidate coverage within activation footprint)
+     * Strictly isolated; zero parameter tuning on validation data.
+   - Containerized Docker architecture and 56 passing automated verification tests.
+   - Mandatory verbatim attributions:
+     * Contains modified Copernicus Sentinel data 2026.
+     * Produced using Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018.
+     * © OpenStreetMap contributors.
+     * Gemini Vertex AI enterprise zero-data-retention, non-training terms.
+   - Clean concluding FloodSpaceAI title screen.
+
+VALIDATION SUMMARY
+------------------
+[PASS] Duration check: 298.80s (Target: 4–5 minutes; Hard bounds: 180s - 600s).
+[PASS] Video stream: 1920x1080 Full HD, H.264 YUV420p, zero dropped frames.
+[PASS] Audio stream: 44.1 kHz AAC speech narration, fully synchronized with visual transitions.
+[PASS] Subtitle stream: High-contrast burn-in subtitles + embedded soft subtitle stream.
+[PASS] Frame verification: Beginning, middle, and end visual frames verified non-blank and artifact-free.
+[PASS] Zero sensitive secrets, tokens, or personal identifiers exposed in any frame.
+================================================================================
